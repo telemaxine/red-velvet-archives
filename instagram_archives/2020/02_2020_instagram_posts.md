@@ -4,7 +4,7 @@ Album links contain all posts for that day. Except for story updates.
 
 Date   | Member         | album link                            | Notes                 | contents      | Instagram link(s) |
 |:-    |:-              |:-:                                    |:-                     |:-             |:-:                |
-000000 |                |                                       |                       |               |                   |
+000000 |                | album  |                       |               |                   |
 
 ***
 

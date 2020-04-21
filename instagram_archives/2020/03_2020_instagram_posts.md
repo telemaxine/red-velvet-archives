@@ -17,11 +17,11 @@ Date   | Member         | album link                            | Notes         
 200310 | [Seulgi][ks]   | [album](https://imgur.com/a/6Ekkk7g)  |                       |               | [1](https://www.instagram.com/p/B9jUgzXpwfK/) |
 200311 | [Joy][jy]      | [album](https://imgur.com/a/03Y0Egd)  |                       |               |  |
 200313 | [Joy][jy]      | [album](https://imgur.com/a/m4WHCJj)  |                       |               |  |
-200313 | [Seulgi][ks]   | [album](https://imgur.com/a/mTu1rkV)  |                       |               | [1](https://www.instagram.com/p/B9qm-9dJNar/),[2](https://www.instagram.com/p/B9qngO_JoqT/) |
+200313 | [Seulgi][ks]   | [album](https://imgur.com/a/mTu1rkV)  |                       |               | [1](https://www.instagram.com/p/B9qm-9dJNar/) [2](https://www.instagram.com/p/B9qngO_JoqT/) |
 200313 | [Yeri][yr]     | [album](https://imgur.com/a/oxYS4tU)  |                       |               |  |
 200314 | [Irene][ir]    | [album](https://imgur.com/a/oxYS4tU)  |                       |               | [1](https://www.instagram.com/p/B9tZObag0cg/) |
-200315 | [Joy][jy]      | [album](https://imgur.com/a/8MNHIvS)  |                       | photo/video   | [1](http://www.instagram.com/p/B9vnffKhufK),[2](http://www.instagram.com/p/B9vnrxsBCFj),[3](http://www.instagram.com/p/B9vnzLEh3Aw) |
-200316 | [Joy][jy]      | [album](https://imgur.com/a/MUJ42mN)  |                       | photo/video   | [1](https://www.instagram.com/p/B9ys_9Mhuyb/),[2](https://www.instagram.com/p/B9yshedhBiV/),[3](https://www.instagram.com/p/B9ysSKLhqVe/) |
+200315 | [Joy][jy]      | [album](https://imgur.com/a/8MNHIvS)  |                       | photo/video   | [1](http://www.instagram.com/p/B9vnffKhufK) [2](http://www.instagram.com/p/B9vnrxsBCFj) [3](http://www.instagram.com/p/B9vnzLEh3Aw) |
+200316 | [Joy][jy]      | [album](https://imgur.com/a/MUJ42mN)  |                       | photo/video   | [1](https://www.instagram.com/p/B9ys_9Mhuyb/) [2](https://www.instagram.com/p/B9yshedhBiV/) [3](https://www.instagram.com/p/B9ysSKLhqVe/) |
 200316 | [Seulgi][ks]   | [album](https://imgur.com/a/eEDA0lm)  |                       | photo/video   | [1](https://www.instagram.com/p/B9yrO36JYni/) |
 200319 | [Joy][jy]      | [album](https://imgur.com/a/bUCJ8L5)  |                       |               |  |
 200319 | [Joy][jy]      | [album](https://imgur.com/a/eC02Fxx)  | story update          |               |  |
