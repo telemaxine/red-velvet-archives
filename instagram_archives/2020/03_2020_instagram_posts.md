@@ -3,7 +3,7 @@ Album links contain all posts for that day.
 ***
 
 Date   | Member         | album link                            | Notes                 | contents      | Instagram link(s) |
-|:-    |:-              |:-:                                    |:-                     |:-             |:-:                |
+|:-    |:-              |:-:                                    |:-:                    |:-             |:-:                |
 200301 | [Joy][jy]      | [album](https://imgur.com/a/Q5fvkCc)  |                       |               |  |
 200302 | [Yeri][yr]     | [album](https://imgur.com/a/O8sSOnI)  |                       |               |  |
 200303 | [Joy][jy]      | [album](https://imgur.com/a/bBqq8Uc)  |                       |               |  |
