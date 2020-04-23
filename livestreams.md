@@ -17,7 +17,7 @@ Links will be direct to content unless unavailable.
 | 170925 | Live Mukbang                               | OT5         | Yes       | for ReVelUp Project Season 1 | [YT](https://youtu.be/GulFRqOoH8c) |
 | 171127 | Instagram Live                             | OT5         | Yes       |                              | [YT](https://youtu.be/-LlHmPBizd8) |
 | 171130 | Instagram Live with Saeron                 | YR          | Yes       |                              | [RVUS](https://revelupsubs.com/2017/11/30/eng-171130-yeri-insta-live-w-saeron/), [MEGA](https://mega.nz/#!dwp1EaRQ!P5QUG1U2gqiU5VVpflUctXZ9tCHNHy_uHajcmgV1i1Y), [KB](https://keybase.pub/telemaxus/rv/livestream/171130%20Yeri%20on%20Saeron's%20Instagram%20Live%20(Copyrighted%20Songs%20Deleted).mp4) |
-| 180205 | Live Mukbang                               | OT5         | Yes       | for ReVelUp Project Season 2 | [DM](https://www.dailymotion.com/embed/video/k18miW12PMjlSptdmlu), [MEGA](https://mega.nz/#!g9IWSQCJ!sQY_kbMiaGkON1gxPtRGlo7UUSFcYwsYjUTnms5pde4), KB |
+| 180205 | Live Mukbang                               | OT5         | Yes       | for ReVelUp Project Season 2 | [DM](https://www.dailymotion.com/embed/video/k18miW12PMjlSptdmlu), [MEGA](https://mega.nz/#!g9IWSQCJ!sQY_kbMiaGkON1gxPtRGlo7UUSFcYwsYjUTnms5pde4), [KB](https://keybase.pub/telemaxus/rv/livestream/180205%20Red%20Velvet%20-%20Oksusu%20Live%20Mukbang.mp4) |
 | 180520 | Instagram Live with Yeri                   | YR          | Yes       |                              | [YT](https://revelupsubs.com/2018/05/20/eng-180520-yeri-instagram-live/) |
 | 180707 | Instagram Live with Joy                    | JO          | Yes       |                              | [YT](https://youtu.be/3eMfxLTMq-k) |
 | 180722 | Live in Japan                              | OT5         | Yes       |                              | [YT](https://youtu.be/4Wae2wVYWa8) |
@@ -38,8 +38,6 @@ Links will be direct to content unless unavailable.
 | 200210 | Seulgi Birthday Instagram Live             | SE          | Yes       |                              | [YT](https://youtu.be/DOBavWPAoXc) |
 | 200307 | Yeri Birthday Instagram Live               | YR          | Yes       |                              | [YT](https://youtu.be/ZwA80E07DhE) |
 | 200329 | Irene Birthday Instagram Live              | IR          | Yes       |                              | [YT](https://youtu.be/R5UMhe0N8cE) |
-| 000000 |                                            |             |           |                              |  |
-| 000000 |                                            |             |           |                              |  |
 | 000000 |                                            |             |           |                              |  |
 
 ***
