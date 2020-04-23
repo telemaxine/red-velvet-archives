@@ -42,7 +42,7 @@ Links will be direct to content unless unavailable.
 | 200307 | Yeri Birthday Instagram Live               | YR          | Yes       |                                   | [YT](https://youtu.be/ZwA80E07DhE) |
 | 200329 | Irene Birthday Instagram Live              | IR          | Yes       |                                   | [YT](https://youtu.be/R5UMhe0N8cE) |
 | 000000 |                                            |             |           |                                   |  |
-| 000000 |                                            |             |           |                                   |  |
+
 
 ***
 
