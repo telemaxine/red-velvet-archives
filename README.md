@@ -2,18 +2,20 @@
 
 Some of these lists use the [Red Velvet resource sheet][ref0] ([Microsoft Excel 04/20/20][ref0_xlsx], [Open Document 04/20/20][ref0_ods]). As a reference.
 
-Markdown previewers might not show correctly as the files will use reddit style markdown formatting.
+Markdown previewers might not show correctly as some of the files will use reddit exclusive markdown syntax.
 
 ## Shows
 
-### [Drama](./drama.md)
+### [Drama](./drama.md) (Under Construction)
 ### [Livestreams](./livestreams.md)
-### [Radio Shows](./radio_shows.md)
+### [Radio Shows](./radio_shows.md) (Under Construction)
+### [Reality Shows](./reality_shows.md) (Under Construction)
 ### [Variety Shows](./variety_shows.md) (Under construction)
 
 ## Social Media
 
-### [Instagram archives](./instagram_archives/instagram_post_README.md) (Constantly under construction)
+### [Instagram archives](./instagram_archives/instagram_post_README.md) (Under Construction)
+### [Tiktok](./tiktok/tiktok_README.md) (Under Construction)
 
 ***
 
