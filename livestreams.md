@@ -13,7 +13,7 @@ Links will be direct to content unless unavailable.
 | 170521 | Live in Indonesia                          | OT5         | Yes       |                              | [YT](https://youtu.be/iNXasmLt9kA) |
 | 170523 | Live in Malaysia                           | OT5         | Yes       |                              | [YT](https://youtu.be/R5FYDwWEyoo) |
 | 170709 | Twitter Live Q&A                           | OT5         | Yes       |                              | [YT](https://youtu.be/egC67gnow0o) |
-| 170908 | I'm Celuv Live                             | OT5         | Yes       |                              | [RVUS \(broken\)](https://revelupsubs.com/2017/09/08/eng-170908-red-velvet-im-celuv-live/), [KB](https://keybase.pub/telemaxus/rv/livestream/170908%20Red%20Velvet%20%E1%84%85%E1%85%A6%E1%84%83%E1%85%B3%E1%84%87%E1%85%A6%E1%86%AF%E1%84%87%E1%85%A6%E1%86%BA%20I'm%20Celuv%20LIVE.mp4) |
+| 170908 | I'm Celuv Live                             | OT5         | Yes       |                              | [RVUS \(VM\)](https://revelupsubs.com/2017/09/08/eng-170908-red-velvet-im-celuv-live/), [KB](https://keybase.pub/telemaxus/rv/livestream/170908%20Red%20Velvet%20%E1%84%85%E1%85%A6%E1%84%83%E1%85%B3%E1%84%87%E1%85%A6%E1%86%AF%E1%84%87%E1%85%A6%E1%86%BA%20I'm%20Celuv%20LIVE.mp4) |
 | 170925 | Live Mukbang                               | OT5         | Yes       | for ReVelUp Project Season 1 | [YT](https://youtu.be/GulFRqOoH8c) |
 | 171127 | Instagram Live                             | OT5         | Yes       |                              | [YT](https://youtu.be/-LlHmPBizd8) |
 | 171130 | Instagram Live with Saeron                 | YR          | Yes       |                              | [RVUS](https://revelupsubs.com/2017/11/30/eng-171130-yeri-insta-live-w-saeron/), [MEGA](https://mega.nz/#!dwp1EaRQ!P5QUG1U2gqiU5VVpflUctXZ9tCHNHy_uHajcmgV1i1Y), [KB](https://keybase.pub/telemaxus/rv/livestream/171130%20Yeri%20on%20Saeron's%20Instagram%20Live%20(Copyrighted%20Songs%20Deleted).mp4) |
@@ -59,6 +59,8 @@ DM: Dailymotion
 KB: Keybase
 
 VL: Vlive
+
+VM: Vimeo
 
 GD: Google Drive
 
