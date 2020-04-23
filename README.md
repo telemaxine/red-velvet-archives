@@ -1,4 +1,4 @@
-# /r/RedVelvetArchives
+# The Red Velvet Archives
 
 Some of these lists use the [Red Velvet resource sheet][ref0] ([Microsoft Excel 04/20/20][ref0_xlsx], [Open Document 04/20/20][ref0_ods]). As a reference.
 
