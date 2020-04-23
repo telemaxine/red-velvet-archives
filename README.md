@@ -1,13 +1,14 @@
 # /r/RedVelvetArchives
 
-Some of these lists use the [Red Velvet resource sheet][ref0] ([Microsoft Excel 04/20/20][ref0_xlsx], [Open Document 04/20/20][ref0_ods]). As the source.
+Some of these lists use the [Red Velvet resource sheet][ref0] ([Microsoft Excel 04/20/20][ref0_xlsx], [Open Document 04/20/20][ref0_ods]). As a reference.
 
 Markdown previewers might not show correctly as the files will use reddit style markdown formatting.
 
-[Variety Shows](./variety_shows.md)
+## [Variety Shows](./variety_shows.md)
+
+## [Livestreams](./livestreams.md)
 
 Instagram Post archives:
-
 
 ### 2019
 
