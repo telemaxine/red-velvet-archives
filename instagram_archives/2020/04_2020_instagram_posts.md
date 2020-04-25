@@ -1,10 +1,15 @@
-Album links contain all posts for that day.
+Album links contain all posts for that day. Except for story updates.
 
 ***
 | Date   | Member       | album link                           | Notes | contents | Instagram link(s) |
 |:------:|:------------:|:------------------------------------:|:-----:|:--------:|:-----------------:|
 | 200404 | [Seulgi][ks] | [album](https://imgur.com/a/CKBaKr4) |       |          |                   |
 | 200406 | [Seulgi][ks] | [album](https://imgur.com/a/JfULIvK) |       |          |                   |
+| 000000 |              | album                                |       |          |                   |
+| 000000 |              | album                                |       |          |                   |
+| 000000 |              | album                                |       |          |                   |
+| 000000 |              | album                                |       |          |                   |
+| 000000 |              | album                                |       |          |                   |
 | 000000 |              | album                                |       |          |                   |
 
 ***

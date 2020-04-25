@@ -1,4 +1,4 @@
-Album links contain all posts for that day.
+Album links contain all posts for that day. Except for story updates.
 
 ***
 
