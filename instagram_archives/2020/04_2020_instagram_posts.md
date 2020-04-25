@@ -1,4 +1,4 @@
-Album links contain all posts for that day. Except for story updates.
+Album links contain all posts for that day.
 
 ***
 | Date   | Member       | album link                           | Notes | contents | Instagram link(s) |
