@@ -1,6 +1,6 @@
 ### 2019
 
-* [May 2019](./2019/05_2019_instagram_posts.md)
+* [May 2019](./2019/05_2019_instagram_posts.md) (only needs instagram links)
 * [June 2019](./2019/06_2019_instagram_posts.md)
 * [July 2019](./2019/07_2019_instagram_posts.md)
 * [August 2019](./2019/08_2019_instagram_posts.md)
@@ -15,3 +15,4 @@
 * [February 2020](./2020/02_2020_instagram_posts.md) 
 * [March 2020](./2020/03_2020_instagram_posts.md) (only needs instagram links)
 * [April 2020](./2020/04_2020_instagram_posts.md) 
+  
