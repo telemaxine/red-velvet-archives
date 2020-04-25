@@ -12,8 +12,7 @@ Markdown previewers might not show correctly as some of the files will use reddi
 
 ## Social Media
 
-### [Instagram archives](./instagram_archives/instagram_post_README.md) (Under Construction)
-### [Tiktok](./tiktok/tiktok_README.md) (Under Construction)
+### [Instagram archives](./instagram_archives/README.md) (Under Construction)
 
 ***
 
