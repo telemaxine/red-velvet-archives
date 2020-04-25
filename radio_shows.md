@@ -17,12 +17,12 @@
 | 160325 | A Night Like Today w/ JYW                      | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | [YT](https://youtu.be/F4uJaCWX7AU)                                                              |
 | 160325 | PSH’s Love Game                                | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | [YT](https://youtu.be/g0cIG9CU_fE)                                                              |
 | 160331 | Tei’s Dreamy Radio                             | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | [YT](https://youtu.be/zC8YiedhXBc)                                                              |
-| 160425 | KTR Prank Call                                 | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | YT                                                              |
-| 160523 | BSJ’s TEN                                      | JO,WD       | Yes    | subbed by [ReVelUp Subs][rvus]        | YT                                                              |
-| 160908 | Cultwo Show                                    | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | YT                                                              |
-| 160909 | SuJu’s KTR                                     | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | YT                                                              |
-| 160911 | Self Reflection                                | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | YT                                                              |
-| 160913 | Power Time Radio                               | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | YT                                                              |
+| 160425 | KTR Prank Call                                 | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | [YT](https://youtu.be/esgeJlzNhak)                                                              |
+| 160523 | BSJ’s TEN                                      | JO,WD       | Yes    | subbed by [ReVelUp Subs][rvus]        | [YT](https://youtu.be/3WOMGU4aALs)                                                              |
+| 160908 | Cultwo Show                                    | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | [YT](https://youtu.be/yYWdQyDpzAA), [KB][KB_160908_cultwo_show]                                 |
+| 160909 | SuJu’s KTR                                     | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | [YT](https://youtu.be/7XFrHF1ZPxU)                                                              |
+| 160911 | Self Reflection                                | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | [YT](https://youtu.be/XCmM2OYkF3s)                                                              |
+| 160913 | Power Time Radio                               | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | [YT](https://youtu.be/5r9UsfQszkA)                                                              |
 | 170131 | MelOn Radio Star DJ “Velvet Red Mine” Ep. 1    | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | YT                                                              |
 | 170202 | Cultwo Show                                    | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | YT                                                              |
 | 170206 | Gayo Plaza                                     | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | YT                                                              |
@@ -64,10 +64,13 @@
 | 190822 | CultTwo Show                                   | OT5         | Yes    | subbed by [ReVelUp Subs][rvus]        | YT                                                              |
 | 190827 | Starry Night                                   | OT5         |        |                                       | YT                                                              |
 | 190829 | Hope Song at Noon                              | IR,SE,WD,YR |        |                                       | YT                                                              |
-| 000000 |  |  | OT5 | Yes |  |  |
+| 191224 | Red Velvet @ Cultwo Show                       | SE,WD       | Yes    | subbed by [ReVelUp Subs][rvus]        | [YT](https://www.youtube.com/watch?v=ropXKxE__jM)               |
+| 000000 |  | OT5 | Yes |  |  |
 
 
 [rookie_subs]:https://www.youtube.com/user/rookiessubs/videos
 [rvus]:https://revelupsubs.com/
 [warm_blue]:https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
+
+[KB_160908_cultwo_show]:https://telemaxus.keybase.pub/rv/radio-shows/160908%20%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3Red%20Velvet%20%40%20Cultwo%20Show.mkv?dl=1
 
