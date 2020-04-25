@@ -38,6 +38,7 @@ Links will be direct to content unless unavailable.
 | 190821 | Umpah Umpah Camping Date Comeback Special  | OT5         | Yes    |                                 | [VL](https://www.vlive.tv/video/145245)                                                                                                                                                                                                                                                                     |
 | 191222 | Comeback V-Live PsychoRISTMAS Party        | OT5         | Yes    |                                 | [VL](https://www.vlive.tv/video/166358)                                                                                                                                                                                                                                                                     |
 | 191222 | Instagram Live with Wendy                  | WD          | Yes    | subbed by [warm blue][warmblue] | [YT](https://www.youtube.com/watch?v=YaCZZ2JDBcw)                                                                                                                                                                                                                                                           |
+| 200112 | Instagram Live with Yeri                   | YR          | Yes    |                                 | [YT](https://youtu.be/_LFX_LTkKNo)                                                                                                                                                                                                                                                                          |
 | 200210 | Seulgi Birthday Instagram Live             | SE          | Yes    |                                 | [YT](https://youtu.be/DOBavWPAoXc)                                                                                                                                                                                                                                                                          |
 | 200307 | Yeri Birthday Instagram Live               | YR          | Yes    |                                 | [YT](https://youtu.be/ZwA80E07DhE)                                                                                                                                                                                                                                                                          |
 | 200329 | Irene Birthday Instagram Live              | IR          | Yes    |                                 | [YT](https://youtu.be/R5UMhe0N8cE)                                                                                                                                                                                                                                                                          |
@@ -45,46 +46,27 @@ Links will be direct to content unless unavailable.
 
 ***
 
-&nbsp;
-
-Link legend:
-
-RVUS: [ReVel Up Subs](https://revelupsubs.com/)
-
-MEGA: MEGA; a cloud storage service
-
-YT: Youtube
-
-ST: Streamable
-
-DM: Dailymotion
-
-KB: Keybase
-
-VL: Vlive
-
-VM: Vimeo
-
-GD: Google Drive
-
-****
-
-Members Legend:
-
-OT5: All of them
-
-IR: Irene
-
-JO: Joy
-
-SE: Seulgi
-
-WD: Wendy
-
-YR: Yeri
-
-***
-
-&nbsp;
-
 [warmblue]:https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
+[rvus]:https://revelupsubs.com/
+
+Abbreviation | Notes
+-------------|------
+RVUS | [ReVel Up Subs](https://revelupsubs.com/)
+MEGA | MEGA - a cloud storage service
+YT | Youtube
+ST | Streamable
+DM | Dailymotion
+KB | Keybase
+VL | Vlive
+VM | Vimeo
+GD | Google Drive
+
+Members | Description
+--------|----------
+OT5 | All members
+IR | Irene
+JO | Joy
+SE | Seulgi
+WD | Wendy
+YR | Yeri
+***

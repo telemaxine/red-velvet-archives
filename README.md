@@ -1,8 +1,6 @@
 # The Red Velvet Archives
 
-Some of these lists use the [Red Velvet resource sheet][ref0] ([Microsoft Excel 04/20/20][ref0_xlsx], [Open Document 04/20/20][ref0_ods]). As a reference.
-
-Markdown previewers might not show correctly as some of the files will use reddit exclusive markdown syntax.
+Markdown previewers might not show correctly as some of the files will use reddit exclusive markdown syntax. Use raw files to copy over markdown enabled sites like Reddit. Files should be a drop-in replacement in reddit, **however** always make sure to check the output.
 
 ## Shows
 
@@ -23,6 +21,8 @@ Markdown previewers might not show correctly as some of the files will use reddi
 
 ### [/r/red_velvet wiki][rvwiki]
 ### [Red Velvet resource spreadsheet][ref0]
+* [Microsoft Excel copy][ref0_xlsx]
+* [Open Document format copy][ref0_ods]
 
 &nbsp;
 
