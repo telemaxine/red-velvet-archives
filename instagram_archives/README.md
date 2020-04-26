@@ -1,3 +1,5 @@
+# Red Velvet Instagram archive
+
 ### 2019
 
 * [May 2019](./2019/05_2019_instagram_posts.md) (only needs instagram links)
@@ -15,4 +17,16 @@
 * [February 2020](./2020/02_2020_instagram_posts.md) 
 * [March 2020](./2020/03_2020_instagram_posts.md) (only needs instagram links)
 * [April 2020](./2020/04_2020_instagram_posts.md) 
-  
+
+
+***
+
+[Template for this series](./instagram_post_template.md)
+
+To make lots of files for posts, change to a directory and do...
+
+```
+$ touch {01..12}_<year>_instagram_posts.md
+
+$ cat ./instagram_post_template | tee {01..12}_<year>_instagram_posts.md
+```
