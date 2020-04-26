@@ -33,5 +33,5 @@ Markdown previewers might not show correctly as some of the files will use reddi
 
 [rvwiki]: https://www.reddit.com/r/red_velvet/wiki/index
 [ref0]:https://docs.google.com/spreadsheets/d/1FKsk1QwLYHNqeW9l0Y9jFCacWe6KkPj9QMgcKt4ZaTQ/edit#gid=0
-[ref0_xlsx]:.\res\Red_Velvet_Resources_0420.xlsx
-[ref0_ods]:.\res\Red_Velvet_Resources_0420.ods
+[ref0_xlsx]:./res/Red_Velvet_Resources_0420.xlsx
+[ref0_ods]:./res/Red_Velvet_Resources_0420.ods
