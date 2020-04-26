@@ -8,31 +8,29 @@ ___
 | 150313 |   Ice Cream TV    |   OT5   |  Yes   | Preparation |                                                             [YouTube](https://youtu.be/PHh-XLLVyXs), [Dailymotion](https://www.dailymotion.com/video/x2jmw83), [YouTube](https://youtu.be/UX7_R25cwQs), [YouTube](https://youtu.be/8Ui_F77Z1ZI)                                                              |
 | 150318 | Comeback Showcase |   OT5   |  Yes   | Dailymotion | ([1/6](https://www.dailymotion.com/video/x2jwh1n), [2/6](https://www.dailymotion.com/video/x2jycnl), [3/6](https://www.dailymotion.com/video/x2k1etq), [4/6](https://www.dailymotion.com/video/x2k9r7m), [5/6](https://www.dailymotion.com/video/x2kb7di), [6/6](https://www.dailymotion.com/video/x2km1ul)) |
 
-
 ## **Dumb Dumb**
 ___
 | Date   |         Title          | Members | Subbed |             Notes              |                                                                                              Links                                                                                              |
 |:-------|:----------------------:|:-------:|:------:|:------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 151002 | Naver V 5th Live EP. 5 |   OT5   |  Yes   | subbed by [RevelUp Subs][rvus] | [RVUS](https://revelupsubs.com/2015/10/02/eng-151002-red-velvet-naver-v-5th-live-ep-5/), [MEGA](https://mega.nz/#!ZxgUVAZY!9SPGlyQYYnfiNEM51bxc1Cp2bbPByzJbhQ1ZOAdIHxg), [KB][151002_kb_naver5] |
-
 [151002_kb_naver5]:https://telemaxus.keybase.pub/rv/livestream/151002%20Naver%20Live%205th%20Live%20Episode%205.mp4
 
 
 ## **One Of These Nights**
 ___
-| Date   | Title                                      | Members     | Subbed | Notes                           | Links                                                                                                                                                                                                                                                                                                       |
-|:-------|:------------------------------------------:|:-----------:|:------:|:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 160414 | Knowing Bros FB Live                       | OT5         | Yes    | subbed by [RevelUp Subs][rvus]  | [ST](https://streamable.com/s/oz7ae/oozzbi), [KB][160414_kb_know-bro]                                                                                                         |
+| Date   |        Title         | Members | Subbed |             Notes              |                                 Links                                 |
+|:-------|:--------------------:|:-------:|:------:|:------------------------------:|:---------------------------------------------------------------------:|
+| 160414 | Knowing Bros FB Live |   OT5   |  Yes   | subbed by [RevelUp Subs][rvus] | [ST](https://streamable.com/s/oz7ae/oozzbi), [KB][160414_kb_know-bro] |
 
 [160414_kb_know-bro]:https://telemaxus.keybase.pub/rv/livestream/160414%20Red%20Velvet%20-%20Knowing%20Bros%20FB%20Live%20with%20Heechul%20of%20Super%20Junior.mp4
 
 
 ## **Russian Roulette**
 ___
-| Date   | Title                                      | Members     | Subbed | Notes                           | Links                                                                                                                                                                                                                                                                                                       |
-|:-------|:------------------------------------------:|:-----------:|:------:|:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 160927 | Sunny Afternoon Live                       | OT5         | Yes    | subbed by [RevelUp Subs][rvus]  | [YT](https://youtu.be/WsHd3ON2zeg)                                                                                                                                                                                                                                                                          |
-| 161122 | SM Super Club League                       | SG          | Yes    | subbed by [RevelUp Subs][rvus]  | [w\/ Baekhyun \(YT\)](https://youtu.be/HVsrvSiCxr0), [w\/ Heechul \(YT\)](https://youtu.be/h4j7zPfCzRs)                                                                                                                                                                                                     |
+| Date   |        Title         | Members | Subbed |             Notes              |                                                  Links                                                  |
+|:-------|:--------------------:|:-------:|:------:|:------------------------------:|:-------------------------------------------------------------------------------------------------------:|
+| 160927 | Sunny Afternoon Live |   OT5   |  Yes   | subbed by [RevelUp Subs][rvus] |                                   [YT](https://youtu.be/WsHd3ON2zeg)                                    |
+| 161122 | SM Super Club League |   SG    |  Yes   | subbed by [RevelUp Subs][rvus] | [w\/ Baekhyun \(YT\)](https://youtu.be/HVsrvSiCxr0), [w\/ Heechul \(YT\)](https://youtu.be/h4j7zPfCzRs) |
 
 
 ## **Rookie**
@@ -81,9 +79,9 @@ ___
 
 ## **Power Up**
 ___
-| Date   | Title                                      | Members     | Subbed | Notes                           | Links                                                                                                                                                                                                                                                                                                       |
-|:-------|:------------------------------------------:|:-----------:|:------:|:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 181008 | Red Velvet Oksusu Live Mukbang             | OT5         | Yes    | for ReVelUp Project Season 3    | [RVUS](https://revelupsubs.com/2018/10/08/eng-181008-red-velvet-oksusu-live/), [DM](https://www.dailymotion.com/embed/video/k5Xr8kYl740CuTt4DWn), [GD](https://drive.google.com/file/d/1GwTH2jF89_FF5CckRBtcSpXdzLNLokpu/view)                                                                              |
+| Date   |             Title              | Members | Subbed |            Notes             |                                                                                                             Links                                                                                                              |
+|:-------|:------------------------------:|:-------:|:------:|:----------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 181008 | Red Velvet Oksusu Live Mukbang |   OT5   |  Yes   | for ReVelUp Project Season 3 | [RVUS](https://revelupsubs.com/2018/10/08/eng-181008-red-velvet-oksusu-live/), [DM](https://www.dailymotion.com/embed/video/k5Xr8kYl740CuTt4DWn), [GD](https://drive.google.com/file/d/1GwTH2jF89_FF5CckRBtcSpXdzLNLokpu/view) |
 
 
 ## **RBB**
@@ -101,33 +99,32 @@ ___
 
 ## **Zimzalabim**
 ___
-| Date   | Title                                      | Members     | Subbed | Notes                           | Links                                                                                                                                                                                                                                                                                                       |
-|:-------|:------------------------------------------:|:-----------:|:------:|:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 190620 | Comeback V-Live Zimzalabim Night           | OT5         | Yes    |                                 | [VL](https://www.vlive.tv/video/134996)                                                                                                                                                                                                                                                                     |
-| 190623 | SBS Inkigayo Waiting Room Check-in Live    | OT5         | Yes    |                                 | [Pt. 1](https://www.youtube.com/watch?v=W_7GM5AJp6s), [Pt. 2](https://www.youtube.com/watch?v=ZJUC3ioEqM8), [warmblue](https://www.youtube.com/watch?v=2-WnyZ8Kl4M)                                                                                                                                         |
-| 190630 | Instagram Live with Wendy                  | WD          | Yes    | subbed by [warmblue][warm_blue] | [YT](https://youtu.be/jTPvAZ_X0L0)                                                                                                                                                                                                                                                                          |
-| 190707 | Instagram Live with Wendy                  | WD          | Yes    | subbed by [warmblue][warm_blue] | [YT](https://www.youtube.com/watch?v=RmCvmOMm7XI)                                                                                                                                                                                                                                                           |
-| 190801 | Red Velvet 5th Anniversary Instagram Live  | IR,SG,WD    | Yes    | subbed by [RevelUp Subs][rvus]  | [YT](https://youtu.be/rivpcqttZHg)                                                                                                                                                                                                                                                                          |
-| 190818 | Instagram Live with Wendy                  | WD          | Yes    | subbed by [warmblue][warm_blue] | [YT](https://youtu.be/07uSondP16E), [GD](https://drive.google.com/file/d/15_y7SSxl_1QWA4FGiOE757C7tuRFnMLx/view)                                                                                                                                                                                            |
+| Date   |                   Title                   | Members  | Subbed |              Notes              |                                                                                Links                                                                                |
+|:-------|:-----------------------------------------:|:--------:|:------:|:-------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 190620 |     Comeback V-Live Zimzalabim Night      |   OT5    |  Yes   |                                 |                                                               [VL](https://www.vlive.tv/video/134996)                                                               |
+| 190623 |  SBS Inkigayo Waiting Room Check-in Live  |   OT5    |  Yes   |                                 | [Pt. 1](https://www.youtube.com/watch?v=W_7GM5AJp6s), [Pt. 2](https://www.youtube.com/watch?v=ZJUC3ioEqM8), [warmblue](https://www.youtube.com/watch?v=2-WnyZ8Kl4M) |
+| 190630 |         Instagram Live with Wendy         |    WD    |  Yes   | subbed by [warmblue][warm_blue] |                                                                 [YT](https://youtu.be/jTPvAZ_X0L0)                                                                  |
+| 190707 |         Instagram Live with Wendy         |    WD    |  Yes   | subbed by [warmblue][warm_blue] |                                                          [YT](https://www.youtube.com/watch?v=RmCvmOMm7XI)                                                          |
+| 190801 | Red Velvet 5th Anniversary Instagram Live | IR,SG,WD |  Yes   | subbed by [RevelUp Subs][rvus]  |                                                                 [YT](https://youtu.be/rivpcqttZHg)                                                                  |
+| 190818 |         Instagram Live with Wendy         |    WD    |  Yes   | subbed by [warmblue][warm_blue] |                          [YT](https://youtu.be/07uSondP16E), [GD](https://drive.google.com/file/d/15_y7SSxl_1QWA4FGiOE757C7tuRFnMLx/view)                           |
 
 
 ## **Umpah Umpah**
 ___
-| Date   | Title                                      | Members     | Subbed | Notes                           | Links                                                                                                                                                                                                                                                                                                       |
-|:-------|:------------------------------------------:|:-----------:|:------:|:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 190821 | Umpah Umpah Camping Date Comeback Special  | OT5         | Yes    |                                 | [VL](https://www.vlive.tv/video/145245)                                                                                                                                                                                                                                                                     |
-
+| Date   |                   Title                   | Members | Subbed | Notes |                  Links                  |
+|:-------|:-----------------------------------------:|:-------:|:------:|:-----:|:---------------------------------------:|
+| 190821 | Umpah Umpah Camping Date Comeback Special |   OT5   |  Yes   |       | [VL](https://www.vlive.tv/video/145245) |
 
 ## **Psycho**
 ___
-| Date   | Title                                      | Members     | Subbed | Notes                           | Links                                                                                                                                                                                                                                                                                                       |
-|:-------|:------------------------------------------:|:-----------:|:------:|:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 191222 | Comeback V-Live PsychoRISTMAS Party        | OT5         | Yes    |                                 | [VL](https://www.vlive.tv/video/166358)                                                                                                                                                                                                                                                                     |
-| 191222 | Instagram Live with Wendy                  | WD          | Yes    | subbed by [warmblue][warm_blue] | [YT](https://www.youtube.com/watch?v=YaCZZ2JDBcw)                                                                                                                                                                                                                                                           |
-| 200112 | Instagram Live with Yeri                   | YR          | Yes    | subbed by [RevelUp Subs][rvus]  | [YT](https://youtu.be/_LFX_LTkKNo)                                                                                                                                                                                                                                                                          |
-| 200210 | Seulgi Birthday Instagram Live             | SG          | Yes    | subbed by [RevelUp Subs][rvus]  | [YT](https://youtu.be/DOBavWPAoXc)                                                                                                                                                                                                                                                                          |
-| 200307 | Yeri Birthday Instagram Live               | YR          | Yes    | subbed by [RevelUp Subs][rvus]  | [YT](https://youtu.be/ZwA80E07DhE)                                                                                                                                                                                                                                                                          |
-| 200329 | Irene Birthday Instagram Live              | IR          | Yes    | subbed by [RevelUp Subs][rvus]  | [YT](https://youtu.be/R5UMhe0N8cE)                                                                                                                                                                                                                                                                          |
+| Date   |                Title                | Members | Subbed |              Notes              |                       Links                       |
+|:-------|:-----------------------------------:|:-------:|:------:|:-------------------------------:|:-------------------------------------------------:|
+| 191222 | Comeback V-Live PsychoRISTMAS Party |   OT5   |  Yes   |                                 |      [VL](https://www.vlive.tv/video/166358)      |
+| 191222 |      Instagram Live with Wendy      |   WD    |  Yes   | subbed by [warmblue][warm_blue] | [YT](https://www.youtube.com/watch?v=YaCZZ2JDBcw) |
+| 200112 |      Instagram Live with Yeri       |   YR    |  Yes   | subbed by [RevelUp Subs][rvus]  |        [YT](https://youtu.be/_LFX_LTkKNo)         |
+| 200210 |   Seulgi Birthday Instagram Live    |   SG    |  Yes   | subbed by [RevelUp Subs][rvus]  |        [YT](https://youtu.be/DOBavWPAoXc)         |
+| 200307 |    Yeri Birthday Instagram Live     |   YR    |  Yes   | subbed by [RevelUp Subs][rvus]  |        [YT](https://youtu.be/ZwA80E07DhE)         |
+| 200329 |    Irene Birthday Instagram Live    |   IR    |  Yes   | subbed by [RevelUp Subs][rvus]  |        [YT](https://youtu.be/R5UMhe0N8cE)         |
 
 &#x200b;
 
