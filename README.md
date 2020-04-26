@@ -20,8 +20,8 @@ Markdown previewers might not show correctly as some of the files will use reddi
 
 ### [/r/red_velvet wiki][rvwiki]
 ### [Red Velvet resource spreadsheet][ref0]
-* [Microsoft Excel copy; use only if link is down or removed. \(Updated 04/20/20\)][ref0_xlsx]
-* [Open Document format copy; use only if link is down or removed. \(Updated 04/20/20\)][ref0_ods]
+* [Microsoft Excel copy; use only if Google Docs link is down or removed. \(Updated 04/20/20\)][ref0_xlsx]
+* [Open Document format copy; use only if Google Docs link is down or removed. \(Updated 04/20/20\)][ref0_ods]
 
 ## Files for /r/red_velvet wiki
 
