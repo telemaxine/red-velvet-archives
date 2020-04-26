@@ -20,8 +20,14 @@ Markdown previewers might not show correctly as some of the files will use reddi
 
 ### [/r/red_velvet wiki][rvwiki]
 ### [Red Velvet resource spreadsheet][ref0]
-* [Microsoft Excel copy][ref0_xlsx]
-* [Open Document format copy][ref0_ods]
+* [Microsoft Excel copy; use only if link is down or removed. \(Updated 04/20/20\)][ref0_xlsx]
+* [Open Document format copy; use only if link is down or removed. \(Updated 04/20/20\)][ref0_ods]
+
+## Files for /r/red_velvet wiki
+
+* [Livestreams](./red_velvet_wiki/red_velvet_wiki_livestream.md) ("Complete")
+* [Radio Show \(Era Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_era_sort.md) (Under Construction)
+* [Radio Show \(Year Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_year_sort.md) (Under Construction)
 
 &nbsp;
 
