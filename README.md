@@ -2,7 +2,7 @@
 
 Markdown previewers might not show correctly as some of the files will use reddit exclusive markdown syntax. Use raw files to copy over markdown enabled sites like Reddit. Files should be a drop-in replacement in reddit, **however** always make sure to check the output.
 
-## Shows
+## Shows (Masterlists)
 
 ### [Drama](./drama.md) (Under Construction)
 ### [Livestreams](./livestreams.md)
@@ -12,7 +12,7 @@ Markdown previewers might not show correctly as some of the files will use reddi
 
 ## Social Media
 
-### [Instagram archives](./instagram_archives/README.md) (Under Construction)
+### [Instagram archives](./instagram_archives/README.md) (Under Construction; still "stuck" in 2019...)
 
 ***
 
@@ -25,8 +25,10 @@ Markdown previewers might not show correctly as some of the files will use reddi
 
 ## Files for /r/red_velvet wiki
 
-* [Livestreams](./red_velvet_wiki/red_velvet_wiki_livestream.md) ("Complete")
-* [Radio Show \(Era Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_era_sort.md) (Under Construction)
+files formatted specifically for use in [/r/red_velvet wiki][rvwiki]
+
+* [Livestreams](./red_velvet_wiki/red_velvet_wiki_livestream.md) ("Complete", updated with wiki version.)
+* [Radio Show \(Era Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_era_sort.md) (Under construction; needs new links, deduplication/merging in progress)
 * [Radio Show \(Year Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_year_sort.md) (Under Construction)
 
 &nbsp;
