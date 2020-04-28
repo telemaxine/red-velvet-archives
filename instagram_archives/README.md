@@ -21,7 +21,7 @@
 
 ***
 
-[Template for this series](./instagram_post_template.md)
+[Template for this archive](./instagram_post_template.md)
 
 To make lots of files for posts, change to a directory and do...
 
