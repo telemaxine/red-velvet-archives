@@ -27,6 +27,4 @@ To make lots of files for posts, change to a directory and do...
 
 ```
 $ touch {01..12}_<year>_instagram_posts.md
-
-$ cat ./instagram_post_template | tee {01..12}_<year>_instagram_posts.md
 ```
