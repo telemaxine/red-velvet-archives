@@ -2,7 +2,7 @@
 
 Markdown previewers might not show correctly as some of the files will use reddit exclusive markdown syntax. Use raw files to copy over markdown enabled sites like Reddit. Files should be a drop-in replacement in reddit, **however** always make sure to check the output.
 
-## Shows (Masterlists)
+## Masterlists
 
 ### [Drama](./drama.md) (Under Construction)
 ### [Livestreams](./livestreams.md)
@@ -14,7 +14,7 @@ Markdown previewers might not show correctly as some of the files will use reddi
 
 ### [Instagram archives](./instagram_archives/README.md) (Under Construction; still "stuck" in 2019...)
 
-***
+&#x200b;
 
 # Resources & References
 
@@ -31,7 +31,21 @@ files formatted specifically for use in [/r/red_velvet wiki][rvwiki]
 * [Radio Show \(Era Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_era_sort.md) (Under construction; needs new links, deduplication/merging in progress)
 * [Radio Show \(Year Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_year_sort.md) (Under Construction)
 
-&nbsp;
+&#x200b;
+
+# Tools
+
+Tools used to document and archive for this list
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+  * [Markdown All-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+  * [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
+  * [Mardown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify)
+  * [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+* [Youtube-dl](https://github.com/ytdl-org/youtube-dl)
+* [ripme](https://github.com/RipMeApp/ripme)
+
+&#x200b;
 
 [rvwiki]: https://www.reddit.com/r/red_velvet/wiki/index
 [ref0]:https://docs.google.com/spreadsheets/d/1FKsk1QwLYHNqeW9l0Y9jFCacWe6KkPj9QMgcKt4ZaTQ/edit#gid=0
