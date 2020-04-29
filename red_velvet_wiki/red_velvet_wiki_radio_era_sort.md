@@ -37,11 +37,11 @@
 
 |  Date  |               Title                | Members | Subbed |                    Notes                    |                                                     Link                                                      |
 |:------:|:----------------------------------:|:-------:|:------:|:-------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
-| 150324 |           Kiss the Radio           |   OT5   |  Yes   |                                             |                                [Pt. 1][150324_ktr01], [Pt. 2][150324_ktr02]                                 |
+| 150324 |           Kiss the Radio           |   OT5   |  Yes   |                                             |                                 [Pt. 1][150324_ktr01], [Pt. 2][150324_ktr02]                                  |
 | 150327 |             2 O'clock              |   OT5   |   No   |                                             |                          [YT \(broken)](https://www.youtube.com/watch?v=fGQPROYgaRE)                          |
 | 150330 |          Old School Radio          |   OT5   |  Yes   |                 no part 2?                  |                 [reddit post][150330_reddit_oldschool], [Pt. 1](https://youtu.be/rJsJxFR7hko)                 |
 | 150331 |          Power Time Radio          |   OT5   |   No   |            no full eng sub found            | [ICC cut][150331_powertime_icc_cut], [Irene cut][150331_powertime_ir_cut], [CHN Sub][150331_powertime_cn_sub] |
-| 150401 |         Youngstreet Radio          |   OT5   |  Yes   |                                             |                           [Pt. 1][150401_youngstr01], [Pt. 2][150401_youngstr02]                            |
+| 150401 |         Youngstreet Radio          |   OT5   |  Yes   |                                             |                            [Pt. 1][150401_youngstr01], [Pt. 2][150401_youngstr02]                             |
 | 150403 | Kim Shin Young’s Hope Song at Noon |   OT5   |  Yes   | subbed by [Your One & Unnie][yourone_unnie] |        [Pt. 1][150403_ksy_hopesong01], [Pt. 2][150403_ksy_hopesong02], [Pt. 3][150403_ksy_hopesong03]         |
 | 150409 |            Cultwo Show             |   OT5   |        |                                             |                         [YT \(broken\)](https://www.youtube.com/watch?v=01KMqpivCCs)                          |
 | 150410 |            Shimshimtapa            |   OT5   |   No   |                                             |                         [YT \(broken\)](https://www.youtube.com/watch?v=GXijObb8ziE)                          |
