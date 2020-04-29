@@ -67,20 +67,20 @@
 
 ## **Dumb Dumb**
 
-|  Date  |            Title            | Members | Subbed |             Notes              |                                             Link                                             |
-|:------:|:---------------------------:|:-------:|:------:|:------------------------------:|:--------------------------------------------------------------------------------------------:|
-| 150909 |         Cultwo Show         |   OT5   |        |                                |       [YT \(broken\)](https://www.youtube.com/watch?v=zVA8LAunWsY&feature=youtu.be&a)        |
-| 150915 |  Park Kyunglim's 2PM Date   |   OT5   |  Yes   |                                |                              [YT](https://youtu.be/20DCYjV91FY)                              |
-| 150917 |       Kiss the Radio        |   OT5   |  Yes   |                                |                              [YT](https://youtu.be/zu4cRHCrizo)                              |
-| 150924 |      Hope Song at Noon      |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [DM](https://www.dailymotion.com/embed/video/k5xgSora34vVC4t7ic6),  [KB][150924_kb_hopesong] |
-| 150924 | Kim Chang Ryul's Old School |   OT5   |  Yes   |                                |                              [YT](https://youtu.be/t87xt_S5HCs)                              |
-| 151001 |       Sunny's FM Date       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                              [YT](https://youtu.be/MMDrIq0AQgA)                              |
-| 151001 |        VIXX N K-pop         |   OT5   |  Yes   |           audio only           |                              [YT](https://youtu.be/xRUFJNq6eos)                              |
-| 151013 |       Kiss The Radio        |  SG,WD  |  Yes   |     Seulgi & Wendy as DJ's     |                              [YT](https://youtu.be/VLEURd2XtKM)                              |
-| 151014 |   Tablo's Dreaming Radio    |   OT5   |  Yes   |           audio only           |                              [YT](https://youtu.be/GEAxtBj9GZM)                              |
-| 160106 |         SUJU's KTR          |  JO,YR  |        | subbed by [ReVelUp Subs][rvus] |                                              ?                                               |
-| 160108 |        2PM Date Cut         |   WD    |        | subbed by [ReVelUp Subs][rvus] |                                              ?                                               |
-| 160316 |       Good Morning FM       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                              [YT](https://youtu.be/uOEsOothbwI)                              |
+|  Date  |            Title            | Members | Subbed |             Notes              |                                               Link                                                |
+|:------:|:---------------------------:|:-------:|:------:|:------------------------------:|:-------------------------------------------------------------------------------------------------:|
+| 150909 |         Cultwo Show         |   OT5   |        |                                |          [YT \(broken\)](https://www.youtube.com/watch?v=zVA8LAunWsY&feature=youtu.be&a)          |
+| 150915 |  Park Kyunglim's 2PM Date   |   OT5   |  Yes   |                                |                                [YT](https://youtu.be/20DCYjV91FY)                                 |
+| 150917 |       Kiss the Radio        |   OT5   |  Yes   |                                |                                [YT](https://youtu.be/zu4cRHCrizo)                                 |
+| 150924 |      Hope Song at Noon      |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |   [DM](https://www.dailymotion.com/embed/video/k5xgSora34vVC4t7ic6),  [KB][150924_kb_hopesong]    |
+| 150924 | Kim Chang Ryul's Old School |   OT5   |  Yes   |                                |                                [YT](https://youtu.be/t87xt_S5HCs)                                 |
+| 151001 |       Sunny's FM Date       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                [YT](https://youtu.be/MMDrIq0AQgA)                                 |
+| 151001 |        VIXX N K-pop         |   OT5   |  Yes   |           audio only           |                                [YT](https://youtu.be/xRUFJNq6eos)                                 |
+| 151013 |       Kiss The Radio        |  SG,WD  |  Yes   |     Seulgi & Wendy as DJ's     |                                [YT](https://youtu.be/VLEURd2XtKM)                                 |
+| 151014 |   Tablo's Dreaming Radio    |   OT5   |  Yes   |           audio only           |                                [YT](https://youtu.be/GEAxtBj9GZM)                                 |
+| 160106 |         SUJU's KTR          |  JO,YR  |        | subbed by [ReVelUp Subs][rvus] |                      [RVUS \(VM\)](https://revelupsubs.com/2016/01/06/7174/)                      |
+| 160108 |        2PM Date Cut         |   WD    |        | subbed by [ReVelUp Subs][rvus] | [RVUS \(VM\)](https://revelupsubs.com/2016/01/08/eng-160108-red-velvet-wendy-2pm-date-radio-cut/) |
+| 160316 |       Good Morning FM       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                [YT](https://youtu.be/uOEsOothbwI)                                 |
 
 &#x200b;
 
