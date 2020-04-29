@@ -4,7 +4,7 @@ Markdown previewers might not show correctly as some of the files will use reddi
 
 ## Masterlists
 
-### [Drama](./drama.md) (Under Construction)
+### [Drama](./drama.md)
 ### [Livestreams](./livestreams.md)
 ### [Radio Shows](./radio_shows.md) (Under Construction)
 ### [Reality Shows](./reality_shows.md) (Under Construction)
