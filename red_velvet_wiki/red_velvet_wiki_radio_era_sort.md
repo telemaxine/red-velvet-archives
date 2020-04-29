@@ -35,48 +35,56 @@
 
 ## **Ice Cream Cake**
 
-|  Date  |                                                                    Title                                                                     | Members | Subbed |   Notes    |                                Link                                |
-|:------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|:------:|:----------:|:------------------------------------------------------------------:|
-| 150324 |                                                                Kiss the Radio                                                                |   OT5   |        |            |       [**Part 1**][150324_ktr01], [**Part 2**][150324_ktr02]       |
-| 150327 |                                                                  2 O'clock                                                                   |   OT5   |   No   |            | [YT](https://www.youtube.com/watch?v=fGQPROYgaRE&feature=youtu.be) |
-| 150330 |           [Old School Radio](https://www.reddit.com/r/red_velvet/comments/372u2r/150330_red_velvet_on_kim_changryuls_old_school/)            |   OT5   |        | no part 2? |               [Pt. 1](https://youtu.be/rJsJxFR7hko)                |
-| 150331 |                                       [Power Time Radio](https://www.youtube.com/watch?v=yvyu8iLRvMU)                                        |   OT5   |   No   |            |                                                                    |
-| 150401 |                                                              Youngstreet Radio                                                               |   OT5   |        |            |  [**Part 1**][150401_youngstr01], [**Part 2**][150401_youngstr02]  |
-| 150403 | [Kim Shin Young’s Hope Song at Noon](https://www.reddit.com/r/red_velvet/comments/340wds/150403_red_velvet_at_kim_shin_youngs_noon_song_of/) |   OT5   |        |            |                                                                    |
-| 150409 |                                          [Cultwo Show](https://www.youtube.com/watch?v=01KMqpivCCs)                                          |   OT5   |        |            |                                                                    |
-| 150410 |     [Shimshimtapa](https://www.youtube.com/watch?v=GXijObb8ziE) & [Gayo Plaza](https://www.youtube.com/watch?v=Fgr53daU1Qg) (**Audio**)      |   OT5   |   No   |            |                                                                    |
-| 150420 |                                [Sound K Radio](https://www.youtube.com/watch?v=utMEqWfjkEI&feature=youtu.be)                                 |   OT5   |        |            |                                                                    |
-| 150421 |                                   [Sunny's FM Date](http://www.dailymotion.com/video/x2okpzc) (**Audio**)                                    |   OT5   |        |            |                                                                    |
-| 150531 |                                  [Kiss The Radio](https://www.youtube.com/watch?v=CpT2b59g16U) (**Audio**)                                   |   WD    |        |            |                                                                    |
+|  Date  |               Title                | Members | Subbed |                    Notes                    |                                                     Link                                                      |
+|:------:|:----------------------------------:|:-------:|:------:|:-------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+| 150324 |           Kiss the Radio           |   OT5   |        |                                             |                            [**Part 1**][150324_ktr01], [**Part 2**][150324_ktr02]                             |
+| 150327 |             2 O'clock              |   OT5   |   No   |                                             |                      [YT](https://www.youtube.com/watch?v=fGQPROYgaRE&feature=youtu.be)                       |
+| 150330 |          Old School Radio          |   OT5   |        |                 no part 2?                  |                 [reddit post][150330_reddit_oldschool], [Pt. 1](https://youtu.be/rJsJxFR7hko)                 |
+| 150331 |          Power Time Radio          |   OT5   |   No   |            no full eng sub found            | [ICC cut][150331_powertime_icc_cut], [Irene cut][150331_powertime_ir_cut], [CHN Sub][150331_powertime_cn_sub] |
+| 150401 |         Youngstreet Radio          |   OT5   |        |                                             |                       [**Part 1**][150401_youngstr01], [**Part 2**][150401_youngstr02]                        |
+| 150403 | Kim Shin Young’s Hope Song at Noon |   OT5   |  Yes   | subbed by [Your One & Unnie][yourone_unnie] |        [Pt. 1][150403_ksy_hopesong01], [Pt. 2][150403_ksy_hopesong02], [Pt. 3][150403_ksy_hopesong03]         |
+| 150409 |            Cultwo Show             |   OT5   |        |                                             |                         [YT \(broken\)](https://www.youtube.com/watch?v=01KMqpivCCs)                          |
+| 150410 |            Shimshimtapa            |   OT5   |   No   |                                             |                         [YT \(broken\)](https://www.youtube.com/watch?v=GXijObb8ziE)                          |
+| 150410 |       Gayo Plaza (**Audio**)       |   OT5   |   No   |                                             |                         [YT \(broken\)](https://www.youtube.com/watch?v=Fgr53daU1Qg)                          |
+| 150420 |           Sound K Radio            |   OT5   |        |                                             |                 [YT \(broken\)](https://www.youtube.com/watch?v=utMEqWfjkEI&feature=youtu.be)                 |
+| 150421 |    Sunny's FM Date (**Audio**)     |   OT5   |        |                                             |                           [YT \(broken\)](http://www.dailymotion.com/video/x2okpzc)                           |
+| 150531 |     Kiss The Radio (**Audio**)     |   WD    |        |                                             |                                      [YT](https://youtu.be/CpT2b59g16U)                                       |
+
 &#x200b;
 
 [150324_ktr01]:https://www.youtube.com/watch?v=cM2VmhUCzN8
 [150324_ktr02]:https://www.youtube.com/watch?v=OzCJ630cmFY
+[150330_reddit_oldschool]:https://www.reddit.com/r/red_velvet/comments/372u2r/150330_red_velvet_on_kim_changryuls_old_school/
+[150331_powertime_cn_sub]:https://www.youtube.com/watch?v=2CdRooPAJ_M
+[150331_powertime_icc_cut]:https://youtu.be/TabsLZHSC8g
+[150331_powertime_ir_cut]:https://youtu.be/yEMU_s4dcSg
 [150401_youngstr01]:https://www.youtube.com/watch?v=yeHAB3G7VNs&feature=youtu.be
 [150401_youngstr02]:https://www.youtube.com/watch?v=UYkEmQbQdto
+[150403_ksy_hopesong01]:https://youtu.be/SyE1HpQkBpQ
+[150403_ksy_hopesong02]:https://youtu.be/TsQQhl78N2M
+[150403_ksy_hopesong03]:https://youtu.be/-JZt9cCMQkE
 
 
 ## **Dumb Dumb**
 
-|  Date  |                                             Title                                             | Members | Subbed |             Notes              |                                             Link                                             |
-|:------:|:---------------------------------------------------------------------------------------------:|:-------:|:------:|:------------------------------:|:--------------------------------------------------------------------------------------------:|
-| 150909 |         [Cultwo Show](https://www.youtube.com/watch?v=zVA8LAunWsY&feature=youtu.be&a)         |   OT5   |        |                                |                                                                                              |
-| 150915 |  [Park Kyunglim's 2PM Date](https://www.youtube.com/watch?v=20DCYjV91FY&feature=youtu.be&a)   |   OT5   |        |                                |                                                                                              |
-| 150917 |       [Kiss the Radio](https://www.youtube.com/watch?v=zu4cRHCrizo&feature=youtu.be&a)        |   OT5   |        |                                |                                                                                              |
-| 150924 |                                       Hope Song at Noon                                       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [DM](https://www.dailymotion.com/embed/video/k5xgSora34vVC4t7ic6),  [KB][150924_kb_hopesong] |
-| 150924 | [Kim Chang Ryul's Old School](https://www.youtube.com/watch?v=t87xt_S5HCs&feature=youtu.be&a) |   OT5   |        |                                |                                                                                              |
-| 151001 |                                        Sunny's FM Date                                        |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                              [YT](https://youtu.be/MMDrIq0AQgA)                              |
-| 151001 |         [VIXX N K-pop](https://www.youtube.com/watch?v=xRUFJNq6eos&feature=youtu.be)          |   OT5   |        |                                |                                                                                              |
-| 151001 |       [Sunny's FM Date](https://www.youtube.com/watch?v=MMDrIq0AQgA&feature=youtu.be&a)       |   OT5   |        |                                |                                                                                              |
-| 151013 |       [Kiss The Radio](https://www.youtube.com/watch?v=VLEURd2XtKM&feature=youtu.be&a)        |  SG,WD  |        |                                |                                                                                              |
-| 151014 |   [Tablo's Dreaming Radio](https://www.youtube.com/watch?v=GEAxtBj9GZM&feature=youtu.be&a)    |   OT5   |        |                                |                                                                                              |
-| 160106 |                                          SUJU's KTR                                           |  JO,YR  |        | subbed by [ReVelUp Subs][rvus] |                                              ?                                               |
-| 160108 |                                         2PM Date Cut                                          |   WD    |        | subbed by [ReVelUp Subs][rvus] |                                              ?                                               |
-| 160316 |                                        Good Morning FM                                        |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                              [YT](https://youtu.be/uOEsOothbwI)                              |
-| 160316 |       Good Morning FM ([Part 1][160316_goodmorning01], [Part 2][160316_goodmorning02])        |   OT5   |        |                                |                                                                                              |
+|  Date  |            Title            | Members | Subbed |             Notes              |                                             Link                                             |
+|:------:|:---------------------------:|:-------:|:------:|:------------------------------:|:--------------------------------------------------------------------------------------------:|
+| 150909 |         Cultwo Show         |   OT5   |        |                                |       [YT \(broken\)](https://www.youtube.com/watch?v=zVA8LAunWsY&feature=youtu.be&a)        |
+| 150915 |  Park Kyunglim's 2PM Date   |   OT5   |        |                                |                              [YT](https://youtu.be/20DCYjV91FY)                              |
+| 150917 |       Kiss the Radio        |   OT5   |        |                                |                              [YT](https://youtu.be/zu4cRHCrizo)                              |
+| 150924 |      Hope Song at Noon      |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [DM](https://www.dailymotion.com/embed/video/k5xgSora34vVC4t7ic6),  [KB][150924_kb_hopesong] |
+| 150924 | Kim Chang Ryul's Old School |   OT5   |        |                                |                              [YT](https://youtu.be/t87xt_S5HCs)                              |
+| 151001 |       Sunny's FM Date       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                              [YT](https://youtu.be/MMDrIq0AQgA)                              |
+| 151001 |        VIXX N K-pop         |   OT5   |  Yes   |           audio only           |                              [YT](https://youtu.be/xRUFJNq6eos)                              |
+| 151013 |       Kiss The Radio        |  SG,WD  |        |     Seulgi & Wendy as DJ's     |                              [YT](https://youtu.be/VLEURd2XtKM)                              |
+| 151014 |   Tablo's Dreaming Radio    |   OT5   |        |           audio only           |                              [YT](https://youtu.be/GEAxtBj9GZM)                              |
+| 160106 |         SUJU's KTR          |  JO,YR  |        | subbed by [ReVelUp Subs][rvus] |                                              ?                                               |
+| 160108 |        2PM Date Cut         |   WD    |        | subbed by [ReVelUp Subs][rvus] |                                              ?                                               |
+| 160316 |       Good Morning FM       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                              [YT](https://youtu.be/uOEsOothbwI)                              |
+
 &#x200b;
 
-[150924_kb_hopesong]:https://null
+[150924_kb_hopesong]:https://telemaxus.keybase.pub/rv/radio-shows/150924%20Red%20Velvet%20Hope%20Song%20at%20Noon.mp4
 [160316_goodmorning01]:https://www.youtube.com/watch?v=l-hNz8_wdFA
 [160316_goodmorning02]:https://www.youtube.com/watch?v=1gULSeDNW2c
 
@@ -118,7 +126,7 @@
 
 |  Date  |                                                    Title                                                     | Members | Subbed |             Notes              |                              Link                               |
 |:------:|:------------------------------------------------------------------------------------------------------------:|:-------:|:------:|:------------------------------:|:---------------------------------------------------------------:|
-| 160908 |                                                 Cultwo Show                                                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YT](https://youtu.be/yYWdQyDpzAA), [KB][KB_160908_cultwo_show] |
+| 160908 |                                                 Cultwo Show                                                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YT](https://youtu.be/yYWdQyDpzAA), [KB][160908_cultwo_show] |
 | 160908 |                 [Cultwo Show](https://www.youtube.com/watch?v=3AlUwjxjAkw&feature=youtu.be)                  |   OT5   |        |                                |                                                                 |
 | 160909 |                                                  SuJu’s KTR                                                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |               [YT](https://youtu.be/7XFrHF1ZPxU)                |
 | 160909 |        [Super Junior's Kiss the Radio](https://www.youtube.com/watch?v=-PqXqGmcPUA&feature=youtu.be)         |   OT5   |        |                                |                                                                 |
@@ -131,6 +139,7 @@
 
 &#x200b;
 
+[160908_cultwo_show]:https://telemaxus.keybase.pub/rv/radio-shows/160908%20%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3Red%20Velvet%20%40%20Cultwo%20Show.mkv
 
 ## **Rookie**
 
@@ -283,3 +292,4 @@
 [rookie_subs]:https://www.youtube.com/user/rookiessubs/videos
 [rvus]:https://revelupsubs.com/
 [warm_blue]:https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
+[yourone_unnie]:https://www.youtube.com/channel/UCF4K2A2ogB4Q-PbcZD2OHng
