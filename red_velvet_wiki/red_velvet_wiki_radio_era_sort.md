@@ -2,13 +2,13 @@
 
 ## **Happiness**
 
-|  Date  |             Title             |   Members   | Subbed |                 Notes                 |                      Link                       |
-|:------:|:-----------------------------:|:-----------:|:------:|:-------------------------------------:|:-----------------------------------------------:|
-| 140806 |       Old School Radio        | IR,JO,SG,WD |  Yes   | subbed by [Rookies Subs][rookie_subs] |       [YT](https://youtu.be/8oK75_pmuf8)        |
-| 140821 |         Cultwo Radio          |     OT5     |  Yes   |                                       |                [YT][140821_cul2]                |
-| 140821 |        Kiss the Radio         |     OT5     |  Yes   |                                       | [Part 1][140821_ktr01] / [Part 2][140821_ktr02] |
-| 140822 |    Lee Sora’s Music Plaza     |     OT5     |   No   |                                       |              [YT][140822_lee_sora]              |
-| 140831 | Youngstreet Radio (**Audio**) |     OT5     |   No   |                                       |            [YT][140831_youngstreet]             |
+|  Date  |         Title          |   Members   | Subbed |                 Notes                 |                     Link                      |
+|:------:|:----------------------:|:-----------:|:------:|:-------------------------------------:|:---------------------------------------------:|
+| 140806 |    Old School Radio    | IR,JO,SG,WD |  Yes   | subbed by [Rookies Subs][rookie_subs] |      [YT](https://youtu.be/8oK75_pmuf8)       |
+| 140821 |      Cultwo Radio      |     OT5     |  Yes   |                                       |               [YT][140821_cul2]               |
+| 140821 |     Kiss the Radio     |     OT5     |  Yes   |                                       | [Pt. 1][140821_ktr01] / [Pt. 2][140821_ktr02] |
+| 140822 | Lee Sora’s Music Plaza |     OT5     |   No   |                                       |             [YT][140822_lee_sora]             |
+| 140831 |   Youngstreet Radio    |     OT5     |   No   |                                       |           [YT][140831_youngstreet]            |
 
 &#x200b;
 
@@ -21,11 +21,11 @@
 
 ## **Be Natural**
 
-|  Date  |           Title            | Members | Subbed |                  Notes                  |                    Link                    |
-|:------:|:--------------------------:|:-------:|:------:|:---------------------------------------:|:------------------------------------------:|
-| 141024 |   Jonghyun's Blue Night    |   OT5   |  Yes   |     subbed by [ReVelUp Subs][rvus]      |     [YT](https://youtu.be/1HOJf2lcWCA)     |
-| 141101 |      Idol True Colors      |   OT5   |        | link to reddit post. videos are broken. | [Link \(broken\)][141101_idol_true_colors] |
-| 141114 | Kiss the Radio (**Audio**) |   SG    |   No   |                                         |              [YT][141114_ktr]              |
+|  Date  |         Title         | Members | Subbed |                  Notes                  |                    Link                    |
+|:------:|:---------------------:|:-------:|:------:|:---------------------------------------:|:------------------------------------------:|
+| 141024 | Jonghyun's Blue Night |   OT5   |  Yes   |     subbed by [ReVelUp Subs][rvus]      |     [YT](https://youtu.be/1HOJf2lcWCA)     |
+| 141101 |   Idol True Colors    |   OT5   |        | link to reddit post. videos are broken. | [Link \(broken\)][141101_idol_true_colors] |
+| 141114 |    Kiss the Radio     |   SG    |   No   |               audio only                |              [YT][141114_ktr]              |
 
 &#x200b;
 
@@ -37,18 +37,18 @@
 
 |  Date  |               Title                | Members | Subbed |                    Notes                    |                                                     Link                                                      |
 |:------:|:----------------------------------:|:-------:|:------:|:-------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
-| 150324 |           Kiss the Radio           |   OT5   |        |                                             |                            [**Part 1**][150324_ktr01], [**Part 2**][150324_ktr02]                             |
-| 150327 |             2 O'clock              |   OT5   |   No   |                                             |                      [YT](https://www.youtube.com/watch?v=fGQPROYgaRE&feature=youtu.be)                       |
-| 150330 |          Old School Radio          |   OT5   |        |                 no part 2?                  |                 [reddit post][150330_reddit_oldschool], [Pt. 1](https://youtu.be/rJsJxFR7hko)                 |
+| 150324 |           Kiss the Radio           |   OT5   |  Yes   |                                             |                                [Pt. 1][150324_ktr01], [Pt. 2][150324_ktr02]                                 |
+| 150327 |             2 O'clock              |   OT5   |   No   |                                             |                          [YT \(broken)](https://www.youtube.com/watch?v=fGQPROYgaRE)                          |
+| 150330 |          Old School Radio          |   OT5   |  Yes   |                 no part 2?                  |                 [reddit post][150330_reddit_oldschool], [Pt. 1](https://youtu.be/rJsJxFR7hko)                 |
 | 150331 |          Power Time Radio          |   OT5   |   No   |            no full eng sub found            | [ICC cut][150331_powertime_icc_cut], [Irene cut][150331_powertime_ir_cut], [CHN Sub][150331_powertime_cn_sub] |
-| 150401 |         Youngstreet Radio          |   OT5   |        |                                             |                       [**Part 1**][150401_youngstr01], [**Part 2**][150401_youngstr02]                        |
+| 150401 |         Youngstreet Radio          |   OT5   |  Yes   |                                             |                           [Pt. 1][150401_youngstr01], [Pt. 2][150401_youngstr02]                            |
 | 150403 | Kim Shin Young’s Hope Song at Noon |   OT5   |  Yes   | subbed by [Your One & Unnie][yourone_unnie] |        [Pt. 1][150403_ksy_hopesong01], [Pt. 2][150403_ksy_hopesong02], [Pt. 3][150403_ksy_hopesong03]         |
 | 150409 |            Cultwo Show             |   OT5   |        |                                             |                         [YT \(broken\)](https://www.youtube.com/watch?v=01KMqpivCCs)                          |
 | 150410 |            Shimshimtapa            |   OT5   |   No   |                                             |                         [YT \(broken\)](https://www.youtube.com/watch?v=GXijObb8ziE)                          |
-| 150410 |       Gayo Plaza (**Audio**)       |   OT5   |   No   |                                             |                         [YT \(broken\)](https://www.youtube.com/watch?v=Fgr53daU1Qg)                          |
-| 150420 |           Sound K Radio            |   OT5   |        |                                             |                 [YT \(broken\)](https://www.youtube.com/watch?v=utMEqWfjkEI&feature=youtu.be)                 |
-| 150421 |    Sunny's FM Date (**Audio**)     |   OT5   |        |                                             |                           [YT \(broken\)](http://www.dailymotion.com/video/x2okpzc)                           |
-| 150531 |     Kiss The Radio (**Audio**)     |   WD    |        |                                             |                                      [YT](https://youtu.be/CpT2b59g16U)                                       |
+| 150410 |             Gayo Plaza             |   OT5   |   No   |                 audio only                  |                         [YT \(broken\)](https://www.youtube.com/watch?v=Fgr53daU1Qg)                          |
+| 150420 |           Sound K Radio            |   OT5   |        |                                             |                         [YT \(broken\)](https://www.youtube.com/watch?v=utMEqWfjkEI)                          |
+| 150421 |          Sunny's FM Date           |   OT5   |        |                 audio only                  |                           [YT \(broken\)](http://www.dailymotion.com/video/x2okpzc)                           |
+| 150531 |           Kiss The Radio           |   WD    |        |                 audio only                  |                                      [YT](https://youtu.be/CpT2b59g16U)                                       |
 
 &#x200b;
 
@@ -70,14 +70,14 @@
 |  Date  |            Title            | Members | Subbed |             Notes              |                                             Link                                             |
 |:------:|:---------------------------:|:-------:|:------:|:------------------------------:|:--------------------------------------------------------------------------------------------:|
 | 150909 |         Cultwo Show         |   OT5   |        |                                |       [YT \(broken\)](https://www.youtube.com/watch?v=zVA8LAunWsY&feature=youtu.be&a)        |
-| 150915 |  Park Kyunglim's 2PM Date   |   OT5   |        |                                |                              [YT](https://youtu.be/20DCYjV91FY)                              |
-| 150917 |       Kiss the Radio        |   OT5   |        |                                |                              [YT](https://youtu.be/zu4cRHCrizo)                              |
+| 150915 |  Park Kyunglim's 2PM Date   |   OT5   |  Yes   |                                |                              [YT](https://youtu.be/20DCYjV91FY)                              |
+| 150917 |       Kiss the Radio        |   OT5   |  Yes   |                                |                              [YT](https://youtu.be/zu4cRHCrizo)                              |
 | 150924 |      Hope Song at Noon      |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [DM](https://www.dailymotion.com/embed/video/k5xgSora34vVC4t7ic6),  [KB][150924_kb_hopesong] |
-| 150924 | Kim Chang Ryul's Old School |   OT5   |        |                                |                              [YT](https://youtu.be/t87xt_S5HCs)                              |
+| 150924 | Kim Chang Ryul's Old School |   OT5   |  Yes   |                                |                              [YT](https://youtu.be/t87xt_S5HCs)                              |
 | 151001 |       Sunny's FM Date       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                              [YT](https://youtu.be/MMDrIq0AQgA)                              |
 | 151001 |        VIXX N K-pop         |   OT5   |  Yes   |           audio only           |                              [YT](https://youtu.be/xRUFJNq6eos)                              |
-| 151013 |       Kiss The Radio        |  SG,WD  |        |     Seulgi & Wendy as DJ's     |                              [YT](https://youtu.be/VLEURd2XtKM)                              |
-| 151014 |   Tablo's Dreaming Radio    |   OT5   |        |           audio only           |                              [YT](https://youtu.be/GEAxtBj9GZM)                              |
+| 151013 |       Kiss The Radio        |  SG,WD  |  Yes   |     Seulgi & Wendy as DJ's     |                              [YT](https://youtu.be/VLEURd2XtKM)                              |
+| 151014 |   Tablo's Dreaming Radio    |   OT5   |  Yes   |           audio only           |                              [YT](https://youtu.be/GEAxtBj9GZM)                              |
 | 160106 |         SUJU's KTR          |  JO,YR  |        | subbed by [ReVelUp Subs][rvus] |                                              ?                                               |
 | 160108 |        2PM Date Cut         |   WD    |        | subbed by [ReVelUp Subs][rvus] |                                              ?                                               |
 | 160316 |       Good Morning FM       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                              [YT](https://youtu.be/uOEsOothbwI)                              |
