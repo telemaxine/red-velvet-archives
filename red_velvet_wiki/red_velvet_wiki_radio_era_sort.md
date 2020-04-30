@@ -91,51 +91,41 @@
 
 ## **One of these Nights**
 
-|  Date  |                                                  Title                                                   |     Members      | Subbed |             Notes              |                                              Link                                               |
-|:------:|:--------------------------------------------------------------------------------------------------------:|:----------------:|:------:|:------------------------------:|:-----------------------------------------------------------------------------------------------:|
-| 160317 |                                              FM Date Radio                                               |       OT5        |  Yes   | subbed by [ReVelUp Subs][rvus] |                               [YT](https://youtu.be/9ZTZFWi5HRc)                                |
-| 160317 |                                          Cultwo Show (Gift 1C)                                           |       OT5        |        | subbed by [ReVelUp Subs][rvus] | [RVUP \(?\)](https://revelupsubs.com/2016/03/17/eng-sub-160317-red-velvet-cultwo-show-gift-1c/) |
-| 160317 |                        [Cultwo Show](https://www.youtube.com/watch?v=llkDMGXzpZU)                        |       OT5        |        |                                |                                                                                                 |
-| 160317 |                 [FM Date](https://www.youtube.com/watch?v=3eeFvqYVrvU&feature=youtu.be)                  |       OT5        |        |                                |                                                                                                 |
-| 160320 |                                            Kpop Planet Radio                                             |     JO,WD,YR     |  Yes   | subbed by [ReVelUp Subs][rvus] |                               [YT](https://youtu.be/cV0W500fyfc)                                |
-| 160320 |           [KBS K-POP Planet][160320_kpop_planet] ([Individual Cams][160320_kpop_planet_cams])            |     WD,JO,YR     |        |                                |                                                                                                 |
-| 160321 |                                             Old School Radio                                             |       OT5        |  Yes   | subbed by [ReVelUp Subs][rvus] |                               [YT](https://youtu.be/eLwQkvbgzNo)                                |
-| 160321 |                                            Super Junior’s KTR                                            |       OT5        |  Yes   | subbed by [ReVelUp Subs][rvus] |                               [YT](https://youtu.be/7-O7LfWrz-Y)                                |
-| 160321 |              [Kiss The Radio](https://www.youtube.com/watch?v=hNRwI93iE5w&feature=youtu.be)              |       OT5        |        |                                |                                                                                                 |
-| 160321 |             [Old School Radio](https://www.youtube.com/watch?v=h72Hx6F98kk&feature=youtu.be)             |       OT5        |        |                                |                                                                                                 |
-| 160324 |                                            Hope Song at Noon                                             |       OT5        |  Yes   | subbed by [ReVelUp Subs][rvus] |                               [YT](https://youtu.be/4vaszRLn7iA)                                |
-| 160324 |            [Noon Song of Hope](https://www.youtube.com/watch?v=Fco6DM55cRs&feature=youtu.be)             |       OT5        |        |                                |                                                                                                 |
-| 160325 |                                             PSH’s Love Game                                              |       OT5        |  Yes   | subbed by [ReVelUp Subs][rvus] |                               [YT](https://youtu.be/g0cIG9CU_fE)                                |
-| 160325 |                                        A Night Like Today w/ JYW                                         |       OT5        |  Yes   | subbed by [ReVelUp Subs][rvus] |                               [YT](https://youtu.be/F4uJaCWX7AU)                                |
-| 160325 |                [Love Game](https://www.youtube.com/watch?v=kJWpkHGmp7M&feature=youtu.be)                 |       OT5        |        |                                |                                                                                                 |
-| 160325 |           [A Night Like Tonight](https://www.youtube.com/watch?v=-WjV9IwTel4&feature=youtu.be)           |       OT5        |        |                                |                                                                                                 |
-| 160331 |                                            Tei’s Dreamy Radio                                            |       OT5        |  Yes   | subbed by [ReVelUp Subs][rvus] |                               [YT](https://youtu.be/zC8YiedhXBc)                                |
-| 160331 |           [Tei's Dreaming Radio](https://www.youtube.com/watch?v=jemV6kwOYQc&feature=youtu.be)           |       OT5        |        |                                |                                                                                                 |
-| 160417 |          [MY FM Music Station](http://tvpot.daum.net/v/v2afdPeQPTq8R5OOxBRRwCq) (**Unsubbed**)           |       OT5        |        |                                |                                                                                                 |
-| 160425 |                                              KTR Prank Call                                              |       OT5        |  Yes   | subbed by [ReVelUp Subs][rvus] |                               [YT](https://youtu.be/esgeJlzNhak)                                |
-| 160523 |                                                BSJ’s TEN                                                 |      JO,WD       |  Yes   | subbed by [ReVelUp Subs][rvus] |                               [YT](https://youtu.be/3WOMGU4aALs)                                |
-| 160523 | [Ten Radio](https://www.youtube.com/watch?v=NJ3PYW_7HqM&list=PL5i2bGSPLJCud1Jqic6CnfKF-oVk6uiz6&index=1) |      WD,JO       |        |                                |                                                                                                 |
+|  Date  |           Title           | Members  | Subbed |             Notes              |                                                                               Link                                                                                |
+|:------:|:-------------------------:|:--------:|:------:|:------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 160317 |       FM Date Radio       |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/9ZTZFWi5HRc)                                                                 |
+| 160317 |   Cultwo Show (Gift 1C)   |   OT5    |        | subbed by [ReVelUp Subs][rvus] | [RVUP \(broken\)](https://revelupsubs.com/2016/03/17/eng-sub-160317-red-velvet-cultwo-show-gift-1c/), [YT\(broken\)](https://www.youtube.com/watch?v=llkDMGXzpZU) |
+| 160317 |          FM Date          |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                         [YT](https://www.youtube.com/watch?v=llkDMGXzpZU)                                                         |
+| 160320 |     Kpop Planet Radio     | JO,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |                 [YT][160320_kpop_planet], [Wendy Cam][160320_kpop_planet_wd], [Joy Cam][160320_kpop_planet_jo], [Yeri Cam][160320_kpop_planet_yr]                 |
+| 160321 |     Old School Radio      |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/eLwQkvbgzNo)                                                                 |
+| 160321 |    Super Junior’s KTR     |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/7-O7LfWrz-Y)                                                                 |
+| 160324 |     Hope Song at Noon     |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/4vaszRLn7iA)                                                                 |
+| 160325 |      PSH’s Love Game      |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/g0cIG9CU_fE)                                                                 |
+| 160325 | A Night Like Today w/ JYW |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/F4uJaCWX7AU)                                                                 |
+| 160331 |    Tei’s Dreamy Radio     |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/zC8YiedhXBc)                                                                 |
+| 160417 |    MY FM Music Station    |   OT5    |   No   |                                |                                                [Daum \(broken\)](http://tvpot.daum.net/v/v2afdPeQPTq8R5OOxBRRwCq)                                                 |
+| 160425 |      KTR Prank Call       |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/esgeJlzNhak)                                                                 |
+| 160523 |      BSJ’s TEN Radio      |  JO,WD   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/3WOMGU4aALs)                                                                 |
 
 &#x200b;
 
-[160320_kpop_planet]:https://www.youtube.com/watch?v=lcVk9IJUo1o
+[160320_kpop_planet]:https://youtu.be/cV0W500fyfc
+[160320_kpop_planet_wd]:https://youtu.be/gkvTdZ-7vJY
+[160320_kpop_planet_jo]:https://youtu.be/gUcrdfPiVBo
+[160320_kpop_planet_yr]:https://youtu.be/2qMgiWZEPOU
 [160320_kpop_planet_cams]:https://www.reddit.com/r/red_velvet/comments/4dk67u/160320_kpop_planet_radio_individual_cams/
 
 
 ## **Russian Roulette**
 
-|  Date  |                                                    Title                                                     | Members | Subbed |             Notes              |                             Link                             |
-|:------:|:------------------------------------------------------------------------------------------------------------:|:-------:|:------:|:------------------------------:|:------------------------------------------------------------:|
-| 160908 |                                                 Cultwo Show                                                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YT](https://youtu.be/yYWdQyDpzAA), [KB][160908_cultwo_show] |
-| 160908 |                 [Cultwo Show](https://www.youtube.com/watch?v=3AlUwjxjAkw&feature=youtu.be)                  |   OT5   |        |                                |                                                              |
-| 160909 |                                                  SuJu’s KTR                                                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/7XFrHF1ZPxU)              |
-| 160909 |        [Super Junior's Kiss the Radio](https://www.youtube.com/watch?v=-PqXqGmcPUA&feature=youtu.be)         |   OT5   |        |                                |                                                              |
-| 160911 |                                               Self Reflection                                                |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/XCmM2OYkF3s)              |
-| 160913 |                                               Power Time Radio                                               |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/5r9UsfQszkA)              |
-| 160913 |  [Choi Hwajung's Power Time](https://www.reddit.com/r/red_velvet/comments/54xxwg/160913_power_time_radio/)   |   OT5   |        |                                |                                                              |
-| 160913 | [Heo Kyung-hwan's Starry Night](https://www.youtube.com/watch?v=TjckrQ42HKk&feature=youtu.be) (**Unsubbed**) |   OT5   |        |                                |                                                              |
-| 170131 |                                 MelOn Radio Star DJ “Velvet Red Mine” Ep. 1                                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                              YT                              |
-| 170131 |            [MelOn Radio Star DJ Season 1 Episode 1](https://www.youtube.com/watch?v=-i7L_ZpGkeM)             |   OT5   |        |                                |                                                              |
+|  Date  |                    Title                     | Members | Subbed |             Notes              |                             Link                             |
+|:------:|:--------------------------------------------:|:-------:|:------:|:------------------------------:|:------------------------------------------------------------:|
+| 160908 |                 Cultwo Show                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YT](https://youtu.be/yYWdQyDpzAA), [KB][160908_cultwo_show] |
+| 160909 |                  SuJu’s KTR                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/7XFrHF1ZPxU)              |
+| 160911 |               Self Reflection                |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/XCmM2OYkF3s)              |
+| 160913 |               Power Time Radio               |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/5r9UsfQszkA)              |
+| 160913 | Heo Kyung-hwan's Starry Night (**Unsubbed**) |   OT5   |   No   |                                | [YT\(broken\)](https://www.youtube.com/watch?v=TjckrQ42HKk)  |
+| 170131 | MelOn Radio Star DJ “Velvet Red Mine” Ep. 1  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/6SSBCcxnEW4)              |
 
 &#x200b;
 
