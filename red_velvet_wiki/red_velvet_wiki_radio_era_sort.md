@@ -118,14 +118,14 @@
 
 ## **Russian Roulette**
 
-|  Date  |                    Title                     | Members | Subbed |             Notes              |                             Link                             |
-|:------:|:--------------------------------------------:|:-------:|:------:|:------------------------------:|:------------------------------------------------------------:|
-| 160908 |                 Cultwo Show                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YT](https://youtu.be/yYWdQyDpzAA), [KB][160908_cultwo_show] |
-| 160909 |                  SuJu’s KTR                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/7XFrHF1ZPxU)              |
-| 160911 |               Self Reflection                |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/XCmM2OYkF3s)              |
-| 160913 |               Power Time Radio               |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/5r9UsfQszkA)              |
-| 160913 | Heo Kyung-hwan's Starry Night (**Unsubbed**) |   OT5   |   No   |                                | [YT\(broken\)](https://www.youtube.com/watch?v=TjckrQ42HKk)  |
-| 170131 | MelOn Radio Star DJ “Velvet Red Mine” Ep. 1  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/6SSBCcxnEW4)              |
+|  Date  |                    Title                    | Members | Subbed |             Notes              |                             Link                             |
+|:------:|:-------------------------------------------:|:-------:|:------:|:------------------------------:|:------------------------------------------------------------:|
+| 160908 |                 Cultwo Show                 |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YT](https://youtu.be/yYWdQyDpzAA), [KB][160908_cultwo_show] |
+| 160909 |                 SuJu’s KTR                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/7XFrHF1ZPxU)              |
+| 160911 |               Self Reflection               |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/XCmM2OYkF3s)              |
+| 160913 |              Power Time Radio               |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/5r9UsfQszkA)              |
+| 160913 |        Heo Kyung-hwan's Starry Night        |   OT5   |   No   |                                | [YT\(broken\)](https://www.youtube.com/watch?v=TjckrQ42HKk)  |
+| 170131 | MelOn Radio Star DJ “Velvet Red Mine” Ep. 1 |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/6SSBCcxnEW4)              |
 
 &#x200b;
 
