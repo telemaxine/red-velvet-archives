@@ -47,7 +47,7 @@
 | 150410 |            Shimshimtapa            |   OT5   |   No   |                                             |                         [YT \(broken\)](https://www.youtube.com/watch?v=GXijObb8ziE)                          |
 | 150410 |             Gayo Plaza             |   OT5   |   No   |                 audio only                  |                         [YT \(broken\)](https://www.youtube.com/watch?v=Fgr53daU1Qg)                          |
 | 150420 |           Sound K Radio            |   OT5   |        |                                             |                         [YT \(broken\)](https://www.youtube.com/watch?v=utMEqWfjkEI)                          |
-| 150421 |          Sunny's FM Date           |   OT5   |        |                 audio only                  |                           [YT \(broken\)](http://www.dailymotion.com/video/x2okpzc)                           |
+| 150421 |          Sunny's FM Date           |   OT5   |        |                 audio only                  |                           [DM \(broken\)](http://www.dailymotion.com/video/x2okpzc)                           |
 | 150531 |           Kiss The Radio           |   WD    |        |                 audio only                  |                                      [YT](https://youtu.be/CpT2b59g16U)                                       |
 
 &#x200b;
@@ -124,18 +124,18 @@
 
 ## **Russian Roulette**
 
-|  Date  |                                                    Title                                                     | Members | Subbed |             Notes              |                              Link                               |
-|:------:|:------------------------------------------------------------------------------------------------------------:|:-------:|:------:|:------------------------------:|:---------------------------------------------------------------:|
+|  Date  |                                                    Title                                                     | Members | Subbed |             Notes              |                             Link                             |
+|:------:|:------------------------------------------------------------------------------------------------------------:|:-------:|:------:|:------------------------------:|:------------------------------------------------------------:|
 | 160908 |                                                 Cultwo Show                                                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YT](https://youtu.be/yYWdQyDpzAA), [KB][160908_cultwo_show] |
-| 160908 |                 [Cultwo Show](https://www.youtube.com/watch?v=3AlUwjxjAkw&feature=youtu.be)                  |   OT5   |        |                                |                                                                 |
-| 160909 |                                                  SuJu’s KTR                                                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |               [YT](https://youtu.be/7XFrHF1ZPxU)                |
-| 160909 |        [Super Junior's Kiss the Radio](https://www.youtube.com/watch?v=-PqXqGmcPUA&feature=youtu.be)         |   OT5   |        |                                |                                                                 |
-| 160911 |                                               Self Reflection                                                |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |               [YT](https://youtu.be/XCmM2OYkF3s)                |
-| 160913 |                                               Power Time Radio                                               |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |               [YT](https://youtu.be/5r9UsfQszkA)                |
-| 160913 |  [Choi Hwajung's Power Time](https://www.reddit.com/r/red_velvet/comments/54xxwg/160913_power_time_radio/)   |   OT5   |        |                                |                                                                 |
-| 160913 | [Heo Kyung-hwan's Starry Night](https://www.youtube.com/watch?v=TjckrQ42HKk&feature=youtu.be) (**Unsubbed**) |   OT5   |        |                                |                                                                 |
-| 170131 |                                 MelOn Radio Star DJ “Velvet Red Mine” Ep. 1                                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                               YT                                |
-| 170131 |            [MelOn Radio Star DJ Season 1 Episode 1](https://www.youtube.com/watch?v=-i7L_ZpGkeM)             |   OT5   |        |                                |                                                                 |
+| 160908 |                 [Cultwo Show](https://www.youtube.com/watch?v=3AlUwjxjAkw&feature=youtu.be)                  |   OT5   |        |                                |                                                              |
+| 160909 |                                                  SuJu’s KTR                                                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/7XFrHF1ZPxU)              |
+| 160909 |        [Super Junior's Kiss the Radio](https://www.youtube.com/watch?v=-PqXqGmcPUA&feature=youtu.be)         |   OT5   |        |                                |                                                              |
+| 160911 |                                               Self Reflection                                                |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/XCmM2OYkF3s)              |
+| 160913 |                                               Power Time Radio                                               |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/5r9UsfQszkA)              |
+| 160913 |  [Choi Hwajung's Power Time](https://www.reddit.com/r/red_velvet/comments/54xxwg/160913_power_time_radio/)   |   OT5   |        |                                |                                                              |
+| 160913 | [Heo Kyung-hwan's Starry Night](https://www.youtube.com/watch?v=TjckrQ42HKk&feature=youtu.be) (**Unsubbed**) |   OT5   |        |                                |                                                              |
+| 170131 |                                 MelOn Radio Star DJ “Velvet Red Mine” Ep. 1                                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                              YT                              |
+| 170131 |            [MelOn Radio Star DJ Season 1 Episode 1](https://www.youtube.com/watch?v=-i7L_ZpGkeM)             |   OT5   |        |                                |                                                              |
 
 &#x200b;
 
