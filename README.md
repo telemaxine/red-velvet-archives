@@ -37,13 +37,13 @@ files formatted specifically for use in [/r/red_velvet wiki][rvwiki]
 
 Tools used to document and archive for this list
 
-* [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com/) - for formatting all the markdown files in this project. Useful addons below.
   * [Markdown All-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   * [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
   * [Mardown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify)
   * [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
-* [Youtube-dl](https://github.com/ytdl-org/youtube-dl)
-* [ripme](https://github.com/RipMeApp/ripme)
+* [Youtube-dl](https://github.com/ytdl-org/youtube-dl) - to extract media files primarily from youtube and [other video sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html) that the application supports
+* [ripme](https://github.com/RipMeApp/ripme) - to extract from the members instagram accounts
 
 &#x200b;
 
