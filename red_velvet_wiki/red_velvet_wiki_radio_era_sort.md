@@ -181,20 +181,15 @@
 
 ## **Bad Boy**
 
-|  Date  |                                                         Title                                                          |       Members        | Subbed |             Notes              | Link |
-|:------:|:----------------------------------------------------------------------------------------------------------------------:|:--------------------:|:------:|:------------------------------:|:----:|
-| 180205 |                                                       Power Time                                                       |         OT5          |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 180205 |                                                      Starry Night                                                      |         OT5          |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 180205 |                           [Choi Hwa-Jeong’s Power Time Radio](https://youtu.be/HrsAZbMTzoo)                            | Seulgi, Irene, Wendy |        |                                |      |
-| 180205 |                       [Kangta's Starry Night Radio](https://www.youtube.com/watch?v=aLJPVd_U2PE)                       | Seulgi, Irene, Wendy |        |                                |      |
-| 180206 |                                                   NCT’s Night Night                                                    |        IR,YR         |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 180206 |                                   [NCT's Night Night Radio](https://t.co/DcBqvAQ55l)                                   |     Irene, Yeri      |        |                                |      |
-| 180207 |                                                        FM Date                                                         |         OT5          |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 180207 |                        [Jung Yumi's FM Date Radio](https://www.youtube.com/watch?v=S9M0P57xy4s)                        |     Without Joy      |        |                                |      |
-| 180207 |           [Kim Chang Ryul's Old School Radio](https://www.youtube.com/watch?v=rY57Bx7hvfY&feature=youtu.be)            |     Without Joy      |        |                                |      |
-| 180208 |                                                   Hope Song at Noon                                                    |         OT5          |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 180208 | [Kim Shin Young's Noon Song of Hope Radio](http://revelupsubs.com/2018/02/08/eng-180208-red-velvet-hope-song-at-noon/) |         OT5          |        |                                |      |
-| 180416 |                [Young Street Radio](https://drive.google.com/open?id=1e_XG5I_cp_tJ8XXbwC80jpXBWuSJyp0e)                |        Wendy         |        |                                |      |
+|  Date  |               Title               |   Members   | Subbed |             Notes              |                                                     Link                                                     |
+|:------:|:---------------------------------:|:-----------:|:------:|:------------------------------:|:------------------------------------------------------------------------------------------------------------:|
+| 180205 |            Power Time             |  IR,SG,WD   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                      [YT](https://youtu.be/4lWOb9cYy6M)                                      |
+| 180205 |           Starry Night            |  IR,SG,WD   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                      [YT](https://youtu.be/x5no-mMsdgI)                                      |
+| 180206 |         NCT’s Night Night         |    IR,YR    |   No   |                                |                                      [YT](https://youtu.be/H4RfdAbCNpE)                                      |
+| 180207 |              FM Date              | IR,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |                                      [YT](https://youtu.be/ABJXPckPaKI)                                      |
+| 180207 | Kim Chang Ryul's Old School Radio | IR,SG,WD,YR |   No   |                                |                                      [YT](https://youtu.be/rY57Bx7hvfY)                                      |
+| 180208 |         Hope Song at Noon         |     OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] |                                      [YT](https://youtu.be/pvGrV3T5cpM)                                      |
+| 180416 |        Young Street Radio         |     WD      |   No   |     guesting with Eric Nam     | [YT](https://youtu.be/qcdgbgoJCVQ), [SG](https://drive.google.com/open?id=1e_XG5I_cp_tJ8XXbwC80jpXBWuSJyp0e) |
 
 &#x200b;
 
