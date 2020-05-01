@@ -189,7 +189,7 @@
 | 180207 |              FM Date              | IR,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |                                      [YT](https://youtu.be/ABJXPckPaKI)                                      |
 | 180207 | Kim Chang Ryul's Old School Radio | IR,SG,WD,YR |   No   |                                |                                      [YT](https://youtu.be/rY57Bx7hvfY)                                      |
 | 180208 |         Hope Song at Noon         |     OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] |                                      [YT](https://youtu.be/pvGrV3T5cpM)                                      |
-| 180416 |        Young Street Radio         |     WD      |   No   |     guesting with Eric Nam     | [YT](https://youtu.be/qcdgbgoJCVQ), [SG](https://drive.google.com/open?id=1e_XG5I_cp_tJ8XXbwC80jpXBWuSJyp0e) |
+| 180416 |        Young Street Radio         |     WD      |   No   |     guesting with Eric Nam     | [YT](https://youtu.be/qcdgbgoJCVQ), [GD](https://drive.google.com/open?id=1e_XG5I_cp_tJ8XXbwC80jpXBWuSJyp0e) |
 
 &#x200b;
 
