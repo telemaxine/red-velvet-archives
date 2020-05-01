@@ -106,6 +106,8 @@
 | 160417 |    MY FM Music Station    |   OT5    |   No   |                                |                                                [Daum \(broken\)](http://tvpot.daum.net/v/v2afdPeQPTq8R5OOxBRRwCq)                                                 |
 | 160425 |      KTR Prank Call       |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/esgeJlzNhak)                                                                 |
 | 160523 |      BSJ’s TEN Radio      |  JO,WD   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/3WOMGU4aALs)                                                                 |
+| 160317 |   Cultwo Show (Gift 1C)   |   OT5    |        | subbed by [ReVelUp Subs][rvus] | [RVUS \(broken\)](https://revelupsubs.com/2016/03/17/eng-sub-160317-red-velvet-cultwo-show-gift-1c/), [YT\(broken\)](https://www.youtube.com/watch?v=llkDMGXzpZU), [DM](https://www.dailymotion.com/video/x6ry8u3) |
+| 160317 |   Cultwo Show (Gift 1C)   |   OT5    |        | subbed by [ReVelUp Subs][rvus] |                                          [DM](https://www.dailymotion.com/video/x6ry8u3)                                          |
 
 &#x200b;
 
