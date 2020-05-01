@@ -95,7 +95,6 @@
 |:------:|:-------------------------:|:--------:|:------:|:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | 160317 |       FM Date Radio       |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                [YT](https://youtu.be/9ZTZFWi5HRc)                                                 |
 | 160317 |   Cultwo Show (Gift 1C)   |   OT5    |        | subbed by [ReVelUp Subs][rvus] |                                          [DM](https://www.dailymotion.com/video/x6ry8u3)                                          |
-| 160317 |          FM Date          |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                         [YT](https://www.youtube.com/watch?v=llkDMGXzpZU)                                         |
 | 160320 |     Kpop Planet Radio     | JO,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] | [YT][160320_kpop_planet], [Wendy Cam][160320_kpop_planet_wd], [Joy Cam][160320_kpop_planet_jo], [Yeri Cam][160320_kpop_planet_yr] |
 | 160321 |     Old School Radio      |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                [YT](https://youtu.be/eLwQkvbgzNo)                                                 |
 | 160321 |    Super Junior’s KTR     |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                [YT](https://youtu.be/7-O7LfWrz-Y)                                                 |
