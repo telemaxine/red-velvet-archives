@@ -150,17 +150,13 @@
 
 ## **Red Flavor**
 
-|  Date  |                                                 Title                                                  |    Members    | Subbed |             Notes              | Link |
-|:------:|:------------------------------------------------------------------------------------------------------:|:-------------:|:------:|:------------------------------:|:----:|
-| 170710 |                             Melon Radio Star DJ “Velvet Red Mine” S2 EP. 2                             |      OT5      |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 170710 | [MelOn Radio Star DJ Season 2 Episode 2](https://www.youtube.com/watch?v=XFIxeYxcB3A&feature=youtu.be) |               |        |                                |      |
-| 170725 |                                               Gayo Plaza                                               |      OT5      |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 170725 |            [Gayo Plaza Radio](https://www.youtube.com/watch?v=G8seuy11AjE&feature=youtu.be)            | Without Irene |        |                                |      |
-| 170822 |                                              Dreamy Radio                                              |      OT5      |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 170822 |              [Dreamy Radio](https://www.youtube.com/watch?v=ZTOmLKvkT6s&feature=youtu.be)              | Without Irene |        |                                |      |
-| 170823 |                                           Hope Song at Noon                                            |      OT5      |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 170823 |                 [Hope Song at Noon Radio](https://www.youtube.com/watch?v=7r9ukZiMwlg)                 |      OT5      |        |                                |      |
-| 170823 |            [Old School Radio](https://www.youtube.com/watch?v=dCyTm2zRd_k&feature=youtu.be)            |      OT5      |        |                                |      |
+|  Date  |                     Title                      |   Members   | Subbed |             Notes              |                             Link                             |
+|:------:|:----------------------------------------------:|:-----------:|:------:|:------------------------------:|:------------------------------------------------------------:|
+| 170710 | Melon Radio Star DJ “Velvet Red Mine” S2 EP. 2 |     OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/WtxMYfBmoew)              |
+| 170725 |                   Gayo Plaza                   | JO,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/GYBLZ_DS1SU)              |
+| 170822 |                  Dreamy Radio                  | JO,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/ql2voboyDFo)              |
+| 170823 |               Hope Song at Noon                |     OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] |              [YT](https://youtu.be/WV691_qPXdU)              |
+| 170823 |                Old School Radio                |     OT5     |        |                                | [YT \(broken\)](https://www.youtube.com/watch?v=dCyTm2zRd_k) |
 
 &#x200b;
 
