@@ -162,32 +162,22 @@
 
 ## **Peek-a-boo**
 
-|  Date  |                                                Title                                                 |    Members     | Subbed |             Notes              | Link |
-|:------:|:----------------------------------------------------------------------------------------------------:|:--------------:|:------:|:------------------------------:|:----:|
-| 171120 |                                          Young Street Radio                                          |      OT5       |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 171120 |   [Lee Guk Joo’s Youngstreet Radio](https://www.youtube.com/watch?v=OsLDWwKgJtw&feature=youtu.be)    |      OT5       |        |                                |      |
-| 171121 |                                           Love Game Radio                                            |      OT5       |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 171121 |                                          Bae Sungjae’s Ten                                           |     SE,WD      |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 171121 |     [Love Game Radio](http://revelupsubs.com/2017/11/21/eng-171121-red-velvet-love-game-radio/)      |      OT5       |        |                                |      |
-| 171121 | [Bae Sungjae’s Ten Radio](http://revelupsubs.com/2017/11/21/eng-171121-red-velvet-bae-sungjaes-ten/) | Seulgi & Wendy |        |                                |      |
-| 171122 |                                           Old School Radio                                           |      OT5       |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 171122 |                                          NCT’s Night Night                                           |      OT5       |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 171122 |    [Old School Radio](http://revelupsubs.com/2017/11/22/eng-171122-red-velvet-old-school-radio/)     |      OT5       |        |                                |      |
-| 171122 |   [Night Night! Radio](http://revelupsubs.com/2017/11/22/eng-171122-red-velvet-ncts-night-night/)    |      OT5       |        |                                |      |
-| 171123 |                                             Cultwo Show                                              |      OT5       |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 171123 |         [Cultwo Show](http://revelupsubs.com/2017/11/23/eng-171123-red-velvet-cultwo-show/)          |      OT5       |        |                                |      |
-| 171128 |                                        Kangta’s Starry Night                                         |      OT5       |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 171128 |    [Starry Night](http://revelupsubs.com/2017/11/28/eng-171128-red-velvet-kangtas-starry-night/)     |      OT5       |        |                                |      |
-| 180115 |                                     NCT’s Night Night Special DJ                                     |       WD       |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 180115 |                            [NCT's Night Night Radio][180115_night_night]                             |  Wendy as DJ   |        |                                |      |
-| 180117 |                            [NCT's Night Night Radio][180117_night_night]                             |  Wendy as DJ   |        |                                |      |
-| 180117 |                            NCT’s Night Night Special DJ w/ Chungha & MXM                             |       WD       |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
+|  Date  |                     Title                     | Members | Subbed |             Notes              |                                                               Link                                                               |
+|:------:|:---------------------------------------------:|:-------:|:------:|:------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
+| 171120 |              Young Street Radio               |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [Pt. 1](https://www.dailymotion.com/video/x6ryit1), [Pt. 2](https://www.dailymotion.com/video/x6rycrr)              |
+| 171121 |                Love Game Radio                |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                         [DM](https://www.dailymotion.com/video/x6rybw9)                                          |
+| 171121 |               Bae Sungjae’s Ten               |  SE,WD  |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                [YT](https://youtu.be/sJo3E1GzHE0)                                                |
+| 171122 |               Old School Radio                |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                         [DM](https://www.dailymotion.com/video/x7qi50n)                                          |
+| 171122 |               NCT’s Night Night               |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                 [RVUS][171122_rvus_night_night], [MEGA][171122_mega_night_night]                                 |
+| 171123 |                  Cultwo Show                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                     [RVUS \(broken\)](http://revelupsubs.com/2017/11/23/eng-171123-red-velvet-cultwo-show/)                      |
+| 171128 |             Kangta’s Starry Night             |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                [YT](https://youtu.be/0HHP8AvZfuY)                                                |
+| 180115 |         NCT’s Night Night Special DJ          |   WD    |  Yes   | subbed by [ReVelUp Subs][rvus] | [DM](https://www.dailymotion.com/video/x6ry7t2), [GD](https://drive.google.com/file/d/12IzpOjKcuLjh38-Ywi2lev0d_5eNNkIt/preview) |
+| 180117 | NCT’s Night Night Special DJ w/ Chungha & MXM |   WD    |   No   |                                |                                                [YT](https://youtu.be/uIcaKW6r4rc)                                                |
 
 &#x200b;
 
-[180115_night_night]:http://revelupsubs.com/2018/01/15/eng-180115-wendy-ncts-night-night-special-dj/
-[180117_night_night]:http://revelupsubs.com/2018/01/17/eng-180117-wendy-ncts-night-night-special-dj-w-chungha-mxm/
-
+[171122_rvus_night_night]:https://revelupsubs.com/2017/11/22/eng-171122-red-velvet-ncts-night-night/
+[171122_mega_night_night]:https://mega.nz/#!txwT0SyQ!uHCnBgSAJSXl9-bmI9oomenh-r6QI0aSrImcDKzvxmQ
 
 ## **Bad Boy**
 
