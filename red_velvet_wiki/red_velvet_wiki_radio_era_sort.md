@@ -94,7 +94,7 @@
 |  Date  |           Title           | Members  | Subbed |             Notes              |                                                                               Link                                                                                |
 |:------:|:-------------------------:|:--------:|:------:|:------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 160317 |       FM Date Radio       |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/9ZTZFWi5HRc)                                                                 |
-| 160317 |   Cultwo Show (Gift 1C)   |   OT5    |        | subbed by [ReVelUp Subs][rvus] | [RVUP \(broken\)](https://revelupsubs.com/2016/03/17/eng-sub-160317-red-velvet-cultwo-show-gift-1c/), [YT\(broken\)](https://www.youtube.com/watch?v=llkDMGXzpZU) |
+| 160317 |   Cultwo Show (Gift 1C)   |   OT5    |        | subbed by [ReVelUp Subs][rvus] | [RVUS \(broken\)](https://revelupsubs.com/2016/03/17/eng-sub-160317-red-velvet-cultwo-show-gift-1c/), [YT\(broken\)](https://www.youtube.com/watch?v=llkDMGXzpZU) |
 | 160317 |          FM Date          |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                         [YT](https://www.youtube.com/watch?v=llkDMGXzpZU)                                                         |
 | 160320 |     Kpop Planet Radio     | JO,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |                 [YT][160320_kpop_planet], [Wendy Cam][160320_kpop_planet_wd], [Joy Cam][160320_kpop_planet_jo], [Yeri Cam][160320_kpop_planet_yr]                 |
 | 160321 |     Old School Radio      |   OT5    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                                [YT](https://youtu.be/eLwQkvbgzNo)                                                                 |
@@ -131,22 +131,19 @@
 
 [160908_cultwo_show]:https://telemaxus.keybase.pub/rv/radio-shows/160908%20%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3Red%20Velvet%20%40%20Cultwo%20Show.mkv
 
+
 ## **Rookie**
 
-|  Date  |                                                 Title                                                  |         Members          | Subbed |             Notes              | Link |
-|:------:|:------------------------------------------------------------------------------------------------------:|:------------------------:|:------:|:------------------------------:|:----:|
-| 170202 |                                              Cultwo Show                                               |           OT5            |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 170202 |              [Cultwo Show](https://www.youtube.com/watch?v=12GMAlByATo&feature=youtu.be)               | Red Velvet (Without Joy) |        |                                |      |
-| 170206 |                                               Gayo Plaza                                               |           OT5            |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 170206 |               [Gayo Plaza](https://www.youtube.com/watch?v=QpFHFj_yaGw&feature=youtu.be)               | Red Velvet (Without Joy) |        |                                |      |
-| 170207 |                                             Unnie’s Radio                                              |           OT5            |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 170207 |               [Starry Night](https://www.youtube.com/watch?v=VDQP01wDmUA) (**Unsubbed**)               |       Without Joy        |        |                                |      |
-| 170207 |   [Song Euni & Kim Sook Sister Radio](https://www.youtube.com/watch?v=7Koem9r-bZs&feature=youtu.be)    |       Without Joy        |        |                                |      |
-| 170208 |               [Two Man Show](https://www.youtube.com/watch?v=pPOWVtJhRFE) (**Unsubbed**)               |       Without Joy        |        |                                |      |
-| 170209 |                                               Blue Night                                               |           OT5            |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 170209 |                       [Blue Night](https://www.youtube.com/watch?v=mrFuzimUK7Q)                        |       Without Joy        |        |                                |      |
-| 170706 |                             Melon Radio Star DJ “Velvet Red Mine” S2 EP. 1                             |           OT5            |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 170706 | [MelOn Radio Star DJ Season 2 Episode 1](https://www.youtube.com/watch?v=2WyVDywf4Sc&feature=youtu.be) |                          |        |                                |      |
+|  Date  |                     Title                      |   Members   | Subbed |             Notes              |                                           Link                                           |
+|:------:|:----------------------------------------------:|:-----------:|:------:|:------------------------------:|:----------------------------------------------------------------------------------------:|
+| 170202 |                  Cultwo Show                   |     OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] | [RVUS \(broken\)](https://revelupsubs.com/2017/02/02/eng-170202-red-velvet-cultwo-show/) |
+| 170206 |                   Gayo Plaza                   | IR,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |                            [YT](https://youtu.be/VBJy9pBAGIE)                            |
+| 170207 |                 Unnie’s Radio                  | IR,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |                            [YT](https://youtu.be/N-p04DFy9TQ)                            |
+| 170207 |                  Starry Night                  | IR,SG,WD,YR |   No   |                                |               [YT\(broken\)](https://www.youtube.com/watch?v=VDQP01wDmUA)                |
+| 170207 |       Song Euni & Kim Sook Sister Radio        | IR,SG,WD,YR |        |                                |               [YT\(broken\)](https://www.youtube.com/watch?v=7Koem9r-bZs)                |
+| 170208 |                  Two Man Show                  | IR,SG,WD,YR |   No   |                                |                            [YT](https://youtu.be/pPOWVtJhRFE)                            |
+| 170209 |                   Blue Night                   | IR,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |                            [YT](https://youtu.be/aPU6AE8MTr4)                            |
+| 170706 | Melon Radio Star DJ “Velvet Red Mine” S2 EP. 1 |     OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] |                            [YT](https://youtu.be/gvCUd3eN1RU)                            |
 
 &#x200b;
 
