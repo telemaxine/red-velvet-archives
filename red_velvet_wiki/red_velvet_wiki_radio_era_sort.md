@@ -214,12 +214,12 @@
 
 ## **RBB**
 
-|  Date  |       Title       | Members | Subbed |             Notes              | Link |
-|:------:|:-----------------:|:-------:|:------:|:------------------------------:|:----:|
-| 181204 |  Boom Boom Power  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 181206 | Hope Song at Noon |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 181213 |    Old School     |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
-| 190411 |   Starry Night    |   SE    |  Yes   | subbed by [ReVelUp Subs][rvus] |  YT  |
+|  Date  |       Title       | Members | Subbed |             Notes              |                Link                |
+|:------:|:-----------------:|:-------:|:------:|:------------------------------:|:----------------------------------:|
+| 181204 |  Boom Boom Power  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YT](https://youtu.be/urnR5fXOE_8) |
+| 181206 | Hope Song at Noon |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YT](https://youtu.be/82DpcgdEpLE) |
+| 181213 |    Old School     |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YT](https://youtu.be/xIZb0umLgpM) |
+| 190411 |   Starry Night    |   SG    |  Yes   | subbed by [ReVelUp Subs][rvus] | [YT](https://youtu.be/Fy8mHaWhXcc) |
 
 &#x200b;
 
