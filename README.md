@@ -28,7 +28,7 @@ Markdown previewers might not show correctly as some of the files will use reddi
 files formatted specifically for use in [/r/red_velvet wiki][rvwiki]
 
 * [Livestreams](./red_velvet_wiki/red_velvet_wiki_livestream.md) ("Complete", updated with wiki version.)
-* [Radio Show \(Era Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_era_sort.md) (Under construction; needs new links, deduplication/merging in progress)
+* [Radio Show \(Era Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_era_sort.md) ("Complete")
 * [Radio Show \(Year Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_year_sort.md) (Under Construction)
 
 &#x200b;
