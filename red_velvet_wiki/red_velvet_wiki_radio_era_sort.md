@@ -197,17 +197,17 @@
 
 ## **Power Up**
 
-|  Date  |          Title          | Members | Subbed |              Notes              | Link |
-|:------:|:-----------------------:|:-------:|:------:|:-------------------------------:|:----:|
-| 180808 |       Music Show        |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus]  |  YT  |
-| 180809 |       Cultwo Show       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus]  |  YT  |
-| 180816 |       Power Time        |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus]  |  YT  |
-| 180821 |      Dreamy Radio       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus]  |  YT  |
-| 180822 |    Hope Song At Noon    |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus]  |  YT  |
-| 180831 | AKMU Suhyun’s Volume Up |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus]  |  YT  |
-| 181108 |   Young Street Radio    |   WD    |  Yes   | subbed by [warmblue][warm_blue] |  YT  |
-| 181109 |   Young Street Radio    |   WD    |  Yes   | subbed by [warmblue][warm_blue] |  YT  |
-| 181111 |   Young Street Radio    |   WD    |  Yes   | subbed by [warmblue][warm_blue] |  YT  |
+|  Date  |          Title          | Members | Subbed |              Notes              |                                                              Link                                                               |
+|:------:|:-----------------------:|:-------:|:------:|:-------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|
+| 180808 |       Music Show        |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus]  |                                               [YT](https://youtu.be/l7L1vNvBeFg)                                                |
+| 180809 |       Cultwo Show       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus]  |       [YT](https://youtu.be/-6TcHNcLVc8), [MEGA](https://mega.nz/#!d1BiTI6T!wOwGrXkJomVaNr_yMd9sRvIi10ykz-QyxAiHyivsuaQ)        |
+| 180816 |       Power Time        |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus]  | [YT](https://youtu.be/5URWUG9J7-w), [Uncut \(MEGA\)](https://mega.nz/file/B04VyKYL#wERsj7yazpqgRMndTh1tYihwcD5h3uEzbtr5w3xllw0) |
+| 180821 |      Dreamy Radio       |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus]  |                                               [YT](https://youtu.be/x58RufwzdzM)                                                |
+| 180822 |    Hope Song At Noon    |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus]  |                                               [YT](https://youtu.be/ZXWdTo1BUwg)                                                |
+| 180831 | AKMU Suhyun’s Volume Up |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus]  |                                               [YT](https://youtu.be/V9CGICGoyGM)                                                |
+| 181108 |   Young Street Radio    |   WD    |  Yes   | subbed by [warmblue][warm_blue] |                                               [YT](https://youtu.be/2Xe0EYuRdCw)                                                |
+| 181109 |   Young Street Radio    |   WD    |  Yes   | subbed by [warmblue][warm_blue] |                                               [YT](https://youtu.be/DbDhTCktTkA)                                                |
+| 181111 |   Young Street Radio    |   WD    |  Yes   | subbed by [warmblue][warm_blue] |                                               [YT](https://youtu.be/zDOAHmM5K90)                                                |
 
 &#x200b;
 
