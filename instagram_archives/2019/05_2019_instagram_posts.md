@@ -7,7 +7,6 @@ Album links contain all posts for that day.
 | 190528 | [Joy][jy]      | [album](https://imgur.com/a/6CYipam)  |                       | lots of joy   |                   |
 | 190528 | [Yeri][yr]     | [album](https://imgur.com/a/pd3JiJw)  |                       |               |                   |
 | 190529 | [Yeri][yr]     | [album](https://imgur.com/a/COIzgEY)  |                       |               |                   |
-| 000000 |                |                                       |                       |               |                   |
 
 ***
 
