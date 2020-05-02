@@ -96,129 +96,131 @@ ___
 |----------|----------|---------|
 | Korea    | 60       | OT5     |
 ___
-| Date | Episode | Notes                  | Links |
-|------|---------|------------------------|-------|
-|      | 01      | subbed by [RVUS][rvus] | RVUS  |
-|      | 02      | subbed by [RVUS][rvus] | RVUS  |
-|      | 03      | subbed by [RVUS][rvus] | RVUS  |
-|      | 04      | subbed by [RVUS][rvus] | RVUS  |
-|      | 05      | subbed by [RVUS][rvus] | RVUS  |
-|      | 06      | subbed by [RVUS][rvus] | RVUS  |
-|      | 07      | subbed by [RVUS][rvus] | RVUS  |
-|      | 08      | subbed by [RVUS][rvus] | RVUS  |
-|      | 09      | subbed by [RVUS][rvus] | RVUS  |
-|      | 10      | subbed by [RVUS][rvus] | RVUS  |
-|      | 11      | subbed by [RVUS][rvus] | RVUS  |
-|      | 12      | subbed by [RVUS][rvus] | RVUS  |
-|      | 13      | subbed by [RVUS][rvus] | RVUS  |
-|      | 14      | subbed by [RVUS][rvus] | RVUS  |
-|      | 15      | subbed by [RVUS][rvus] | RVUS  |
-|      | 16      | subbed by [RVUS][rvus] | RVUS  |
-|      | 17      | subbed by [RVUS][rvus] | RVUS  |
-|      | 18      | subbed by [RVUS][rvus] | RVUS  |
-|      | 19      | subbed by [RVUS][rvus] | RVUS  |
-|      | 20      | subbed by [RVUS][rvus] | RVUS  |
-|      | 21      | subbed by [RVUS][rvus] | RVUS  |
-|      | 22      | subbed by [RVUS][rvus] | RVUS  |
-|      | 23      | subbed by [RVUS][rvus] | RVUS  |
-|      | 24      | subbed by [RVUS][rvus] | RVUS  |
-|      | 25      | subbed by [RVUS][rvus] | RVUS  |
-|      | 26      | subbed by [RVUS][rvus] | RVUS  |
-|      | 27      | subbed by [RVUS][rvus] | RVUS  |
-|      | 28      | subbed by [RVUS][rvus] | RVUS  |
-|      | 29      | subbed by [RVUS][rvus] | RVUS  |
-|      | 30      | subbed by [RVUS][rvus] | RVUS  |
-|      | 31      | subbed by [RVUS][rvus] | RVUS  |
-|      | 32      | subbed by [RVUS][rvus] | RVUS  |
-|      | 33      | subbed by [RVUS][rvus] | RVUS  |
-|      | 34      | subbed by [RVUS][rvus] | RVUS  |
-|      | 35      | subbed by [RVUS][rvus] | RVUS  |
-|      | 36      | subbed by [RVUS][rvus] | RVUS  |
-|      | 37      | subbed by [RVUS][rvus] | RVUS  |
-|      | 38      | subbed by [RVUS][rvus] | RVUS  |
-|      | 39      | subbed by [RVUS][rvus] | RVUS  |
-|      | 40      | subbed by [RVUS][rvus] | RVUS  |
-|      | 41      | subbed by [RVUS][rvus] | RVUS  |
-|      | 42      | subbed by [RVUS][rvus] | RVUS  |
-|      | 43      | subbed by [RVUS][rvus] | RVUS  |
-|      | 44      | subbed by [RVUS][rvus] | RVUS  |
-|      | 45      | subbed by [RVUS][rvus] | RVUS  |
-|      | 46      | subbed by [RVUS][rvus] | RVUS  |
-|      | 47      | subbed by [RVUS][rvus] | RVUS  |
-|      | 48      | subbed by [RVUS][rvus] | RVUS  |
-|      | 49      | subbed by [RVUS][rvus] | RVUS  |
-|      | 50      | subbed by [RVUS][rvus] | RVUS  |
-|      | 51      | subbed by [RVUS][rvus] | RVUS  |
-|      | 52      | subbed by [RVUS][rvus] | RVUS  |
-|      | 53      | subbed by [RVUS][rvus] | RVUS  |
-|      | 54      | subbed by [RVUS][rvus] | RVUS  |
-|      | 55      | subbed by [RVUS][rvus] | RVUS  |
-|      | 56      | subbed by [RVUS][rvus] | RVUS  |
-|      | 57      | subbed by [RVUS][rvus] | RVUS  |
-|      | 58      | subbed by [RVUS][rvus] | RVUS  |
-|      | 59      | subbed by [RVUS][rvus] | RVUS  |
-|      | 60      | subbed by [RVUS][rvus] | RVUS  |
+| Date   | Episode | Notes                  | Links                |
+|--------|---------|------------------------|----------------------|
+| 180108 | 01      | subbed by [RVUS][rvus] | [RVUS][LUP2_01_rvus] |
+| 180109 | 02      | subbed by [RVUS][rvus] | [RVUS][LUP2_02_rvus] |
+| 180110 | 03      | subbed by [RVUS][rvus] | [RVUS][LUP2_03_rvus] |
+| 180111 | 04      | subbed by [RVUS][rvus] | [RVUS][LUP2_04_rvus] |
+| 180112 | 05      | subbed by [RVUS][rvus] | [RVUS][LUP2_05_rvus] |
+| 180113 | 06      | subbed by [RVUS][rvus] | [RVUS][LUP2_06_rvus] |
+| 180115 | 07      | subbed by [RVUS][rvus] | [RVUS][LUP2_07_rvus] |
+| 180116 | 08      | subbed by [RVUS][rvus] | [RVUS][LUP2_08_rvus] |
+| 180117 | 09      | subbed by [RVUS][rvus] | [RVUS][LUP2_09_rvus] |
+| 180118 | 10      | subbed by [RVUS][rvus] | [RVUS][LUP2_10_rvus] |
+| 180119 | 11      | subbed by [RVUS][rvus] | [RVUS][LUP2_11_rvus] |
+| 180120 | 12      | subbed by [RVUS][rvus] | [RVUS][LUP2_12_rvus] |
+| 180122 | 13      | subbed by [RVUS][rvus] | [RVUS][LUP2_13_rvus] |
+| 180123 | 14      | subbed by [RVUS][rvus] | [RVUS][LUP2_14_rvus] |
+| 180124 | 15      | subbed by [RVUS][rvus] | [RVUS][LUP2_15_rvus] |
+| 180125 | 16      | subbed by [RVUS][rvus] | [RVUS][LUP2_16_rvus] |
+| 180126 | 17      | subbed by [RVUS][rvus] | [RVUS][LUP2_17_rvus] |
+| 180127 | 18      | subbed by [RVUS][rvus] | [RVUS][LUP2_18_rvus] |
+| 180129 | 19      | subbed by [RVUS][rvus] | [RVUS][LUP2_19_rvus] |
+| 180130 | 20      | subbed by [RVUS][rvus] | [RVUS][LUP2_20_rvus] |
+| 180131 | 21      | subbed by [RVUS][rvus] | [RVUS][LUP2_21_rvus] |
+| 180201 | 22      | subbed by [RVUS][rvus] | [RVUS][LUP2_22_rvus] |
+| 180202 | 23      | subbed by [RVUS][rvus] | [RVUS][LUP2_23_rvus] |
+| 180203 | 24      | subbed by [RVUS][rvus] | [RVUS][LUP2_24_rvus] |
+| 180205 | 25      | subbed by [RVUS][rvus] | [RVUS][LUP2_25_rvus] |
+| 180206 | 26      | subbed by [RVUS][rvus] | [RVUS][LUP2_26_rvus] |
+| 180207 | 27      | subbed by [RVUS][rvus] | [RVUS][LUP2_27_rvus] |
+| 180208 | 28      | subbed by [RVUS][rvus] | [RVUS][LUP2_28_rvus] |
+| 180209 | 29      | subbed by [RVUS][rvus] | [RVUS][LUP2_29_rvus] |
+| 180210 | 30      | subbed by [RVUS][rvus] | [RVUS][LUP2_30_rvus] |
+| 180212 | 31      | subbed by [RVUS][rvus] | [RVUS][LUP2_31_rvus] |
+| 180213 | 32      | subbed by [RVUS][rvus] | [RVUS][LUP2_32_rvus] |
+| 180214 | 33      | subbed by [RVUS][rvus] | [RVUS][LUP2_33_rvus] |
+| 180215 | 34      | subbed by [RVUS][rvus] | [RVUS][LUP2_34_rvus] |
+| 180216 | 35      | subbed by [RVUS][rvus] | [RVUS][LUP2_35_rvus] |
+| 180217 | 36      | subbed by [RVUS][rvus] | [RVUS][LUP2_36_rvus] |
+| 180219 | 37      | subbed by [RVUS][rvus] | [RVUS][LUP2_37_rvus] |
+| 180220 | 38      | subbed by [RVUS][rvus] | [RVUS][LUP2_38_rvus] |
+| 180221 | 39      | subbed by [RVUS][rvus] | [RVUS][LUP2_39_rvus] |
+| 180222 | 40      | subbed by [RVUS][rvus] | [RVUS][LUP2_40_rvus] |
+| 180223 | 41      | subbed by [RVUS][rvus] | [RVUS][LUP2_41_rvus] |
+| 180224 | 42      | subbed by [RVUS][rvus] | [RVUS][LUP2_42_rvus] |
+| 180226 | 43      | subbed by [RVUS][rvus] | [RVUS][LUP2_43_rvus] |
+| 180227 | 44      | subbed by [RVUS][rvus] | [RVUS][LUP2_44_rvus] |
+| 180228 | 45      | subbed by [RVUS][rvus] | [RVUS][LUP2_45_rvus] |
+| 180301 | 46      | subbed by [RVUS][rvus] | [RVUS][LUP2_46_rvus] |
+| 180302 | 47      | subbed by [RVUS][rvus] | [RVUS][LUP2_47_rvus] |
+| 180303 | 48      | subbed by [RVUS][rvus] | [RVUS][LUP2_48_rvus] |
+| 180305 | 49      | subbed by [RVUS][rvus] | [RVUS][LUP2_49_rvus] |
+| 180306 | 50      | subbed by [RVUS][rvus] | [RVUS][LUP2_50_rvus] |
+| 180307 | 51      | subbed by [RVUS][rvus] | [RVUS][LUP2_51_rvus] |
+| 180308 | 52      | subbed by [RVUS][rvus] | [RVUS][LUP2_52_rvus] |
+| 180309 | 53      | subbed by [RVUS][rvus] | [RVUS][LUP2_53_rvus] |
+| 180310 | 54      | subbed by [RVUS][rvus] | [RVUS][LUP2_54_rvus] |
+| 180312 | 55      | subbed by [RVUS][rvus] | [RVUS][LUP2_55_rvus] |
+| 180313 | 56      | subbed by [RVUS][rvus] | [RVUS][LUP2_56_rvus] |
+| 180314 | 57      | subbed by [RVUS][rvus] | [RVUS][LUP2_57_rvus] |
+| 180315 | 58      | subbed by [RVUS][rvus] | [RVUS][LUP2_58_rvus] |
+| 180316 | 59      | subbed by [RVUS][rvus] | [RVUS][LUP2_59_rvus] |
+| 180317 | 60      | subbed by [RVUS][rvus] | [RVUS][LUP2_60_rvus] |
 
-[LUP2_01_rvus]:
-[LUP2_02_rvus]:
-[LUP2_03_rvus]:
-[LUP2_04_rvus]:
-[LUP2_05_rvus]:
-[LUP2_06_rvus]:
-[LUP2_07_rvus]:
-[LUP2_08_rvus]:
-[LUP2_09_rvus]:
-[LUP2_10_rvus]:
-[LUP2_11_rvus]:
-[LUP2_12_rvus]:
-[LUP2_13_rvus]:
-[LUP2_14_rvus]:
-[LUP2_15_rvus]:
-[LUP2_16_rvus]:
-[LUP2_17_rvus]:
-[LUP2_18_rvus]:
-[LUP2_19_rvus]:
-[LUP2_20_rvus]:
-[LUP2_21_rvus]:
-[LUP2_22_rvus]:
-[LUP2_23_rvus]:
-[LUP2_24_rvus]:
-[LUP2_25_rvus]:
-[LUP2_26_rvus]:
-[LUP2_27_rvus]:
-[LUP2_28_rvus]:
-[LUP2_29_rvus]:
-[LUP2_30_rvus]:
-[LUP2_31_rvus]:
-[LUP2_32_rvus]:
-[LUP2_33_rvus]:
-[LUP2_34_rvus]:
-[LUP2_35_rvus]:
-[LUP2_36_rvus]:
-[LUP2_37_rvus]:
-[LUP2_38_rvus]:
-[LUP2_39_rvus]:
-[LUP2_40_rvus]:
-[LUP2_41_rvus]:
-[LUP2_42_rvus]:
-[LUP2_43_rvus]:
-[LUP2_44_rvus]:
-[LUP2_45_rvus]:
-[LUP2_46_rvus]:
-[LUP2_47_rvus]:
-[LUP2_48_rvus]:
-[LUP2_49_rvus]:
-[LUP2_50_rvus]:
-[LUP2_51_rvus]:
-[LUP2_52_rvus]:
-[LUP2_53_rvus]:
-[LUP2_54_rvus]:
-[LUP2_55_rvus]:
-[LUP2_56_rvus]:
-[LUP2_57_rvus]:
-[LUP2_58_rvus]:
-[LUP2_59_rvus]:
-[LUP2_60_rvus]:
+&#x200b;
+
+[LUP2_01_rvus]:https://revelupsubs.com/2018/01/08/eng-180108-red-velvet-level-up-project-season-2-ep-1/
+[LUP2_02_rvus]:https://revelupsubs.com/2018/01/09/eng-180109-red-velvet-level-up-project-season-2-ep-2/
+[LUP2_03_rvus]:https://revelupsubs.com/2018/01/10/eng-180110-red-velvet-level-up-project-s2-ep-3/
+[LUP2_04_rvus]:https://revelupsubs.com/2018/01/11/eng-180111-red-velvet-level-up-project-s2-ep-4/
+[LUP2_05_rvus]:https://revelupsubs.com/2018/01/12/eng-180112-red-velvet-level-up-project-s2-ep-5/
+[LUP2_06_rvus]:https://revelupsubs.com/2018/01/14/eng-180113-red-velvet-level-up-project-s2-ep-6/
+[LUP2_07_rvus]:https://revelupsubs.com/2018/01/15/eng-180115-red-velvet-level-up-project-season-2-ep-7/
+[LUP2_08_rvus]:https://revelupsubs.com/2018/01/16/eng-180116-red-velvet-level-up-project-s2-ep-8/
+[LUP2_09_rvus]:https://revelupsubs.com/2018/01/17/eng-180117-red-velvet-level-up-project-s2-ep-9/
+[LUP2_10_rvus]:https://revelupsubs.com/2018/01/18/eng-180118-red-velvet-level-up-project-s2-ep-10/
+[LUP2_11_rvus]:https://revelupsubs.com/2018/01/19/eng-180119-red-velvet-level-up-project-s2-ep-11/
+[LUP2_12_rvus]:https://revelupsubs.com/2018/01/20/eng-180120-red-velvet-level-up-project-s2-ep-12/
+[LUP2_13_rvus]:https://revelupsubs.com/2018/01/22/eng-180122-red-velvet-level-up-project-s2-ep-13/
+[LUP2_14_rvus]:https://revelupsubs.com/2018/01/23/eng-180123-red-velvet-level-up-project-s2-ep-14/
+[LUP2_15_rvus]:https://revelupsubs.com/2018/01/24/eng-180124-red-velvet-level-up-project-s2-ep-15/
+[LUP2_16_rvus]:https://revelupsubs.com/2018/01/25/eng-180125-red-velvet-level-up-project-s2-ep-16/
+[LUP2_17_rvus]:https://revelupsubs.com/2018/01/26/eng-180126-red-velvet-level-up-project-s2-ep-17/
+[LUP2_18_rvus]:https://revelupsubs.com/2018/01/27/eng-180127-red-velvet-level-up-project-s2-ep-18/
+[LUP2_19_rvus]:https://revelupsubs.com/2018/01/29/eng-180129-red-velvet-level-up-project-s2-ep-19/
+[LUP2_20_rvus]:https://revelupsubs.com/2018/01/30/eng-180130-red-velvet-level-up-project-s2-ep-20/
+[LUP2_21_rvus]:https://revelupsubs.com/2018/01/31/eng-180131-red-velvet-level-up-project-s2-ep-21/
+[LUP2_22_rvus]:https://revelupsubs.com/2018/02/01/eng-180201-red-velvet-level-up-project-s2-ep-22/
+[LUP2_23_rvus]:https://revelupsubs.com/2018/02/02/eng-180202-red-velvet-level-up-project-s2-ep-23/
+[LUP2_24_rvus]:https://revelupsubs.com/2018/02/03/eng-180203-red-velvet-level-up-project-s2-ep-24/
+[LUP2_25_rvus]:https://revelupsubs.com/2018/02/05/eng-180205-red-velvet-level-up-project-s2-ep-25/
+[LUP2_26_rvus]:https://revelupsubs.com/2018/02/06/eng-180206-red-velvet-level-up-project-s2-ep-26/
+[LUP2_27_rvus]:https://revelupsubs.com/2018/02/07/eng-180207-red-velvet-level-up-project-s2-ep-27/
+[LUP2_28_rvus]:https://revelupsubs.com/2018/02/08/eng-180208-red-velvet-level-up-project-s2-ep-28/
+[LUP2_29_rvus]:https://revelupsubs.com/2018/02/09/eng-180209-red-velvet-level-up-project-s2-ep-29/
+[LUP2_30_rvus]:https://revelupsubs.com/2018/02/10/eng-180210-red-velvet-level-up-project-s2-ep-30/
+[LUP2_31_rvus]:https://revelupsubs.com/2018/02/12/eng-180212-red-velvet-level-up-project-s2-ep-31/
+[LUP2_32_rvus]:https://revelupsubs.com/2018/02/13/eng-180213-red-velvet-level-up-project-s2-ep-32/
+[LUP2_33_rvus]:https://revelupsubs.com/2018/02/14/eng-180214-red-velvet-level-up-project-s2-ep-33/
+[LUP2_34_rvus]:https://revelupsubs.com/2018/02/15/eng-180215-red-velvet-level-up-project-s2-ep-34/
+[LUP2_35_rvus]:https://revelupsubs.com/2018/02/16/eng-180216-red-velvet-level-up-project-s2-ep-35/
+[LUP2_36_rvus]:https://revelupsubs.com/2018/02/17/eng-180217-red-velvet-level-up-project-s2-ep-36/
+[LUP2_37_rvus]:https://revelupsubs.com/2018/02/19/eng-180219-red-velvet-level-up-project-s2-ep-37/
+[LUP2_38_rvus]:https://revelupsubs.com/2018/02/20/eng-180220-red-velvet-level-up-project-s2-ep-38/
+[LUP2_39_rvus]:https://revelupsubs.com/2018/02/21/eng-180221-red-velvet-level-up-project-s2-ep-39/
+[LUP2_40_rvus]:https://revelupsubs.com/2018/02/22/eng-180222-red-velvet-level-up-project-s2-ep-40/
+[LUP2_41_rvus]:https://revelupsubs.com/2018/02/23/eng-180223-red-velvet-level-up-project-s2-ep-41/
+[LUP2_42_rvus]:https://revelupsubs.com/2018/02/24/eng-180224-red-velvet-level-up-project-s2-ep-42/
+[LUP2_43_rvus]:https://revelupsubs.com/2018/02/26/eng-180226-red-velvet-level-up-project-s2-ep-43/
+[LUP2_44_rvus]:https://revelupsubs.com/2018/02/27/eng-180227-red-velvet-level-up-project-s2-ep-44/
+[LUP2_45_rvus]:https://revelupsubs.com/2018/02/28/eng-180228-red-velvet-level-up-project-s2-ep-45/
+[LUP2_46_rvus]:https://revelupsubs.com/2018/03/01/eng-180301-red-velvet-level-up-project-s2-ep-46/
+[LUP2_47_rvus]:https://revelupsubs.com/2018/03/02/eng-180302-red-velvet-level-up-project-s2-ep-47/
+[LUP2_48_rvus]:https://revelupsubs.com/2018/03/03/eng-180303-red-velvet-level-up-project-s2-ep-48/
+[LUP2_49_rvus]:https://revelupsubs.com/2018/03/05/eng-180305-red-velvet-level-up-project-s2-ep-49/
+[LUP2_50_rvus]:https://revelupsubs.com/2018/03/06/eng-180306-red-velvet-level-up-project-s2-ep-50/
+[LUP2_51_rvus]:https://revelupsubs.com/2018/03/07/eng-180307-red-velvet-level-up-project-s2-ep-51/
+[LUP2_52_rvus]:https://revelupsubs.com/2018/03/08/eng-180308-red-velvet-level-up-project-s2-ep-52/
+[LUP2_53_rvus]:https://revelupsubs.com/2018/03/09/eng-180309-red-velvet-level-up-project-s2-ep-53/
+[LUP2_54_rvus]:https://revelupsubs.com/2018/03/10/eng-180310-red-velvet-level-up-project-s2-ep-54/
+[LUP2_55_rvus]:https://revelupsubs.com/2018/03/12/eng-180312-red-velvet-level-up-project-s2-ep-55/
+[LUP2_56_rvus]:https://revelupsubs.com/2018/03/13/eng-180313-red-velvet-level-up-project-s2-ep-56/
+[LUP2_57_rvus]:https://revelupsubs.com/2018/03/14/eng-180314-red-velvet-level-up-project-s2-ep-57/
+[LUP2_58_rvus]:https://revelupsubs.com/2018/03/15/eng-180315-red-velvet-level-up-project-s2-ep-58/
+[LUP2_59_rvus]:https://revelupsubs.com/2018/03/16/eng-180316-red-velvet-level-up-project-s2-ep-59/
+[LUP2_60_rvus]:https://revelupsubs.com/2018/03/17/eng-180317-red-velvet-level-up-project-s2-ep-60/
 
 ### **Season 3**
 
@@ -226,91 +228,113 @@ ___
 |----------|----------|---------|
 | Slovenia | 40       | OT5     |
 ___
-| Date | Episode | Notes                  | Links |
-|------|---------|------------------------|-------|
-|      | 01      | subbed by [RVUS][rvus] | RVUS  |
-|      | 02      | subbed by [RVUS][rvus] | RVUS  |
-|      | 03      | subbed by [RVUS][rvus] | RVUS  |
-|      | 04      | subbed by [RVUS][rvus] | RVUS  |
-|      | 05      | subbed by [RVUS][rvus] | RVUS  |
-|      | 06      | subbed by [RVUS][rvus] | RVUS  |
-|      | 07      | subbed by [RVUS][rvus] | RVUS  |
-|      | 08      | subbed by [RVUS][rvus] | RVUS  |
-|      | 09      | subbed by [RVUS][rvus] | RVUS  |
-|      | 10      | subbed by [RVUS][rvus] | RVUS  |
-|      | 11      | subbed by [RVUS][rvus] | RVUS  |
-|      | 12      | subbed by [RVUS][rvus] | RVUS  |
-|      | 13      | subbed by [RVUS][rvus] | RVUS  |
-|      | 14      | subbed by [RVUS][rvus] | RVUS  |
-|      | 15      | subbed by [RVUS][rvus] | RVUS  |
-|      | 16      | subbed by [RVUS][rvus] | RVUS  |
-|      | 17      | subbed by [RVUS][rvus] | RVUS  |
-|      | 18      | subbed by [RVUS][rvus] | RVUS  |
-|      | 19      | subbed by [RVUS][rvus] | RVUS  |
-|      | 20      | subbed by [RVUS][rvus] | RVUS  |
-|      | 21      | subbed by [RVUS][rvus] | RVUS  |
-|      | 22      | subbed by [RVUS][rvus] | RVUS  |
-|      | 23      | subbed by [RVUS][rvus] | RVUS  |
-|      | 24      | subbed by [RVUS][rvus] | RVUS  |
-|      | 25      | subbed by [RVUS][rvus] | RVUS  |
-|      | 26      | subbed by [RVUS][rvus] | RVUS  |
-|      | 27      | subbed by [RVUS][rvus] | RVUS  |
-|      | 28      | subbed by [RVUS][rvus] | RVUS  |
-|      | 29      | subbed by [RVUS][rvus] | RVUS  |
-|      | 30      | subbed by [RVUS][rvus] | RVUS  |
-|      | 31      | subbed by [RVUS][rvus] | RVUS  |
-|      | 32      | subbed by [RVUS][rvus] | RVUS  |
-|      | 33      | subbed by [RVUS][rvus] | RVUS  |
-|      | 34      | subbed by [RVUS][rvus] | RVUS  |
-|      | 35      | subbed by [RVUS][rvus] | RVUS  |
-|      | 36      | subbed by [RVUS][rvus] | RVUS  |
-|      | 37      | subbed by [RVUS][rvus] | RVUS  |
-|      | 38      | subbed by [RVUS][rvus] | RVUS  |
-|      | 39      | subbed by [RVUS][rvus] | RVUS  |
-|      | 40      | subbed by [RVUS][rvus] | RVUS  |
-
-[LUP3_01_rvus]:
-[LUP3_02_rvus]:
-[LUP3_03_rvus]:
-[LUP3_04_rvus]:
-[LUP3_05_rvus]:
-[LUP3_06_rvus]:
-[LUP3_07_rvus]:
-[LUP3_08_rvus]:
-[LUP3_09_rvus]:
-[LUP3_10_rvus]:
-[LUP3_11_rvus]:
-[LUP3_12_rvus]:
-[LUP3_13_rvus]:
-[LUP3_14_rvus]:
-[LUP3_15_rvus]:
-[LUP3_16_rvus]:
-[LUP3_17_rvus]:
-[LUP3_18_rvus]:
-[LUP3_19_rvus]:
-[LUP3_20_rvus]:
-[LUP3_21_rvus]:
-[LUP3_22_rvus]:
-[LUP3_23_rvus]:
-[LUP3_24_rvus]:
-[LUP3_25_rvus]:
-[LUP3_26_rvus]:
-[LUP3_27_rvus]:
-[LUP3_28_rvus]:
-[LUP3_29_rvus]:
-[LUP3_30_rvus]:
-[LUP3_31_rvus]:
-[LUP3_32_rvus]:
-[LUP3_33_rvus]:
-[LUP3_34_rvus]:
-[LUP3_35_rvus]:
-[LUP3_36_rvus]:
-[LUP3_37_rvus]:
-[LUP3_38_rvus]:
-[LUP3_39_rvus]:
-[LUP3_40_rvus]:
-
+| Date   | Episode | Notes                  | Links                |
+|--------|---------|------------------------|----------------------|
+| 180813 | 01      | subbed by [RVUS][rvus] | [RVUS][LUP3_01_rvus] |
+| 180814 | 02      | subbed by [RVUS][rvus] | [RVUS][LUP3_02_rvus] |
+| 180815 | 03      | subbed by [RVUS][rvus] | [RVUS][LUP3_03_rvus] |
+| 180816 | 04      | subbed by [RVUS][rvus] | [RVUS][LUP3_04_rvus] |
+| 180817 | 05      | subbed by [RVUS][rvus] | [RVUS][LUP3_05_rvus] |
+| 180820 | 06      | subbed by [RVUS][rvus] | [RVUS][LUP3_06_rvus] |
+| 180821 | 07      | subbed by [RVUS][rvus] | [RVUS][LUP3_07_rvus] |
+| 180822 | 08      | subbed by [RVUS][rvus] | [RVUS][LUP3_08_rvus] |
+| 180823 | 09      | subbed by [RVUS][rvus] | [RVUS][LUP3_09_rvus] |
+| 180824 | 10      | subbed by [RVUS][rvus] | [RVUS][LUP3_10_rvus] |
+| 180827 | 11      | subbed by [RVUS][rvus] | [RVUS][LUP3_11_rvus] |
+| 180828 | 12      | subbed by [RVUS][rvus] | [RVUS][LUP3_12_rvus] |
+| 180829 | 13      | subbed by [RVUS][rvus] | [RVUS][LUP3_13_rvus] |
+| 180830 | 14      | subbed by [RVUS][rvus] | [RVUS][LUP3_14_rvus] |
+| 180831 | 15      | subbed by [RVUS][rvus] | [RVUS][LUP3_15_rvus] |
+| 180903 | 16      | subbed by [RVUS][rvus] | [RVUS][LUP3_16_rvus] |
+| 180904 | 17      | subbed by [RVUS][rvus] | [RVUS][LUP3_17_rvus] |
+| 180905 | 18      | subbed by [RVUS][rvus] | [RVUS][LUP3_18_rvus] |
+| 180906 | 19      | subbed by [RVUS][rvus] | [RVUS][LUP3_19_rvus] |
+| 180907 | 20      | subbed by [RVUS][rvus] | [RVUS][LUP3_20_rvus] |
+| 180910 | 21      | subbed by [RVUS][rvus] | [RVUS][LUP3_21_rvus] |
+| 180911 | 22      | subbed by [RVUS][rvus] | [RVUS][LUP3_22_rvus] |
+| 180912 | 23      | subbed by [RVUS][rvus] | [RVUS][LUP3_23_rvus] |
+| 180913 | 24      | subbed by [RVUS][rvus] | [RVUS][LUP3_24_rvus] |
+| 180914 | 25      | subbed by [RVUS][rvus] | [RVUS][LUP3_25_rvus] |
+| 180917 | 26      | subbed by [RVUS][rvus] | [RVUS][LUP3_26_rvus] |
+| 180918 | 27      | subbed by [RVUS][rvus] | [RVUS][LUP3_27_rvus] |
+| 180919 | 28      | subbed by [RVUS][rvus] | [RVUS][LUP3_28_rvus] |
+| 180920 | 29      | subbed by [RVUS][rvus] | [RVUS][LUP3_29_rvus] |
+| 180921 | 30      | subbed by [RVUS][rvus] | [RVUS][LUP3_30_rvus] |
+| 180924 | 31      | subbed by [RVUS][rvus] | [RVUS][LUP3_31_rvus] |
+| 180925 | 32      | subbed by [RVUS][rvus] | [RVUS][LUP3_32_rvus] |
+| 180926 | 33      | subbed by [RVUS][rvus] | [RVUS][LUP3_33_rvus] |
+| 180927 | 34      | subbed by [RVUS][rvus] | [RVUS][LUP3_34_rvus] |
+| 180928 | 35      | subbed by [RVUS][rvus] | [RVUS][LUP3_35_rvus] |
+| 181001 | 36      | subbed by [RVUS][rvus] | [RVUS][LUP3_36_rvus] |
+| 181002 | 37      | subbed by [RVUS][rvus] | [RVUS][LUP3_37_rvus] |
+| 181003 | 38      | subbed by [RVUS][rvus] | [RVUS][LUP3_38_rvus] |
+| 181004 | 39      | subbed by [RVUS][rvus] | [RVUS][LUP3_39_rvus] |
+| 181005 | 40      | subbed by [RVUS][rvus] | [RVUS][LUP3_40_rvus] |
 
 &#x200b;
 
+[LUP3_01_rvus]:https://revelupsubs.com/2018/08/13/eng-red-velvet-level-up-project-s3-ep-1/
+[LUP3_02_rvus]:https://revelupsubs.com/2018/08/14/eng-180814-red-velvet-level-up-project-s3-ep-2/
+[LUP3_03_rvus]:https://revelupsubs.com/2018/08/15/eng-180815-red-velvet-level-up-project-s3-ep-3/
+[LUP3_04_rvus]:https://revelupsubs.com/2018/08/16/eng-180816-red-velvet-level-up-project-s3-ep-4/
+[LUP3_05_rvus]:https://revelupsubs.com/2018/08/17/eng-180817-red-velvet-level-up-project-s3-ep-5/
+[LUP3_06_rvus]:https://revelupsubs.com/2018/08/20/eng-180820-red-velvet-level-up-project-s3-ep-6/
+[LUP3_07_rvus]:https://revelupsubs.com/2018/08/21/eng-180821-red-velvet-level-up-project-s3-ep-7/
+[LUP3_08_rvus]:https://revelupsubs.com/2018/08/22/eng-180822-red-velvet-level-up-project-s3-ep-8/
+[LUP3_09_rvus]:https://revelupsubs.com/2018/08/23/eng-180823-red-velvet-level-up-project-s3-ep-9/
+[LUP3_10_rvus]:https://revelupsubs.com/2018/08/24/eng-180824-red-velvet-level-up-project-ep-10/
+[LUP3_11_rvus]:https://revelupsubs.com/2018/08/27/eng-180827-red-velvet-level-up-project-s3-ep-11/
+[LUP3_12_rvus]:https://revelupsubs.com/2018/08/28/eng-180828-red-velvet-level-up-project-s3-ep-12/
+[LUP3_13_rvus]:https://revelupsubs.com/2018/08/29/eng-180829-red-velvet-level-up-project-s3-ep-13/
+[LUP3_14_rvus]:https://revelupsubs.com/2018/08/30/eng-180830-red-velvet-level-up-project-season-3-ep-14/
+[LUP3_15_rvus]:https://revelupsubs.com/2018/08/31/eng-180831-red-velvet-level-up-project-season-3-ep-15/
+[LUP3_16_rvus]:https://revelupsubs.com/2018/09/03/eng-180903-red-velvet-level-up-project-season-3-ep-16/
+[LUP3_17_rvus]:https://revelupsubs.com/2018/09/04/eng-180904-red-velvet-level-up-project-season-3-ep-17/
+[LUP3_18_rvus]:https://revelupsubs.com/2018/09/05/eng-180905-red-velvet-level-up-project-s3-ep-18/
+[LUP3_19_rvus]:https://revelupsubs.com/2018/09/06/eng-180906-red-velvet-level-up-project-s3-ep-19/
+[LUP3_20_rvus]:https://revelupsubs.com/2018/09/07/eng-180907-red-velvet-level-up-project-s3-ep-20/
+[LUP3_21_rvus]:https://revelupsubs.com/2018/09/10/eng-180910-red-velvet-level-up-project-s3-ep-21/
+[LUP3_22_rvus]:https://revelupsubs.com/2018/09/11/eng-180911-red-velvet-level-up-project-s3-ep-22/
+[LUP3_23_rvus]:https://revelupsubs.com/2018/09/12/eng-180912-red-velvet-level-up-project-s3-ep-23/
+[LUP3_24_rvus]:https://revelupsubs.com/2018/09/13/eng-180913-red-velvet-level-up-project-s3-ep-24/
+[LUP3_25_rvus]:https://revelupsubs.com/2018/09/14/eng-180914-red-velvet-level-up-project-s3-ep-25/
+[LUP3_26_rvus]:https://revelupsubs.com/2018/09/17/eng-180917-red-velvet-level-up-project-s3-ep-26/
+[LUP3_27_rvus]:https://revelupsubs.com/2018/09/18/eng-180918-red-velvet-level-up-project-s3-ep-27/
+[LUP3_28_rvus]:https://revelupsubs.com/2018/09/19/eng-180919-red-velvet-level-up-project-s3-ep-28/
+[LUP3_29_rvus]:https://revelupsubs.com/2018/09/20/eng-180920-red-velvet-level-up-project-s3-ep-29/
+[LUP3_30_rvus]:https://revelupsubs.com/2018/09/21/eng-180921-red-velvet-level-up-project-s3-ep-30/
+[LUP3_31_rvus]:https://revelupsubs.com/2018/09/24/eng-180924-red-velvet-level-up-project-s3-ep-31/
+[LUP3_32_rvus]:https://revelupsubs.com/2018/09/25/eng-180925-red-velvet-level-up-project-s3-ep-32/
+[LUP3_33_rvus]:https://revelupsubs.com/2018/09/26/eng-180926-red-velvet-level-up-project-s3-ep-33/
+[LUP3_34_rvus]:https://revelupsubs.com/2018/09/27/eng-180927-red-velvet-level-up-project-s3-ep-34/
+[LUP3_35_rvus]:https://revelupsubs.com/2018/09/28/eng-180928-red-velvet-level-up-project-s3-ep-35/
+[LUP3_36_rvus]:https://revelupsubs.com/2018/10/01/eng-181001-red-velvet-level-up-project-s3-ep-36/
+[LUP3_37_rvus]:https://revelupsubs.com/2018/10/02/eng-181002-red-velvet-level-up-project-s3-ep-37/
+[LUP3_38_rvus]:https://revelupsubs.com/2018/10/03/eng-181003-red-velvet-level-up-project-s3-ep-38/
+[LUP3_39_rvus]:https://revelupsubs.com/2018/10/04/eng-181004-red-velvet-level-up-project-s3-ep-39/
+[LUP3_40_rvus]:https://revelupsubs.com/2018/10/05/eng-181005-red-velvet-level-up-project-s3-ep-40-finale/
+
+___
+&#x200b;
+
 [rvus]:https://revelupsubs.com/
+
+&#x200b;
+
+## **Pajama Friends**
+___
+| **Date** | **Episode** |                         **Subtitles**                          |                                                              **Alternative Links**                                                              |   **Notes**    |
+|:--------:|:-----------:|:--------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|
+|  180915  |      1      | [ENG](http://kshow123.net/show/pajama-friends/episode-1.html)  |                                                                                                                                                 |                |
+|  180922  |      2      | [ENG](http://kshow123.net/show/pajama-friends/episode-2.html)  |                                                                                                                                                 |                |
+|  180929  |      3      | [ENG](http://kshow123.net/show/pajama-friends/episode-3.html)  |                                                                                                                                                 |                |
+|  181006  |      4      | [RAW](http://kshow123.net/show/pajama-friends/episode-4.html)  |                                                                                                                                                 |                |
+|  181013  |      5      | [RAW](http://kshow123.net/show/pajama-friends/episode-5.html)  | Team Rocket cut [ENG]: [Vimeo](https://vimeo.com/388806752) // [GDrive](https://drive.google.com/file/d/1P3X1SFSs3xIotRBPsAfRf3ku0INWHKdH/view) | Seulgi & Wendy |
+|  181020  |      6      | [RAW](http://kshow123.net/show/pajama-friends/episode-6.html)  |                                             WenJoy cut [ENG]: [Vimeo](https://vimeo.com/376499969)                                              |     Wendy      |
+|  181027  |      7      | [RAW](http://kshow123.net/show/pajama-friends/episode-7.html)  |                                             WenJoy cut [ENG]: [Vimeo](https://vimeo.com/376500804)                                              |     Wendy      |
+|  181103  |      8      | [RAW](http://kshow123.net/show/pajama-friends/episode-8.html)  |                                                                                                                                                 |                |
+|  181110  |      9      | [RAW](http://kshow123.net/show/pajama-friends/episode-9.html)  |                                                                                                                                                 |                |
+|  181117  |     10      | [ENG](http://kshow123.net/show/pajama-friends/episode-10.html) |                                                                                                                                                 |   MC Seulgi    |
+|  181124  |     11      | [RAW](http://kshow123.net/show/pajama-friends/episode-11.html) |                                                                                                                                                 |                |
+|  181201  |     12      | [RAW](http://kshow123.net/show/pajama-friends/episode-12.html) |                                                                                                                                                 |                |
+|  181208  |     13      | [RAW](http://kshow123.net/show/pajama-friends/episode-13.html) |                                                                                                                                                 |                |
