@@ -6,7 +6,8 @@
 	"recommendations": [
 		"yzhang.markdown-all-in-one",
 		"mdickin.markdown-shortcuts",
-		"darkriszty.markdown-table-prettify"
+		"darkriszty.markdown-table-prettify",
+		"tyriar.sort-lines"
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [
