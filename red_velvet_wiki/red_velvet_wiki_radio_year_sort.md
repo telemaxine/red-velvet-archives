@@ -64,8 +64,6 @@
 [150403_ksy_hopesong02]:https://youtu.be/TsQQhl78N2M
 [150403_ksy_hopesong03]:https://youtu.be/-JZt9cCMQkE
 [150924_kb_hopesong]:https://telemaxus.keybase.pub/rv/radio-shows/150924%20Red%20Velvet%20Hope%20Song%20at%20Noon.mp4
-[160316_goodmorning01]:https://www.youtube.com/watch?v=l-hNz8_wdFA
-[160316_goodmorning02]:https://www.youtube.com/watch?v=1gULSeDNW2c
 
 
 ## 2016
@@ -94,7 +92,7 @@
 | 160913 | Heo Kyung-hwan's Starry Night |   OT5    |   No   |                                |                                    [YT\(broken\)](https://www.youtube.com/watch?v=TjckrQ42HKk)                                    |
 
 &#x200b;
- 
+
 [160316_goodmorning01]:https://www.youtube.com/watch?v=l-hNz8_wdFA
 [160316_goodmorning02]:https://www.youtube.com/watch?v=1gULSeDNW2c
 [160320_kpop_planet_cams]:https://www.reddit.com/r/red_velvet/comments/4dk67u/160320_kpop_planet_radio_individual_cams/
