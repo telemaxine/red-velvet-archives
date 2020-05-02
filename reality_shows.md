@@ -97,67 +97,67 @@ ___
 | Korea    | 60       | OT5     |
 ___
 | Date   | Episode | Notes                  | Links                |
-|--------|---------|------------------------|----------------------|
-| 180108 | 01      | subbed by [RVUS][rvus] | [RVUS][LUP2_01_rvus] |
-| 180109 | 02      | subbed by [RVUS][rvus] | [RVUS][LUP2_02_rvus] |
-| 180110 | 03      | subbed by [RVUS][rvus] | [RVUS][LUP2_03_rvus] |
-| 180111 | 04      | subbed by [RVUS][rvus] | [RVUS][LUP2_04_rvus] |
-| 180112 | 05      | subbed by [RVUS][rvus] | [RVUS][LUP2_05_rvus] |
-| 180113 | 06      | subbed by [RVUS][rvus] | [RVUS][LUP2_06_rvus] |
-| 180115 | 07      | subbed by [RVUS][rvus] | [RVUS][LUP2_07_rvus] |
-| 180116 | 08      | subbed by [RVUS][rvus] | [RVUS][LUP2_08_rvus] |
-| 180117 | 09      | subbed by [RVUS][rvus] | [RVUS][LUP2_09_rvus] |
-| 180118 | 10      | subbed by [RVUS][rvus] | [RVUS][LUP2_10_rvus] |
-| 180119 | 11      | subbed by [RVUS][rvus] | [RVUS][LUP2_11_rvus] |
-| 180120 | 12      | subbed by [RVUS][rvus] | [RVUS][LUP2_12_rvus] |
-| 180122 | 13      | subbed by [RVUS][rvus] | [RVUS][LUP2_13_rvus] |
-| 180123 | 14      | subbed by [RVUS][rvus] | [RVUS][LUP2_14_rvus] |
-| 180124 | 15      | subbed by [RVUS][rvus] | [RVUS][LUP2_15_rvus] |
-| 180125 | 16      | subbed by [RVUS][rvus] | [RVUS][LUP2_16_rvus] |
-| 180126 | 17      | subbed by [RVUS][rvus] | [RVUS][LUP2_17_rvus] |
-| 180127 | 18      | subbed by [RVUS][rvus] | [RVUS][LUP2_18_rvus] |
-| 180129 | 19      | subbed by [RVUS][rvus] | [RVUS][LUP2_19_rvus] |
-| 180130 | 20      | subbed by [RVUS][rvus] | [RVUS][LUP2_20_rvus] |
-| 180131 | 21      | subbed by [RVUS][rvus] | [RVUS][LUP2_21_rvus] |
-| 180201 | 22      | subbed by [RVUS][rvus] | [RVUS][LUP2_22_rvus] |
-| 180202 | 23      | subbed by [RVUS][rvus] | [RVUS][LUP2_23_rvus] |
-| 180203 | 24      | subbed by [RVUS][rvus] | [RVUS][LUP2_24_rvus] |
-| 180205 | 25      | subbed by [RVUS][rvus] | [RVUS][LUP2_25_rvus] |
-| 180206 | 26      | subbed by [RVUS][rvus] | [RVUS][LUP2_26_rvus] |
-| 180207 | 27      | subbed by [RVUS][rvus] | [RVUS][LUP2_27_rvus] |
-| 180208 | 28      | subbed by [RVUS][rvus] | [RVUS][LUP2_28_rvus] |
-| 180209 | 29      | subbed by [RVUS][rvus] | [RVUS][LUP2_29_rvus] |
-| 180210 | 30      | subbed by [RVUS][rvus] | [RVUS][LUP2_30_rvus] |
-| 180212 | 31      | subbed by [RVUS][rvus] | [RVUS][LUP2_31_rvus] |
-| 180213 | 32      | subbed by [RVUS][rvus] | [RVUS][LUP2_32_rvus] |
-| 180214 | 33      | subbed by [RVUS][rvus] | [RVUS][LUP2_33_rvus] |
-| 180215 | 34      | subbed by [RVUS][rvus] | [RVUS][LUP2_34_rvus] |
-| 180216 | 35      | subbed by [RVUS][rvus] | [RVUS][LUP2_35_rvus] |
-| 180217 | 36      | subbed by [RVUS][rvus] | [RVUS][LUP2_36_rvus] |
-| 180219 | 37      | subbed by [RVUS][rvus] | [RVUS][LUP2_37_rvus] |
-| 180220 | 38      | subbed by [RVUS][rvus] | [RVUS][LUP2_38_rvus] |
-| 180221 | 39      | subbed by [RVUS][rvus] | [RVUS][LUP2_39_rvus] |
-| 180222 | 40      | subbed by [RVUS][rvus] | [RVUS][LUP2_40_rvus] |
-| 180223 | 41      | subbed by [RVUS][rvus] | [RVUS][LUP2_41_rvus] |
-| 180224 | 42      | subbed by [RVUS][rvus] | [RVUS][LUP2_42_rvus] |
-| 180226 | 43      | subbed by [RVUS][rvus] | [RVUS][LUP2_43_rvus] |
-| 180227 | 44      | subbed by [RVUS][rvus] | [RVUS][LUP2_44_rvus] |
-| 180228 | 45      | subbed by [RVUS][rvus] | [RVUS][LUP2_45_rvus] |
-| 180301 | 46      | subbed by [RVUS][rvus] | [RVUS][LUP2_46_rvus] |
-| 180302 | 47      | subbed by [RVUS][rvus] | [RVUS][LUP2_47_rvus] |
-| 180303 | 48      | subbed by [RVUS][rvus] | [RVUS][LUP2_48_rvus] |
-| 180305 | 49      | subbed by [RVUS][rvus] | [RVUS][LUP2_49_rvus] |
-| 180306 | 50      | subbed by [RVUS][rvus] | [RVUS][LUP2_50_rvus] |
-| 180307 | 51      | subbed by [RVUS][rvus] | [RVUS][LUP2_51_rvus] |
-| 180308 | 52      | subbed by [RVUS][rvus] | [RVUS][LUP2_52_rvus] |
-| 180309 | 53      | subbed by [RVUS][rvus] | [RVUS][LUP2_53_rvus] |
-| 180310 | 54      | subbed by [RVUS][rvus] | [RVUS][LUP2_54_rvus] |
-| 180312 | 55      | subbed by [RVUS][rvus] | [RVUS][LUP2_55_rvus] |
-| 180313 | 56      | subbed by [RVUS][rvus] | [RVUS][LUP2_56_rvus] |
-| 180314 | 57      | subbed by [RVUS][rvus] | [RVUS][LUP2_57_rvus] |
-| 180315 | 58      | subbed by [RVUS][rvus] | [RVUS][LUP2_58_rvus] |
-| 180316 | 59      | subbed by [RVUS][rvus] | [RVUS][LUP2_59_rvus] |
-| 180317 | 60      | subbed by [RVUS][rvus] | [RVUS][LUP2_60_rvus] |
+|--------|:-------:|------------------------|----------------------|
+| 180108 |   01    | subbed by [RVUS][rvus] | [RVUS][LUP2_01_rvus] |
+| 180109 |   02    | subbed by [RVUS][rvus] | [RVUS][LUP2_02_rvus] |
+| 180110 |   03    | subbed by [RVUS][rvus] | [RVUS][LUP2_03_rvus] |
+| 180111 |   04    | subbed by [RVUS][rvus] | [RVUS][LUP2_04_rvus] |
+| 180112 |   05    | subbed by [RVUS][rvus] | [RVUS][LUP2_05_rvus] |
+| 180113 |   06    | subbed by [RVUS][rvus] | [RVUS][LUP2_06_rvus] |
+| 180115 |   07    | subbed by [RVUS][rvus] | [RVUS][LUP2_07_rvus] |
+| 180116 |   08    | subbed by [RVUS][rvus] | [RVUS][LUP2_08_rvus] |
+| 180117 |   09    | subbed by [RVUS][rvus] | [RVUS][LUP2_09_rvus] |
+| 180118 |   10    | subbed by [RVUS][rvus] | [RVUS][LUP2_10_rvus] |
+| 180119 |   11    | subbed by [RVUS][rvus] | [RVUS][LUP2_11_rvus] |
+| 180120 |   12    | subbed by [RVUS][rvus] | [RVUS][LUP2_12_rvus] |
+| 180122 |   13    | subbed by [RVUS][rvus] | [RVUS][LUP2_13_rvus] |
+| 180123 |   14    | subbed by [RVUS][rvus] | [RVUS][LUP2_14_rvus] |
+| 180124 |   15    | subbed by [RVUS][rvus] | [RVUS][LUP2_15_rvus] |
+| 180125 |   16    | subbed by [RVUS][rvus] | [RVUS][LUP2_16_rvus] |
+| 180126 |   17    | subbed by [RVUS][rvus] | [RVUS][LUP2_17_rvus] |
+| 180127 |   18    | subbed by [RVUS][rvus] | [RVUS][LUP2_18_rvus] |
+| 180129 |   19    | subbed by [RVUS][rvus] | [RVUS][LUP2_19_rvus] |
+| 180130 |   20    | subbed by [RVUS][rvus] | [RVUS][LUP2_20_rvus] |
+| 180131 |   21    | subbed by [RVUS][rvus] | [RVUS][LUP2_21_rvus] |
+| 180201 |   22    | subbed by [RVUS][rvus] | [RVUS][LUP2_22_rvus] |
+| 180202 |   23    | subbed by [RVUS][rvus] | [RVUS][LUP2_23_rvus] |
+| 180203 |   24    | subbed by [RVUS][rvus] | [RVUS][LUP2_24_rvus] |
+| 180205 |   25    | subbed by [RVUS][rvus] | [RVUS][LUP2_25_rvus] |
+| 180206 |   26    | subbed by [RVUS][rvus] | [RVUS][LUP2_26_rvus] |
+| 180207 |   27    | subbed by [RVUS][rvus] | [RVUS][LUP2_27_rvus] |
+| 180208 |   28    | subbed by [RVUS][rvus] | [RVUS][LUP2_28_rvus] |
+| 180209 |   29    | subbed by [RVUS][rvus] | [RVUS][LUP2_29_rvus] |
+| 180210 |   30    | subbed by [RVUS][rvus] | [RVUS][LUP2_30_rvus] |
+| 180212 |   31    | subbed by [RVUS][rvus] | [RVUS][LUP2_31_rvus] |
+| 180213 |   32    | subbed by [RVUS][rvus] | [RVUS][LUP2_32_rvus] |
+| 180214 |   33    | subbed by [RVUS][rvus] | [RVUS][LUP2_33_rvus] |
+| 180215 |   34    | subbed by [RVUS][rvus] | [RVUS][LUP2_34_rvus] |
+| 180216 |   35    | subbed by [RVUS][rvus] | [RVUS][LUP2_35_rvus] |
+| 180217 |   36    | subbed by [RVUS][rvus] | [RVUS][LUP2_36_rvus] |
+| 180219 |   37    | subbed by [RVUS][rvus] | [RVUS][LUP2_37_rvus] |
+| 180220 |   38    | subbed by [RVUS][rvus] | [RVUS][LUP2_38_rvus] |
+| 180221 |   39    | subbed by [RVUS][rvus] | [RVUS][LUP2_39_rvus] |
+| 180222 |   40    | subbed by [RVUS][rvus] | [RVUS][LUP2_40_rvus] |
+| 180223 |   41    | subbed by [RVUS][rvus] | [RVUS][LUP2_41_rvus] |
+| 180224 |   42    | subbed by [RVUS][rvus] | [RVUS][LUP2_42_rvus] |
+| 180226 |   43    | subbed by [RVUS][rvus] | [RVUS][LUP2_43_rvus] |
+| 180227 |   44    | subbed by [RVUS][rvus] | [RVUS][LUP2_44_rvus] |
+| 180228 |   45    | subbed by [RVUS][rvus] | [RVUS][LUP2_45_rvus] |
+| 180301 |   46    | subbed by [RVUS][rvus] | [RVUS][LUP2_46_rvus] |
+| 180302 |   47    | subbed by [RVUS][rvus] | [RVUS][LUP2_47_rvus] |
+| 180303 |   48    | subbed by [RVUS][rvus] | [RVUS][LUP2_48_rvus] |
+| 180305 |   49    | subbed by [RVUS][rvus] | [RVUS][LUP2_49_rvus] |
+| 180306 |   50    | subbed by [RVUS][rvus] | [RVUS][LUP2_50_rvus] |
+| 180307 |   51    | subbed by [RVUS][rvus] | [RVUS][LUP2_51_rvus] |
+| 180308 |   52    | subbed by [RVUS][rvus] | [RVUS][LUP2_52_rvus] |
+| 180309 |   53    | subbed by [RVUS][rvus] | [RVUS][LUP2_53_rvus] |
+| 180310 |   54    | subbed by [RVUS][rvus] | [RVUS][LUP2_54_rvus] |
+| 180312 |   55    | subbed by [RVUS][rvus] | [RVUS][LUP2_55_rvus] |
+| 180313 |   56    | subbed by [RVUS][rvus] | [RVUS][LUP2_56_rvus] |
+| 180314 |   57    | subbed by [RVUS][rvus] | [RVUS][LUP2_57_rvus] |
+| 180315 |   58    | subbed by [RVUS][rvus] | [RVUS][LUP2_58_rvus] |
+| 180316 |   59    | subbed by [RVUS][rvus] | [RVUS][LUP2_59_rvus] |
+| 180317 |   60    | subbed by [RVUS][rvus] | [RVUS][LUP2_60_rvus] |
 
 &#x200b;
 
@@ -229,47 +229,47 @@ ___
 | Slovenia | 40       | OT5     |
 ___
 | Date   | Episode | Notes                  | Links                |
-|--------|---------|------------------------|----------------------|
-| 180813 | 01      | subbed by [RVUS][rvus] | [RVUS][LUP3_01_rvus] |
-| 180814 | 02      | subbed by [RVUS][rvus] | [RVUS][LUP3_02_rvus] |
-| 180815 | 03      | subbed by [RVUS][rvus] | [RVUS][LUP3_03_rvus] |
-| 180816 | 04      | subbed by [RVUS][rvus] | [RVUS][LUP3_04_rvus] |
-| 180817 | 05      | subbed by [RVUS][rvus] | [RVUS][LUP3_05_rvus] |
-| 180820 | 06      | subbed by [RVUS][rvus] | [RVUS][LUP3_06_rvus] |
-| 180821 | 07      | subbed by [RVUS][rvus] | [RVUS][LUP3_07_rvus] |
-| 180822 | 08      | subbed by [RVUS][rvus] | [RVUS][LUP3_08_rvus] |
-| 180823 | 09      | subbed by [RVUS][rvus] | [RVUS][LUP3_09_rvus] |
-| 180824 | 10      | subbed by [RVUS][rvus] | [RVUS][LUP3_10_rvus] |
-| 180827 | 11      | subbed by [RVUS][rvus] | [RVUS][LUP3_11_rvus] |
-| 180828 | 12      | subbed by [RVUS][rvus] | [RVUS][LUP3_12_rvus] |
-| 180829 | 13      | subbed by [RVUS][rvus] | [RVUS][LUP3_13_rvus] |
-| 180830 | 14      | subbed by [RVUS][rvus] | [RVUS][LUP3_14_rvus] |
-| 180831 | 15      | subbed by [RVUS][rvus] | [RVUS][LUP3_15_rvus] |
-| 180903 | 16      | subbed by [RVUS][rvus] | [RVUS][LUP3_16_rvus] |
-| 180904 | 17      | subbed by [RVUS][rvus] | [RVUS][LUP3_17_rvus] |
-| 180905 | 18      | subbed by [RVUS][rvus] | [RVUS][LUP3_18_rvus] |
-| 180906 | 19      | subbed by [RVUS][rvus] | [RVUS][LUP3_19_rvus] |
-| 180907 | 20      | subbed by [RVUS][rvus] | [RVUS][LUP3_20_rvus] |
-| 180910 | 21      | subbed by [RVUS][rvus] | [RVUS][LUP3_21_rvus] |
-| 180911 | 22      | subbed by [RVUS][rvus] | [RVUS][LUP3_22_rvus] |
-| 180912 | 23      | subbed by [RVUS][rvus] | [RVUS][LUP3_23_rvus] |
-| 180913 | 24      | subbed by [RVUS][rvus] | [RVUS][LUP3_24_rvus] |
-| 180914 | 25      | subbed by [RVUS][rvus] | [RVUS][LUP3_25_rvus] |
-| 180917 | 26      | subbed by [RVUS][rvus] | [RVUS][LUP3_26_rvus] |
-| 180918 | 27      | subbed by [RVUS][rvus] | [RVUS][LUP3_27_rvus] |
-| 180919 | 28      | subbed by [RVUS][rvus] | [RVUS][LUP3_28_rvus] |
-| 180920 | 29      | subbed by [RVUS][rvus] | [RVUS][LUP3_29_rvus] |
-| 180921 | 30      | subbed by [RVUS][rvus] | [RVUS][LUP3_30_rvus] |
-| 180924 | 31      | subbed by [RVUS][rvus] | [RVUS][LUP3_31_rvus] |
-| 180925 | 32      | subbed by [RVUS][rvus] | [RVUS][LUP3_32_rvus] |
-| 180926 | 33      | subbed by [RVUS][rvus] | [RVUS][LUP3_33_rvus] |
-| 180927 | 34      | subbed by [RVUS][rvus] | [RVUS][LUP3_34_rvus] |
-| 180928 | 35      | subbed by [RVUS][rvus] | [RVUS][LUP3_35_rvus] |
-| 181001 | 36      | subbed by [RVUS][rvus] | [RVUS][LUP3_36_rvus] |
-| 181002 | 37      | subbed by [RVUS][rvus] | [RVUS][LUP3_37_rvus] |
-| 181003 | 38      | subbed by [RVUS][rvus] | [RVUS][LUP3_38_rvus] |
-| 181004 | 39      | subbed by [RVUS][rvus] | [RVUS][LUP3_39_rvus] |
-| 181005 | 40      | subbed by [RVUS][rvus] | [RVUS][LUP3_40_rvus] |
+|--------|:-------:|------------------------|----------------------|
+| 180813 |   01    | subbed by [RVUS][rvus] | [RVUS][LUP3_01_rvus] |
+| 180814 |   02    | subbed by [RVUS][rvus] | [RVUS][LUP3_02_rvus] |
+| 180815 |   03    | subbed by [RVUS][rvus] | [RVUS][LUP3_03_rvus] |
+| 180816 |   04    | subbed by [RVUS][rvus] | [RVUS][LUP3_04_rvus] |
+| 180817 |   05    | subbed by [RVUS][rvus] | [RVUS][LUP3_05_rvus] |
+| 180820 |   06    | subbed by [RVUS][rvus] | [RVUS][LUP3_06_rvus] |
+| 180821 |   07    | subbed by [RVUS][rvus] | [RVUS][LUP3_07_rvus] |
+| 180822 |   08    | subbed by [RVUS][rvus] | [RVUS][LUP3_08_rvus] |
+| 180823 |   09    | subbed by [RVUS][rvus] | [RVUS][LUP3_09_rvus] |
+| 180824 |   10    | subbed by [RVUS][rvus] | [RVUS][LUP3_10_rvus] |
+| 180827 |   11    | subbed by [RVUS][rvus] | [RVUS][LUP3_11_rvus] |
+| 180828 |   12    | subbed by [RVUS][rvus] | [RVUS][LUP3_12_rvus] |
+| 180829 |   13    | subbed by [RVUS][rvus] | [RVUS][LUP3_13_rvus] |
+| 180830 |   14    | subbed by [RVUS][rvus] | [RVUS][LUP3_14_rvus] |
+| 180831 |   15    | subbed by [RVUS][rvus] | [RVUS][LUP3_15_rvus] |
+| 180903 |   16    | subbed by [RVUS][rvus] | [RVUS][LUP3_16_rvus] |
+| 180904 |   17    | subbed by [RVUS][rvus] | [RVUS][LUP3_17_rvus] |
+| 180905 |   18    | subbed by [RVUS][rvus] | [RVUS][LUP3_18_rvus] |
+| 180906 |   19    | subbed by [RVUS][rvus] | [RVUS][LUP3_19_rvus] |
+| 180907 |   20    | subbed by [RVUS][rvus] | [RVUS][LUP3_20_rvus] |
+| 180910 |   21    | subbed by [RVUS][rvus] | [RVUS][LUP3_21_rvus] |
+| 180911 |   22    | subbed by [RVUS][rvus] | [RVUS][LUP3_22_rvus] |
+| 180912 |   23    | subbed by [RVUS][rvus] | [RVUS][LUP3_23_rvus] |
+| 180913 |   24    | subbed by [RVUS][rvus] | [RVUS][LUP3_24_rvus] |
+| 180914 |   25    | subbed by [RVUS][rvus] | [RVUS][LUP3_25_rvus] |
+| 180917 |   26    | subbed by [RVUS][rvus] | [RVUS][LUP3_26_rvus] |
+| 180918 |   27    | subbed by [RVUS][rvus] | [RVUS][LUP3_27_rvus] |
+| 180919 |   28    | subbed by [RVUS][rvus] | [RVUS][LUP3_28_rvus] |
+| 180920 |   29    | subbed by [RVUS][rvus] | [RVUS][LUP3_29_rvus] |
+| 180921 |   30    | subbed by [RVUS][rvus] | [RVUS][LUP3_30_rvus] |
+| 180924 |   31    | subbed by [RVUS][rvus] | [RVUS][LUP3_31_rvus] |
+| 180925 |   32    | subbed by [RVUS][rvus] | [RVUS][LUP3_32_rvus] |
+| 180926 |   33    | subbed by [RVUS][rvus] | [RVUS][LUP3_33_rvus] |
+| 180927 |   34    | subbed by [RVUS][rvus] | [RVUS][LUP3_34_rvus] |
+| 180928 |   35    | subbed by [RVUS][rvus] | [RVUS][LUP3_35_rvus] |
+| 181001 |   36    | subbed by [RVUS][rvus] | [RVUS][LUP3_36_rvus] |
+| 181002 |   37    | subbed by [RVUS][rvus] | [RVUS][LUP3_37_rvus] |
+| 181003 |   38    | subbed by [RVUS][rvus] | [RVUS][LUP3_38_rvus] |
+| 181004 |   39    | subbed by [RVUS][rvus] | [RVUS][LUP3_39_rvus] |
+| 181005 |   40    | subbed by [RVUS][rvus] | [RVUS][LUP3_40_rvus] |
 
 &#x200b;
 
@@ -323,18 +323,18 @@ ___
 
 ## **Pajama Friends**
 ___
-| **Date** | **Episode** |                         **Subtitles**                          |                                                              **Alternative Links**                                                              |   **Notes**    |
-|:--------:|:-----------:|:--------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|
-|  180915  |      1      | [ENG](http://kshow123.net/show/pajama-friends/episode-1.html)  |                                                                                                                                                 |                |
-|  180922  |      2      | [ENG](http://kshow123.net/show/pajama-friends/episode-2.html)  |                                                                                                                                                 |                |
-|  180929  |      3      | [ENG](http://kshow123.net/show/pajama-friends/episode-3.html)  |                                                                                                                                                 |                |
-|  181006  |      4      | [RAW](http://kshow123.net/show/pajama-friends/episode-4.html)  |                                                                                                                                                 |                |
-|  181013  |      5      | [RAW](http://kshow123.net/show/pajama-friends/episode-5.html)  | Team Rocket cut [ENG]: [Vimeo](https://vimeo.com/388806752) // [GDrive](https://drive.google.com/file/d/1P3X1SFSs3xIotRBPsAfRf3ku0INWHKdH/view) | Seulgi & Wendy |
-|  181020  |      6      | [RAW](http://kshow123.net/show/pajama-friends/episode-6.html)  |                                             WenJoy cut [ENG]: [Vimeo](https://vimeo.com/376499969)                                              |     Wendy      |
-|  181027  |      7      | [RAW](http://kshow123.net/show/pajama-friends/episode-7.html)  |                                             WenJoy cut [ENG]: [Vimeo](https://vimeo.com/376500804)                                              |     Wendy      |
-|  181103  |      8      | [RAW](http://kshow123.net/show/pajama-friends/episode-8.html)  |                                                                                                                                                 |                |
-|  181110  |      9      | [RAW](http://kshow123.net/show/pajama-friends/episode-9.html)  |                                                                                                                                                 |                |
-|  181117  |     10      | [ENG](http://kshow123.net/show/pajama-friends/episode-10.html) |                                                                                                                                                 |   MC Seulgi    |
-|  181124  |     11      | [RAW](http://kshow123.net/show/pajama-friends/episode-11.html) |                                                                                                                                                 |                |
-|  181201  |     12      | [RAW](http://kshow123.net/show/pajama-friends/episode-12.html) |                                                                                                                                                 |                |
-|  181208  |     13      | [RAW](http://kshow123.net/show/pajama-friends/episode-13.html) |                                                                                                                                                 |                |
+| **Date** | **Episode** |   **Notes**    |                         **Subtitles**                          |                                                              **Alternative Links**                                                              |
+|:--------:|:-----------:|:--------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
+|  180915  |      1      |                | [ENG](http://kshow123.net/show/pajama-friends/episode-1.html)  |                                                                                                                                                 |
+|  180922  |      2      |                | [ENG](http://kshow123.net/show/pajama-friends/episode-2.html)  |                                                                                                                                                 |
+|  180929  |      3      |                | [ENG](http://kshow123.net/show/pajama-friends/episode-3.html)  |                                                                                                                                                 |
+|  181006  |      4      |                | [RAW](http://kshow123.net/show/pajama-friends/episode-4.html)  |                                                                                                                                                 |
+|  181013  |      5      | Seulgi & Wendy | [RAW](http://kshow123.net/show/pajama-friends/episode-5.html)  | Team Rocket cut [ENG]: [Vimeo](https://vimeo.com/388806752) // [GDrive](https://drive.google.com/file/d/1P3X1SFSs3xIotRBPsAfRf3ku0INWHKdH/view) |
+|  181020  |      6      |     Wendy      | [RAW](http://kshow123.net/show/pajama-friends/episode-6.html)  |                                             WenJoy cut [ENG]: [Vimeo](https://vimeo.com/376499969)                                              |
+|  181027  |      7      |     Wendy      | [RAW](http://kshow123.net/show/pajama-friends/episode-7.html)  |                                             WenJoy cut [ENG]: [Vimeo](https://vimeo.com/376500804)                                              |
+|  181103  |      8      |                | [RAW](http://kshow123.net/show/pajama-friends/episode-8.html)  |                                                                                                                                                 |
+|  181110  |      9      |                | [RAW](http://kshow123.net/show/pajama-friends/episode-9.html)  |                                                                                                                                                 |
+|  181117  |     10      |   MC Seulgi    | [ENG](http://kshow123.net/show/pajama-friends/episode-10.html) |                                                                                                                                                 |
+|  181124  |     11      |                | [RAW](http://kshow123.net/show/pajama-friends/episode-11.html) |                                                                                                                                                 |
+|  181201  |     12      |                | [RAW](http://kshow123.net/show/pajama-friends/episode-12.html) |                                                                                                                                                 |
+|  181208  |     13      |                | [RAW](http://kshow123.net/show/pajama-friends/episode-13.html) |                                                                                                                                                 |
