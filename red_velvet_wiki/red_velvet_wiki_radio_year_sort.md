@@ -163,10 +163,6 @@
 
 &#x200b;
 
-[171122_mega_night_night]:https://mega.nz/#!txwT0SyQ!uHCnBgSAJSXl9-bmI9oomenh-r6QI0aSrImcDKzvxmQ
-[171122_rvus_night_night]:https://revelupsubs.com/2017/11/22/eng-171122-red-velvet-ncts-night-night/
-
-
 ## 2019
 |  Date  |          Title          |   Members   | Subbed |             Notes              |                  Link                   |
 |:------:|:-----------------------:|:-----------:|:------:|:------------------------------:|:---------------------------------------:|
