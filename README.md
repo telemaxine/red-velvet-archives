@@ -2,7 +2,7 @@
 
 Markdown previewers might not show correctly as some of the files will use reddit exclusive markdown syntax. Use raw files to copy over markdown enabled sites like Reddit. Files should be a drop-in replacement in reddit, **however** always make sure to check the output.
 
-## Masterlists
+## **Masterlists**
 
 ### [Drama](./drama.md)
 ### [Livestreams](./livestreams.md)
@@ -10,13 +10,13 @@ Markdown previewers might not show correctly as some of the files will use reddi
 ### [Reality Shows](./reality_shows.md) (Under Construction)
 ### [Variety Shows](./variety_shows.md) (Under construction)
 
-## Social Media
+## **Social Media**
 
 ### [Instagram archives](./instagram_archives/README.md) (Under Construction; still "stuck" in 2019...)
 
 &#x200b;
 
-# Resources & References
+# **Resources & References**
 
 ### [/r/red_velvet wiki][rvwiki]
 ### [Red Velvet resource spreadsheet][ref0]
@@ -44,6 +44,7 @@ Tools used to document and archive for this list
   * [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 * [Youtube-dl](https://github.com/ytdl-org/youtube-dl) - to extract media files primarily from youtube and [other video sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html) that the application supports
 * [ripme](https://github.com/RipMeApp/ripme) - to extract from the members instagram accounts
+* A [URL extractor](https://www.browserling.com/tools/extract-urls).
 
 &#x200b;
 
