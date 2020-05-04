@@ -1,6 +1,6 @@
 # The Red Velvet Archives
 
-Markdown previewers might not show correctly as some of the files will use reddit exclusive markdown syntax. Use raw files to copy over markdown enabled sites like Reddit. Files should be a drop-in replacement in reddit, **however** always make sure to check the output.
+Markdown previewers might not show correctly as some of the files will use reddit exclusive markdown syntax. Use raw files to copy over markdown enabled sites like Reddit. Files should be a drop-in replacement for reddit, **however** always make sure to check the output.
 
 ## **Masterlists**
 
@@ -29,7 +29,7 @@ files formatted specifically for use in [/r/red_velvet wiki][rvwiki]
 
 * [Livestreams](./red_velvet_wiki/red_velvet_wiki_livestream.md) ("Complete", updated with wiki version.)
 * [Radio Show \(Era Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_era_sort.md) ("Complete")
-* [Radio Show \(Year Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_year_sort.md) (Under Construction)
+* [Radio Show \(Year Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_year_sort.md) ("Complete")
 
 &#x200b;
 
