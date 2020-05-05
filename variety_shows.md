@@ -4,7 +4,7 @@
 
 ## **Happiness**
 ___
-| **Date** |      **Show**       | **Episode(s)** |            **Subtitles**            |       **Member(s)**       | **Notes** |
+| **Date** |      **Show**       | **Episode(s)** |              **Links**              |       **Member(s)**       | **Notes** |
 |:--------:|:-------------------:|:--------------:|:-----------------------------------:|:-------------------------:|:---------:|
 |  140825  | Escape Crisis No. 1 |      N/A       | [RAW](https://youtu.be/qlvYSirhe3w) | Irene, Seulgi, Wendy, Joy |           |
 |  140901  |   Hello Counselor   |      N/A       | [ENG](https://youtu.be/h2QDHQDDXjs) | Irene, Seulgi, Wendy, Joy |           |
@@ -14,7 +14,7 @@ ___
 
 ## **Be Natural**
 ___
-| **Date** |                **Show**                | **Episode(s)** |                  **Subtitles**                   |       **Member(s)**       |                  **Notes**                  |
+| **Date** |                **Show**                | **Episode(s)** |                    **Links**                     |       **Member(s)**       |                  **Notes**                  |
 |:--------:|:--------------------------------------:|:--------------:|:------------------------------------------------:|:-------------------------:|:-------------------------------------------:|
 |  141005  |              Weekly Idol               |      168       |       [ENG](https://youtu.be/jbcs8YbcUMo)        | Irene, Seulgi, Wendy, Joy |                                             |
 |  141010  |              EXO 90:2014               |      N/A       | [RAW](https://www.dailymotion.com/video/x27oe5f) |      Seulgi & Wendy       | [Performance](https://youtu.be/SCrjWKutAwc) |
@@ -27,7 +27,7 @@ ___
 
 ## **Ice Cream Cake**
 ___
-| **Date** |            **Show**            | **Episode(s)** |                                                                                      **Subtitles**                                                                                      |   **Member(s)**   |                  **Notes**                  |
+| **Date** |            **Show**            | **Episode(s)** |                                                                                        **Links**                                                                                        |   **Member(s)**   |                  **Notes**                  |
 |:--------:|:------------------------------:|:--------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------:|:-------------------------------------------:|
 |  150330  |    Let's Dance: Red Velvet     |      N/A       |                                                                           [ENG](https://youtu.be/umQIO9YrYp8)                                                                           |        OT5        |                                             |
 |  150407  |       After School Club        |      154       |                                                                           [ENG](https://youtu.be/Zy6t9FJ_9AE)                                                                           |        OT5        |                                             |
@@ -44,7 +44,7 @@ ___
 
 ## **Dumb Dumb**
 ___
-| **Date** |                  **Show**                  | **Episode(s)** |                                                      **Subtitles**                                                       |        **Member(s)**         |                                             **Notes**                                             |
+| **Date** |                  **Show**                  | **Episode(s)** |                                                        **Links**                                                         |        **Member(s)**         |                                             **Notes**                                             |
 |:--------:|:------------------------------------------:|:--------------:|:------------------------------------------------------------------------------------------------------------------------:|:----------------------------:|:-------------------------------------------------------------------------------------------------:|
 |  150922  |             MV Bank Startdust              |      N/A       |                         [ENG](https://drive.google.com/file/d/0B24TvBaMApUwSnVmN2VTUDNtc28/view)                         |             OT5              |                                                                                                   |
 |  150923  |                Weekly Idol                 |      217       |                                           [ENG](https://youtu.be/4dPBlYKDKmo)                                            |             OT5              |                          [Alternate Link](https://youtu.be/00ijFRUIJ14)                           |
@@ -72,7 +72,7 @@ ___
 
 ## **One Of These Nights**
 ___
-| **Date** |          **Show**          | **Episode(s)** |                                                 **Subtitles**                                                 |       **Member(s)**        |                                                      **Notes**                                                      |
+| **Date** |          **Show**          | **Episode(s)** |                                                   **Links**                                                   |       **Member(s)**        |                                                      **Notes**                                                      |
 |:--------:|:--------------------------:|:--------------:|:-------------------------------------------------------------------------------------------------------------:|:--------------------------:|:-------------------------------------------------------------------------------------------------------------------:|
 |  160316  |        Weekly Idol         |      242       |                                      [ENG](https://youtu.be/BQhHewjZ9Tc)                                      |            OT5             |                                                                                                                     |
 |  160321  |      Hello Counselor       |      267       |                                      [ENG](https://youtu.be/VIQD1ETYgLg)                                      |       Irene & Wendy        |                                                                                                                     |
@@ -109,7 +109,7 @@ ___
 
 ## **Russian Roulette**
 ___
-| **Date** |                   **Show**                    |                               **Episode(s)**                                |                                              **Subtitles**                                              |       **Member(s)**        |                                                                     **Notes**                                                                     |
+| **Date** |                   **Show**                    |                               **Episode(s)**                                |                                                **Links**                                                |       **Member(s)**        |                                                                     **Notes**                                                                     |
 |:--------:|:---------------------------------------------:|:---------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:--------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  160929  |              MCD Dance Together               |                                      1                                      |           [ENG](https://revelupsubs.com/2016/09/29/eng-160929-red-velvet-mcd-dance-together/)           |            OT5             |                                                                                                                                                   |
 |  160929  | Mnet MV Commentary: Russian Roulette Reaction |                                      1                                      |             [ENG](https://revelupsubs.com/2016/09/29/eng-160929-red-velvet-mv-commentary/)              |            OT5             |                                                                                                                                                   |
@@ -136,7 +136,7 @@ ___
 
 ## **Rookie**
 ___
-| **Date** |                 **Show**                 | **Episode(s)** |                                                     **Subtitles**                                                      |       **Member(s)**        |                                           **Notes**                                            |
+| **Date** |                 **Show**                 | **Episode(s)** |                                                       **Links**                                                        |       **Member(s)**        |                                           **Notes**                                            |
 |:--------:|:----------------------------------------:|:--------------:|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------:|:----------------------------------------------------------------------------------------------:|
 |  170127  |  Girl Group Battle: The Family's Honor   |       1        |     ENG: ([1/2](https://www.dailymotion.com/video/x5lcjyx)) // ([2/2](https://www.dailymotion.com/video/x5lcjyy))      |     Seulgi, Wendy, Joy     |                                                                                                |
 |  170131  |                 VICTORY                  |       6        |                                [ENG](https://www.reddit.com/r/red_velvet/wiki/victory)                                 |            OT5             |                                Red Velvet's "Rookie" Countdown                                 |
@@ -174,7 +174,7 @@ ___
 
 ## **Red Flavor**
 ___
-| **Date** |                   **Show**                    | **Episode(s)** |                                                                                                               **Subtitles**                                                                                                               |    **Member(s)**    |                                   **Notes**                                    |
+| **Date** |                   **Show**                    | **Episode(s)** |                                                                                                                 **Links**                                                                                                                 |    **Member(s)**    |                                   **Notes**                                    |
 |:--------:|:---------------------------------------------:|:--------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:------------------------------------------------------------------------------:|
 |  170709  |   Periscope - Red Velvet's Twitter Live Q&A   |       1        |                                                                            ENG: ([1/2](https://youtu.be/eiV4Icz6Ixk)) // ([2/2](https://youtu.be/V42Kr79_uxs))                                                                            | Irene, Seulgi, Yeri |                                                                                |
 |  170713  | Red Velvet x Eating Show: Let's Eat Together! |       1        |                                                                                                  [ENG](https://www.vlive.tv/video/35205)                                                                                                  |         OT5         |                                                                                |
@@ -194,7 +194,7 @@ ___
 
 ## **Peek-A-Boo**
 ___
-| **Date** |           **Show**            | **Episode(s)** |                                                          **Subtitles**                                                          | **Member(s)** |    **Notes**     |
+| **Date** |           **Show**            | **Episode(s)** |                                                            **Links**                                                            | **Member(s)** |    **Notes**     |
 |:--------:|:-----------------------------:|:--------------:|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:----------------:|
 |  171111  |          Master Key           |       5        |                    [ENG](https://www.reddit.com/r/red_velvet/comments/7ciy98/171111_master_key_with_wendy/)                     |     Wendy     |                  |
 |  171112  |          Running Man          |      376       | [ENG](https://www.reddit.com/r/red_velvet/comments/7cixr1/171112_running_man_with_irene_joy/?utm_source=share&utm_medium=web2x) |  Irene & Joy  |                  |
@@ -208,7 +208,7 @@ ___
 
 ## **Bad Boy**
 ___
-| **Date** |                  **Show**                   | **Episode(s)** |                                                          **Subtitles**                                                          |       **Member(s)**        |                                                             **Notes**                                                              |
+| **Date** |                  **Show**                   | **Episode(s)** |                                                            **Links**                                                            |       **Member(s)**        |                                                             **Notes**                                                              |
 |:--------:|:-------------------------------------------:|:--------------:|:-------------------------------------------------------------------------------------------------------------------------------:|:--------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
 |  180206  |     Hidden Track No. V 'Check-in Live'      |       1        |                                             [RAW](https://www.vlive.tv/video/57755)                                             |           Wendy            |                                                              MC Wendy                                                              |
 |  180209  |              MTV Idols of Asia              |       1        |                                               [RAW](https://youtu.be/EbJy0SyvgKU)                                               |            OT5             |                            [Translations](https://twitter.com/kseulwan/status/962120768183128064?s=20)                             |
@@ -238,7 +238,7 @@ ___
 
 ## **Power Up**
 ___
-| **Date** |          **Show**          | **Episode(s)** |                                     **Subtitles**                                     | **Member(s)**  |                                          **Notes**                                           |
+| **Date** |          **Show**          | **Episode(s)** |                                       **Links**                                       | **Member(s)**  |                                          **Notes**                                           |
 |:--------:|:--------------------------:|:--------------:|:-------------------------------------------------------------------------------------:|:--------------:|:--------------------------------------------------------------------------------------------:|
 |  180804  |       Knowing Bros.        |      139       |           [ENG](http://kshow123.net/show/knowing-brother/episode-139.html)            |      OT5       |                                                                                              |
 |  180809  | Super Junior's Super TV S2 |       10       |     [ENG](https://mega.nz/#!XvwSlC7C!VNSfCEPq6VipJc-pMQqcg9gGQrW_FcQBxFFf4blquvE)     |      OT5       |        [More Links](https://twitter.com/Supertvsubs/status/1029097918387634176?s=20)         |
@@ -255,7 +255,7 @@ ___
 
 ## **RBB**
 ___
-| **Date** |                     **Show**                      | **Episode(s)** |                                  **Subtitles**                                   |        **Member(s)**        |                                **Notes**                                 |
+| **Date** |                     **Show**                      | **Episode(s)** |                                    **Links**                                     |        **Member(s)**        |                                **Notes**                                 |
 |:--------:|:-------------------------------------------------:|:--------------:|:--------------------------------------------------------------------------------:|:---------------------------:|:------------------------------------------------------------------------:|
 |  181130  | ONE TV ASIA: Red Velvet plays 'Would You Rather?' |       1        |  [ENG](https://drive.google.com/file/d/1N8CPss23dmFUe-LAJkQu6dQxnShHLZjP/view)   |             OT5             | [Twitter](https://twitter.com/ONETVASIA/status/1068440218234060800?s=20) |
 |  181202  |                  Kids These Days                  |      1-6       |                 [ENG](http://kshow123.net/show/kids-these-days/)                 |           Seulgi            |           MC Seulgi but had to step down for the REDMARE Tour            |
@@ -279,7 +279,7 @@ ___
 
 ## **The ReVe Festival: Day 1**
 ___
-| **Date** |          **Show**          | **Episode(s)** |                                                                     **Subtitles**                                                                     | **Member(s)**  |                                   **Notes**                                   |
+| **Date** |          **Show**          | **Episode(s)** |                                                                       **Links**                                                                       | **Member(s)**  |                                   **Notes**                                   |
 |:--------:|:--------------------------:|:--------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|:-----------------------------------------------------------------------------:|
 |  190407  |          Stage K           |       1        |                                                [RAW](https://www.dailymotion.com/embed/video/x75f1ut)                                                 |      OT5       |                                                                               |
 |  190407  |     Everyone's Kitchen     |       8        |                                     [ENG](https://revelupsubs.com/2019/04/07/eng-190407-wendy-everyones-kitchen/)                                     |     Wendy      |                                                                               |
@@ -300,7 +300,7 @@ ___
 
 ## **The ReVe Festival: Day 2**
 ___
-| **Date** |        **Show**         | **Episode(s)** |                                                                                                                      **Subtitles**                                                                                                                      | **Member(s)**  |         **Notes**          |
+| **Date** |        **Show**         | **Episode(s)** |                                                                                                                        **Links**                                                                                                                        | **Member(s)**  |         **Notes**          |
 |:--------:|:-----------------------:|:--------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|:--------------------------:|
 |  190823  | Yu Huiyeol's Sketchbook |      456       |                                                                                        [ENG](http://kshow123.net/show/sketchbook-of-youheeyeul/episode-456.html)                                                                                        |      OT5       |                            |
 |  190828  |       Weekly Idol       |      422       |                                                                                                           [ENG](https://youtu.be/u58fcyHXRFs)                                                                                                           |      OT5       |                            |
@@ -313,7 +313,7 @@ ___
 
 ## **The ReVe Festival: Finale**
 ___
-| **Date** |    **Show**     | **Episode(s)** |                                                                                                                                       **Subtitles**                                                                                                                                       | **Member(s)** |    **Notes**    |
+| **Date** |    **Show**     | **Episode(s)** |                                                                                                                                         **Links**                                                                                                                                         | **Member(s)** |    **Notes**    |
 |:--------:|:---------------:|:--------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:---------------:|
 |  200109  | Happy Together  |     S04E65     |                                                                                                             [ENG](http://kshow123.net/show/happy-together-s4/episode-65.html)                                                                                                             |      Joy      |                 |
 |  200113  |   Salty Tour    |    106-108     | 106 ([ENG](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-106.html)) // 107 ([ENG](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-107.html)) // 108 ([ENG](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-108.html)) |      Joy      | Filmed in Spain |
