@@ -8,7 +8,7 @@ Markdown previewers might not show correctly as some of the files will use reddi
 ### [Livestreams](./livestreams.md)
 ### [Radio Shows](./radio_shows.md)
 ### [Reality Shows](./reality_shows.md) (Under Construction)
-### [Variety Shows](./variety_shows.md) (Under construction)
+### [Variety Shows](./variety_shows.md) (Under audit)
 
 ## **Social Media**
 
