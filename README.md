@@ -45,6 +45,7 @@ Tools used to document and archive for this list
 * [Youtube-dl](https://github.com/ytdl-org/youtube-dl) - to extract media files primarily from youtube and [other video sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html) that the application supports
 * [ripme](https://github.com/RipMeApp/ripme) - to extract from the members instagram accounts
 * A [URL extractor](https://www.browserling.com/tools/extract-urls).
+* A [table formatter](https://tableconvert.com/)
 
 &#x200b;
 
