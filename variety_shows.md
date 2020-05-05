@@ -1,5 +1,7 @@
 # Variety Shows masterlist
 
+&#x200b;
+
 ## **Happiness**
 ___
 | **Date** |      **Show**       | **Episode(s)** |            **Subtitles**            |       **Member(s)**       | **Notes** |
@@ -7,6 +9,8 @@ ___
 |  140825  | Escape Crisis No. 1 |      N/A       | [RAW](https://youtu.be/qlvYSirhe3w) | Irene, Seulgi, Wendy, Joy |           |
 |  140901  |   Hello Counselor   |      N/A       | [ENG](https://youtu.be/h2QDHQDDXjs) | Irene, Seulgi, Wendy, Joy |           |
 |  140920  |   Hidden Singer 3   |      N/A       | [RAW](https://youtu.be/nqFrZEX4tYQ) | Irene, Seulgi, Wendy, Joy |           |
+
+&#x200b;
 
 ## **Be Natural**
 ___
@@ -18,6 +22,8 @@ ___
 |  141106  | Arirang Pops In Seoul's New Secret Box |      N/A       |       [ENG](https://youtu.be/pHZJdU2DzXM)        | Irene, Seulgi, Wendy, Joy |                                             |
 |  141130  |         Let's Go! Dream Team 2         |      N/A       |       [ENG](https://youtu.be/TyPnntJppo0)        |   Irene, Seulgi, Wendy    |                                             |
 |  150102  | Hong Kyung Min's Healing Talk Concert  |      N/A       |       [ENG](https://youtu.be/0_8rJHhAwpA)        | Irene, Seulgi, Wendy, Joy |                                             |
+
+&#x200b;
 
 ## **Ice Cream Cake**
 ___
@@ -33,6 +39,8 @@ ___
 |  150505  |         Off To School          |       43       |                                             [ENG](https://www.reddit.com/r/red_velvet/comments/355azb/150505_seulgi_cut_for_off_to_school/)                                             |      Seulgi       |              Seulgi Cuts Only               |
 |  150609  |     100 People, 100 Songs      |       31       |                                                                    [RAW](https://www.dailymotion.com/video/x2vj5km)                                                                     |  Seulgi & Wendy   | [Performance](https://youtu.be/AO-pJmvwklA) |
 |  150818  | Channel SNSD (Taeyeon Channel) |       5        |                                                                           [ENG](https://youtu.be/q8NfQo2_hvQ)                                                                           |        OT5        |                                             |
+
+&#x200b;
 
 ## **Dumb Dumb**
 ___
@@ -59,235 +67,254 @@ ___
 |  160124  |           King of Masked Singer            |       43       |             [ENG](https://www.reddit.com/r/red_velvet/comments/42fd1g/160124_wendy_on_king_of_mask_singer/)              |            Wendy             |              [Mirror](http://kshow123.net/show/king-of-mask-singer/episode-43.html)               |
 |  160206  |      Baek Jongwon's 3 Great Emperors       |       23       |                                           [RAW](https://youtu.be/zt4sToLZo8k)                                            |   Irene, Seulgi, Joy, Yeri   |                                           RV Cuts Only                                            |
 |  160210  |     Idol Star Athletics Championships      |      N/A       |                         [ENG](https://drive.google.com/file/d/0B0wc7W_RxVSecHpXWXhfZ01FV2c/view)                         |             OT5              |                                                                                                   |
+
+&#x200b;
+
 ## **One Of These Nights**
 ___
-| **Date** | **Show** | **Episode(s)** |**Subtitles** | **Member(s)** | **Notes** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 160316 | Weekly Idol | 242 | [ENG](https://youtu.be/BQhHewjZ9Tc) | OT5 | |
-| 160321 | Hello Counselor | 267 | [ENG](https://youtu.be/VIQD1ETYgLg) | Irene & Wendy | |
-| 160330 | Mnet MV Commentary | N/A | [ENG](https://mega.nz/file/MkozASaI#n2_-5wRn1Ye2owbdmG834WUu1AKMlRD-f9cA2uWIYS4) | OT5 | One of These Nights MV Reaction |
-| 160330 | KBS MV Bank Stardust | N/A | [ENG](https://mega.nz/file/Z0xm3Y6b#epHlvTFuuu0z1un4T1BnPtSVL2EAyDJDNTHlLFG5EA4) | OT5 | |
-| 160330 | Wednesday Food Talk | ?? | [ENG](https://revelupsubs.com/2016/03/30/eng-160330-seulgi-wednesday-food-talk/) | Seulgi | Seulgi cuts only |
-| 160401 | Yu Huiyeol's Sketchbook | 313 | [ENG](https://youtu.be/C4uhw6VWsE8?t=2042) | OT5 | [RV Cuts](https://www.reddit.com/r/red_velvet/comments/4cwuzf/160401_sketchbook/?utm_source=share&utm_medium=web2x) |
-| 160414 | Knowing Bros. - FB Live | N/A | [ENG](https://revelupsubs.com/2016/04/14/eng-160414-red-velvet-knowing-bros-fb-live/) | OT5 | |
-| 160416 | We Got Married | 318 | [ENG](https://www.reddit.com/r/red_velvet/wiki/wegotmarried) | Joy | Red Velvet as guests |
-| 160423 | Knowing Bros. | 21 | [ENG](https://drive.google.com/file/d/0B6TyopVVrSm_LWF3UTdJUVUxRDQ/view) | Seulgi, Wendy, Joy, & Yeri | |
-| 160423 | We Got Married | 319 | [ENG](https://www.reddit.com/r/red_velvet/wiki/wegotmarried) | Joy | Red Velvet as guests |
-| 160503 | Cool Kiz On The Block | 1 | [RAW](https://youtu.be/eNVYJyM3a18) | Seulgi, Wendy, Joy, & Yeri | Reaction cuts only |
-| 160504 | The Ultimate Voice | 5 | [RAW](https://youtu.be/dk7_VIsYLIA) | Seulgi & Joy | Reaction cuts only |
-| 160504 | Cooking Representatives | 11 | [ENG](https://mega.nz/file/ZxBD1CKQ#pJjW5NWqRGUFWHh7vd233ZGYt4ldFnq5UOyq3_uD-_g) | Wendy | Wendy cuts only |
-| 160507 | We Got Married | 320 | [ENG](https://www.reddit.com/r/red_velvet/wiki/wegotmarried) | Joy | Red Velvet as guests |
-| 160509 | Same Bed, Different Dreams | 52 | [ENG](https://youtu.be/CUIsji-vp68) | Seulgi & Joy | Seulgi & Joy cuts only |
-| 160511 | The Viewable SM | 1 | [ENG](https://www.reddit.com/r/red_velvet/wiki/raid#wiki_the_viewable_sm) | Yeri | |
-| 160512 | The Viewable SM | 2 | [ENG](https://www.reddit.com/r/red_velvet/wiki/raid#wiki_the_viewable_sm) | Yeri | |
-| 160518 | The Viewable SM | 3 | [ENG](https://www.reddit.com/r/red_velvet/wiki/raid#wiki_the_viewable_sm) | Yeri | |
-| 160519 | The Viewable SM | 4 | [ENG](https://www.reddit.com/r/red_velvet/wiki/raid#wiki_the_viewable_sm) | Yeri | |
-| 160618 | Knowing Bros. | 29 | [ENG](https://revelupsubs.com/2016/06/18/eng-sub-160618-irene-shinees-jonghyun-knowing-bros/) | Irene | |
-| 160629 | Food Princess | 1 | ENG: ([1/2](https://www.dailymotion.com/video/x5la95x)) // ([2/2](https://www.dailymotion.com/video/x5la9xo)) | Seulgi | |
-| 160703 | My Little Television | N/A | [RAW](https://www.reddit.com/r/red_velvet/comments/4r3lge/160703_my_little_television_with_joy/) | Joy | Live Version |
-| 160706 | Food Princess | 2 | ENG: ([1/2](https://www.dailymotion.com/video/x5q42h9)) // ([2/2](https://www.dailymotion.com/video/x5q480j)) | Seulgi | |
-| 160709 | My Little Television | 60 | [ENG](https://drive.google.com/file/d/0B6TyopVVrSm_RWRtVFZiM3VmQlE/view) | Joy | |
-| 160711 | Hello! Our Language | 1-3 | [ENG](https://www.reddit.com/r/red_velvet/wiki/tlahl#wiki_irene) | Irene | Short Skit |
-| 160715 | Inkigayo - '5W1H' | N/A | [ENG](https://revelupsubs.com/2016/07/15/eng-sub-160715-seulgi-with-5w1h-practice-video-talk-cut/) | Seulgi | |
-| 160716 | My Little Television | 61 | [ENG](https://mega.nz/file/5gRwTSyT#l1vSuf121HH7IL0BJ7hWQuH2fzyjpblAH2ZtIhTNHq4) | Joy | |
-| 160811 | Ranting Monkey | 6 | [ENG](https://youtu.be/PwamtyW1EOw?t=180) | Seulgi | Cameo |
-| 160901 | Game Development Girls | 1-11 | [ENG](https://www.reddit.com/r/red_velvet/wiki/tlahl#wiki_irene) | Irene | Drama | 
-| 160904 | Problematic Men | 77 | [ENG](https://revelupsubs.com/2016/09/04/eng-160904-wendy-problematic-man/) | Wendy | |
+| **Date** |          **Show**          | **Episode(s)** |                                                 **Subtitles**                                                 |       **Member(s)**        |                                                      **Notes**                                                      |
+|:--------:|:--------------------------:|:--------------:|:-------------------------------------------------------------------------------------------------------------:|:--------------------------:|:-------------------------------------------------------------------------------------------------------------------:|
+|  160316  |        Weekly Idol         |      242       |                                      [ENG](https://youtu.be/BQhHewjZ9Tc)                                      |            OT5             |                                                                                                                     |
+|  160321  |      Hello Counselor       |      267       |                                      [ENG](https://youtu.be/VIQD1ETYgLg)                                      |       Irene & Wendy        |                                                                                                                     |
+|  160330  |     Mnet MV Commentary     |      N/A       |               [ENG](https://mega.nz/file/MkozASaI#n2_-5wRn1Ye2owbdmG834WUu1AKMlRD-f9cA2uWIYS4)                |            OT5             |                                           One of These Nights MV Reaction                                           |
+|  160330  |    KBS MV Bank Stardust    |      N/A       |               [ENG](https://mega.nz/file/Z0xm3Y6b#epHlvTFuuu0z1un4T1BnPtSVL2EAyDJDNTHlLFG5EA4)                |            OT5             |                                                                                                                     |
+|  160330  |    Wednesday Food Talk     |       ??       |               [ENG](https://revelupsubs.com/2016/03/30/eng-160330-seulgi-wednesday-food-talk/)                |           Seulgi           |                                                  Seulgi cuts only                                                   |
+|  160401  |  Yu Huiyeol's Sketchbook   |      313       |                                  [ENG](https://youtu.be/C4uhw6VWsE8?t=2042)                                   |            OT5             | [RV Cuts](https://www.reddit.com/r/red_velvet/comments/4cwuzf/160401_sketchbook/?utm_source=share&utm_medium=web2x) |
+|  160414  |  Knowing Bros. - FB Live   |      N/A       |             [ENG](https://revelupsubs.com/2016/04/14/eng-160414-red-velvet-knowing-bros-fb-live/)             |            OT5             |                                                                                                                     |
+|  160416  |       We Got Married       |      318       |                         [ENG](https://www.reddit.com/r/red_velvet/wiki/wegotmarried)                          |            Joy             |                                                Red Velvet as guests                                                 |
+|  160423  |       Knowing Bros.        |       21       |                   [ENG](https://drive.google.com/file/d/0B6TyopVVrSm_LWF3UTdJUVUxRDQ/view)                    | Seulgi, Wendy, Joy, & Yeri |                                                                                                                     |
+|  160423  |       We Got Married       |      319       |                         [ENG](https://www.reddit.com/r/red_velvet/wiki/wegotmarried)                          |            Joy             |                                                Red Velvet as guests                                                 |
+|  160503  |   Cool Kiz On The Block    |       1        |                                      [RAW](https://youtu.be/eNVYJyM3a18)                                      | Seulgi, Wendy, Joy, & Yeri |                                                 Reaction cuts only                                                  |
+|  160504  |     The Ultimate Voice     |       5        |                                      [RAW](https://youtu.be/dk7_VIsYLIA)                                      |        Seulgi & Joy        |                                                 Reaction cuts only                                                  |
+|  160504  |  Cooking Representatives   |       11       |               [ENG](https://mega.nz/file/ZxBD1CKQ#pJjW5NWqRGUFWHh7vd233ZGYt4ldFnq5UOyq3_uD-_g)                |           Wendy            |                                                   Wendy cuts only                                                   |
+|  160507  |       We Got Married       |      320       |                         [ENG](https://www.reddit.com/r/red_velvet/wiki/wegotmarried)                          |            Joy             |                                                Red Velvet as guests                                                 |
+|  160509  | Same Bed, Different Dreams |       52       |                                      [ENG](https://youtu.be/CUIsji-vp68)                                      |        Seulgi & Joy        |                                               Seulgi & Joy cuts only                                                |
+|  160511  |      The Viewable SM       |       1        |                   [ENG](https://www.reddit.com/r/red_velvet/wiki/raid#wiki_the_viewable_sm)                   |            Yeri            |                                                                                                                     |
+|  160512  |      The Viewable SM       |       2        |                   [ENG](https://www.reddit.com/r/red_velvet/wiki/raid#wiki_the_viewable_sm)                   |            Yeri            |                                                                                                                     |
+|  160518  |      The Viewable SM       |       3        |                   [ENG](https://www.reddit.com/r/red_velvet/wiki/raid#wiki_the_viewable_sm)                   |            Yeri            |                                                                                                                     |
+|  160519  |      The Viewable SM       |       4        |                   [ENG](https://www.reddit.com/r/red_velvet/wiki/raid#wiki_the_viewable_sm)                   |            Yeri            |                                                                                                                     |
+|  160618  |       Knowing Bros.        |       29       |         [ENG](https://revelupsubs.com/2016/06/18/eng-sub-160618-irene-shinees-jonghyun-knowing-bros/)         |           Irene            |                                                                                                                     |
+|  160629  |       Food Princess        |       1        | ENG: ([1/2](https://www.dailymotion.com/video/x5la95x)) // ([2/2](https://www.dailymotion.com/video/x5la9xo)) |           Seulgi           |                                                                                                                     |
+|  160703  |    My Little Television    |      N/A       |       [RAW](https://www.reddit.com/r/red_velvet/comments/4r3lge/160703_my_little_television_with_joy/)        |            Joy             |                                                    Live Version                                                     |
+|  160706  |       Food Princess        |       2        | ENG: ([1/2](https://www.dailymotion.com/video/x5q42h9)) // ([2/2](https://www.dailymotion.com/video/x5q480j)) |           Seulgi           |                                                                                                                     |
+|  160709  |    My Little Television    |       60       |                   [ENG](https://drive.google.com/file/d/0B6TyopVVrSm_RWRtVFZiM3VmQlE/view)                    |            Joy             |                                                                                                                     |
+|  160711  |    Hello! Our Language     |      1-3       |                       [ENG](https://www.reddit.com/r/red_velvet/wiki/tlahl#wiki_irene)                        |           Irene            |                                                     Short Skit                                                      |
+|  160715  |     Inkigayo - '5W1H'      |      N/A       |      [ENG](https://revelupsubs.com/2016/07/15/eng-sub-160715-seulgi-with-5w1h-practice-video-talk-cut/)       |           Seulgi           |                                                                                                                     |
+|  160716  |    My Little Television    |       61       |               [ENG](https://mega.nz/file/5gRwTSyT#l1vSuf121HH7IL0BJ7hWQuH2fzyjpblAH2ZtIhTNHq4)                |            Joy             |                                                                                                                     |
+|  160811  |       Ranting Monkey       |       6        |                                   [ENG](https://youtu.be/PwamtyW1EOw?t=180)                                   |           Seulgi           |                                                        Cameo                                                        |
+|  160901  |   Game Development Girls   |      1-11      |                       [ENG](https://www.reddit.com/r/red_velvet/wiki/tlahl#wiki_irene)                        |           Irene            |                                                        Drama                                                        |
+|  160904  |      Problematic Men       |       77       |                  [ENG](https://revelupsubs.com/2016/09/04/eng-160904-wendy-problematic-man/)                  |           Wendy            |                                                                                                                     |
+
+&#x200b;
 
 ## **Russian Roulette**
 ___
-| **Date** | **Show** | **Episode(s)** |**Subtitles** | **Member(s)** | **Notes** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 160929 | MCD Dance Together | 1 | [ENG](https://revelupsubs.com/2016/09/29/eng-160929-red-velvet-mcd-dance-together/) | OT5 | |
-| 160929 | Mnet MV Commentary: Russian Roulette Reaction | 1 | [ENG](https://revelupsubs.com/2016/09/29/eng-160929-red-velvet-mv-commentary/) | OT5 | |
-| 160929 | Ranting Monkey | 11 | [ENG](https://youtu.be/4xeA36iJOfw) | Seulgi, Wendy, Joy, Yeri | Cameo |
-| 160930 | V LIVE: LieV | 1 | [ENG](https://www.vlive.tv/video/14431) | Irene & Seulgi | |
-| 161003 | King of Masked Singer | 79 | [ENG](http://kshow123.net/show/king-of-mask-singer/episode-79.html) (1:26:00) | Seulgi | Performance: [Genie](https://www.youtube.com/watch?v=TXuXqaANAWY) // [Turning The Pages of Memories](https://www.youtube.com/watch?v=wGNo3UeNI7c) |
-| 161103 | 'Always in My Heart' V LIVE | 1 | [ENG](http://www.vlive.tv/video/16423) | Joy | |
-| 161122 | SM Super Celeb League | 1-2 | ENG: ([SJ Heechul](https://youtu.be/DtGqcVLdwDw)) // ([EXO Baekhyun](https://youtu.be/BbWH0fmOJBg)) | Seulgi | Seulgi Cuts: ([SJ Heechul](https://youtu.be/h4j7zPfCzRs)) // ([EXO Baekhyun](https://youtu.be/HVsrvSiCxr0)) |
-| 161206 | 2016 MMA | [ENG](https://revelupsubs.com/2016/12/06/eng-161206-red-velvet-mma-behind/) | Irene, Seulgi, Wendy, Joy | 2016 MMA Behind |
-| 161207 | Radio Star | 504 | [RAW](https://drive.google.com/file/d/0BzbJLcX1kxbTLW8zSENKeFN4LVU/view) | Irene | |
-| 161208 | Yang and Nam Show | 4 | [ENG](https://revelupsubs.com/2016/12/08/eng-161208-red-velvet-yang-and-nam-show/) | Irene, Seulgi, Wendy, Joy | |
-| 161213 | VICTORY | 1 | [ENG](https://www.reddit.com/r/red_velvet/wiki/victory) | OT5 | |
-| 161215 | Yang and Nam Show | 5 | [ENG](https://revelupsubs.com/2016/12/15/eng-161215-red-velvet-yang-nam-show/) | Irene, Seulgi, Wendy, Joy | |
-| 161216 | Idol Battle Likes | 1 | [ENG](https://youtu.be/eZSAbm_bxzY) | Seulgi | MC Seulgi |
-| 161216 | Phantom Singer | 6 | [RAW](https://www.redvelvetupdates.com/post/154559158488/clip-161216-jtbc-phantom-singer-ep6-red#notes) | Seulgi, Wendy Joy | | 
-| 161220 | VICTORY | 2 | [ENG](https://www.reddit.com/r/red_velvet/wiki/victory) | Irene, Seulgi, Wendy, Yeri | |
-| 161226 | Idol Party | 5 | [ENG](https://revelupsubs.com/2016/12/26/eng-161226-red-velvet-idol-party/) | Irene, Seulgi, Wendy, Joy | |
-| 161229 | Lucky Race | 7 | [RAW](https://drive.google.com/file/d/0BzbJLcX1kxbTd3BSUElfdkpTdzA/view) | Seulgi | |
-| 170107 | Laundry Day | 1-12 | [SOME](https://www.reddit.com/r/red_velvet/wiki/laundryday) | Irene | MC Irene with RV Members as guest |
-| 170124 | VICTORY | 5 | [ENG](https://www.reddit.com/r/red_velvet/wiki/victory) | OT5 | Red Velvet's Time Out |
-| 170127 | Raid the Convenience Store | 1-3 | [RAW](https://www.reddit.com/r/red_velvet/wiki/raid) | Wendy | Red Velvet as guests |
+| **Date** |                   **Show**                    |                               **Episode(s)**                                |                                              **Subtitles**                                              |       **Member(s)**        |                                                                     **Notes**                                                                     |
+|:--------:|:---------------------------------------------:|:---------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:--------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  160929  |              MCD Dance Together               |                                      1                                      |           [ENG](https://revelupsubs.com/2016/09/29/eng-160929-red-velvet-mcd-dance-together/)           |            OT5             |                                                                                                                                                   |
+|  160929  | Mnet MV Commentary: Russian Roulette Reaction |                                      1                                      |             [ENG](https://revelupsubs.com/2016/09/29/eng-160929-red-velvet-mv-commentary/)              |            OT5             |                                                                                                                                                   |
+|  160929  |                Ranting Monkey                 |                                     11                                      |                                   [ENG](https://youtu.be/4xeA36iJOfw)                                   |  Seulgi, Wendy, Joy, Yeri  |                                                                       Cameo                                                                       |
+|  160930  |                 V LIVE: LieV                  |                                      1                                      |                                 [ENG](https://www.vlive.tv/video/14431)                                 |       Irene & Seulgi       |                                                                                                                                                   |
+|  161003  |             King of Masked Singer             |                                     79                                      |              [ENG](http://kshow123.net/show/king-of-mask-singer/episode-79.html) (1:26:00)              |           Seulgi           | Performance: [Genie](https://www.youtube.com/watch?v=TXuXqaANAWY) // [Turning The Pages of Memories](https://www.youtube.com/watch?v=wGNo3UeNI7c) |
+|  161103  |          'Always in My Heart' V LIVE          |                                      1                                      |                                 [ENG](http://www.vlive.tv/video/16423)                                  |            Joy             |                                                                                                                                                   |
+|  161122  |             SM Super Celeb League             |                                     1-2                                     |   ENG: ([SJ Heechul](https://youtu.be/DtGqcVLdwDw)) // ([EXO Baekhyun](https://youtu.be/BbWH0fmOJBg))   |           Seulgi           |                    Seulgi Cuts: ([SJ Heechul](https://youtu.be/h4j7zPfCzRs)) // ([EXO Baekhyun](https://youtu.be/HVsrvSiCxr0))                    |
+|  161206  |                   2016 MMA                    | [ENG](https://revelupsubs.com/2016/12/06/eng-161206-red-velvet-mma-behind/) |                                        Irene, Seulgi, Wendy, Joy                                        |      2016 MMA Behind       |                                                                                                                                                   |
+|  161207  |                  Radio Star                   |                                     504                                     |                [RAW](https://drive.google.com/file/d/0BzbJLcX1kxbTLW8zSENKeFN4LVU/view)                 |           Irene            |                                                                                                                                                   |
+|  161208  |               Yang and Nam Show               |                                      4                                      |           [ENG](https://revelupsubs.com/2016/12/08/eng-161208-red-velvet-yang-and-nam-show/)            | Irene, Seulgi, Wendy, Joy  |                                                                                                                                                   |
+|  161213  |                    VICTORY                    |                                      1                                      |                         [ENG](https://www.reddit.com/r/red_velvet/wiki/victory)                         |            OT5             |                                                                                                                                                   |
+|  161215  |               Yang and Nam Show               |                                      5                                      |             [ENG](https://revelupsubs.com/2016/12/15/eng-161215-red-velvet-yang-nam-show/)              | Irene, Seulgi, Wendy, Joy  |                                                                                                                                                   |
+|  161216  |               Idol Battle Likes               |                                      1                                      |                                   [ENG](https://youtu.be/eZSAbm_bxzY)                                   |           Seulgi           |                                                                     MC Seulgi                                                                     |
+|  161216  |                Phantom Singer                 |                                      6                                      | [RAW](https://www.redvelvetupdates.com/post/154559158488/clip-161216-jtbc-phantom-singer-ep6-red#notes) |     Seulgi, Wendy Joy      |                                                                                                                                                   |
+|  161220  |                    VICTORY                    |                                      2                                      |                         [ENG](https://www.reddit.com/r/red_velvet/wiki/victory)                         | Irene, Seulgi, Wendy, Yeri |                                                                                                                                                   |
+|  161226  |                  Idol Party                   |                                      5                                      |               [ENG](https://revelupsubs.com/2016/12/26/eng-161226-red-velvet-idol-party/)               | Irene, Seulgi, Wendy, Joy  |                                                                                                                                                   |
+|  161229  |                  Lucky Race                   |                                      7                                      |                [RAW](https://drive.google.com/file/d/0BzbJLcX1kxbTd3BSUElfdkpTdzA/view)                 |           Seulgi           |                                                                                                                                                   |
+|  170107  |                  Laundry Day                  |                                    1-12                                     |                       [SOME](https://www.reddit.com/r/red_velvet/wiki/laundryday)                       |           Irene            |                                                         MC Irene with RV Members as guest                                                         |
+|  170124  |                    VICTORY                    |                                      5                                      |                         [ENG](https://www.reddit.com/r/red_velvet/wiki/victory)                         |            OT5             |                                                               Red Velvet's Time Out                                                               |
+|  170127  |          Raid the Convenience Store           |                                     1-3                                     |                          [RAW](https://www.reddit.com/r/red_velvet/wiki/raid)                           |           Wendy            |                                                               Red Velvet as guests                                                                |
+
+&#x200b;
 
 ## **Rookie**
 ___
-| **Date** | **Show** | **Episode(s)** |**Subtitles** | **Member(s)** | **Notes** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 170127 | Girl Group Battle: The Family's Honor | 1 | ENG: ([1/2](https://www.dailymotion.com/video/x5lcjyx)) // ([2/2](https://www.dailymotion.com/video/x5lcjyy)) | Seulgi, Wendy, Joy | |
-| 170131 | VICTORY | 6 | [ENG](https://www.reddit.com/r/red_velvet/wiki/victory) | OT5 | Red Velvet's "Rookie" Countdown | 
-| 170130 | Oppa Thinking V LIVE | 1 | [ENG](https://www.vlive.tv/video/21441) | Joy | MC Joy |
-| 170204 | Doppelgänger Show: Celebrity Look-alike | 7 | [RAW](https://youtu.be/ViH5T1iV6kU) | Seulgi | |
-| 170206 | Abnormal Summit | 135 | [ENG](http://kshow123.net/show/abnormal-summit/episode-135.html) | Seulgi & Wendy | Starts at 23:55 |
-| 170207 | After School Club | 250 | [ENG](https://youtu.be/MZnKkvVWdlY) | Irene, Seulgi, Wendy, Yeri | |
-| 170211 | Baek Jong Won's Top 3 Chef King | 72 | [ENG](http://kshow123.net/show/baek-jong-wons-top-3-chef-king/episode-72.html) | Irene | |
-| 170212 | Running Man | 338 | [ENG](http://kshow123.net/show/running-man/episode-338.html) | Irene, Seulgi, Wendy, Yeri | |
-| 170215 | Trick and True | 1-16 | [ENG](https://www.reddit.com/r/red_velvet/wiki/trickandtrue) | Irene, Wendy, Joy | |
-| 170224 | Singderella | 15 | [ENG](http://kshow123.net/show/singderella/episode-15.html) | Irene, Seulgi, Wendy, Yeri | |
-| 170302 | Yang and Nam Show | 2 | [ENG](https://revelupsubs.com/2017/03/02/eng-170302-red-velvet-new-yang-and-nam-show/) | Irene, Seulgi, Wendy, Yeri | |
-| 170303 | Sister's Slam Dunk: Season 2 | 4 | [ENG](http://kshow123.net/show/sisters-slam-dunk-season-2/episode-4.html) (starts at 1:14:50) | Irene, Seulgi, Wendy, Yeri | [Unaired Clip of RV vs Unnies](https://youtu.be/kICVDBSvJZ4) |
-| 170314 | 'The Liar And His Lover' Early Interview | 1 | [ENG](https://www.vlive.tv/video/24686) | Joy |
-| 170331 | KBS K-RUSH | 1-4 | [ENG](https://www.reddit.com/r/red_velvet/wiki/krush) | Wendy | MC Wendy |
-| 170331 | School Rapper | 8 | [Performance](https://youtu.be/Wk_NmnhoKKY) | Seulgi | Seulgi sings 'Drop' with NCT Mark | 
-| 170403 | Strong Girls | 11 | [RAW](https://drive.google.com/file/d/0ByW7jxqRmrm8UEQwUWlXci1DNFU/view) | Seulgi | |
-| 170414 | Baek Jong Won's Top 3 Chef King | 81 | [ENG](http://kshow123.net/show/baek-jong-wons-top-3-chef-king/episode-81.html) | Irene & Seulgi | |
-| 170421 | Men Who Leapt Through Time | 4 | [ENG](https://www.dailymotion.com/video/x5r485c) | Irene, Seulgi, Yeri | [Unaired clip](https://youtu.be/-7XXJ-J5P64) |
-| 170429 | Taiwan 100% Entertainment | 1 | [RAW](https://www.youtube.com/watch?v=gbAmLKM_yIQ) | Irene, Seulgi, Wendy, Yeri | |
-| 170429 | Suddenly Heroes | 3 | [ENG](https://youtu.be/wFH1NQiFyaE) | Irene & Yeri | |
-| 170430 | Red Velvet in Taiwan Night Market | 1 | [RAW](https://www.dailymotion.com/playlist/x6gs98) | Irene, Seulgi, Wendy, Yeri | |
-| 170430 | The Return of Superman | 180 | [ENG](https://youtu.be/tdVJ6z0RurU?t=4085) | Irene, Seulgi, Yeri | Cameo |
-| 170504 | Style Follow | 3 | [ENG](https://youtu.be/0IFyqIcWPho) | Irene & Seulgi | |
-| 170506 | Suddenly Heroes | 4 | [ENG](https://youtu.be/s3GR1sBaFJE) | Irene & Yeri | |
-| 170508 | 'The Liar and His Lover' Mini Concert | 1 | [ENG](https://www.vlive.tv/video/29540) | Joy | |
-| 170510 | MTV Idols of Asia | 1 | [ENG](https://www.reddit.com/r/red_velvet/comments/6jjm7l/170510_mtv_idols_of_asia/?utm_source=share&utm_medium=web2x) | Irene, Seulgi, Wendy, Yeri | |
-| 170511 | MTV Idols of Asia | 2 | [ENG](https://www.reddit.com/r/red_velvet/comments/6mb9ad/170511_mtv_idols_of_asia_episode_2/) | Irene, Seulgi, Wendy, Yeri | |
-| 170512 | The Dynamic Duo (Cooperation 7) | 7 | [RAW](http://kshow123.net/show/cooperation-7/episode-7.html) | Irene & Wendy | |
-| 170625 | Idol Drama Operation Team | 13 | [ENG](https://www.youtube.com/playlist?list=PLMf7VY8La5REYrK1BtPdG4LrDuf-Z52nm) | Seulgi | [Mirror](https://www.reddit.com/r/red_velvet/wiki/idot#wiki_idol_drama_operation_team) |
-| 170703 | Let's Only Walk The Flower Road | 8 | [ENG](https://www.youtube.com/playlist?list=PLMf7VY8La5REYrK1BtPdG4LrDuf-Z52nm) | Seulgi | [Mirror](https://www.reddit.com/r/red_velvet/wiki/idot#wiki_let.27s_only_walk_the_flower_road) |
-| 170617 | Channel A: Let's Eat Out This Saturday | 4 | [ENG](https://youtu.be/2LOADcD1I2k) | Joy | | 
+| **Date** |                 **Show**                 | **Episode(s)** |                                                     **Subtitles**                                                      |       **Member(s)**        |                                           **Notes**                                            |
+|:--------:|:----------------------------------------:|:--------------:|:----------------------------------------------------------------------------------------------------------------------:|:--------------------------:|:----------------------------------------------------------------------------------------------:|
+|  170127  |  Girl Group Battle: The Family's Honor   |       1        |     ENG: ([1/2](https://www.dailymotion.com/video/x5lcjyx)) // ([2/2](https://www.dailymotion.com/video/x5lcjyy))      |     Seulgi, Wendy, Joy     |                                                                                                |
+|  170131  |                 VICTORY                  |       6        |                                [ENG](https://www.reddit.com/r/red_velvet/wiki/victory)                                 |            OT5             |                                Red Velvet's "Rookie" Countdown                                 |
+|  170130  |           Oppa Thinking V LIVE           |       1        |                                        [ENG](https://www.vlive.tv/video/21441)                                         |            Joy             |                                             MC Joy                                             |
+|  170204  | Doppelgänger Show: Celebrity Look-alike  |       7        |                                          [RAW](https://youtu.be/ViH5T1iV6kU)                                           |           Seulgi           |                                                                                                |
+|  170206  |             Abnormal Summit              |      135       |                            [ENG](http://kshow123.net/show/abnormal-summit/episode-135.html)                            |       Seulgi & Wendy       |                                        Starts at 23:55                                         |
+|  170207  |            After School Club             |      250       |                                          [ENG](https://youtu.be/MZnKkvVWdlY)                                           | Irene, Seulgi, Wendy, Yeri |                                                                                                |
+|  170211  |     Baek Jong Won's Top 3 Chef King      |       72       |                     [ENG](http://kshow123.net/show/baek-jong-wons-top-3-chef-king/episode-72.html)                     |           Irene            |                                                                                                |
+|  170212  |               Running Man                |      338       |                              [ENG](http://kshow123.net/show/running-man/episode-338.html)                              | Irene, Seulgi, Wendy, Yeri |                                                                                                |
+|  170215  |              Trick and True              |      1-16      |                              [ENG](https://www.reddit.com/r/red_velvet/wiki/trickandtrue)                              |     Irene, Wendy, Joy      |                                                                                                |
+|  170224  |               Singderella                |       15       |                              [ENG](http://kshow123.net/show/singderella/episode-15.html)                               | Irene, Seulgi, Wendy, Yeri |                                                                                                |
+|  170302  |            Yang and Nam Show             |       2        |                 [ENG](https://revelupsubs.com/2017/03/02/eng-170302-red-velvet-new-yang-and-nam-show/)                 | Irene, Seulgi, Wendy, Yeri |                                                                                                |
+|  170303  |       Sister's Slam Dunk: Season 2       |       4        |             [ENG](http://kshow123.net/show/sisters-slam-dunk-season-2/episode-4.html) (starts at 1:14:50)              | Irene, Seulgi, Wendy, Yeri |                  [Unaired Clip of RV vs Unnies](https://youtu.be/kICVDBSvJZ4)                  |
+|  170314  | 'The Liar And His Lover' Early Interview |       1        |                                        [ENG](https://www.vlive.tv/video/24686)                                         |            Joy             |                                                                                                |
+|  170331  |                KBS K-RUSH                |      1-4       |                                 [ENG](https://www.reddit.com/r/red_velvet/wiki/krush)                                  |           Wendy            |                                            MC Wendy                                            |
+|  170331  |              School Rapper               |       8        |                                      [Performance](https://youtu.be/Wk_NmnhoKKY)                                       |           Seulgi           |                               Seulgi sings 'Drop' with NCT Mark                                |
+|  170403  |               Strong Girls               |       11       |                        [RAW](https://drive.google.com/file/d/0ByW7jxqRmrm8UEQwUWlXci1DNFU/view)                        |           Seulgi           |                                                                                                |
+|  170414  |     Baek Jong Won's Top 3 Chef King      |       81       |                     [ENG](http://kshow123.net/show/baek-jong-wons-top-3-chef-king/episode-81.html)                     |       Irene & Seulgi       |                                                                                                |
+|  170421  |        Men Who Leapt Through Time        |       4        |                                    [ENG](https://www.dailymotion.com/video/x5r485c)                                    |    Irene, Seulgi, Yeri     |                          [Unaired clip](https://youtu.be/-7XXJ-J5P64)                          |
+|  170429  |        Taiwan 100% Entertainment         |       1        |                                   [RAW](https://www.youtube.com/watch?v=gbAmLKM_yIQ)                                   | Irene, Seulgi, Wendy, Yeri |                                                                                                |
+|  170429  |             Suddenly Heroes              |       3        |                                          [ENG](https://youtu.be/wFH1NQiFyaE)                                           |        Irene & Yeri        |                                                                                                |
+|  170430  |    Red Velvet in Taiwan Night Market     |       1        |                                   [RAW](https://www.dailymotion.com/playlist/x6gs98)                                   | Irene, Seulgi, Wendy, Yeri |                                                                                                |
+|  170430  |          The Return of Superman          |      180       |                                       [ENG](https://youtu.be/tdVJ6z0RurU?t=4085)                                       |    Irene, Seulgi, Yeri     |                                             Cameo                                              |
+|  170504  |               Style Follow               |       3        |                                          [ENG](https://youtu.be/0IFyqIcWPho)                                           |       Irene & Seulgi       |                                                                                                |
+|  170506  |             Suddenly Heroes              |       4        |                                          [ENG](https://youtu.be/s3GR1sBaFJE)                                           |        Irene & Yeri        |                                                                                                |
+|  170508  |  'The Liar and His Lover' Mini Concert   |       1        |                                        [ENG](https://www.vlive.tv/video/29540)                                         |            Joy             |                                                                                                |
+|  170510  |            MTV Idols of Asia             |       1        | [ENG](https://www.reddit.com/r/red_velvet/comments/6jjm7l/170510_mtv_idols_of_asia/?utm_source=share&utm_medium=web2x) | Irene, Seulgi, Wendy, Yeri |                                                                                                |
+|  170511  |            MTV Idols of Asia             |       2        |             [ENG](https://www.reddit.com/r/red_velvet/comments/6mb9ad/170511_mtv_idols_of_asia_episode_2/)             | Irene, Seulgi, Wendy, Yeri |                                                                                                |
+|  170512  |     The Dynamic Duo (Cooperation 7)      |       7        |                              [RAW](http://kshow123.net/show/cooperation-7/episode-7.html)                              |       Irene & Wendy        |                                                                                                |
+|  170625  |        Idol Drama Operation Team         |       13       |                    [ENG](https://www.youtube.com/playlist?list=PLMf7VY8La5REYrK1BtPdG4LrDuf-Z52nm)                     |           Seulgi           |     [Mirror](https://www.reddit.com/r/red_velvet/wiki/idot#wiki_idol_drama_operation_team)     |
+|  170703  |     Let's Only Walk The Flower Road      |       8        |                    [ENG](https://www.youtube.com/playlist?list=PLMf7VY8La5REYrK1BtPdG4LrDuf-Z52nm)                     |           Seulgi           | [Mirror](https://www.reddit.com/r/red_velvet/wiki/idot#wiki_let.27s_only_walk_the_flower_road) |
+|  170617  |  Channel A: Let's Eat Out This Saturday  |       4        |                                          [ENG](https://youtu.be/2LOADcD1I2k)                                           |            Joy             |                                                                                                |
+
+&#x200b;
 
 ## **Red Flavor**
 ___
-| **Date** | **Show** | **Episode(s)** |**Subtitles** | **Member(s)** | **Notes** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|170709 | Periscope - Red Velvet's Twitter Live Q&A | 1 | ENG: ([1/2](https://youtu.be/eiV4Icz6Ixk)) // ([2/2](https://youtu.be/V42Kr79_uxs)) | Irene, Seulgi, Yeri | |
-| 170713 | Red Velvet x Eating Show: Let's Eat Together! | 1 | [ENG](https://www.vlive.tv/video/35205) | OT5 | |
-| 170715 | Knowing Bros | 84 | [ENG](https://kisstvshow.to/Show/Knowing-Bros/Episode-84?id=2088) | OT5 | |
-| 170722 | SNL Korea 9 | S09E17 | [ENG](https://revelupsubs.com/2017/07/22/eng-170722-red-velvet-snl-korea-9/) | OT5 | |
-| 170723 | King of Masked Singer | 121-122 | ENG: ([121](https://keybase.pub/telemaxus/rv/variety-shows/King%20of%20Masked%20Singer/King.of.Mask.Singer.E121.mp4)) // ([122](https://keybase.pub/telemaxus/rv/variety-shows/King%20of%20Masked%20Singer/King.of.Mask.Singer.E122.mp4))  | Joy |
-| 170724 | Hello Counselor | 334 | [ENG](https://youtu.be/F1bzdw6ucsI) | Wendy & Joy | |
-| 170731 | Oppa Thinking (Thinking About My Bias) | 11 | [ENG](http://kshow123.net/show/thinking-about-my-bias/episode-11.html) | OT5 | [Mirror](https://telemaxus.keybase.pub/rv/variety-shows/Oppa.Thinking.E11.mp4) |
-| 170802 | SNOWBALL Project | 31-48 | [ENG](https://www.reddit.com/r/red_velvet/wiki/snowball) | OT5 | |
-| 170806 | Idol Men | 1 | [RAW](https://youtu.be/gRNCXMf1A5c) | OT5 | |
-| 170908 | I'm CELUV Live | 1 | [ENG](https://revelupsubs.com/2017/09/08/eng-170908-red-velvet-im-celuv-live/) | OT5 | |
-| 170914 | Happy Together | S03 | [ENG](https://youtu.be/lphlAxj4RaA?t=3550) | Joy & Yeri | |
-| 170924 | Fantastic Duo 2 | 26 | [Performance](https://youtu.be/ZI6aPWEgezY) | Seulgi & Wendy | Wenseul performs 'Doll' with Kangta |
-| 171025 | MTV Idols of Asia | 1 | [ENG](https://www.reddit.com/r/red_velvet/comments/7c5j7i/171025_idols_of_asia/?utm_source=share&utm_medium=web2x) | OT5 | |
+| **Date** |                   **Show**                    | **Episode(s)** |                                                                                                               **Subtitles**                                                                                                               |    **Member(s)**    |                                   **Notes**                                    |
+|:--------:|:---------------------------------------------:|:--------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:------------------------------------------------------------------------------:|
+|  170709  |   Periscope - Red Velvet's Twitter Live Q&A   |       1        |                                                                            ENG: ([1/2](https://youtu.be/eiV4Icz6Ixk)) // ([2/2](https://youtu.be/V42Kr79_uxs))                                                                            | Irene, Seulgi, Yeri |                                                                                |
+|  170713  | Red Velvet x Eating Show: Let's Eat Together! |       1        |                                                                                                  [ENG](https://www.vlive.tv/video/35205)                                                                                                  |         OT5         |                                                                                |
+|  170715  |                 Knowing Bros                  |       84       |                                                                                     [ENG](https://kisstvshow.to/Show/Knowing-Bros/Episode-84?id=2088)                                                                                     |         OT5         |                                                                                |
+|  170722  |                  SNL Korea 9                  |     S09E17     |                                                                               [ENG](https://revelupsubs.com/2017/07/22/eng-170722-red-velvet-snl-korea-9/)                                                                                |         OT5         |                                                                                |
+|  170723  |             King of Masked Singer             |    121-122     | ENG: ([121](https://keybase.pub/telemaxus/rv/variety-shows/King%20of%20Masked%20Singer/King.of.Mask.Singer.E121.mp4)) // ([122](https://keybase.pub/telemaxus/rv/variety-shows/King%20of%20Masked%20Singer/King.of.Mask.Singer.E122.mp4)) |         Joy         |                                                                                |
+|  170724  |                Hello Counselor                |      334       |                                                                                                    [ENG](https://youtu.be/F1bzdw6ucsI)                                                                                                    |     Wendy & Joy     |                                                                                |
+|  170731  |    Oppa Thinking (Thinking About My Bias)     |       11       |                                                                                  [ENG](http://kshow123.net/show/thinking-about-my-bias/episode-11.html)                                                                                   |         OT5         | [Mirror](https://telemaxus.keybase.pub/rv/variety-shows/Oppa.Thinking.E11.mp4) |
+|  170802  |               SNOWBALL Project                |     31-48      |                                                                                         [ENG](https://www.reddit.com/r/red_velvet/wiki/snowball)                                                                                          |         OT5         |                                                                                |
+|  170806  |                   Idol Men                    |       1        |                                                                                                    [RAW](https://youtu.be/gRNCXMf1A5c)                                                                                                    |         OT5         |                                                                                |
+|  170908  |                I'm CELUV Live                 |       1        |                                                                              [ENG](https://revelupsubs.com/2017/09/08/eng-170908-red-velvet-im-celuv-live/)                                                                               |         OT5         |                                                                                |
+|  170914  |                Happy Together                 |      S03       |                                                                                                [ENG](https://youtu.be/lphlAxj4RaA?t=3550)                                                                                                 |     Joy & Yeri      |                                                                                |
+|  170924  |                Fantastic Duo 2                |       26       |                                                                                                [Performance](https://youtu.be/ZI6aPWEgezY)                                                                                                |   Seulgi & Wendy    |                      Wenseul performs 'Doll' with Kangta                       |
+|  171025  |               MTV Idols of Asia               |       1        |                                                            [ENG](https://www.reddit.com/r/red_velvet/comments/7c5j7i/171025_idols_of_asia/?utm_source=share&utm_medium=web2x)                                                             |         OT5         |                                                                                |
+
+&#x200b;
 
 ## **Peek-A-Boo**
 ___
-| **Date** | **Show** | **Episode(s)** |**Subtitles** | **Member(s)** | **Notes** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 171111 | Master Key | 5 | [ENG](https://www.reddit.com/r/red_velvet/comments/7ciy98/171111_master_key_with_wendy/) | Wendy | |
-| 171112 | Running Man | 376 | [ENG](https://www.reddit.com/r/red_velvet/comments/7cixr1/171112_running_man_with_irene_joy/?utm_source=share&utm_medium=web2x) | Irene & Joy | |
-| 171122 | Let's Eat Dinner Together | 57 | [ENG](https://kshow.to/shows/let-s-eat-dinner-together/episode-57/) | Irene & Joy | |
-| 171129 | Weekly Idol | 331 | [ENG](https://revelupsubs.com/2017/11/29/eng-171129-red-velvet-weekly-idol/) | OT5 | |
-| 171201 | Idol Show K-RUSH2 | 1 | [ENG](https://youtu.be/BKznsuLQYmM) | OT5 | Special MC Wendy |
-| 171211 | School Attack with Red Velvet | 1 | [ENG](https://youtu.be/uQFQiL9GanI) | OT5 | 
-| 180128 | Sugarman 2 | 3 | [ENG](https://revelupsubs.com/2018/01/28/eng-180128-red-velvet-sugarman-2/) | OT5 | MC Joy |
+| **Date** |           **Show**            | **Episode(s)** |                                                          **Subtitles**                                                          | **Member(s)** |    **Notes**     |
+|:--------:|:-----------------------------:|:--------------:|:-------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:----------------:|
+|  171111  |          Master Key           |       5        |                    [ENG](https://www.reddit.com/r/red_velvet/comments/7ciy98/171111_master_key_with_wendy/)                     |     Wendy     |                  |
+|  171112  |          Running Man          |      376       | [ENG](https://www.reddit.com/r/red_velvet/comments/7cixr1/171112_running_man_with_irene_joy/?utm_source=share&utm_medium=web2x) |  Irene & Joy  |                  |
+|  171122  |   Let's Eat Dinner Together   |       57       |                               [ENG](https://kshow.to/shows/let-s-eat-dinner-together/episode-57/)                               |  Irene & Joy  |                  |
+|  171129  |          Weekly Idol          |      331       |                          [ENG](https://revelupsubs.com/2017/11/29/eng-171129-red-velvet-weekly-idol/)                           |      OT5      |                  |
+|  171201  |       Idol Show K-RUSH2       |       1        |                                               [ENG](https://youtu.be/BKznsuLQYmM)                                               |      OT5      | Special MC Wendy |
+|  171211  | School Attack with Red Velvet |       1        |                                               [ENG](https://youtu.be/uQFQiL9GanI)                                               |      OT5      |                  |
+|  180128  |          Sugarman 2           |       3        |                           [ENG](https://revelupsubs.com/2018/01/28/eng-180128-red-velvet-sugarman-2/)                           |      OT5      |      MC Joy      |
 
+&#x200b;
 
 ## **Bad Boy**
 ___
-| **Date** | **Show** | **Episode(s)** |**Subtitles** | **Member(s)** | **Notes** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 180206 | Hidden Track No. V 'Check-in Live' | 1 | [RAW](https://www.vlive.tv/video/57755) | Wendy | MC Wendy |
-| 180209 | MTV Idols of Asia | 1 | [RAW](https://youtu.be/EbJy0SyvgKU) | OT5 | [Translations](https://twitter.com/kseulwan/status/962120768183128064?s=20) |
-| 180209 | SOHU TV China | 1 | [RAW](https://youtu.be/ns49R_cTj5U) | Irene, Seulgi, Wendy, Joy | [Translations](https://twitter.com/kseulwan/status/961805884945920002?s=20) | 
-| 180213 | Sina Weibo Interview | 1 | [RAW](https://youtu.be/9sWYHEVwAcA) | Irene, Seulgi, Wendy, Joy | [Translations](https://www.redvelvetupdates.com/post/170831181751/video-180213-sina-%E6%96%B0%E6%B5%AA-interview-red-velvet) | 
-| 180213 | Hidden Track No. V 'Locker Guide' | 1 | [RAW](https://www.vlive.tv/video/59237) | Wendy | MC Wendy |
-| 180214 | Wednesday Food Talk | 157 | [RAW](https://drive.google.com/file/d/1TjAVEcpYWl1-KAGduYy1CRlc3IdZLuh-/view) | Seulgi, Wendy, Yeri | [VK](https://vk.com/video460762397_456239071) |
-| 180214 | MTV Asia | 1 | [ENG](https://youtu.be/FaiU6TzF-N0) | OT5 | Red Velvet play Jenga and answer questions | 
-| 180215 | 2018 ISAC (Archery) | 1 | [RAW](https://drive.google.com/file/d/1EAK12Xq39_LoCQ8pG9p0QtkGHhX_kSsn/view) | OT5 | [VK](https://vk.com/video460762397_456239075) |
-| 180216 | 2018 ISAC (Bowling) | 1 | [RAW](https://streamable.com/b32h3) | Seulgi & Joy | [VK](https://vk.com/video460762397_456239075) |
-| 180216 | 2018 ISAC | 1 | [RAW](https://www.redvelvetupdates.com/post/170942120436/video-180216-2018-idol-star-athletics#notes) | Special MC Seulgi | [VK](https://vk.com/video460762397_456239075) |
-| 180218 | Comedy Big League | 252 | [ENG](https://youtu.be/uhZNnXa0Yzs) | Irene, Seulgi, Wendy | |
-| 180219 | Hello Counselor | 356 | [ENG](https://youtu.be/0s5nMjZXpyQ) | Irene & Seulgi | [kshow123](http://kshow123.net/show/hello-counselor/episode-356.html) |
-| 180223 | I Can See Your Voice | S05E04 | [ENG](http://kshow123.net/show/i-can-see-your-voice-season-5/episode-4.html) | Irene, Seulgi, Wendy, Yeri | |
-| 180226 | Olive TALKMON | 7 | [RAW](https://drive.google.com/file/d/1xk6bDsNXOW6KsR__EoYm53gh9Er5q2_8/view) | Seulgi & Wendy | [GDrive](https://drive.google.com/file/d/17-csNA6e3DX7nXOXbsP8SsNfmuVkT8Ao/view) // [Bang Bang Perf](https://youtu.be/eiaeX0E9kNo) |
-| 180227 | YinYueTai’s Idol Discovery - “Swag Velvet” | 1 | [ENG](https://youtu.be/Pa7K9EOZM68) | Irene, Seulgi, Wendy, Joy | |
-| 180305 | Olive TALKMON | 8 | [RAW](https://drive.google.com/file/d/1P7hzoE64VaZrDzfsbumS-F7kh41v3kYZ/view) | Seulgi & Wendy | [Translations](https://www.soompi.com/article/1135633wpp/red-velvets-wendy-seulgi-talk-groups-love-acupressure) |
-| 180305 | OnStyle myBox | 1 | [RAW](https://drive.google.com/file/d/1zZh6VujaDHzlC3ziGKQ-GjOQ8M-Fyaa5/view) | 
-| 180308 | Tempted (The Great Seducer) Early Interview | 1 | [ENG](https://www.vlive.tv/video/62125) | Joy | [Drama](https://www.reddit.com/r/red_velvet/wiki/tlahl#wiki_joy) |
-| 180319 | Etude House Surprise Event | 1 | [ENG](https://youtu.be/drB7U0n6jx4) | Irene, Seulgi, Wendy, Yeri | | 
-| 180421 | Secret Unnie | 16 | [ENG](https://www.reddit.com/r/red_velvet/wiki/secretunnie) | Seulgi & Yeri | |
-| 180422 | Yu Huiyeol's Sketchbook | 394 | [ENG](https://youtu.be/EjxKJBMK74g?t=1407) | Wendy | |
-| 180518 | Netflix's Busted! | 6 | [ENG](https://www.netflix.com/watch/80209630?trackId=14277283&tctx=0%2C5%2C1d668024-d1f8-4c27-95ab-3fcfb28796e8-30580367%2C%2C) | Wendy | [Dramacool](https://www2.dramacool.movie/busted-episode-6.html) |
-| 180622 | Law of the Jungle | 320-324 | [ENG](https://www.reddit.com/r/red_velvet/wiki/jungle) | Seulgi | |
+| **Date** |                  **Show**                   | **Episode(s)** |                                                          **Subtitles**                                                          |       **Member(s)**        |                                                             **Notes**                                                              |
+|:--------:|:-------------------------------------------:|:--------------:|:-------------------------------------------------------------------------------------------------------------------------------:|:--------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+|  180206  |     Hidden Track No. V 'Check-in Live'      |       1        |                                             [RAW](https://www.vlive.tv/video/57755)                                             |           Wendy            |                                                              MC Wendy                                                              |
+|  180209  |              MTV Idols of Asia              |       1        |                                               [RAW](https://youtu.be/EbJy0SyvgKU)                                               |            OT5             |                            [Translations](https://twitter.com/kseulwan/status/962120768183128064?s=20)                             |
+|  180209  |                SOHU TV China                |       1        |                                               [RAW](https://youtu.be/ns49R_cTj5U)                                               | Irene, Seulgi, Wendy, Joy  |                            [Translations](https://twitter.com/kseulwan/status/961805884945920002?s=20)                             |
+|  180213  |            Sina Weibo Interview             |       1        |                                               [RAW](https://youtu.be/9sWYHEVwAcA)                                               | Irene, Seulgi, Wendy, Joy  |    [Translations](https://www.redvelvetupdates.com/post/170831181751/video-180213-sina-%E6%96%B0%E6%B5%AA-interview-red-velvet)    |
+|  180213  |      Hidden Track No. V 'Locker Guide'      |       1        |                                             [RAW](https://www.vlive.tv/video/59237)                                             |           Wendy            |                                                              MC Wendy                                                              |
+|  180214  |             Wednesday Food Talk             |      157       |                          [RAW](https://drive.google.com/file/d/1TjAVEcpYWl1-KAGduYy1CRlc3IdZLuh-/view)                          |    Seulgi, Wendy, Yeri     |                                           [VK](https://vk.com/video460762397_456239071)                                            |
+|  180214  |                  MTV Asia                   |       1        |                                               [ENG](https://youtu.be/FaiU6TzF-N0)                                               |            OT5             |                                             Red Velvet play Jenga and answer questions                                             |
+|  180215  |             2018 ISAC (Archery)             |       1        |                          [RAW](https://drive.google.com/file/d/1EAK12Xq39_LoCQ8pG9p0QtkGHhX_kSsn/view)                          |            OT5             |                                           [VK](https://vk.com/video460762397_456239075)                                            |
+|  180216  |             2018 ISAC (Bowling)             |       1        |                                               [RAW](https://streamable.com/b32h3)                                               |        Seulgi & Joy        |                                           [VK](https://vk.com/video460762397_456239075)                                            |
+|  180216  |                  2018 ISAC                  |       1        |              [RAW](https://www.redvelvetupdates.com/post/170942120436/video-180216-2018-idol-star-athletics#notes)              |     Special MC Seulgi      |                                           [VK](https://vk.com/video460762397_456239075)                                            |
+|  180218  |              Comedy Big League              |      252       |                                               [ENG](https://youtu.be/uhZNnXa0Yzs)                                               |    Irene, Seulgi, Wendy    |                                                                                                                                    |
+|  180219  |               Hello Counselor               |      356       |                                               [ENG](https://youtu.be/0s5nMjZXpyQ)                                               |       Irene & Seulgi       |                               [kshow123](http://kshow123.net/show/hello-counselor/episode-356.html)                                |
+|  180223  |            I Can See Your Voice             |     S05E04     |                          [ENG](http://kshow123.net/show/i-can-see-your-voice-season-5/episode-4.html)                           | Irene, Seulgi, Wendy, Yeri |                                                                                                                                    |
+|  180226  |                Olive TALKMON                |       7        |                          [RAW](https://drive.google.com/file/d/1xk6bDsNXOW6KsR__EoYm53gh9Er5q2_8/view)                          |       Seulgi & Wendy       | [GDrive](https://drive.google.com/file/d/17-csNA6e3DX7nXOXbsP8SsNfmuVkT8Ao/view) // [Bang Bang Perf](https://youtu.be/eiaeX0E9kNo) |
+|  180227  | YinYueTai’s Idol Discovery - “Swag Velvet”  |       1        |                                               [ENG](https://youtu.be/Pa7K9EOZM68)                                               | Irene, Seulgi, Wendy, Joy  |                                                                                                                                    |
+|  180305  |                Olive TALKMON                |       8        |                          [RAW](https://drive.google.com/file/d/1P7hzoE64VaZrDzfsbumS-F7kh41v3kYZ/view)                          |       Seulgi & Wendy       |          [Translations](https://www.soompi.com/article/1135633wpp/red-velvets-wendy-seulgi-talk-groups-love-acupressure)           |
+|  180305  |                OnStyle myBox                |       1        |                          [RAW](https://drive.google.com/file/d/1zZh6VujaDHzlC3ziGKQ-GjOQ8M-Fyaa5/view)                          |                            |                                                                                                                                    |
+|  180308  | Tempted (The Great Seducer) Early Interview |       1        |                                             [ENG](https://www.vlive.tv/video/62125)                                             |            Joy             |                                  [Drama](https://www.reddit.com/r/red_velvet/wiki/tlahl#wiki_joy)                                  |
+|  180319  |         Etude House Surprise Event          |       1        |                                               [ENG](https://youtu.be/drB7U0n6jx4)                                               | Irene, Seulgi, Wendy, Yeri |                                                                                                                                    |
+|  180421  |                Secret Unnie                 |       16       |                                   [ENG](https://www.reddit.com/r/red_velvet/wiki/secretunnie)                                   |       Seulgi & Yeri        |                                                                                                                                    |
+|  180422  |           Yu Huiyeol's Sketchbook           |      394       |                                           [ENG](https://youtu.be/EjxKJBMK74g?t=1407)                                            |           Wendy            |                                                                                                                                    |
+|  180518  |              Netflix's Busted!              |       6        | [ENG](https://www.netflix.com/watch/80209630?trackId=14277283&tctx=0%2C5%2C1d668024-d1f8-4c27-95ab-3fcfb28796e8-30580367%2C%2C) |           Wendy            |                                  [Dramacool](https://www2.dramacool.movie/busted-episode-6.html)                                   |
+|  180622  |              Law of the Jungle              |    320-324     |                                     [ENG](https://www.reddit.com/r/red_velvet/wiki/jungle)                                      |           Seulgi           |                                                                                                                                    |
 
+&#x200b;
 
 ## **Power Up**
 ___
-| **Date** | **Show** | **Episode(s)** |**Subtitles** | **Member(s)** | **Notes** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 180804 | Knowing Bros. | 139 | [ENG](http://kshow123.net/show/knowing-brother/episode-139.html) | OT5 | |
-| 180809 | Super Junior's Super TV S2 | 10 | [ENG](https://mega.nz/#!XvwSlC7C!VNSfCEPq6VipJc-pMQqcg9gGQrW_FcQBxFFf4blquvE) | OT5 | [More Links](https://twitter.com/Supertvsubs/status/1029097918387634176?s=20) |
-| 180812 | KBS Battle Trip | 101 & 103 | 101 [[ENG](https://youtu.be/rBJmgui4AcE)] & 103 [[ENG](https://youtu.be/mIcgq0zoOOk)] | Seulgi & Wendy | Trip to Austria |
-| 180814 | Idol Room | 15 | [ENG](https://youtu.be/V6iHHntIXvc) | OT5 | [Reddit](https://www.reddit.com/r/idolroom/comments/9mtz8z/idol_room_e15_180814_red_velvet/) |
-| 180822 | Weekly Idol | 369 | [ENG](http://kshow123.net/show/weekly-idol/episode-369.html) | OT5 | |
-| 180831 | Wassap Man | 27 | [ENG](https://youtu.be/wwWcusQMBPI) | OT5 | with g.o.d. Joon Park |
-| 181014 | The Return of Superman | 246 | [ENG](https://youtu.be/sNVIHI03TbY) | OT5 | |
-| 181118 | Running Man | 426 | [ENG](http://kshow123.net/show/running-man/episode-426.html) | Irene & Joy | |
-| 181125 | Running Man | 427 | [ENG](http://kshow123.net/show/running-man/episode-427.html) | Irene & Joy | |
-| 181126 | Hello Counselor | 389 | [ENG](https://youtu.be/LOGda6Vo3bE) | Seulgi & Joy | |
+| **Date** |          **Show**          | **Episode(s)** |                                     **Subtitles**                                     | **Member(s)**  |                                          **Notes**                                           |
+|:--------:|:--------------------------:|:--------------:|:-------------------------------------------------------------------------------------:|:--------------:|:--------------------------------------------------------------------------------------------:|
+|  180804  |       Knowing Bros.        |      139       |           [ENG](http://kshow123.net/show/knowing-brother/episode-139.html)            |      OT5       |                                                                                              |
+|  180809  | Super Junior's Super TV S2 |       10       |     [ENG](https://mega.nz/#!XvwSlC7C!VNSfCEPq6VipJc-pMQqcg9gGQrW_FcQBxFFf4blquvE)     |      OT5       |        [More Links](https://twitter.com/Supertvsubs/status/1029097918387634176?s=20)         |
+|  180812  |      KBS Battle Trip       |   101 & 103    | 101 [[ENG](https://youtu.be/rBJmgui4AcE)] & 103 [[ENG](https://youtu.be/mIcgq0zoOOk)] | Seulgi & Wendy |                                       Trip to Austria                                        |
+|  180814  |         Idol Room          |       15       |                          [ENG](https://youtu.be/V6iHHntIXvc)                          |      OT5       | [Reddit](https://www.reddit.com/r/idolroom/comments/9mtz8z/idol_room_e15_180814_red_velvet/) |
+|  180822  |        Weekly Idol         |      369       |             [ENG](http://kshow123.net/show/weekly-idol/episode-369.html)              |      OT5       |                                                                                              |
+|  180831  |         Wassap Man         |       27       |                          [ENG](https://youtu.be/wwWcusQMBPI)                          |      OT5       |                                    with g.o.d. Joon Park                                     |
+|  181014  |   The Return of Superman   |      246       |                          [ENG](https://youtu.be/sNVIHI03TbY)                          |      OT5       |                                                                                              |
+|  181118  |        Running Man         |      426       |             [ENG](http://kshow123.net/show/running-man/episode-426.html)              |  Irene & Joy   |                                                                                              |
+|  181125  |        Running Man         |      427       |             [ENG](http://kshow123.net/show/running-man/episode-427.html)              |  Irene & Joy   |                                                                                              |
+|  181126  |      Hello Counselor       |      389       |                          [ENG](https://youtu.be/LOGda6Vo3bE)                          |  Seulgi & Joy  |                                                                                              |
 
+&#x200b;
 
 ## **RBB**
 ___
-| **Date** | **Show** | **Episode(s)** |**Subtitles** | **Member(s)** | **Notes** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 181130 | ONE TV ASIA: Red Velvet plays 'Would You Rather?' | 1 | [ENG](https://drive.google.com/file/d/1N8CPss23dmFUe-LAJkQu6dQxnShHLZjP/view) | OT5 | [Twitter](https://twitter.com/ONETVASIA/status/1068440218234060800?s=20)
-| 181202 | Kids These Days | 1-6 | [ENG](http://kshow123.net/show/kids-these-days/) | Seulgi | MC Seulgi but had to step down for the REDMARE Tour |
-| 181203 | Guerilla Date | 1 | [ENG](https://youtu.be/ZQwmo1tWs_I) | OT5 | [Point & Talk Interview](https://youtu.be/Hpa3XWzQvh4) |
-| 181203 | MBC Section TV: Red Velvet's Healing Camp | 1 | [RAW](https://youtu.be/VUB-gdDHILA) | OT5 | [Unaired Clip](https://tv.naver.com/v/4724002) |
-| 181208 | Amazing Saturday: DoReMi Market | 36 | [ENG](https://revelupsubs.com/2018/12/08/eng-181208-wendy-joy-amazing-saturday/) | Wendy & Joy | |
-| 181208 | Dispatch x VLIVE: Moving HD Photo | 1 | [ENG](https://www.vlive.tv/video/101870) | OT5 | | 
-| 181212 | Let's Eat Dinner Together | 109 | [ENG](http://kshow123.net/show/lets-eat-dinner-together/episode-109.html) | Seulgi & Wendy | |
-| 181213 | Sulli's 'Jinri Market' | 15 | [ENG](https://www.vlive.tv/video/103846) | Wendy | Wendy appears at 24:40 |
-| 181216 | CELUV TV | 1 | [ENG](https://www.vlive.tv/video/103934) | Irene, Seulgi, Wendy, & Joy | | 
-| 181218 | Sulli's 'Jinri Market' | 16 | [ENG](https://www.vlive.tv/video/104581) | Wendy | Wendy appears at 06:13 |
-| 181219 | Lecture (Differential Class) | 91 | [RAW](https://drive.google.com/file/d/1yx2kMM6Jqu45Cvq0TfNAxA2jcqh4cLuQ/view) | Wendy | |
-| 181219 | PUFF IDOL: Red Velvet | 1 | [ENG](https://youtu.be/UrDPzmpLOrI) | OT5 | [V LIVE](https://www.vlive.tv/video/104983) |
-| 181225 | Sulli's 'Jinri Market' | 18 | [ENG](https://www.vlive.tv/video/105989) | Wendy | Wendy appears at 01:08 |
-| 181227 | We Will Channel You | 7 | [RAW](https://drive.google.com/file/d/1i5hHbNQbhTxrCFaffkwgAVFG1XyXbY85/view) | Irene & Seulgi | |
-| 190214 | We Will Channel You | 13 | [ENG](https://revelupsubs.com/2019/02/14/eng-190214-irene-we-will-channel-you/) | Irene | |
-| 190225 | Dingo | 1 | [ENG](https://youtu.be/Mk2UazWU41w) | Seulgi | Seulgi surprises a dance group |
-| 190325 | tVN Seoulmate 2 | 16 | [RAW](https://www.bilibili.com/video/av47401881/?redirectFrom=h5) | OT5 | |
+| **Date** |                     **Show**                      | **Episode(s)** |                                  **Subtitles**                                   |        **Member(s)**        |                                **Notes**                                 |
+|:--------:|:-------------------------------------------------:|:--------------:|:--------------------------------------------------------------------------------:|:---------------------------:|:------------------------------------------------------------------------:|
+|  181130  | ONE TV ASIA: Red Velvet plays 'Would You Rather?' |       1        |  [ENG](https://drive.google.com/file/d/1N8CPss23dmFUe-LAJkQu6dQxnShHLZjP/view)   |             OT5             | [Twitter](https://twitter.com/ONETVASIA/status/1068440218234060800?s=20) |
+|  181202  |                  Kids These Days                  |      1-6       |                 [ENG](http://kshow123.net/show/kids-these-days/)                 |           Seulgi            |           MC Seulgi but had to step down for the REDMARE Tour            |
+|  181203  |                   Guerilla Date                   |       1        |                       [ENG](https://youtu.be/ZQwmo1tWs_I)                        |             OT5             |          [Point & Talk Interview](https://youtu.be/Hpa3XWzQvh4)          |
+|  181203  |     MBC Section TV: Red Velvet's Healing Camp     |       1        |                       [RAW](https://youtu.be/VUB-gdDHILA)                        |             OT5             |              [Unaired Clip](https://tv.naver.com/v/4724002)              |
+|  181208  |          Amazing Saturday: DoReMi Market          |       36       | [ENG](https://revelupsubs.com/2018/12/08/eng-181208-wendy-joy-amazing-saturday/) |         Wendy & Joy         |                                                                          |
+|  181208  |         Dispatch x VLIVE: Moving HD Photo         |       1        |                     [ENG](https://www.vlive.tv/video/101870)                     |             OT5             |                                                                          |
+|  181212  |             Let's Eat Dinner Together             |      109       |    [ENG](http://kshow123.net/show/lets-eat-dinner-together/episode-109.html)     |       Seulgi & Wendy        |                                                                          |
+|  181213  |              Sulli's 'Jinri Market'               |       15       |                     [ENG](https://www.vlive.tv/video/103846)                     |            Wendy            |                          Wendy appears at 24:40                          |
+|  181216  |                     CELUV TV                      |       1        |                     [ENG](https://www.vlive.tv/video/103934)                     | Irene, Seulgi, Wendy, & Joy |                                                                          |
+|  181218  |              Sulli's 'Jinri Market'               |       16       |                     [ENG](https://www.vlive.tv/video/104581)                     |            Wendy            |                          Wendy appears at 06:13                          |
+|  181219  |           Lecture (Differential Class)            |       91       |  [RAW](https://drive.google.com/file/d/1yx2kMM6Jqu45Cvq0TfNAxA2jcqh4cLuQ/view)   |            Wendy            |                                                                          |
+|  181219  |               PUFF IDOL: Red Velvet               |       1        |                       [ENG](https://youtu.be/UrDPzmpLOrI)                        |             OT5             |               [V LIVE](https://www.vlive.tv/video/104983)                |
+|  181225  |              Sulli's 'Jinri Market'               |       18       |                     [ENG](https://www.vlive.tv/video/105989)                     |            Wendy            |                          Wendy appears at 01:08                          |
+|  181227  |                We Will Channel You                |       7        |  [RAW](https://drive.google.com/file/d/1i5hHbNQbhTxrCFaffkwgAVFG1XyXbY85/view)   |       Irene & Seulgi        |                                                                          |
+|  190214  |                We Will Channel You                |       13       | [ENG](https://revelupsubs.com/2019/02/14/eng-190214-irene-we-will-channel-you/)  |            Irene            |                                                                          |
+|  190225  |                       Dingo                       |       1        |                       [ENG](https://youtu.be/Mk2UazWU41w)                        |           Seulgi            |                      Seulgi surprises a dance group                      |
+|  190325  |                  tVN Seoulmate 2                  |       16       |        [RAW](https://www.bilibili.com/video/av47401881/?redirectFrom=h5)         |             OT5             |                                                                          |
 
+&#x200b;
 
 ## **The ReVe Festival: Day 1**
 ___
-| **Date** | **Show** | **Episode(s)** |**Subtitles** | **Member(s)** | **Notes** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 190407 | Stage K | 1 | [RAW](https://www.dailymotion.com/embed/video/x75f1ut) | OT5 | |
-| 190407 | Everyone's Kitchen | 8 | [ENG](https://revelupsubs.com/2019/04/07/eng-190407-wendy-everyones-kitchen/) | Wendy | |
-| 190615 | Law Of The Jungle | 368-372 | [ENG](https://www.reddit.com/r/red_velvet/wiki/jungle#wiki_yeri) | Yeri | |
-| 190616 | Stage K | 10 | [ENG](https://drive.google.com/file/d/15vbOqxhbWJij8z0-cYob4WYAkODbl7Xv/view) | Seulgi & Wendy | [ENG](https://mega.nz/#!qA9n0IJY!OTnNY1zsIx8Q0iHafZnZ7B1S7Jh1INvwqicPzrSoV4c) |
-| 190621 | 300x2 | 8 | [ENG](https://vimeo.com/373699168) | OT5 | |
-| 190622 | Prison Life of Fools | 15 & 16 | [15 [ENG]](http://kshow123.net/show/mafia-game-in-prison/episode-15.html) & [16 [ENG]](http://kshow123.net/show/mafia-game-in-prison/episode-16.html) | Seulgi & Joy | Mafia Game in Prison |
-| 190623 | Stage K | 11 | [ENG](https://drive.google.com/file/d/1y7Y5rkvX6oZ5DdjiPO77xrcyuE2zcSiA/view) | Seulgi & Wendy | [ENG](https://mega.nz/#!aEUHAQiL!Q7qLTmYGcarMnTGIEeDRSs7Wv4mKTA4l1AyxdMv0Gvs) |
-| 190623 | Attendance Check-In Live | 1 & 2 | [ENG](https://youtu.be/2-WnyZ8Kl4M) | OT5 | |
-| 190623 | Super Hearer | 2 | [RAW](https://www.bilibili.com/video/av55901136/) | Seulgi | |
-| 190625 | Idol Room | 56 | [ENG](http://kshow123.net/show/idol-room/episode-56.html) | OT5 | [Unaired Clips](https://twitter.com/dareumi1/status/1170498159124127744?s=20) |
-| 190702 | PUFF IDOL Interactive Live | 2 | [ENG](https://youtu.be/pssW4vHlrOc) | Wendy | |
-| 190703 | Foreigners | 38 | [RAW](http://kshow123.net/show/foreigner/episode-38.html) | Wendy | |
-| 190704 | IDOL LEAGUE | 1-4 | [ENG](https://www.youtube.com/playlist?list=PLQJ95VhF9vjFK5xFOA2B6cF3WxH9rUe4u) | OT5 | |
-| 190710 | Soomi's Side Dishes | 58 | [RAW](http://kshow123.net/show/soo-mis-side-dishes/episode-58.html) | Seulgi & Wendy | |
+| **Date** |          **Show**          | **Episode(s)** |                                                                     **Subtitles**                                                                     | **Member(s)**  |                                   **Notes**                                   |
+|:--------:|:--------------------------:|:--------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|:-----------------------------------------------------------------------------:|
+|  190407  |          Stage K           |       1        |                                                [RAW](https://www.dailymotion.com/embed/video/x75f1ut)                                                 |      OT5       |                                                                               |
+|  190407  |     Everyone's Kitchen     |       8        |                                     [ENG](https://revelupsubs.com/2019/04/07/eng-190407-wendy-everyones-kitchen/)                                     |     Wendy      |                                                                               |
+|  190615  |     Law Of The Jungle      |    368-372     |                                           [ENG](https://www.reddit.com/r/red_velvet/wiki/jungle#wiki_yeri)                                            |      Yeri      |                                                                               |
+|  190616  |          Stage K           |       10       |                                     [ENG](https://drive.google.com/file/d/15vbOqxhbWJij8z0-cYob4WYAkODbl7Xv/view)                                     | Seulgi & Wendy | [ENG](https://mega.nz/#!qA9n0IJY!OTnNY1zsIx8Q0iHafZnZ7B1S7Jh1INvwqicPzrSoV4c) |
+|  190621  |           300x2            |       8        |                                                          [ENG](https://vimeo.com/373699168)                                                           |      OT5       |                                                                               |
+|  190622  |    Prison Life of Fools    |    15 & 16     | [15 [ENG]](http://kshow123.net/show/mafia-game-in-prison/episode-15.html) & [16 [ENG]](http://kshow123.net/show/mafia-game-in-prison/episode-16.html) |  Seulgi & Joy  |                             Mafia Game in Prison                              |
+|  190623  |          Stage K           |       11       |                                     [ENG](https://drive.google.com/file/d/1y7Y5rkvX6oZ5DdjiPO77xrcyuE2zcSiA/view)                                     | Seulgi & Wendy | [ENG](https://mega.nz/#!aEUHAQiL!Q7qLTmYGcarMnTGIEeDRSs7Wv4mKTA4l1AyxdMv0Gvs) |
+|  190623  |  Attendance Check-In Live  |     1 & 2      |                                                          [ENG](https://youtu.be/2-WnyZ8Kl4M)                                                          |      OT5       |                                                                               |
+|  190623  |        Super Hearer        |       2        |                                                   [RAW](https://www.bilibili.com/video/av55901136/)                                                   |     Seulgi     |                                                                               |
+|  190625  |         Idol Room          |       56       |                                               [ENG](http://kshow123.net/show/idol-room/episode-56.html)                                               |      OT5       | [Unaired Clips](https://twitter.com/dareumi1/status/1170498159124127744?s=20) |
+|  190702  | PUFF IDOL Interactive Live |       2        |                                                          [ENG](https://youtu.be/pssW4vHlrOc)                                                          |     Wendy      |                                                                               |
+|  190703  |         Foreigners         |       38       |                                               [RAW](http://kshow123.net/show/foreigner/episode-38.html)                                               |     Wendy      |                                                                               |
+|  190704  |        IDOL LEAGUE         |      1-4       |                                    [ENG](https://www.youtube.com/playlist?list=PLQJ95VhF9vjFK5xFOA2B6cF3WxH9rUe4u)                                    |      OT5       |                                                                               |
+|  190710  |    Soomi's Side Dishes     |       58       |                                          [RAW](http://kshow123.net/show/soo-mis-side-dishes/episode-58.html)                                          | Seulgi & Wendy |                                                                               |
+
+&#x200b;
 
 ## **The ReVe Festival: Day 2**
 ___
-| **Date** | **Show** | **Episode(s)** |**Subtitles** | **Member(s)** | **Notes** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 190823 | Yu Huiyeol's Sketchbook | 456 | [ENG](http://kshow123.net/show/sketchbook-of-youheeyeul/episode-456.html) | OT5 | |
-| 190828 | Weekly Idol | 422 | [ENG](https://youtu.be/u58fcyHXRFs) | OT5 | |
-| 190907 | Knowing Bros. | 196 | [ENG](http://kshow123.net/show/knowing-brother/episode-196.html) | Joy | |
-| 190911 | Weekly Idol | 424 | [ENG](http://kshow123.net/show/weekly-idol/episode-424.html) | OT5 |  Chuseok Special Highlights |
-| 190912 | 2019 ISAC | 6 | [ENG](http://kshow123.net/show/2019-idol-star-athletics-championships-chuseok-special/episode-6.html) | Seulgi & Wendy | |
-| 191020 | King Of Masked Singer | 225 & 226 | 225 (ENG) [FULL](http://kshow123.net/show/king-of-mask-singer/episode-225.html) / [Wendy Cut](https://vimeo.com/373700002) & 226 (ENG) [FULL](http://kshow123.net/show/king-of-mask-singer/episode-226.html) / [Wendy Cut](https://vimeo.com/373700104) | Wendy | |
+| **Date** |        **Show**         | **Episode(s)** |                                                                                                                      **Subtitles**                                                                                                                      | **Member(s)**  |         **Notes**          |
+|:--------:|:-----------------------:|:--------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|:--------------------------:|
+|  190823  | Yu Huiyeol's Sketchbook |      456       |                                                                                        [ENG](http://kshow123.net/show/sketchbook-of-youheeyeul/episode-456.html)                                                                                        |      OT5       |                            |
+|  190828  |       Weekly Idol       |      422       |                                                                                                           [ENG](https://youtu.be/u58fcyHXRFs)                                                                                                           |      OT5       |                            |
+|  190907  |      Knowing Bros.      |      196       |                                                                                            [ENG](http://kshow123.net/show/knowing-brother/episode-196.html)                                                                                             |      Joy       |                            |
+|  190911  |       Weekly Idol       |      424       |                                                                                              [ENG](http://kshow123.net/show/weekly-idol/episode-424.html)                                                                                               |      OT5       | Chuseok Special Highlights |
+|  190912  |        2019 ISAC        |       6        |                                                                          [ENG](http://kshow123.net/show/2019-idol-star-athletics-championships-chuseok-special/episode-6.html)                                                                          | Seulgi & Wendy |                            |
+|  191020  |  King Of Masked Singer  |   225 & 226    | 225 (ENG) [FULL](http://kshow123.net/show/king-of-mask-singer/episode-225.html) / [Wendy Cut](https://vimeo.com/373700002) & 226 (ENG) [FULL](http://kshow123.net/show/king-of-mask-singer/episode-226.html) / [Wendy Cut](https://vimeo.com/373700104) |     Wendy      |                            |
+
+&#x200b;
 
 ## **The ReVe Festival: Finale**
 ___
-| **Date** | **Show** | **Episode(s)** |**Subtitles** | **Member(s)** | **Notes** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 200109 | Happy Together | S04E65 | [ENG](http://kshow123.net/show/happy-together-s4/episode-65.html) | Joy | |
-| 200113 | Salty Tour | 106-108 | 106 ([ENG](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-106.html)) // 107 ([ENG](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-107.html)) // 108 ([ENG](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-108.html)) | Joy | Filmed in Spain |
-| 200327 | Handsome Tigers | 12 | [ENG](https://www.reddit.com/r/red_velvet/wiki/handsome_tigers) | Joy | |
+| **Date** |    **Show**     | **Episode(s)** |                                                                                                                                       **Subtitles**                                                                                                                                       | **Member(s)** |    **Notes**    |
+|:--------:|:---------------:|:--------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:---------------:|
+|  200109  | Happy Together  |     S04E65     |                                                                                                             [ENG](http://kshow123.net/show/happy-together-s4/episode-65.html)                                                                                                             |      Joy      |                 |
+|  200113  |   Salty Tour    |    106-108     | 106 ([ENG](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-106.html)) // 107 ([ENG](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-107.html)) // 108 ([ENG](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-108.html)) |      Joy      | Filmed in Spain |
+|  200327  | Handsome Tigers |       12       |                                                                                                              [ENG](https://www.reddit.com/r/red_velvet/wiki/handsome_tigers)                                                                                                              |      Joy      |                 |
