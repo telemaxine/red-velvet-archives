@@ -136,9 +136,10 @@ ___
 
 ## **Umpah Umpah**
 ___
-| Date   |                   Title                   | Members | Subbed | Notes |                  Links                  |
-|:-------|:-----------------------------------------:|:-------:|:------:|:-----:|:---------------------------------------:|
-| 190821 | Umpah Umpah Camping Date Comeback Special |   OT5   |  Yes   |       | [VL](https://www.vlive.tv/video/145245) |
+| Date   |                   Title                   | Members | Subbed |             Notes              |                  Links                  |
+|:-------|:-----------------------------------------:|:-------:|:------:|:------------------------------:|:---------------------------------------:|
+| 190821 | Umpah Umpah Camping Date Comeback Special |   OT5   |  Yes   |                                | [VL](https://www.vlive.tv/video/145245) |
+| 191130 |         Instagram Live with Yeri          |   YR    |  Yes   | Subbed by [RevelUp Subs][rvus] |   [YT](https://youtu.be/cfR6fdW0BW8)    |
 
 ## **Psycho**
 ___
