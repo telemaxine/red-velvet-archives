@@ -89,7 +89,7 @@
 [160316_goodmorning02]:https://www.youtube.com/watch?v=1gULSeDNW2c
 
 
-## **One of these Nights**
+## **One Of These Nights**
 
 |  Date  |           Title           | Members  | Subbed |             Notes              |                                                               Link                                                                |
 |:------:|:-------------------------:|:--------:|:------:|:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
@@ -160,13 +160,13 @@
 &#x200b;
 
 
-## **Peek-a-boo**
+## **Peek-A-boo**
 
 |  Date  |                     Title                     | Members | Subbed |             Notes              |                                                               Link                                                               |
 |:------:|:---------------------------------------------:|:-------:|:------:|:------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
 | 171120 |              Young Street Radio               |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |              [Pt. 1](https://www.dailymotion.com/video/x6ryit1), [Pt. 2](https://www.dailymotion.com/video/x6rycrr)              |
 | 171121 |                Love Game Radio                |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                         [DM](https://www.dailymotion.com/video/x6rybw9)                                          |
-| 171121 |               Bae Sungjae’s Ten               |  SE,WD  |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                [YT](https://youtu.be/sJo3E1GzHE0)                                                |
+| 171121 |               Bae Sungjae’s Ten               |  SG,WD  |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                [YT](https://youtu.be/sJo3E1GzHE0)                                                |
 | 171122 |               Old School Radio                |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                         [DM](https://www.dailymotion.com/video/x7qi50n)                                          |
 | 171122 |               NCT’s Night Night               |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                                 [RVUS][171122_rvus_night_night], [MEGA][171122_mega_night_night]                                 |
 | 171123 |                  Cultwo Show                  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] |                     [RVUS \(broken\)](http://revelupsubs.com/2017/11/23/eng-171123-red-velvet-cultwo-show/)                      |
