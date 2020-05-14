@@ -4,11 +4,11 @@
 
 ## **Happiness**
 ___
-| **Date** |      **Show**       | **Episode(s)** |       **Member(s)**       | **Notes** |              **Links**              |
-|:--------:|:-------------------:|:--------------:|:-------------------------:|:---------:|:-----------------------------------:|
-|  140825  | Escape Crisis No. 1 |      N/A       | Irene, Seulgi, Wendy, Joy |           | [RAW](https://youtu.be/qlvYSirhe3w) |
-|  140901  |   Hello Counselor   |      N/A       | Irene, Seulgi, Wendy, Joy |           | [ENG](https://youtu.be/h2QDHQDDXjs) |
-|  140920  |   Hidden Singer 3   |      N/A       | Irene, Seulgi, Wendy, Joy |           | [RAW](https://youtu.be/nqFrZEX4tYQ) |
+| **Date** |      **Show**       | **Episode(s)** | **Member(s)** | **Notes** |             **Links**              |
+|:--------:|:-------------------:|:--------------:|:-------------:|:---------:|:----------------------------------:|
+|  140825  | Escape Crisis No. 1 |      N/A       |  IR,JO,SG,WD  |           | [YT](https://youtu.be/qlvYSirhe3w) |
+|  140901  |   Hello Counselor   |      N/A       |  IR,JO,SG,WD  |           | [YT](https://youtu.be/h2QDHQDDXjs) |
+|  140920  |   Hidden Singer 3   |      N/A       |  IR,JO,SG,WD  |           | [YT](https://youtu.be/nqFrZEX4tYQ) |
 
 &#x200b;
 
