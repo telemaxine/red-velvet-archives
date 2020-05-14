@@ -9,6 +9,7 @@ Markdown previewers might not show correctly as some of the files will use reddi
 ### [Radio Shows](./radio_shows.md)
 ### [Reality Shows](./reality_shows.md) (Under Construction)
 ### [Variety Shows](./variety_shows.md) (Under audit)
+### [Multi-episode show lists](./shows/readme.md)
 
 ## **Social Media**
 
