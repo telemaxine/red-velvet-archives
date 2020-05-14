@@ -14,14 +14,14 @@ ___
 
 ## **Be Natural**
 ___
-| **Date** |                **Show**                | **Episode(s)** |       **Member(s)**       | **Notes** |                                           **Links**                                            |
-|:--------:|:--------------------------------------:|:--------------:|:-------------------------:|:---------:|:----------------------------------------------------------------------------------------------:|
-|  141005  |              Weekly Idol               |      168       | Irene, Seulgi, Wendy, Joy |           |                              [ENG](https://youtu.be/jbcs8YbcUMo)                               |
-|  141010  |              EXO 90:2014               |      N/A       |      Seulgi & Wendy       |           | [RAW](https://www.dailymotion.com/video/x27oe5f),  [Performance](https://youtu.be/SCrjWKutAwc) |
-|  141028  |           After School Club            |      113       | Irene, Seulgi, Wendy, Joy |           |                              [ENG](https://youtu.be/Bh8hDcrGPfY)                               |
-|  141106  | Arirang Pops In Seoul's New Secret Box |      N/A       | Irene, Seulgi, Wendy, Joy |           |                              [ENG](https://youtu.be/pHZJdU2DzXM)                               |
-|  141130  |         Let's Go! Dream Team 2         |      N/A       |   Irene, Seulgi, Wendy    |           |                              [ENG](https://youtu.be/TyPnntJppo0)                               |
-|  150102  | Hong Kyung Min's Healing Talk Concert  |      N/A       | Irene, Seulgi, Wendy, Joy |           |                              [ENG](https://youtu.be/0_8rJHhAwpA)                               |
+| **Date** |                **Show**                | **Episode(s)** | **Member(s)** | **Notes** |                                              **Links**                                               |
+|:--------:|:--------------------------------------:|:--------------:|:-------------:|:---------:|:----------------------------------------------------------------------------------------------------:|
+|  141005  |              Weekly Idol               |      168       |  IR,JO,SG,WD  |           |                                  [YT](https://youtu.be/jbcs8YbcUMo)                                  |
+|  141010  |              EXO 90:2014               |      N/A       |     SG,WD     |           | [DM](https://www.dailymotion.com/video/x27oe5f),  [Performance \(YT\)](https://youtu.be/SCrjWKutAwc) |
+|  141028  |           After School Club            |      113       |  IR,JO,SG,WD  |           |                                  [YT](https://youtu.be/Bh8hDcrGPfY)                                  |
+|  141106  | Arirang Pops In Seoul's New Secret Box |      N/A       |  IR,JO,SG,WD  |           |                                  [YT](https://youtu.be/pHZJdU2DzXM)                                  |
+|  141130  |         Let's Go! Dream Team 2         |      N/A       |   IR,SG,WD    |           |                                  [YT](https://youtu.be/TyPnntJppo0)                                  |
+|  150102  | Hong Kyung Min's Healing Talk Concert  |      N/A       |  IR,JO,SG,WD  |           |                                  [YT](https://youtu.be/0_8rJHhAwpA)                                  |
 
 &#x200b;
 
