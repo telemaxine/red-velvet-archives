@@ -1,5 +1,5 @@
 # **We Got Married**
-* Synopsis: The show paired up celebrities who pretended to be married couples and completed various challenges together.*
+*Synopsis: The show paired up celebrities who pretended to be married couples and completed various challenges together.*
 ___
 ## Episode List
 | **Date** | **Episode** |                                                                                                **Notes**                                                                                                 |                                        **Subtitles**                                         |
