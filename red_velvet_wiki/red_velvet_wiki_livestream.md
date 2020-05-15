@@ -101,27 +101,26 @@ ___
 
 ## **RBB**
 ___
-| Date   |                     Title                      |   Members   | Subbed |                Notes                |                       Links                       |
-|:-------|:----------------------------------------------:|:-----------:|:------:|:-----------------------------------:|:-------------------------------------------------:|
-| 181209 |            Eye Contact Cam S2 EP. 1            |     WD      |  Yes   |            Amazing Wendy            |        [YT](https://youtu.be/xIQWC-Q5dQI)         |
-| 181210 |            Instagram Live with Yeri            |     YR      |  Yes   |   subbed by [RevelUp Subs][rvus]    |        [YT](https://youtu.be/W46th1zcNVc)         |
-| 181214 |            Eye Contact Cam S2 EP. 2            |     JO      |  Yes   |       Joy, The Haetnim Lover        |        [YT](https://youtu.be/cXBZSDRbH5k)         |
-| 181216 |            Eye Contact Cam S2 EP. 3            |     SG      |  Yes   |          Seulgi's New Life          |        [YT](https://youtu.be/doGHqWyrXOQ)         |
-| 181220 |            Eye Contact Cam S2 EP. 4            |     YR      |  Yes   |            Yeri's Taste             |        [YT](https://youtu.be/YowhQDzuaxg)         |
-| 181223 |            Eye Contact Cam S2 EP.5             |     IR      |  Yes   |         Irene's Small Act💕         |        [YT](https://youtu.be/kpsuuAAaG48)         |
-| 181224 |        Christmas Eve Busking with Wendy        |     WD      |  Yes   |   subbed by [RevelUp Subs][rvus]    |        [YT](https://youtu.be/c1tdnIolchk)         |
-| 181225 | Christmas Instagram Live with Irene and Seulgi |    IR,SG    |  Yes   |   subbed by [RevelUp Subs][rvus]    |        [YT](https://youtu.be/XUpX3um8T9g)         |
-| 190214 |            Instagram Live with Yeri            |     YR      |  Yes   |   subbed by [RevelUp Subs][rvus]    |        [YT](https://youtu.be/bs6UKf2rrd8)         |
-| 190427 |           Instagram Live in Vietnam            | IR,JO,SG,WD |  Yes   |   subbed by [RevelUp Subs][rvus]    |        [YT](https://youtu.be/S6DHz5ndhTs)         |
-| 190605 |            Eye Contact Cam S3 EP. 1            |     OT5     |  Yes   |       RV North American Tour        |        [YT](https://youtu.be/yVfz5_P6l3A)         |
-| 190607 |            Eye Contact Cam S3 EP. 2            |     JO      |  Yes   |        Joy's American Vlog💚        |        [YT](https://youtu.be/cl5TJNdtPzQ)         |
-| 190609 |            Eye Contact Cam S3 EP. 3            |     YR      |  Yes   |    Reborn YERI in North America     |        [YT](https://youtu.be/F0tkL_jHrys)         |
-| 190611 |            Eye Contact Cam S3 EP. 4            |     SG      |  Yes   | The more SEULGIful Lifestyle in USA |        [YT](https://youtu.be/_A6329Luf3E)         |
-| 190613 |            Eye Contact Cam S3 EP. 5            |     WD      |  Yes   |    Wendy's sweet introduction. ♥    |        [YT](https://youtu.be/R8O_1WiQhxc)         |
-| 190613 |           Live Bus in Japan Game cut           |     OT5     |  Yes   |   subbed by [warmblue][warm_blue]   | [YT](https://www.youtube.com/watch?v=dQLJdiH5t1I) |
-| 190613 |   Live Bus in Japan Happiness Gesture debate   |     OT5     |  Yes   |   subbed by [warmblue][warm_blue]   | [YT](https://www.youtube.com/watch?v=WLgOIUixn4Q) |
-| 190615 |            Eye Contact Cam S3 EP. 6            |     IR      |  Yes   |   IRENE with Highest Tension Ever   |        [YT](https://youtu.be/81yhblAGIQw)         |
-
+| Date   |                     Title                      |   Members   | Subbed |                Notes                |               Links                |
+|:-------|:----------------------------------------------:|:-----------:|:------:|:-----------------------------------:|:----------------------------------:|
+| 181209 |            Eye Contact Cam S2 EP. 1            |     WD      |  Yes   |            Amazing Wendy            | [YT](https://youtu.be/xIQWC-Q5dQI) |
+| 181210 |            Instagram Live with Yeri            |     YR      |  Yes   |   subbed by [RevelUp Subs][rvus]    | [YT](https://youtu.be/W46th1zcNVc) |
+| 181214 |            Eye Contact Cam S2 EP. 2            |     JO      |  Yes   |       Joy, The Haetnim Lover        | [YT](https://youtu.be/cXBZSDRbH5k) |
+| 181216 |            Eye Contact Cam S2 EP. 3            |     SG      |  Yes   |          Seulgi's New Life          | [YT](https://youtu.be/doGHqWyrXOQ) |
+| 181220 |            Eye Contact Cam S2 EP. 4            |     YR      |  Yes   |            Yeri's Taste             | [YT](https://youtu.be/YowhQDzuaxg) |
+| 181223 |            Eye Contact Cam S2 EP.5             |     IR      |  Yes   |         Irene's Small Act💕         | [YT](https://youtu.be/kpsuuAAaG48) |
+| 181224 |        Christmas Eve Busking with Wendy        |     WD      |  Yes   |   subbed by [RevelUp Subs][rvus]    | [YT](https://youtu.be/c1tdnIolchk) |
+| 181225 | Christmas Instagram Live with Irene and Seulgi |    IR,SG    |  Yes   |   subbed by [RevelUp Subs][rvus]    | [YT](https://youtu.be/XUpX3um8T9g) |
+| 190214 |            Instagram Live with Yeri            |     YR      |  Yes   |   subbed by [RevelUp Subs][rvus]    | [YT](https://youtu.be/bs6UKf2rrd8) |
+| 190427 |           Instagram Live in Vietnam            | IR,JO,SG,WD |  Yes   |   subbed by [RevelUp Subs][rvus]    | [YT](https://youtu.be/S6DHz5ndhTs) |
+| 190605 |            Eye Contact Cam S3 EP. 1            |     OT5     |  Yes   |       RV North American Tour        | [YT](https://youtu.be/yVfz5_P6l3A) |
+| 190607 |            Eye Contact Cam S3 EP. 2            |     JO      |  Yes   |        Joy's American Vlog💚        | [YT](https://youtu.be/cl5TJNdtPzQ) |
+| 190609 |            Eye Contact Cam S3 EP. 3            |     YR      |  Yes   |    Reborn YERI in North America     | [YT](https://youtu.be/F0tkL_jHrys) |
+| 190611 |            Eye Contact Cam S3 EP. 4            |     SG      |  Yes   | The more SEULGIful Lifestyle in USA | [YT](https://youtu.be/_A6329Luf3E) |
+| 190613 |            Eye Contact Cam S3 EP. 5            |     WD      |  Yes   |    Wendy's sweet introduction. ♥    | [YT](https://youtu.be/R8O_1WiQhxc) |
+| 190613 |           Live Bus in Japan Game cut           |     OT5     |  Yes   |   subbed by [warmblue][warm_blue]   | [YT](https://youtu.be/dQLJdiH5t1I) |
+| 190613 |   Live Bus in Japan Happiness Gesture debate   |     OT5     |  Yes   |   subbed by [warmblue][warm_blue]   | [YT](https://youtu.be/WLgOIUixn4Q) |
+| 190615 |            Eye Contact Cam S3 EP. 6            |     IR      |  Yes   |   IRENE with Highest Tension Ever   | [YT](https://youtu.be/81yhblAGIQw) |
 
 ## **Zimzalabim**
 ___
@@ -143,14 +142,16 @@ ___
 
 ## **Psycho**
 ___
-| Date   |                Title                | Members | Subbed |              Notes              |                       Links                       |
-|:-------|:-----------------------------------:|:-------:|:------:|:-------------------------------:|:-------------------------------------------------:|
-| 191222 | Comeback V-Live PsychoRISTMAS Party |   OT5   |  Yes   |                                 |      [VL](https://www.vlive.tv/video/166358)      |
-| 191222 |      Instagram Live with Wendy      |   WD    |  Yes   | subbed by [warmblue][warm_blue] | [YT](https://www.youtube.com/watch?v=YaCZZ2JDBcw) |
-| 200112 |      Instagram Live with Yeri       |   YR    |  Yes   | subbed by [RevelUp Subs][rvus]  |        [YT](https://youtu.be/_LFX_LTkKNo)         |
-| 200210 |   Seulgi Birthday Instagram Live    |   SG    |  Yes   | subbed by [RevelUp Subs][rvus]  |        [YT](https://youtu.be/DOBavWPAoXc)         |
-| 200307 |    Yeri Birthday Instagram Live     |   YR    |  Yes   | subbed by [RevelUp Subs][rvus]  |        [YT](https://youtu.be/ZwA80E07DhE)         |
-| 200329 |    Irene Birthday Instagram Live    |   IR    |  Yes   | subbed by [RevelUp Subs][rvus]  |        [YT](https://youtu.be/R5UMhe0N8cE)         |
+| Date   |                Title                | Members | Subbed |              Notes              |                  Links                  |
+|:-------|:-----------------------------------:|:-------:|:------:|:-------------------------------:|:---------------------------------------:|
+| 191222 | Comeback V-Live PsychoRISTMAS Party |   OT5   |  Yes   |                                 | [VL](https://www.vlive.tv/video/166358) |
+| 191222 |      Instagram Live with Wendy      |   WD    |  Yes   | subbed by [warmblue][warm_blue] |   [YT](https://youtu.be/YaCZZ2JDBcw)    |
+| 200112 |      Instagram Live with Yeri       |   YR    |  Yes   | subbed by [RevelUp Subs][rvus]  |   [YT](https://youtu.be/_LFX_LTkKNo)    |
+| 200210 |   Seulgi Birthday Instagram Live    |   SG    |  Yes   | subbed by [RevelUp Subs][rvus]  |   [YT](https://youtu.be/DOBavWPAoXc)    |
+| 200307 |    Yeri Birthday Instagram Live     |   YR    |  Yes   | subbed by [RevelUp Subs][rvus]  |   [YT](https://youtu.be/ZwA80E07DhE)    |
+| 200329 |    Irene Birthday Instagram Live    |   IR    |  Yes   | subbed by [RevelUp Subs][rvus]  |   [YT](https://youtu.be/R5UMhe0N8cE)    |
+| 200514 |         Yeri Instagram Live         |   YR    |  Yes   | subbed by [RevelUp Subs][rvus]  |   [YT](https://youtu.be/AazweNR0W-I)    |
+| 200515 |         Yeri Instagram Live         |   YR    |  Yes   | subbed by [Yermbear][yermbear]  |   [YT](https://youtu.be/12n-HRwQWy0)    |
 
 [warm_blue]:https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
 [rvus]:https://revelupsubs.com/
