@@ -19,7 +19,6 @@
 * [April 2020](./2020/04_2020_instagram_posts.md)
 * [May 2020](./2020/05_2020_instagram_posts.md)
 
-
 ***
 
 [Template for this archive](./instagram_post_template.md)

@@ -23,6 +23,7 @@ Markdown previewers might not show correctly as some of the files will use reddi
 ### [Red Velvet resource spreadsheet][ref0]
 * [Microsoft Excel copy; use only if Google Docs link is down or removed. \(Updated 04/20/20\)][ref0_xlsx]
 * [Open Document format copy; use only if Google Docs link is down or removed. \(Updated 04/20/20\)][ref0_ods]
+### [Red Velvet Member Gallery][member_gallery]
 
 ## Files for /r/red_velvet wiki
 
@@ -50,7 +51,8 @@ Tools used to document and archive for this list
 
 &#x200b;
 
-[rvwiki]: https://www.reddit.com/r/red_velvet/wiki/index
-[ref0]:https://docs.google.com/spreadsheets/d/1FKsk1QwLYHNqeW9l0Y9jFCacWe6KkPj9QMgcKt4ZaTQ/edit#gid=0
-[ref0_xlsx]:./res/Red_Velvet_Resources_0420.xlsx
+[member_gallery]:https://docs.google.com/spreadsheets/d/1ZJw_TcUnMVDfcYo6SRssM-zCmFUiUAM2XfCLl6oj5rc/edit#gid=1410958904
 [ref0_ods]:./res/Red_Velvet_Resources_0420.ods
+[ref0_xlsx]:./res/Red_Velvet_Resources_0420.xlsx
+[ref0]:https://docs.google.com/spreadsheets/d/1FKsk1QwLYHNqeW9l0Y9jFCacWe6KkPj9QMgcKt4ZaTQ/edit#gid=0
+[rvwiki]: https://www.reddit.com/r/red_velvet/wiki/index
