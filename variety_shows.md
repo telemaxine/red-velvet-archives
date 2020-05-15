@@ -322,6 +322,7 @@ ___
 &#x200b;
 
 [wiki_wgm]:https://www.reddit.com/r/red_velvet/wiki/wegotmarried
+
 [threeemperors]:./shows/baek-jongwon-3-great-emperors.md
 [hellocounselor]:./shows/hello-counselor.md
 [idolroom]:./shows/idol-room.md
