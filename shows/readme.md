@@ -1,8 +1,8 @@
 # Multi-episode Shows lists
 
-* [Baek Jongwon's 3 Great Emperors](./baek-jongwon-3-great-emperors.md) (Under construction)
+* [Baek Jongwon's 3 Great Emperors](./baek-jongwon-3-great-emperors.md)
 * [Game Development Girls](./game-development-girls.md)
-* [Hello Counselor](./hello-counselor.md) (Under construction)
+* [Hello Counselor](./hello-counselor.md)
 * [Idol Room](./idol-room.md) (Under construction)
 * [King of Mased Singer](./king-of-masked-singer.md)
 * [Knowing Brothers](./knowing-brothers.md)
