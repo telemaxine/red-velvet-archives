@@ -6,7 +6,7 @@
 * [Idol Room](./idol-room.md) (Under construction)
 * [King of Mased Singer](./king-of-masked-singer.md)
 * [Knowing Brothers](./knowing-brothers.md)
-* [Law of the Jungle](./law-of-the-jungle.md) (Under construction)
+* [Law of the Jungle](./law-of-the-jungle.md)
 * [Pajama Friends](./pajama-friends.md)
 * [Raid the Convenience Store](./raid-the-convenience-store.md)
 * [Running Man](./running-man.md)
