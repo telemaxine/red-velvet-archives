@@ -1,5 +1,7 @@
 # Multi-episode Shows lists
 
+[Baek Jongwon's 3 Great Emperors](./baek-jongwon-3-great-emperors.md)
+
 [Hello Counselor](./hello-counselor.md)
 
 [Idol Room](./idol-room.md)
