@@ -41,6 +41,7 @@ ___
 | 170313 | Instagram Live with Saeron  |   YR    |  Yes   | subbed by [RevelUp Subs][rvus] | [YT](https://youtu.be/LPsZ4sxvqKo) |
 | 170319 |  Instagram Live in Mexico   |   OT5   |  Yes   | subbed by [RevelUp Subs][rvus] | [YT](https://youtu.be/5_XsPOwl7rI) |
 | 170420 | Instagram Live with Saeron  |   YR    |  Yes   | subbed by [RevelUp Subs][rvus] | [YT](https://youtu.be/ap6bGxy9uTI) |
+| 170428 |  Instagram Live with Yeri   |   YR    |  Yes   | subbed by [RevelUp Subs][rvus] | [YT](https://youtu.be/2XT6qCfWCU4) |
 | 170521 | Instagram Live in Indonesia |   OT5   |  Yes   | subbed by [RevelUp Subs][rvus] | [YT](https://youtu.be/iNXasmLt9kA) |
 | 170523 | Instagram Live in Malaysia  |   OT5   |  Yes   | subbed by [RevelUp Subs][rvus] | [YT](https://youtu.be/R5FYDwWEyoo) |
 
