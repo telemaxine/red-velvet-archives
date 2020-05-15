@@ -155,3 +155,4 @@ ___
 
 [warm_blue]:https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
 [rvus]:https://revelupsubs.com/
+[yermbear]:https://www.youtube.com/channel/UC2ovJWPCbyGSKzlrQ4uq88w
