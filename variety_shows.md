@@ -4,47 +4,47 @@
 
 ## **Happiness**
 
-| **Date** |      **Show**       | **Episode(s)** | **Member(s)** | **Notes** |             **Links**              |
+| **Date** |             **Show**              | **Episode(s)** | **Member(s)** | **Notes** |             **Links**              |
 |:--------:|:---------------------------------:|:--------------:|:-------------:|:---------:|:----------------------------------:|
-|  140825  | Escape Crisis No. 1 |      N/A       |  IR,JO,SG,WD  |           | [YT](https://youtu.be/qlvYSirhe3w) |
+|  140825  |        Escape Crisis No. 1        |      N/A       |  IR,JO,SG,WD  |           | [YT](https://youtu.be/qlvYSirhe3w) |
 |  140901  | [Hello Counselor][hellocounselor] |      N/A       |  IR,JO,SG,WD  |           | [YT](https://youtu.be/h2QDHQDDXjs) |
-|  140920  |   Hidden Singer 3   |      N/A       |  IR,JO,SG,WD  |           | [YT](https://youtu.be/nqFrZEX4tYQ) |
+|  140920  |          Hidden Singer 3          |      N/A       |  IR,JO,SG,WD  |           | [YT](https://youtu.be/nqFrZEX4tYQ) |
 
 &#x200b;
 
 ## **Be Natural**
 
-| **Date** |                **Show**                | **Episode(s)** | **Member(s)** | **Notes** |                                              **Links**                                               |
+| **Date** |                **Show**                | **Episode(s)** | **Member(s)** | **Notes** |                                               **Links**                                               |
 |:--------:|:--------------------------------------:|:--------------:|:-------------:|:---------:|:-----------------------------------------------------------------------------------------------------:|
 |  141005  |       [Weekly Idol][weeklyidol]        |      168       |  IR,JO,SG,WD  |           |                                  [YT](https://youtu.be/jbcs8YbcUMo)                                   |
 |  141010  |              EXO 90:2014               |      N/A       |     SG,WD     |           | [DM](https://www.dailymotion.com/video/x27oe5f) // [Performance \(YT\)](https://youtu.be/SCrjWKutAwc) |
-|  141028  |           After School Club            |      113       |  IR,JO,SG,WD  |           |                                  [YT](https://youtu.be/Bh8hDcrGPfY)                                  |
-|  141106  | Arirang Pops In Seoul's New Secret Box |      N/A       |  IR,JO,SG,WD  |           |                                  [YT](https://youtu.be/pHZJdU2DzXM)                                  |
-|  141130  |         Let's Go! Dream Team 2         |      N/A       |   IR,SG,WD    |           |                                  [YT](https://youtu.be/TyPnntJppo0)                                  |
-|  150102  | Hong Kyung Min's Healing Talk Concert  |      N/A       |  IR,JO,SG,WD  |           |                                  [YT](https://youtu.be/0_8rJHhAwpA)                                  |
+|  141028  |           After School Club            |      113       |  IR,JO,SG,WD  |           |                                  [YT](https://youtu.be/Bh8hDcrGPfY)                                   |
+|  141106  | Arirang Pops In Seoul's New Secret Box |      N/A       |  IR,JO,SG,WD  |           |                                  [YT](https://youtu.be/pHZJdU2DzXM)                                   |
+|  141130  |         Let's Go! Dream Team 2         |      N/A       |   IR,SG,WD    |           |                                  [YT](https://youtu.be/TyPnntJppo0)                                   |
+|  150102  | Hong Kyung Min's Healing Talk Concert  |      N/A       |  IR,JO,SG,WD  |           |                                  [YT](https://youtu.be/0_8rJHhAwpA)                                   |
 
 &#x200b;
 
 ## **Ice Cream Cake**
 
-| **Date** |            **Show**            | **Episode(s)** | **Member(s)** |    **Notes**     |                                                                                                        **Links**                                                                                                         |
+| **Date** |             **Show**              | **Episode(s)** | **Member(s)** |    **Notes**     |                                                                                                        **Links**                                                                                                         |
 |:--------:|:---------------------------------:|:--------------:|:-------------:|:----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  150330  |    Let's Dance: Red Velvet     |      N/A       |      OT5      |                  |                                                                                            [YT](https://youtu.be/umQIO9YrYp8)                                                                                            |
-|  150407  |       After School Club        |      154       |      OT5      |                  |                                                                                            [YT](https://youtu.be/Zy6t9FJ_9AE)                                                                                            |
+|  150330  |      Let's Dance: Red Velvet      |      N/A       |      OT5      |                  |                                                                                            [YT](https://youtu.be/umQIO9YrYp8)                                                                                            |
+|  150407  |         After School Club         |      154       |      OT5      |                  |                                                                                            [YT](https://youtu.be/Zy6t9FJ_9AE)                                                                                            |
 |  150413  | [Hello Counselor][hellocounselor] |      N/A       |     JO,YR     |                  |                                                                                        [YT](https://youtu.be/BwWtHNJIHSk?t=1627)                                                                                         |
-|  150414  |         Off To School          |       40       |      SG       | Seulgi Cuts Only |                                                                         [GD](https://drive.google.com/file/d/0B8gch8zCahDoS05jTE51TVEzZEE/view)                                                                          |
-|  150420  |            Yaman TV            |       17       |      OT5      |                  |      ([Pt. 1 \(FB\)](https://www.facebook.com/watch/?v=362900780576166) // [Pt. 2 \(FB\)](https://www.facebook.com/watch/?v=362903637242547) // [Pt. 3 \(FB\)](https://www.facebook.com/watch/?v=362904273909150))       |
-|  150423  |          Shanghai TV           |      N/A       |      OT5      |                  |                                                                                            [YT](https://youtu.be/bp5_XmlpGNw)                                                                                            |
-|  150502  |           Star King            |      N/A       |   JO,SG,YR    |                  |                                                                                     [DM](https://www.dailymotion.com/video/x2ovrah)                                                                                      |
-|  150505  |         Off To School          |       43       |      SG       | Seulgi Cuts Only | [Pt.1 \(DM\)](http://www.dailymotion.com/video/x2pdgvz), [Pt.2 \(broken\)](http://www.dailymotion.com/video/x2pdbu2), [Reddit](https://www.reddit.com/r/red_velvet/comments/355azb/150505_seulgi_cut_for_off_to_school/) |
-|  150609  |     100 People, 100 Songs      |       31       |     SG,WD     |                  |                                                           [DM](https://www.dailymotion.com/video/x2vj5km), [Performance /(YT/)](https://youtu.be/AO-pJmvwklA)                                                            |
-|  150818  | Channel SNSD (Taeyeon Channel) |       5        |      OT5      |                  |                                                                                            [YT](https://youtu.be/q8NfQo2_hvQ)                                                                                            |
+|  150414  |           Off To School           |       40       |      SG       | Seulgi Cuts Only |                                                                         [GD](https://drive.google.com/file/d/0B8gch8zCahDoS05jTE51TVEzZEE/view)                                                                          |
+|  150420  |             Yaman TV              |       17       |      OT5      |                  |      ([Pt. 1 \(FB\)](https://www.facebook.com/watch/?v=362900780576166) // [Pt. 2 \(FB\)](https://www.facebook.com/watch/?v=362903637242547) // [Pt. 3 \(FB\)](https://www.facebook.com/watch/?v=362904273909150))       |
+|  150423  |            Shanghai TV            |      N/A       |      OT5      |                  |                                                                                            [YT](https://youtu.be/bp5_XmlpGNw)                                                                                            |
+|  150502  |             Star King             |      N/A       |   JO,SG,YR    |                  |                                                                                     [DM](https://www.dailymotion.com/video/x2ovrah)                                                                                      |
+|  150505  |           Off To School           |       43       |      SG       | Seulgi Cuts Only | [Pt.1 \(DM\)](http://www.dailymotion.com/video/x2pdgvz), [Pt.2 \(broken\)](http://www.dailymotion.com/video/x2pdbu2), [Reddit](https://www.reddit.com/r/red_velvet/comments/355azb/150505_seulgi_cut_for_off_to_school/) |
+|  150609  |       100 People, 100 Songs       |       31       |     SG,WD     |                  |                                                           [DM](https://www.dailymotion.com/video/x2vj5km), [Performance /(YT/)](https://youtu.be/AO-pJmvwklA)                                                            |
+|  150818  |  Channel SNSD (Taeyeon Channel)   |       5        |      OT5      |                  |                                                                                            [YT](https://youtu.be/q8NfQo2_hvQ)                                                                                            |
 
 &#x200b;
 
 ## **Dumb Dumb**
 
-| **Date** |                  **Show**                  | **Episode(s)** |        **Member(s)**         |                      **Notes**                       |                                                                                    **Links**                                                                                    |
+| **Date** |                     **Show**                     | **Episode(s)** | **Member(s)** |                      **Notes**                       |                                                                                              **Links**                                                                                               |
 |:--------:|:------------------------------------------------:|:--------------:|:-------------:|:----------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  150922  |                MV Bank Startdust                 |      N/A       |      OT5      |                                                      |                                                               [GD](https://drive.google.com/file/d/0B24TvBaMApUwSnVmN2VTUDNtc28/view)                                                                |
 |  150923  |            [Weekly Idol][weeklyidol]             |      217       |      OT5      |                                                      |                                                      [YT](https://youtu.be/4dPBlYKDKmo), [Alternate Link \(YT\)](https://youtu.be/00ijFRUIJ14)                                                       |
