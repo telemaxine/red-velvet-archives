@@ -1,10 +1,6 @@
-# Reality Shows
+# Level Up Project
 
-[Go back to main](./README.md)
-
-## **Level Up! Project**
-
-### **Season 1**
+## **Season 1**
 
 | Location | Episodes          | Members                    |
 |----------|-------------------|----------------------------|
@@ -92,7 +88,7 @@ ___
 [LUP25_rvus]:https://revelupsubs.com/2017/09/15/eng-170915-red-velvet-level-up-project-hidden-clip-2/
 [LUP25_mega]:https://mega.nz/#!N0BjHBQa!_h961upO4DM6T7BPJK07MKibZE5xUV1pi51uAEJgAM4
 
-### **Season 2**
+## **Season 2**
 
 | Location | Episodes | Members |
 |----------|----------|---------|
@@ -224,7 +220,7 @@ ___
 [LUP2_59_rvus]:https://revelupsubs.com/2018/03/16/eng-180316-red-velvet-level-up-project-s2-ep-59/
 [LUP2_60_rvus]:https://revelupsubs.com/2018/03/17/eng-180317-red-velvet-level-up-project-s2-ep-60/
 
-### **Season 3**
+## **Season 3**
 
 | Location | Episodes | Members |
 |----------|----------|---------|
@@ -316,27 +312,6 @@ ___
 [LUP3_39_rvus]:https://revelupsubs.com/2018/10/04/eng-181004-red-velvet-level-up-project-s3-ep-39/
 [LUP3_40_rvus]:https://revelupsubs.com/2018/10/05/eng-181005-red-velvet-level-up-project-s3-ep-40-finale/
 
-___
-&#x200b;
+
 
 [rvus]:https://revelupsubs.com/
-
-&#x200b;
-
-## **Pajama Friends**
-___
-| **Date** | **Episode** |   **Notes**    |                         **Subtitles**                          |                                                              **Alternative Links**                                                              |
-|:--------:|:-----------:|:--------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
-|  180915  |      1      |                | [ENG](http://kshow123.net/show/pajama-friends/episode-1.html)  |                                                                                                                                                 |
-|  180922  |      2      |                | [ENG](http://kshow123.net/show/pajama-friends/episode-2.html)  |                                                                                                                                                 |
-|  180929  |      3      |                | [ENG](http://kshow123.net/show/pajama-friends/episode-3.html)  |                                                                                                                                                 |
-|  181006  |      4      |                | [RAW](http://kshow123.net/show/pajama-friends/episode-4.html)  |                                                                                                                                                 |
-|  181013  |      5      | Seulgi & Wendy | [RAW](http://kshow123.net/show/pajama-friends/episode-5.html)  | Team Rocket cut [ENG]: [Vimeo](https://vimeo.com/388806752) // [GDrive](https://drive.google.com/file/d/1P3X1SFSs3xIotRBPsAfRf3ku0INWHKdH/view) |
-|  181020  |      6      |     Wendy      | [RAW](http://kshow123.net/show/pajama-friends/episode-6.html)  |                                             WenJoy cut [ENG]: [Vimeo](https://vimeo.com/376499969)                                              |
-|  181027  |      7      |     Wendy      | [RAW](http://kshow123.net/show/pajama-friends/episode-7.html)  |                                             WenJoy cut [ENG]: [Vimeo](https://vimeo.com/376500804)                                              |
-|  181103  |      8      |                | [RAW](http://kshow123.net/show/pajama-friends/episode-8.html)  |                                                                                                                                                 |
-|  181110  |      9      |                | [RAW](http://kshow123.net/show/pajama-friends/episode-9.html)  |                                                                                                                                                 |
-|  181117  |     10      |   MC Seulgi    | [ENG](http://kshow123.net/show/pajama-friends/episode-10.html) |                                                                                                                                                 |
-|  181124  |     11      |                | [RAW](http://kshow123.net/show/pajama-friends/episode-11.html) |                                                                                                                                                 |
-|  181201  |     12      |                | [RAW](http://kshow123.net/show/pajama-friends/episode-12.html) |                                                                                                                                                 |
-|  181208  |     13      |                | [RAW](http://kshow123.net/show/pajama-friends/episode-13.html) |                                                                                                                                                 |

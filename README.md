@@ -4,7 +4,9 @@
 * [Drama](./drama.md)
 * [Livestreams](./livestreams.md)
 * [Radio Shows](./radio_shows.md)
-* [Reality Shows](./reality_shows.md) (Under construction)
+* Reality Shows
+  * [Level Up Project](./shows/level-up-project.md) (Under Construction)
+  * [Pajama Friends](./shows/pajama-friends.md)
 * [Variety Shows](./variety_shows.md) (Under audit)
 * [Multi-episode show lists](./shows/readme.md)
 
