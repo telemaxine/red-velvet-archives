@@ -40,7 +40,6 @@ Tools used to document and archive for this list
 * A [URL extractor](https://www.browserling.com/tools/extract-urls).
 * A [table formatter](https://tableconvert.com/)
 
-___
 [member_gallery]:https://docs.google.com/spreadsheets/d/1ZJw_TcUnMVDfcYo6SRssM-zCmFUiUAM2XfCLl6oj5rc/edit#gid=1410958904
 [ref0_ods]:./res/Red_Velvet_Resources_0420.ods
 [ref0_xlsx]:./res/Red_Velvet_Resources_0420.xlsx
