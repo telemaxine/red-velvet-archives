@@ -9,5 +9,5 @@
 
 &#x200b;
 
-[170723_121]:https://keybase.pub/telemaxus/rv/variety-shows/King%20of%20Masked%20Singer/King.of.Mask.Singer.E121.mp4
-[170723_122]:https://keybase.pub/telemaxus/rv/variety-shows/King%20of%20Masked%20Singer/King.of.Mask.Singer.E122.mp4
+[170723_121]:https://telemaxus.keybase.pub/rv/variety-shows/King%20of%20Masked%20Singer/King.of.Mask.Singer.E121.mp4
+[170723_122]:https://telemaxus.keybase.pub/rv/variety-shows/King%20of%20Masked%20Singer/King.of.Mask.Singer.E122.mp4
