@@ -1,9 +1,9 @@
-# Multi-episode Shows lists
+# Multi-episode Show lists
 
 * [Baek Jongwon's 3 Great Emperors](./baek-jongwon-3-great-emperors.md)
 * [Game Development Girls](./game-development-girls.md)
 * [Hello Counselor](./hello-counselor.md)
-* [Idol Room](./idol-room.md) (Under construction)
+* [Idol Room](./idol-room.md)
 * [King of Mased Singer](./king-of-masked-singer.md)
 * [Knowing Brothers](./knowing-brothers.md)
 * [Law of the Jungle](./law-of-the-jungle.md)
@@ -12,4 +12,4 @@
 * [Running Man](./running-man.md)
 * [The Viewable SM](./the-viewable-sm.md)
 * [We Got Married](./wgm.md)
-* [Weekly Idol](./weekly-idol.md) (Under construction)
+* [Weekly Idol](./weekly-idol.md)
