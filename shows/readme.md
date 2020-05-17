@@ -4,6 +4,7 @@ For shows that Red Velvet appears more than once.
 
 ## Drama
 * [Game Development Girls](./game-development-girls.md)
+* [Hello! Our Language](./hello-our-language.md)
 
 ## Reality Shows
 * [Level Up Project](./level-up-project.md)
@@ -23,3 +24,6 @@ For shows that Red Velvet appears more than once.
 * [We Got Married](./wgm.md)
 * [Weekly Idol](./weekly-idol.md)
 * [Yeri's Room](./yeri's-room.md) (Airs on June 8, 2020 10AM KST)
+
+## CFs and Magazines
+* [High Cut](./high-cut-tv.md)
