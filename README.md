@@ -12,6 +12,13 @@
 
 ### Social Media
 * [Instagram archives](./instagram_archives/README.md) (Under construction; still "stuck" in 2019...)
+  * [Irene's Instagram link](https://www.instagram.com/renebaebae/)
+  * [Joy's Instagram link](https://www.instagram.com/_imyour_joy/)
+  * [Wendy's Instagram link](https://www.instagram.com/todayis_wendy/)
+  * [Yeri's Instagram link](https://www.instagram.com/yerimiese/)
+  * [Seulgi's Instagram link](https://www.instagram.com/hi_sseulgi/)
+* Tiktok
+  * [Joy](https://www.tiktok.com/@__imyour_joy)
 
 ## **Resources & References**
 * [/r/red_velvet wiki][rvwiki]
