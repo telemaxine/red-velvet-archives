@@ -11,7 +11,6 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Game Development Girls](./game-development-girls.md)
 * [Hello! Our Language](./hello-our-language.md)
 * [Let's Only Walk The Flower Road](./lets-only-walk-the-flower-road.md)
-  * [Idol Drama Operation Team (IDOT)](./idol-drama-operation-team.md)
 
 ## Livestreams
 * [VICTORY](./victory.md)
@@ -24,6 +23,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Baek Jongwon's Three Great Emperors](./baek-jongwon-three-great-emperors.md)
 * [Handsome Tigers](./handsome-tigers.md)
 * [Hello Counselor](./hello-counselor.md)
+* [Idol Drama Operation Team (IDOT)](./idol-drama-operation-team.md)
 * [Idol Room](./idol-room.md)
 * [King of Mased Singer](./king-of-masked-singer.md)
 * [Knowing Brothers](./knowing-brothers.md)
