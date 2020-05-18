@@ -1,5 +1,7 @@
 # Show lists
 
+[Go back to main](../README.md)
+
 Show appearances categorized by show name. Does not include one-off appearances.
 
 ## Drama
