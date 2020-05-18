@@ -1,7 +1,7 @@
-# **We Got Married**
+# We Got Married
 *Synopsis: The show paired up celebrities who pretended to be married couples and completed various challenges together.*
 ___
-## Episode List
+
 | **Date** | **Episode** | **Notes**                                                                                                                                                                                                |                                             **Subtitles**                                              |
 |:--------:|:-----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------:|
 |  150620  |     276     | BTOB Sungjae & JOY meet for the first time.                                                                                                                                                              |             [Google Drive](https://drive.google.com/open?id=0B_tar27mpvQTNkIxemRyeVNWMDQ)              |
