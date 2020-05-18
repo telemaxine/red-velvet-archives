@@ -4,6 +4,9 @@
 
 Show appearances categorized by show name. Does not include one-off appearances.
 
+## CFs and Magazines
+* [High Cut](./high-cut-tv.md)
+
 ## Drama
 * [Game Development Girls](./game-development-girls.md)
 * [Hello! Our Language](./hello-our-language.md)
@@ -33,6 +36,3 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Weekly Idol](./weekly-idol.md)
 * [Yeri's Room](./yeri's-room.md) (Unaired - Airs on June 8, 2020 10AM KST)
 * [Yu Huiyeol's Sketchbook](./yu-huiyeol-sketchbook.md)
-
-## CFs and Magazines
-* [High Cut](./high-cut-tv.md)
