@@ -7,6 +7,8 @@ Show appearances categorized by show name. Does not include one-off appearances.
 ## Drama
 * [Game Development Girls](./game-development-girls.md)
 * [Hello! Our Language](./hello-our-language.md)
+* [Let's Only Walk The Flower Road](./lets-only-walk-the-flower-road.md)
+  * [Idol Drama Operation Team (IDOT)](./idol-drama-operation-team.md)
 
 ## Reality Shows
 * [Level Up Project](./level-up-project.md)
@@ -22,6 +24,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Law of the Jungle](./law-of-the-jungle.md)
 * [Raid the Convenience Store](./raid-the-convenience-store.md)
 * [Running Man](./running-man.md)
+* [Sugarman](./sugarman.md) (Under construction)
 * [The Viewable SM](./the-viewable-sm.md)
 * [We Got Married](./wgm.md)
 * [Weekly Idol](./weekly-idol.md)
