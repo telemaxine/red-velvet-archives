@@ -31,3 +31,7 @@
 | 200515 | Instagram Live with Yeri                   | YR          |  Yes   | subbed by [Yermbear][yermbear]  | [YouTube](https://youtu.be/12n-HRwQWy0)                                                                                                                                                                                                                                                                   |
 
 &#x200b;
+
+[warmblue]:https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
+[rvus]:https://revelupsubs.com/
+[yermbear]:https://www.youtube.com/channel/UC2ovJWPCbyGSKzlrQ4uq88w
