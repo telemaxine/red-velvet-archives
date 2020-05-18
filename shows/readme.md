@@ -13,6 +13,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Let's Only Walk The Flower Road](./lets-only-walk-the-flower-road.md)
 
 ## Livestreams
+* [Instagram Lives](./instagram-lives.md)
 * [VICTORY](./victory.md)
 
 ## Reality Shows
