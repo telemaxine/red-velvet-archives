@@ -11,7 +11,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Pajama Friends](./pajama-friends.md)
 
 ## Variety Shows
-* [Baek Jongwon's 3 Great Emperors](./baek-jongwon-3-great-emperors.md)
+* [Baek Jongwon's Three Great Emperors](./baek-jongwon-three-great-emperors.md)
 * [Handsome Tigers](./handsome-tigers.md)
 * [Hello Counselor](./hello-counselor.md)
 * [Idol Room](./idol-room.md)

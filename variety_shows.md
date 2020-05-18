@@ -330,7 +330,7 @@
 
 [wiki_wgm]:https://www.reddit.com/r/red_velvet/wiki/wegotmarried
 
-[threeemperors]:./shows/baek-jongwon-3-great-emperors.md
+[threeemperors]:./shows/baek-jongwon-three-great-emperors.md
 [handsometigers]:./shows/handsome-tigers.md
 [hellocounselor]:./shows/hello-counselor.md
 [idolroom]:./shows/idol-room.md
