@@ -8,7 +8,7 @@
   * [Level Up Project](./shows/level-up-project.md) (Under Construction)
   * [Pajama Friends](./shows/pajama-friends.md)
 * [Variety Shows](./variety_shows.md) (Under audit)
-* [Multi-episode show lists](./shows/readme.md)
+* [Show lists](./shows/readme.md)
 
 ### Social Media
 * [Instagram archives](./instagram_archives/README.md) (Under construction; still "stuck" in 2019...)

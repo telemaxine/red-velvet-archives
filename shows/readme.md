@@ -1,6 +1,6 @@
-# Multi-episode Show lists
+# Show lists
 
-For shows that Red Velvet appears more than once.
+Show appearances categorized by show name. Does not include one-off appearances.
 
 ## Drama
 * [Game Development Girls](./game-development-girls.md)
@@ -23,7 +23,8 @@ For shows that Red Velvet appears more than once.
 * [The Viewable SM](./the-viewable-sm.md)
 * [We Got Married](./wgm.md)
 * [Weekly Idol](./weekly-idol.md)
-* [Yeri's Room](./yeri's-room.md) (Airs on June 8, 2020 10AM KST)
+* [Yeri's Room](./yeri's-room.md) (Unaired - Airs on June 8, 2020 10AM KST)
+* [Yu Huiyeol's Sketchbook](./yu-huiyeol-sketchbook.md)
 
 ## CFs and Magazines
 * [High Cut](./high-cut-tv.md)
