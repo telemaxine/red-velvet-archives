@@ -4,6 +4,25 @@
 
 &#x200b;
 
+- _**Variety Shows sorted by era**_
+  - [**Happiness**](#happiness)
+  - [**Be Natural**](#be-natural)
+  - [**Ice Cream Cake**](#ice-cream-cake)
+  - [**Dumb Dumb**](#dumb-dumb)
+  - [**One Of These Nights**](#one-of-these-nights)
+  - [**Russian Roulette**](#russian-roulette)
+  - [**Rookie**](#rookie)
+  - [**Red Flavor**](#red-flavor)
+  - [**Peek-A-Boo**](#peek-a-boo)
+  - [**Bad Boy**](#bad-boy)
+  - [**Power Up**](#power-up)
+  - [**RBB**](#rbb)
+  - [**Zimzalabim**](#zimzalabim)
+  - [**Umpah Umpah**](#umpah-umpah)
+  - [**Psycho**](#psycho)
+
+&#x200b;
+
 ## **Happiness**
 
 | **Date** |             **Show**              | **Episode(s)** | **Member(s)** | **Notes** |                **Links**                |
