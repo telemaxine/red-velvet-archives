@@ -72,7 +72,7 @@
 | JO      | Joy         |
 | SG      | Seulgi      |
 | WD      | Wendy       |
-| Yeri      | Yeri        |
+| YR      | Yeri        |
 
 &#x200b;
 
