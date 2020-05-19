@@ -370,4 +370,5 @@
 [viewablesm]:./shows/the-viewable-sm.md
 [weeklyidol]:./shows/weekly-idol.md
 [wgm]:./shows/wgm.md
+[yangnam]:./shows/yang-and-nam-show.md
 [yuhuiyeol]:./shows/yu-huiyeol-sketchbook.md
