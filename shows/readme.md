@@ -14,6 +14,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 
 ## Livestreams
 * [Instagram Lives](./instagram-lives.md)
+* [The Viewable SM](./the-viewable-sm.md)
 * [VICTORY](./victory.md)
 
 ## Reality Shows
@@ -32,7 +33,6 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Raid the Convenience Store](./raid-the-convenience-store.md)
 * [Running Man](./running-man.md)
 * [Sugarman](./sugarman.md) (Under construction)
-* [The Viewable SM](./the-viewable-sm.md)
 * [We Got Married](./wgm.md)
 * [Weekly Idol](./weekly-idol.md)
 * [Yeri's Room](./yeri's-room.md) (Unaired - Airs on June 8, 2020 10AM KST)
