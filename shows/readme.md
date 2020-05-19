@@ -13,6 +13,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Let's Only Walk The Flower Road](./lets-only-walk-the-flower-road.md)
 
 ## Livestreams
+* ['Comeback' Lives](./comeback-lives.md)
 * [Instagram Lives](./instagram-lives.md)
 * [The Viewable SM](./the-viewable-sm.md)
 * [VICTORY](./victory.md)
@@ -32,6 +33,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Law of the Jungle](./law-of-the-jungle.md)
 * [Raid the Convenience Store](./raid-the-convenience-store.md)
 * [Running Man](./running-man.md)
+* [Secret Unnie](./secret-unnie.md) (Under construction)
 * [Sugarman](./sugarman.md) (Under construction)
 * [We Got Married](./wgm.md)
 * [Weekly Idol](./weekly-idol.md)

@@ -65,7 +65,7 @@
 |  151217  |    Merry Winter Garden with Red Velvet & f(x)    |      N/A       | SG,WD         |                                                      |                                                                                         [VLive](https://www.vlive.tv/video/4109)                                                                                         |
 |  160109  |            Same Bed, Different Dreams            |       36       | SG            |                   Seulgi Cuts Only                   |                                                                                         [YouTube](https://youtu.be/1SJNSOFnYts)                                                                                          |
 |  160111  |               My Little Television               |       33       | JO            | Joy with BTOB Sungjae for [We Got Married][wiki_wgm] |                                                                  [Google Drive](https://drive.google.com/file/d/1zmg6QWmqperfT4_o-Cfth_oR6HTRF3iy/view)                                                                  |
-|  160112  |                     Sugarman                     |       13       | IR,SG,WD,YR   |                                                      |                                                         [KShow123](http://kshow123.net/show/sugar-man/episode-13.html)  [YouTube](https://youtu.be/MJO8ETe2rv8)                                                          |
+|  160112  |               [Sugarman][sugarman]               |       13       | IR,SG,WD,YR   |                                                      |                                   [KShow123](http://kshow123.net/show/sugar-man/episode-13.html)  [YouTube](https://youtu.be/MJO8ETe2rv8)  [Performance](https://youtu.be/nIXMQ85G_rI)                                   |
 |  160124  |          [King of Masked Singer][koms]           |       43       | WD            |                                                      |             [KShow123](http://kshow123.net/show/king-of-mask-singer/episode-43.html)  [1st Round Duet \(YouTube\)](https://youtu.be/cKrs6tyiRr0)  [Solo + Reveal \(YouTube\)](https://youtu.be/jNRU5NPNAhw)              |
 |  160206  | [Baek Jongwon's 3 Great Emperors][threeemperors] |       23       | IR,JO,SG,YR   |                                                      |                                          [KissTVShow](https://kisstvshow.to/Show/Baek-Jong-Won-s-Top-3-Chef-King/Episode-23)  [Cuts \(YouTube\)](https://youtu.be/zt4sToLZo8k)                                           |
 |  160210  |        Idol Star Athletics Championships         |      N/A       | OT5           |                                                      |                                                                    [Google Drive](https://drive.google.com/file/d/0B0wc7W_RxVSecHpXWXhfZ01FV2c/view)                                                                     |
@@ -176,6 +176,8 @@
 
 &#x200b;
 
+[KBS_IDOT_flowerroad_playlist]:https://www.youtube.com/playlist?list=PLMf7VY8La5REYrK1BtPdG4LrDuf-Z52nm
+
 ## **Red Flavor**
 
 | **Date** |                   **Show**                    | **Episode(s)** |    **Member(s)**    |                                   **Notes**                                    |                                                     **Links**                                                      |
@@ -209,7 +211,7 @@
 |  171129  |   [Weekly Idol][weeklyidol]   |      331       |      OT5      |                  |       [ENG](https://revelupsubs.com/2017/11/29/eng-171129-red-velvet-weekly-idol/)       |
 |  171201  |       Idol Show K-RUSH2       |       1        |      OT5      | Special MC Wendy |                           [ENG](https://youtu.be/BKznsuLQYmM)                            |
 |  171211  | School Attack with Red Velvet |       1        |      OT5      |                  |                           [ENG](https://youtu.be/uQFQiL9GanI)                            |
-|  180128  |          Sugarman 2           |       3        |      OT5      |      MC Joy      |       [ENG](https://revelupsubs.com/2018/01/28/eng-180128-red-velvet-sugarman-2/)        |
+|  180128  |    [Sugarman 2][sugarman]     |       3        |      OT5      |      MC Joy      |       [ENG](https://revelupsubs.com/2018/01/28/eng-180128-red-velvet-sugarman-2/)        |
 
 &#x200b;
 
@@ -236,7 +238,7 @@
 |  180305  |                OnStyle myBox                |       1        |                            |                                                                                                                                    |                          [RAW](https://drive.google.com/file/d/1zZh6VujaDHzlC3ziGKQ-GjOQ8M-Fyaa5/view)                          |
 |  180308  | Tempted (The Great Seducer) Early Interview |       1        |            Joy             |                                  [Drama](https://www.reddit.com/r/red_velvet/wiki/tlahl#wiki_joy)                                  |                                             [ENG](https://www.vlive.tv/video/62125)                                             |
 |  180319  |         Etude House Surprise Event          |       1        | Irene, Seulgi, Wendy, Yeri |                                                                                                                                    |                                               [ENG](https://youtu.be/drB7U0n6jx4)                                               |
-|  180421  |                Secret Unnie                 |       16       |       Seulgi & Yeri        |                                                                                                                                    |                                   [ENG](https://www.reddit.com/r/red_velvet/wiki/secretunnie)                                   |
+|  180421  |         [Secret Unnie][secretunnie]         |       16       |       Seulgi & Yeri        |                                                                                                                                    |                                   [ENG](https://www.reddit.com/r/red_velvet/wiki/secretunnie)                                   |
 |  180422  |    [Yu Huiyeol's Sketchbook][yuhuiyeol]     |      394       |           Wendy            |                                                                                                                                    |                                           [ENG](https://youtu.be/EjxKJBMK74g?t=1407)                                            |
 |  180518  |              Netflix's Busted!              |       6        |           Wendy            |                                  [Dramacool](https://www2.dramacool.movie/busted-episode-6.html)                                   | [ENG](https://www.netflix.com/watch/80209630?trackId=14277283&tctx=0%2C5%2C1d668024-d1f8-4c27-95ab-3fcfb28796e8-30580367%2C%2C) |
 |  180622  |              Law of the Jungle              |    320-324     |           Seulgi           |                                                                                                                                    |                                     [ENG](https://www.reddit.com/r/red_velvet/wiki/jungle)                                      |
@@ -330,15 +332,20 @@
 
 [wiki_wgm]:https://www.reddit.com/r/red_velvet/wiki/wegotmarried
 
-[threeemperors]:./shows/baek-jongwon-three-great-emperors.md
+[flowerroad]:./shows/lets-only-walk-the-flower-road.md
 [handsometigers]:./shows/handsome-tigers.md
 [hellocounselor]:./shows/hello-counselor.md
 [idolroom]:./shows/idol-room.md
+[IDOT]:./shows/idol-drama-operation-team.md
 [knowbros]:./shows/knowing-brothers.md
 [koms]:./shows/king-of-masked-singer.md
 [lotj]:./shows/law-of-the-jungle.md
 [raidconvenience]:./shows/raid-the-convenience-store.md
 [runningman]:./shows/running-man.md
+[secretunnie]:./shows/secret-unnie.md
+[sugarman]:./shows/sugarman.md
+[threeemperors]:./shows/baek-jongwon-three-great-emperors.md
+[victory]:./shows/victory.md
 [viewablesm]:./shows/the-viewable-sm.md
 [weeklyidol]:./shows/weekly-idol.md
 [wgm]:./shows/wgm.md
