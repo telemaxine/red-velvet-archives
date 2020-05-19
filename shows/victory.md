@@ -1,5 +1,7 @@
-# VICTORY
-*Synopsis: Red Velvet & NCT come together to create live documentary VICTORY. A wide variety of topics will be discussed via hashtag keywords, including a review of 2016’s songs and choreography, their plans for 2017, and even a showcase of the members’ enviable artistic abilities.*
+# _VICTORY_
+
+_Synopsis: Red Velvet & NCT come together to create live documentary VICTORY. A wide variety of topics will be discussed via hashtag keywords, including a review of 2016’s songs and choreography, their plans for 2017, and even a showcase of the members’ enviable artistic abilities._
+
 ___
 
 |  Date  | Episode |                            Notes                            |                   Links                   |

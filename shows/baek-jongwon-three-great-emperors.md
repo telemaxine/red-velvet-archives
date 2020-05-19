@@ -1,4 +1,4 @@
-# Baek Jongwon's Three Great Emperors
+# _Baek Jongwon's Three Great Emperors_
 
 | Date   | Episode | Members     | Notes | Links                                                                                                                                 |
 |--------|---------|-------------|-------|---------------------------------------------------------------------------------------------------------------------------------------|

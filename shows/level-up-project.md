@@ -1,4 +1,9 @@
-# Level Up Project
+# _Level Up Project_
+
+- [_Level Up Project_](#level-up-project)
+  - [**Season 1**](#season-1)
+  - [**Season 2**](#season-2)
+  - [**Season 3**](#season-3)
 
 ## **Season 1**
 

@@ -1,4 +1,4 @@
-# Idol Room
+# _Idol Room_
 
 
 | Date   | Episode | Members | Notes                                                                                        | Links                                                                                                                                                                                                                                                                    |

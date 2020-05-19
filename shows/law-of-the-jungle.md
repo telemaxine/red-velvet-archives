@@ -1,4 +1,4 @@
-# Law of the Jungle
+# _Law of the Jungle_
 
 ## Law of the Jungle (Mexico) - Seulgi
 ___

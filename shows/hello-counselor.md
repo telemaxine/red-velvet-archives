@@ -1,5 +1,8 @@
-# Hello Counselor
+# _Hello Counselor_
+
 _Hello Counselor is a talk show with an emphasis on regular people, regardless of age or gender, that aims to help take down communication barriers by sharing stories about life._
+
+___
 
 | Date   | Episode | Members     | Notes | Links                                                                                                          |
 |--------|---------|-------------|-------|----------------------------------------------------------------------------------------------------------------|

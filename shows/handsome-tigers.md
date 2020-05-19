@@ -1,5 +1,7 @@
-#**Handsome Tigers**
+# _Handsome Tigers_
+
 _Synopsis: A real basketball entertainment program that surrounds former basketball legend Seo Jang-hoon, where celebrities who love basketball are recruited to form a basketball team. The team gets trained by Seo and then eventually participates in a tournament._
+
 ___
 
 |  Date  | Episode | Notes |                                Links                                |

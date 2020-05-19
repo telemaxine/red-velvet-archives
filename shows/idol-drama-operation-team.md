@@ -1,5 +1,7 @@
-# Idol Drama Operation Team (IDOT)
-*Synopsis: “Idol Drama Operation Team” is a web variety show featuring female idol singers as scriptwriters and actors. The show invites 7 girl group members to become accredited drama scriptwriters, writing their own drama scripts and act according to them.*
+# _Idol Drama Operation Team (IDOT)_
+
+_Synopsis: “Idol Drama Operation Team” is a web variety show featuring female idol singers as scriptwriters and actors. The show invites 7 girl group members to become accredited drama scriptwriters, writing their own drama scripts and act according to them._
+
 ___
 
 |  Date  | Episode |                          Notes                           |                                                               Links                                                                |

@@ -1,5 +1,7 @@
-# Pajama Friends
-*Synopsis: Pajama Friends is a reality program about four women (Song Ji-hyo, Joy, Jang Yoon-ju and Cheng Xiao) who work in different fields in the industry and come together to enjoy 2-day-and-1-night vacations in hotels of various styles within Korea. Due to the women's shared preferences, the locations commonly have a spa pool and/or swimming pool.*
+# _Pajama Friends_
+
+_Synopsis: Pajama Friends is a reality program about four women (Song Ji-hyo, Joy, Jang Yoon-ju and Cheng Xiao) who work in different fields in the industry and come together to enjoy 2-day-and-1-night vacations in hotels of various styles within Korea. Due to the women's shared preferences, the locations commonly have a spa pool and/or swimming pool._
+
 ___
 
 |  Date  | Episode |     Notes      |                                                               Alternative Links                                                               |                                  Links                                  |

@@ -1,5 +1,7 @@
-#**Secret Unnie**
+# _Secret Unnie_
+
 _Synopsis: One day, one secret unnie (older sister) of a girl appears! For 24 hours, the two of them will share secrets and a common bed for the night. Unnies will comfort and empathize with girls that have worries._
+
 ___
 
 

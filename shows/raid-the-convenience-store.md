@@ -1,5 +1,7 @@
-# Raid the Convenience Store
-*Synopsis: 'Empty the Convenience Store' is a show where panelists and guest visit and raid a convenience store each week in order to use ingredients from the store to cook meals with quick, easy recipes.*
+# _Raid the Convenience Store_
+
+_Synopsis: 'Empty the Convenience Store' is a show where panelists and guest visit and raid a convenience store each week in order to use ingredients from the store to cook meals with quick, easy recipes._
+
 ___
 
 

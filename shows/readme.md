@@ -33,7 +33,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Law of the Jungle](./law-of-the-jungle.md)
 * [Raid the Convenience Store](./raid-the-convenience-store.md)
 * [Running Man](./running-man.md)
-* [Secret Unnie](./secret-unnie.md) (Under construction)
+* [Secret Unnie](./secret-unnie.md)
 * [Sugarman](./sugarman.md) (Under construction)
 * [We Got Married](./wgm.md)
 * [Weekly Idol](./weekly-idol.md)

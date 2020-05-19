@@ -1,5 +1,7 @@
 # _Two Yoo Project Sugar Man_
-*The program revolves around the battle of two teams led by Yoo Jae-suk and Yoo Hee-yeol. Each team will bring back a "Sugar Man": the singer who was a one-hit wonder, but has since disappeared from the public eye. The two teams recreate the old song, "Sugar Song", into new versions which will make them appealing to today's music market. To relive their glory, the songs will be recreated by each producer from each team with today's artist, "Show Man", who are slated to change every episode.*
+
+_The program revolves around the battle of two teams led by Yoo Jae-suk and Yoo Hee-yeol. Each team will bring back a "Sugar Man": the singer who was a one-hit wonder, but has since disappeared from the public eye. The two teams recreate the old song, "Sugar Song", into new versions which will make them appealing to today's music market. To relive their glory, the songs will be recreated by each producer from each team with today's artist, "Show Man", who are slated to change every episode._
+
 ___
 
 ## Season 1
