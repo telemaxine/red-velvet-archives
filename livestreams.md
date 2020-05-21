@@ -2,6 +2,8 @@
 
 [Go back to main](./README.md)
 
+[List of all Instagram Lives](./shows/instagram-lives.md)
+
 | Date   |                   Title                    | Members       | Subbed |              Notes              |                                                                                                                                                    Links                                                                                                                                                    |
 |:-------|:------------------------------------------:|:--------------|:------:|:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 151002 |           Naver V 5th Live Ep. 5           | OT5           |  Yes   | subbed by [RevelUp Subs][rvus]  |               [RVUS](https://revelupsubs.com/2015/10/02/eng-151002-red-velvet-naver-v-5th-live-ep-5/), [MEGA](https://mega.nz/#!ZxgUVAZY!9SPGlyQYYnfiNEM51bxc1Cp2bbPByzJbhQ1ZOAdIHxg), [KB](https://telemaxus.keybase.pub/rv/livestream/151002%20Naver%20Live%205th%20Live%20Episode%205.mp4)               |
