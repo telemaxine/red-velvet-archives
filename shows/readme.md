@@ -44,3 +44,8 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Yang and Nam Show](./yang-and-nam-show.md)
 * [Yeri's Room](./yeri's-room.md) (Unaired - Airs on June 8, 2020 10AM KST)
 * [Yu Huiyeol's Sketchbook](./yu-huiyeol-sketchbook.md)
+
+# Vlog
+
+* [Top Star Vlog \(Lee Seungyun's Channel\)](./top-star-vlog.md)
+* [Eye Contact Cam](./eye-contact-cam.md)
