@@ -37,6 +37,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Raid the Convenience Store](./raid-the-convenience-store.md)
 * [Running Man](./running-man.md)
 * [Secret Unnie](./secret-unnie.md)
+* [Snowball Project](./snowball-project.md)
 * [Sugarman](./sugarman.md)
 * [Trick and True](./trick-and-true.md)
 * [We Got Married](./wgm.md)
