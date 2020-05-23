@@ -50,32 +50,7 @@
 | 200329 |       Irene Birthday Instagram Live        | Irene         |  Yes   | subbed by [RevelUp Subs][rvus]  |                                                                                                                                     [YT](https://youtu.be/R5UMhe0N8cE)                                                                                                                                      |
 | 200514 |          Instagram Live with Yeri          | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |                                                                                                                                     [YT](https://youtu.be/AazweNR0W-I)                                                                                                                                      |
 | 200515 |          Instagram Live with Yeri          | Yeri          |  Yes   | subbed by [Yermbear][yermbear]  |                                                                                                                                     [YT](https://youtu.be/12n-HRwQWy0)                                                                                                                                      |
-| 200519 |          SEULGI Selective Converse Korea Live          | Seulgi          |  Yes   | subbed by [RevelUp Subs][rvus]  |                                                                                                                                     [YT](https://youtu.be/e1tahQLIXpE)                                                                                                                                      |
-
-&#x200b;
-
-| Abbreviation | Notes                                     |
-|--------------|-------------------------------------------|
-| DM           | Dailymotion                               |
-| GD           | Google Drive                              |
-| KB           | Keybase                                   |
-| MEGA         | MEGA - a cloud storage service            |
-| RVUS         | [ReVel Up Subs](https://revelupsubs.com/) |
-| ST           | Streamable                                |
-| VL           | Vlive                                     |
-| VM           | Vimeo                                     |
-| YT           | Youtube                                   |
-
-&#x200b;
-
-| Members | Description |
-|---------|-------------|
-| OT5     | All members |
-| IR      | Irene       |
-| JO      | Joy         |
-| SG      | Seulgi      |
-| WD      | Wendy       |
-| YR      | Yeri        |
+| 200519 |    SEULGI Selective Converse Korea Live    | Seulgi        |  Yes   | subbed by [RevelUp Subs][rvus]  |                                                                                                                                     [YT](https://youtu.be/e1tahQLIXpE)                                                                                                                                      |
 
 &#x200b;
 
