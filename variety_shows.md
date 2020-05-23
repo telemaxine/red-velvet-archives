@@ -29,9 +29,9 @@
 
 | **Date** |             **Show**              | **Episode(s)** | **Member(s)** | **Notes** |                **Links**                |
 |:--------:|:---------------------------------:|:--------------:|:--------------|:---------:|:---------------------------------------:|
-|  140825  |        Escape Crisis No. 1        |      N/A       | OT4           |           | [YouTube](https://youtu.be/qlvYSirhe3w) |
-|  140901  | [Hello Counselor][hellocounselor] |      N/A       | OT4           |           | [YouTube](https://youtu.be/h2QDHQDDXjs) |
-|  140920  |          Hidden Singer 3          |      N/A       | OT4           |           | [YouTube](https://youtu.be/nqFrZEX4tYQ) |
+|  140825  |        Escape Crisis No. 1        |      N/A       | OT5           |           | [YouTube](https://youtu.be/qlvYSirhe3w) |
+|  140901  | [Hello Counselor][hellocounselor] |      N/A       | OT5           |           | [YouTube](https://youtu.be/h2QDHQDDXjs) |
+|  140920  |          Hidden Singer 3          |      N/A       | OT5           |           | [YouTube](https://youtu.be/nqFrZEX4tYQ) |
 
 &#x200b;
 
@@ -41,12 +41,12 @@
 
 | **Date** |                **Show**                | **Episode(s)** | **Member(s)** | **Notes** |                                                **Links**                                                 |
 |:--------:|:--------------------------------------:|:--------------:|:--------------|:---------:|:--------------------------------------------------------------------------------------------------------:|
-|  141005  |       [Weekly Idol][weeklyidol]        |      168       | OT4           |           |                                 [YouTube](https://youtu.be/jbcs8YbcUMo)                                  |
+|  141005  |       [Weekly Idol][weeklyidol]        |      168       | OT5           |           |                                 [YouTube](https://youtu.be/jbcs8YbcUMo)                                  |
 |  141010  |              EXO 90:2014               |      N/A       | Seulgi, Wendy |           | [DM](https://www.dailymotion.com/video/x27oe5f)  [Performance \(YouTube\)](https://youtu.be/SCrjWKutAwc) |
-|  141028  |           After School Club            |      113       | OT4           |           |                                 [YouTube](https://youtu.be/Bh8hDcrGPfY)                                  |
-|  141106  | Arirang Pops In Seoul's New Secret Box |      N/A       | OT4           |           |                                 [YouTube](https://youtu.be/pHZJdU2DzXM)                                  |
+|  141028  |           After School Club            |      113       | OT5           |           |                                 [YouTube](https://youtu.be/Bh8hDcrGPfY)                                  |
+|  141106  | Arirang Pops In Seoul's New Secret Box |      N/A       | OT5           |           |                                 [YouTube](https://youtu.be/pHZJdU2DzXM)                                  |
 |  141130  |         Let's Go! Dream Team 2         |      N/A       | IR,SG,WD      |           |                                 [YouTube](https://youtu.be/TyPnntJppo0)                                  |
-|  150102  | Hong Kyung Min's Healing Talk Concert  |      N/A       | OT4           |           |                                 [YouTube](https://youtu.be/0_8rJHhAwpA)                                  |
+|  150102  | Hong Kyung Min's Healing Talk Concert  |      N/A       | OT5           |           |                                 [YouTube](https://youtu.be/0_8rJHhAwpA)                                  |
 
 &#x200b;
 
