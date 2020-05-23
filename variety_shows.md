@@ -25,6 +25,8 @@
 
 ## **Happiness**
 
+[Back top](#variety-shows-masterlist)
+
 | **Date** |             **Show**              | **Episode(s)** | **Member(s)** | **Notes** |                **Links**                |
 |:--------:|:---------------------------------:|:--------------:|:--------------|:---------:|:---------------------------------------:|
 |  140825  |        Escape Crisis No. 1        |      N/A       | OT4           |           | [YouTube](https://youtu.be/qlvYSirhe3w) |
@@ -34,6 +36,8 @@
 &#x200b;
 
 ## **Be Natural**
+
+[Back top](#variety-shows-masterlist)
 
 | **Date** |                **Show**                | **Episode(s)** | **Member(s)** | **Notes** |                                                **Links**                                                 |
 |:--------:|:--------------------------------------:|:--------------:|:--------------|:---------:|:--------------------------------------------------------------------------------------------------------:|
@@ -48,6 +52,8 @@
 
 ## **Ice Cream Cake**
 
+[Back top](#variety-shows-masterlist)
+
 | **Date** |             **Show**              | **Episode(s)** | **Member(s)** |    **Notes**     |                                                                                                         **Links**                                                                                                         |
 |:--------:|:---------------------------------:|:--------------:|:--------------|:----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  150330  |      Let's Dance: Red Velvet      |      N/A       | OT5           |                  |                                                                                          [YouTube](https://youtu.be/umQIO9YrYp8)                                                                                          |
@@ -58,12 +64,14 @@
 |  150423  |            Shanghai TV            |      N/A       | OT5           |                  |                                                                                          [YouTube](https://youtu.be/bp5_XmlpGNw)                                                                                          |
 |  150502  |             Star King             |      N/A       | JO,SG,YR      |                  |                                                                                 [DailyMotion](https://www.dailymotion.com/video/x2ovrah)                                                                                  |
 |  150505  |           Off To School           |       43       | Seulgi        | Seulgi Cuts Only |                                               [Pt.1 \(DailyMotion\)](http://www.dailymotion.com/video/x2pdgvz)  [Pt.2 \(broken\)](http://www.dailymotion.com/video/x2pdbu2)                                               |
-|  150609  |       100 People, 100 Songs       |       31       | Seulgi, Wendy |                  |                                                     [DailyMotion](https://www.dailymotion.com/video/x2vj5km)  [Performance /(YouTube/)](https://youtu.be/AO-pJmvwklA)                                                     |
+|  150609  |       100 People, 100 Songs       |       31       | Seulgi, Wendy |                  |                                                     [DailyMotion](https://www.dailymotion.com/video/x2vj5km)  [Performance \(YouTube\)](https://youtu.be/AO-pJmvwklA)                                                     |
 |  150818  |  Channel SNSD (Taeyeon Channel)   |       5        | OT5           |                  |                                                                                          [YouTube](https://youtu.be/q8NfQo2_hvQ)                                                                                          |
 
 &#x200b;
 
 ## **Dumb Dumb**
+
+[Back top](#variety-shows-masterlist)
 
 | **Date** |                     **Show**                     | **Episode(s)** | **Member(s)** |                  **Notes**                  |                                                                                                        **Links**                                                                                                         |
 |:--------:|:------------------------------------------------:|:--------------:|:--------------|:-------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -92,6 +100,8 @@
 &#x200b;
 
 ## **One Of These Nights**
+
+[Back top](#variety-shows-masterlist)
 
 | **Date** |                          **Show**                           | **Episode(s)** | **Member(s)** |            **Notes**             |                                                                                       **Links**                                                                                        |
 |:--------:|:-----------------------------------------------------------:|:--------------:|:--------------|:--------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
