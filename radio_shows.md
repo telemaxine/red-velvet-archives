@@ -246,9 +246,9 @@
 
 |  Date  |       Title       | Members | Subbed |             Notes              |                  Link                   |
 |:------:|:-----------------:|:--------|:------:|:------------------------------:|:---------------------------------------:|
-| 181204 |  Boom Boom Power  |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube](https://youtu.be/urnR5fXOE_8) |
-| 181206 | Hope Song at Noon |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube](https://youtu.be/82DpcgdEpLE) |
-| 181213 |    Old School     |   OT5   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube](https://youtu.be/xIZb0umLgpM) |
+| 181204 |  Boom Boom Power  | OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube](https://youtu.be/urnR5fXOE_8) |
+| 181206 | Hope Song at Noon | OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube](https://youtu.be/82DpcgdEpLE) |
+| 181213 |    Old School     | OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube](https://youtu.be/xIZb0umLgpM) |
 | 190411 |   Starry Night    | Seulgi  |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube](https://youtu.be/Fy8mHaWhXcc) |
 
 &#x200b;
@@ -268,10 +268,10 @@
 
 [Back top](#radio-shows-masterlist)
 
-|  Date  |          Title          |   Members   | Subbed | Notes |                  Link                   |
+|  Date  |          Title          | Members     | Subbed | Notes |                  Link                   |
 |:------:|:-----------------------:|:------------|:------:|:-----:|:---------------------------------------:|
-| 190822 |     The Cultwo Show     |     OT5     |  Yes   |       | [YouTube](https://youtu.be/Au3YGY9lI7U) |
-| 190827 | Sandeul's Starry Night  |     OT5     |  Yes   |       | [YouTube](https://youtu.be/vkvPV8BxxL0) |
+| 190822 |     The Cultwo Show     | OT5         |  Yes   |       | [YouTube](https://youtu.be/Au3YGY9lI7U) |
+| 190827 | Sandeul's Starry Night  | OT5         |  Yes   |       | [YouTube](https://youtu.be/vkvPV8BxxL0) |
 | 190829 | KSY's Hope Song at Noon | IR,SG,WD,YR |  Yes   |       | [YouTube](https://youtu.be/N89l9ulT054) |
 
 &#x200b;
@@ -280,11 +280,11 @@
 
 [Back top](#radio-shows-masterlist)
 
-|  Date  |          Title          |    Members    | Subbed |                      Notes                       |                  Link                   |
+|  Date  |          Title          | Members       | Subbed |                      Notes                       |                  Link                   |
 |:------:|:-----------------------:|:--------------|:------:|:------------------------------------------------:|:---------------------------------------:|
-| 191223 | KSY's Hope Song at Noon |     Wendy     |  Yes   |                                                  | [YouTube](https://youtu.be/22q0iC0Q_4s) |
+| 191223 | KSY's Hope Song at Noon | Wendy         |  Yes   |                                                  | [YouTube](https://youtu.be/22q0iC0Q_4s) |
 | 191224 |     The Cultwo Show     | Seulgi, Wendy |  Yes   |                                                  | [YouTube](https://youtu.be/ropXKxE__jM) |
-| 200412 |        MBC Radio        |     Wendy     |  Yes   | Wendy reading 'Alice's Adventures in Wonderland' | [YouTube](https://youtu.be/Obk998M6drY) |
+| 200412 |        MBC Radio        | Wendy         |  Yes   | Wendy reading 'Alice's Adventures in Wonderland' | [YouTube](https://youtu.be/Obk998M6drY) |
 
 &#x200b;
 
