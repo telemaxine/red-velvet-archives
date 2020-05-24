@@ -10,17 +10,17 @@
 | 180909 | Eye Contact Cam S1 EP. 4 | OT5    | Yes    |                   | [YouTube](https://youtu.be/o8sLRgOzrjo)                                                                                                                 |
 
 ## Season 2
-| Date   | Title                    | Member | Subbed | Notes                  | Links                              |
-|--------|--------------------------|--------|--------|------------------------|------------------------------------|
+| Date   | Title                    | Member | Subbed | Notes                  | Links                                   |
+|--------|--------------------------|--------|--------|------------------------|-----------------------------------------|
 | 181209 | Eye Contact Cam S2 EP. 1 | Wendy  | Yes    | Amazing Wendy          | [YouTube](https://youtu.be/xIQWC-Q5dQI) |
 | 181214 | Eye Contact Cam S2 EP. 2 | Joy    | Yes    | Joy, The Haetnim Lover | [YouTube](https://youtu.be/cXBZSDRbH5k) |
 | 181216 | Eye Contact Cam S2 EP. 3 | Seulgi | Yes    | Seulgi's New Life      | [YouTube](https://youtu.be/doGHqWyrXOQ) |
 | 181220 | Eye Contact Cam S2 EP. 4 | Yeri   | Yes    | Yeri's Taste           | [YouTube](https://youtu.be/YowhQDzuaxg) |
-| 181223 | Eye Contact Cam S2 EP. 5 | Irene  | Yes    | Irene's Small Act💕    | [YouTube](https://youtu.be/kpsuuAAaG48) |\
+| 181223 | Eye Contact Cam S2 EP. 5 | Irene  | Yes    | Irene's Small Act💕    | [YouTube](https://youtu.be/kpsuuAAaG48) |
 
 ## Season 3
-| Date   | Title                    | Member | Subbed | Notes                               | Links                              |
-|--------|--------------------------|--------|--------|-------------------------------------|------------------------------------|
+| Date   | Title                    | Member | Subbed | Notes                               | Links                                   |
+|--------|--------------------------|--------|--------|-------------------------------------|-----------------------------------------|
 | 190605 | Eye Contact Cam S3 EP. 1 | OT5    | Yes    | RV North American Tour              | [YouTube](https://youtu.be/yVfz5_P6l3A) |
 | 190607 | Eye Contact Cam S3 EP. 2 | Joy    | Yes    | Joy's American Vlog💚               | [YouTube](https://youtu.be/cl5TJNdtPzQ) |
 | 190609 | Eye Contact Cam S3 EP. 3 | Yeri   | Yes    | Reborn YERI in North America        | [YouTube](https://youtu.be/F0tkL_jHrys) |
