@@ -23,6 +23,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Pajama Friends](./pajama-friends.md)
 
 ## Variety Shows
+* [Amazing Saturday](./amazing-saturday.md)
 * [Baek Jongwon's Three Great Emperors](./baek-jongwon-three-great-emperors.md)
 * [Handsome Tigers](./handsome-tigers.md)
 * [Hello Counselor](./hello-counselor.md)
