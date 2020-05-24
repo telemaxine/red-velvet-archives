@@ -32,7 +32,7 @@ Formatted specifically for use in Red Velvet subreddit wiki
 
 Markdown previewers might not show correctly as some of the files will use reddit exclusive markdown syntax. Use raw files to copy over markdown enabled sites like Reddit. Files should be a drop-in replacement for reddit, **however** always make sure to check the output.
 
-* [Livestreams](./red_velvet_wiki/red_velvet_wiki_livestream.md) ("Complete", updated with wiki version.)
+* [Livestreams](./red_velvet_wiki/red_velvet_wiki_livestream.md) ("Complete")
 * [Radio Show \(Era Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_era_sort.md) ("Complete")
 * [Radio Show \(Year Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_year_sort.md) ("Complete")
 
