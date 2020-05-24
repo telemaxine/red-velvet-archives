@@ -13,12 +13,14 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Let's Only Walk The Flower Road](./lets-only-walk-the-flower-road.md)
 
 ## Livestreams
+* [CELUV TV](./celuv-tv.md)
 * ['Comeback' Lives](./comeback-lives.md)
 * [Instagram Lives](./instagram-lives.md)
 * [The Viewable SM](./the-viewable-sm.md)
 * [VICTORY](./victory.md)
 
 ## Reality Shows
+* [Idol Drama Operation Team (IDOT)](./idol-drama-operation-team.md)
 * [Level Up Project](./level-up-project.md)
 * [Pajama Friends](./pajama-friends.md)
 
@@ -27,7 +29,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Baek Jongwon's Three Great Emperors](./baek-jongwon-three-great-emperors.md)
 * [Handsome Tigers](./handsome-tigers.md)
 * [Hello Counselor](./hello-counselor.md)
-* [Idol Drama Operation Team (IDOT)](./idol-drama-operation-team.md)
+* [IDOL LEAGUE](./idol-league.md)
 * [Idol Room](./idol-room.md)
 * [KBS K-Rush](./kbs-krush.md)
 * [Kids These Days](./kids-these-days.md)
@@ -39,6 +41,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Running Man](./running-man.md)
 * [Secret Unnie](./secret-unnie.md)
 * [Snowball Project](./snowball-project.md)
+* [Stage K](./stage-k.md)
 * [Sugarman](./sugarman.md)
 * [Trick and True](./trick-and-true.md)
 * [We Got Married](./wgm.md)
