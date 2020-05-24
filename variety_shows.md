@@ -293,18 +293,20 @@
 
 ## **Power Up**
 
-| **Date** |             **Show**              | **Episode(s)** | **Member(s)**  |                                          **Notes**                                           |                                       **Links**                                       |
-|:--------:|:---------------------------------:|:--------------:|:--------------:|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
-|  180804  |     [Knowing Bros.][knowbros]     |      139       |      OT5       |                                                                                              |           [ENG](http://kshow123.net/show/knowing-brother/episode-139.html)            |
-|  180809  |    Super Junior's Super TV S2     |       10       |      OT5       |        [More Links](https://twitter.com/Supertvsubs/status/1029097918387634176?s=20)         |     [ENG](https://mega.nz/#!XvwSlC7C!VNSfCEPq6VipJc-pMQqcg9gGQrW_FcQBxFFf4blquvE)     |
-|  180812  |          KBS Battle Trip          |   101 & 103    | Seulgi & Wendy |                                       Trip to Austria                                        | [101 [ENG]](https://youtu.be/rBJmgui4AcE) & [103 [ENG]](https://youtu.be/mIcgq0zoOOk) |
-|  180814  |             Idol Room             |       15       |      OT5       | [Reddit](https://www.reddit.com/r/idolroom/comments/9mtz8z/idol_room_e15_180814_red_velvet/) |                          [ENG](https://youtu.be/V6iHHntIXvc)                          |
-|  180822  |     [Weekly Idol][weeklyidol]     |      369       |      OT5       |                                                                                              |             [ENG](http://kshow123.net/show/weekly-idol/episode-369.html)              |
-|  180831  |            Wassap Man             |       27       |      OT5       |                                    with g.o.d. Joon Park                                     |                          [ENG](https://youtu.be/wwWcusQMBPI)                          |
-|  181014  |      The Return of Superman       |      246       |      OT5       |                                                                                              |                          [ENG](https://youtu.be/sNVIHI03TbY)                          |
-|  181118  |     [Running Man][runningman]     |      426       |  Irene & Joy   |                                                                                              |                  [MyRunningMan](https://www.myrunningman.com/ep/426)                  |
-|  181125  |     [Running Man][runningman]     |      427       |  Irene & Joy   |                                                                                              |                  [MyRunningMan](https://www.myrunningman.com/ep/427)                  |
-|  181126  | [Hello Counselor][hellocounselor] |      389       |  Seulgi & Joy  |                                                                                              |                          [ENG](https://youtu.be/LOGda6Vo3bE)                          |
+[Back top](#variety-shows-masterlist)
+
+| **Date** |             **Show**              | **Episode(s)** | **Member(s)** |                                          **Notes**                                           |                                     **Links**                                      |
+|:--------:|:---------------------------------:|:--------------:|:--------------|:--------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
+|  180804  |     [Knowing Bros.][knowbros]     |      139       | OT5           |                                                                                              |         [KissTVShow](https://kisstvshow.to/Show/Knowing-Bros/Episode-139)          |
+|  180809  |    Super Junior's Super TV S2     |       10       | OT5           |        [More Links](https://twitter.com/Supertvsubs/status/1029097918387634176?s=20)         |   [MEGA](https://mega.nz/#!XvwSlC7C!VNSfCEPq6VipJc-pMQqcg9gGQrW_FcQBxFFf4blquvE)   |
+|  180812  |          KBS Battle Trip          |   101 & 103    | Seulgi, Wendy |                                       Trip to Austria                                        | [Ep. 101](https://youtu.be/rBJmgui4AcE) // [Ep. 103](https://youtu.be/mIcgq0zoOOk) |
+|  180814  |             Idol Room             |       15       | OT5           | [Reddit](https://www.reddit.com/r/idolroom/comments/9mtz8z/idol_room_e15_180814_red_velvet/) |                      [YouTube](https://youtu.be/V6iHHntIXvc)                       |
+|  180822  |     [Weekly Idol][weeklyidol]     |      369       | OT5           |                                                                                              |         [KShow123](http://kshow123.net/show/weekly-idol/episode-369.html)          |
+|  180831  |            Wassap Man             |       27       | OT5           |                                    with g.o.d. Joon Park                                     |                      [YouTube](https://youtu.be/wwWcusQMBPI)                       |
+|  181014  |      The Return of Superman       |      246       | OT5           |                                                                                              |                      [YouTube](https://youtu.be/sNVIHI03TbY)                       |
+|  181118  |     [Running Man][runningman]     |      426       | Irene, Joy    |                                                                                              |                [MyRunningMan](https://www.myrunningman.com/ep/426)                 |
+|  181125  |     [Running Man][runningman]     |      427       | Irene, Joy    |                                                                                              |                [MyRunningMan](https://www.myrunningman.com/ep/427)                 |
+|  181126  | [Hello Counselor][hellocounselor] |      389       | Seulgi, Joy   |                                                                                              |                      [YouTube](https://youtu.be/LOGda6Vo3bE)                       |
 
 &#x200b;
 
