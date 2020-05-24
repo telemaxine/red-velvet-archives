@@ -47,7 +47,7 @@
 |:------:|:---------------------:|:--------|:------:|:---------------------------------------:|:------------------------------------------:|
 | 141024 | Jonghyun's Blue Night | OT5     |  Yes   |     subbed by [ReVelUp Subs][rvus]      |  [YouTube](https://youtu.be/1HOJf2lcWCA)   |
 | 141101 |   Idol True Colors    | OT5     |        | link to reddit post. videos are broken. | [Link \(broken\)][141101_idol_true_colors] |
-| 141114 |    Kiss the Radio     | Seulgi  |   No   |               audio only                |           [YouTube][141114_ktr]            |
+| 141114 |    Kiss the Radio     | Seulgi  |   No   |               audio only                |      [YouTube \(broken\)][141114_ktr]      |
 
 &#x200b;
 
