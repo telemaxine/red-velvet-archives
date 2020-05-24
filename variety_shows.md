@@ -380,6 +380,7 @@
 
 [wiki_wgm]:https://www.reddit.com/r/red_velvet/wiki/wegotmarried
 
+[doremi]:./shows/amazing-saturday.md
 [flowerroad]:./shows/lets-only-walk-the-flower-road.md
 [handsometigers]:./shows/handsome-tigers.md
 [hellocounselor]:./shows/hello-counselor.md
