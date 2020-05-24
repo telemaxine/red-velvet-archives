@@ -7,7 +7,7 @@
 * Reality Shows
   * [Level Up Project](./shows/level-up-project.md) (Under Construction)
   * [Pajama Friends](./shows/pajama-friends.md)
-* [Variety Shows](./variety_shows.md) (Under audit)
+* [Variety Shows](./variety_shows.md)
 * [Show lists](./shows/readme.md)
 
 ### Social Media
