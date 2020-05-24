@@ -232,7 +232,7 @@
 |  170731  |    Oppa Thinking (Thinking About My Bias)     |       11       | OT5           |                                          |              [KShow123](http://kshow123.net/show/thinking-about-my-bias/episode-11.html) // [Mirror][170731_oppathinking]              |
 |  170802  |         [SNOWBALL Project][snowball]          |     31-48      | OT5           |                                          |                                    [Reddit list](https://www.reddit.com/r/red_velvet/wiki/snowball)                                    |
 |  170806  |                   Idol Men                    |       1        | OT5           |                                          |                                            [YouTube \(RAW\)](https://youtu.be/gRNCXMf1A5c)                                             |
-|  170908  |                I'm CELUV Live                 |       1        | OT5           |                                          |                            [RVUS](https://revelupsubs.com/2017/09/08/eng-170908-red-velvet-im-celuv-live/)                             |
+|  170908  |            [I'm CELUV Live][celuv]            |       1        | OT5           |                                          |                            [RVUS](https://revelupsubs.com/2017/09/08/eng-170908-red-velvet-im-celuv-live/)                             |
 |  170914  |                Happy Together                 |      S03       | Joy, Yeri     |                                          |                                             [YouTube](https://youtu.be/lphlAxj4RaA?t=3550)                                             |
 |  170924  |                Fantastic Duo 2                |       26       | Seulgi, Wendy |   Wenseul performs 'Doll' with Kangta    |                                        [Performance \(YouTube\)](https://youtu.be/ZI6aPWEgezY)                                         |
 |  171025  |               MTV Idols of Asia               |       1        | OT5           |                                          | [Pt. 1 \(DailyMotion\)](http://www.dailymotion.com/video/x67d5z9) // [Pt. 2 \(DailyMotion\)](http://www.dailymotion.com/video/x68gav3) |
@@ -382,12 +382,15 @@
 
 [wiki_wgm]:https://www.reddit.com/r/red_velvet/wiki/wegotmarried
 
+[celuv]:./shows/celuv-tv.md
 [doremi]:./shows/amazing-saturday.md
 [flowerroad]:./shows/lets-only-walk-the-flower-road.md
 [handsometigers]:./shows/handsome-tigers.md
 [hellocounselor]:./shows/hello-counselor.md
+[idolleague]:./shows/idol-league.md
 [idolroom]:./shows/idol-room.md
 [IDOT]:./shows/idol-drama-operation-team.md
+[kidsdays]:./shows/kids-these-days.md
 [knowbros]:./shows/knowing-brothers.md
 [koms]:./shows/king-of-masked-singer.md
 [lotj]:./shows/law-of-the-jungle.md
@@ -395,6 +398,7 @@
 [runningman]:./shows/running-man.md
 [secretunnie]:./shows/secret-unnie.md
 [snowball]:./shows/snowball-project.md
+[stagek]:./shows/stage-k.md
 [sugarman]:./shows/sugarman.md
 [threeemperors]:./shows/baek-jongwon-three-great-emperors.md
 [victory]:./shows/victory.md
