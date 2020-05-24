@@ -243,17 +243,21 @@
 
 ## **Peek-A-Boo**
 
-| **Date** |           **Show**            | **Episode(s)** | **Member(s)** |    **Notes**     |                                        **Links**                                         |
-|:--------:|:-----------------------------:|:--------------:|:-------------:|:----------------:|:----------------------------------------------------------------------------------------:|
-|  171111  |          Master Key           |       5        |     Wendy     |                  | [ENG](https://www.reddit.com/r/red_velvet/comments/7ciy98/171111_master_key_with_wendy/) |
-|  171112  |   [Running Man][runningman]   |      376       |  Irene & Joy  |                  |                   [MyRunningMan](https://www.myrunningman.com/ep/376)                    |
-|  171122  |   Let's Eat Dinner Together   |       57       |  Irene & Joy  |                  |           [ENG](https://kshow.to/shows/let-s-eat-dinner-together/episode-57/)            |
-|  171129  |   [Weekly Idol][weeklyidol]   |      331       |      OT5      |                  |       [ENG](https://revelupsubs.com/2017/11/29/eng-171129-red-velvet-weekly-idol/)       |
-|  171201  |       Idol Show K-RUSH2       |       1        |      OT5      | Special MC Wendy |                           [ENG](https://youtu.be/BKznsuLQYmM)                            |
-|  171211  | School Attack with Red Velvet |       1        |      OT5      |                  |                           [ENG](https://youtu.be/uQFQiL9GanI)                            |
-|  180128  |    [Sugarman 2][sugarman]     |       3        |      OT5      |      MC Joy      |       [ENG](https://revelupsubs.com/2018/01/28/eng-180128-red-velvet-sugarman-2/)        |
+[Back top](#variety-shows-masterlist)
 
-&#x200b;
+| **Date** |           **Show**            | **Episode(s)** | **Member(s)** |           **Notes**           |                                   **Links**                                   |
+|:--------:|:-----------------------------:|:--------------:|:--------------|:-----------------------------:|:-----------------------------------------------------------------------------:|
+|  171111  |          Master Key           |       5        | Wendy         | [reddit][171111_rd_masterkey] |         [KissTVShow](https://kisstvshow.to/Show/Master-Key/Episode-5)         |
+|  171112  |   [Running Man][runningman]   |      376       | Irene, Joy    |                               |              [MyRunningMan](https://www.myrunningman.com/ep/376)              |
+|  171122  |   Let's Eat Dinner Together   |       57       | Irene, Joy    |                               | [KissTVShow](https://kisstvshow.to/Show/Let-s-Eat-Dinner-Together/Episode-57) |
+|  171129  |   [Weekly Idol][weeklyidol]   |      331       | OT5           |                               | [ENG](https://revelupsubs.com/2017/11/29/eng-171129-red-velvet-weekly-idol/)  |
+|  171201  |       Idol Show K-RUSH2       |       1        | OT5           |       Special MC Wendy        |                    [YouTube](https://youtu.be/BKznsuLQYmM)                    |
+|  171211  | School Attack with Red Velvet |       1        | OT5           |                               |                    [YouTube](https://youtu.be/uQFQiL9GanI)                    |
+|  180128  |    [Sugarman 2][sugarman]     |       3        | OT5           |            MC Joy             |  [ENG](https://revelupsubs.com/2018/01/28/eng-180128-red-velvet-sugarman-2/)  |
+
+&#x200b;1711
+
+[171111_rd_masterkey]:https://www.reddit.com/r/red_velvet/comments/7ciy98/171111_master_key_with_wendy/
 
 ## **Bad Boy**
 
