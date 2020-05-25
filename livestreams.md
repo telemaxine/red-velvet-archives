@@ -18,11 +18,10 @@
   - [**Psycho**](#psycho)
 
 ## **Ice Cream Cake**
-| Date   |       Title       | Members | Subbed |    Notes    |                                                                                                                                                    Links                                                                                                                                                     |
-|:-------|:-----------------:|:--------|:------:|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 150313 |   Ice Cream TV    | OT5     |  Yes   | Preparation |                                                             [YouTube](https://youtu.be/PHh-XLLVyXs), [Dailymotion](https://www.dailymotion.com/video/x2jmw83), [YouTube](https://youtu.be/UX7_R25cwQs), [YouTube](https://youtu.be/8Ui_F77Z1ZI)                                                              |
-| 150318 | Comeback Showcase | OT5     |  Yes   |             | ([1/6](https://www.dailymotion.com/video/x2jwh1n), [2/6](https://www.dailymotion.com/video/x2jycnl), [3/6](https://www.dailymotion.com/video/x2k1etq), [4/6](https://www.dailymotion.com/video/x2k9r7m), [5/6](https://www.dailymotion.com/video/x2kb7di), [6/6](https://www.dailymotion.com/video/x2km1ul)) |
-
+| Date   |       Title       | Members | Subbed |    Notes    |                                                                                                                                                         Links                                                                                                                                                          |
+|:-------|:-----------------:|:--------|:------:|:-----------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 150313 |   Ice Cream TV    | OT5     |  Yes   | Preparation |                                                               [YouTube](https://youtu.be/PHh-XLLVyXs) // [Dailymotion](https://www.dailymotion.com/video/x2jmw83) // [YouTube](https://youtu.be/UX7_R25cwQs) // [YouTube](https://youtu.be/8Ui_F77Z1ZI)                                                                |
+| 150318 | Comeback Showcase | OT5     |  Yes   |             | ([1/6](https://www.dailymotion.com/video/x2jwh1n) // [2/6](https://www.dailymotion.com/video/x2jycnl) // [3/6](https://www.dailymotion.com/video/x2k1etq) // [4/6](https://www.dailymotion.com/video/x2k9r7m) // [5/6](https://www.dailymotion.com/video/x2kb7di) // [6/6](https://www.dailymotion.com/video/x2km1ul)) |
 
 ## **Dumb Dumb**
 | Date   |         Title          | Members | Subbed |             Notes              |                                                                                                Links                                                                                                |
@@ -45,23 +44,20 @@
 | 161122 | SM Super Club League | Seulgi  |  Yes   | subbed by [RevelUp Subs][rvus] | [w\/ Baekhyun \(YouTube\)](https://youtu.be/HVsrvSiCxr0) // [w\/ Heechul \(YouTube\)](https://youtu.be/h4j7zPfCzRs) |
 
 ## **Rookie**
-| Date   |                  Title                   | Members | Subbed |             Notes              |               Links                |
-|:-------|:----------------------------------------:|:--------|:------:|:------------------------------:|:----------------------------------:|
-| 170313 | [Instagram Live with Saeron][instalive]  | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [YT](https://youtu.be/LPsZ4sxvqKo) |
-| 170319 |  [Instagram Live in Mexico][instalive]   | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] | [YT](https://youtu.be/5_XsPOwl7rI) |
-| 170420 | [Instagram Live with Saeron][instalive]  | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [YT](https://youtu.be/ap6bGxy9uTI) |
-| 170428 |  [Instagram Live with Yeri][instalive]   | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [YT](https://youtu.be/2XT6qCfWCU4) |
-| 170521 | [Instagram Live in Indonesia][instalive] | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] | [YT](https://youtu.be/iNXasmLt9kA) |
-| 170523 | [Instagram Live in Malaysia][instalive]  | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] | [YT](https://youtu.be/R5FYDwWEyoo) |
+| Date   |                  Title                   | Members | Subbed |             Notes              |                  Links                  |
+|:-------|:----------------------------------------:|:--------|:------:|:------------------------------:|:---------------------------------------:|
+| 170313 | [Instagram Live with Saeron][instalive]  | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/LPsZ4sxvqKo) |
+| 170319 |  [Instagram Live in Mexico][instalive]   | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/5_XsPOwl7rI) |
+| 170420 | [Instagram Live with Saeron][instalive]  | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/ap6bGxy9uTI) |
+| 170428 |  [Instagram Live with Yeri][instalive]   | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/2XT6qCfWCU4) |
+| 170521 | [Instagram Live in Indonesia][instalive] | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/iNXasmLt9kA) |
+| 170523 | [Instagram Live in Malaysia][instalive]  | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/R5FYDwWEyoo) |
 
 ## **Red Flavor**
 | Date   |             Title              | Members | Subbed |             Notes              |                                                Links                                                |
 |:-------|:------------------------------:|:--------|:------:|:------------------------------:|:---------------------------------------------------------------------------------------------------:|
-| 170709 |        Twitter Live Q&A        | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] |                                 [YT](https://youtu.be/egC67gnow0o)                                  |
-| 170908 |         I'm Celuv Live         | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] | [RVUS](https://revelupsubs.com/2017/09/08/eng-170908-red-velvet-im-celuv-live/), [KB][170908_celuv] |
-| 170925 | Red Velvet Oksusu Live Mukbang | OT5     |  Yes   |  for ReVelUp Project Season 1  |                                 [YT](https://youtu.be/GulFRqOoH8c)                                  |
-
-[170908_celuv]:https://telemaxus.keybase.pub/rv/livestream/170908%20Red%20Velvet%20%E1%84%85%E1%85%A6%E1%84%83%E1%85%B3%E1%84%87%E1%85%A6%E1%86%AF%E1%84%87%E1%85%A6%E1%86%BA%20I'm%20Celuv%20LIVE.mp4
+| 170709 |        Twitter Live Q&A        | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] |                               [YouTube](https://youtu.be/egC67gnow0o)                               |
+| 170925 | Red Velvet Oksusu Live Mukbang | OT5     |  Yes   |  for ReVelUp Project Season 1  |                               [YouTube](https://youtu.be/GulFRqOoH8c)                               |
 
 ## **Peek-A-Boo**
 | Date   |                  Title                  | Members | Subbed |             Notes              |                                                                                             Links                                                                                              |
@@ -104,24 +100,24 @@
 | Date   |                          Title                          | Members       | Subbed |                Notes                |                  Links                  |
 |:-------|:-------------------------------------------------------:|:--------------|:------:|:-----------------------------------:|:---------------------------------------:|
 | 181202 |         [Instagram Live with Wendy][instalive]          | Wendy         |  Yes   |   subbed by [warm blue][warmblue]   | [YouTube](https://youtu.be/yqgYi3z_Ilc) |
-| 181209 |         [Eye Contact Cam S2 EP. 1][eyecontact]          | WD            |  Yes   |            Amazing Wendy            | [YouTube](https://youtu.be/xIQWC-Q5dQI) |
+| 181209 |         [Eye Contact Cam S2 EP. 1][eyecontact]          | Wendy         |  Yes   |            Amazing Wendy            | [YouTube](https://youtu.be/xIQWC-Q5dQI) |
 | 181210 |          [Instagram Live with Yeri][instalive]          | Yeri          |  Yes   |   subbed by [RevelUp Subs][rvus]    | [YouTube](https://youtu.be/W46th1zcNVc) |
-| 181214 |         [Eye Contact Cam S2 EP. 2][eyecontact]          | JO            |  Yes   |       Joy, The Haetnim Lover        | [YouTube](https://youtu.be/cXBZSDRbH5k) |
-| 181216 |         [Eye Contact Cam S2 EP. 3][eyecontact]          | SG            |  Yes   |          Seulgi's New Life          | [YouTube](https://youtu.be/doGHqWyrXOQ) |
-| 181220 |         [Eye Contact Cam S2 EP. 4][eyecontact]          | YR            |  Yes   |            Yeri's Taste             | [YouTube](https://youtu.be/YowhQDzuaxg) |
-| 181223 |         [Eye Contact Cam S2 EP. 5][eyecontact]          | IR            |  Yes   |         Irene's Small Act💕         | [YouTube](https://youtu.be/kpsuuAAaG48) |
+| 181214 |         [Eye Contact Cam S2 EP. 2][eyecontact]          | Joy           |  Yes   |       Joy, The Haetnim Lover        | [YouTube](https://youtu.be/cXBZSDRbH5k) |
+| 181216 |         [Eye Contact Cam S2 EP. 3][eyecontact]          | Seulgi        |  Yes   |          Seulgi's New Life          | [YouTube](https://youtu.be/doGHqWyrXOQ) |
+| 181220 |         [Eye Contact Cam S2 EP. 4][eyecontact]          | Yeri          |  Yes   |            Yeri's Taste             | [YouTube](https://youtu.be/YowhQDzuaxg) |
+| 181223 |         [Eye Contact Cam S2 EP. 5][eyecontact]          | Irene         |  Yes   |         Irene's Small Act💕         | [YouTube](https://youtu.be/kpsuuAAaG48) |
 | 181224 |      [Christmas Eve Busking with Wendy][instalive]      | Wendy         |  Yes   |   subbed by [RevelUp Subs][rvus]    | [YouTube](https://youtu.be/c1tdnIolchk) |
 | 181225 | [Christmas Insta-live with Irene and Seulgi][instalive] | Irene, Seulgi |  Yes   |   subbed by [RevelUp Subs][rvus]    | [YouTube](https://youtu.be/XUpX3um8T9g) |
 | 190214 |          [Instagram Live with Yeri][instalive]          | Yeri          |  Yes   |   subbed by [RevelUp Subs][rvus]    | [YouTube](https://youtu.be/bs6UKf2rrd8) |
 | 190427 |         [Instagram Live in Vietnam][instalive]          | IR,JO,SG,WD   |  Yes   |   subbed by [RevelUp Subs][rvus]    | [YouTube](https://youtu.be/S6DHz5ndhTs) |
 | 190605 |         [Eye Contact Cam S3 EP. 1][eyecontact]          | OT5           |  Yes   |       RV North American Tour        | [YouTube](https://youtu.be/yVfz5_P6l3A) |
-| 190607 |         [Eye Contact Cam S3 EP. 2][eyecontact]          | JO            |  Yes   |        Joy's American Vlog💚        | [YouTube](https://youtu.be/cl5TJNdtPzQ) |
-| 190609 |         [Eye Contact Cam S3 EP. 3][eyecontact]          | YR            |  Yes   |    Reborn YERI in North America     | [YouTube](https://youtu.be/F0tkL_jHrys) |
-| 190611 |         [Eye Contact Cam S3 EP. 4][eyecontact]          | SG            |  Yes   | The more SEULGIful Lifestyle in USA | [YouTube](https://youtu.be/_A6329Luf3E) |
+| 190607 |         [Eye Contact Cam S3 EP. 2][eyecontact]          | Joy           |  Yes   |        Joy's American Vlog💚        | [YouTube](https://youtu.be/cl5TJNdtPzQ) |
+| 190609 |         [Eye Contact Cam S3 EP. 3][eyecontact]          | Yeri          |  Yes   |    Reborn YERI in North America     | [YouTube](https://youtu.be/F0tkL_jHrys) |
+| 190611 |         [Eye Contact Cam S3 EP. 4][eyecontact]          | Seulgi        |  Yes   | The more SEULGIful Lifestyle in USA | [YouTube](https://youtu.be/_A6329Luf3E) |
 | 190613 |               Live Bus in Japan Game cut                | OT5           |  Yes   |   subbed by [warm blue][warmblue]   | [YouTube](https://youtu.be/dQLJdiH5t1I) |
-| 190613 |         [Eye Contact Cam S3 EP. 5][eyecontact]          | WD            |  Yes   |    Wendy's sweet introduction.♥     | [YouTube](https://youtu.be/R8O_1WiQhxc) |
+| 190613 |         [Eye Contact Cam S3 EP. 5][eyecontact]          | Wendy         |  Yes   |    Wendy's sweet introduction.♥     | [YouTube](https://youtu.be/R8O_1WiQhxc) |
 | 190613 |       Live Bus in Japan Happiness Gesture debate        | OT5           |  Yes   |   subbed by [warm blue][warmblue]   | [YouTube](https://youtu.be/WLgOIUixn4Q) |
-| 190615 |         [Eye Contact Cam S3 EP. 6][eyecontact]          | IR            |  Yes   |   IRENE with Highest Tension Ever   | [YouTube](https://youtu.be/81yhblAGIQw) |
+| 190615 |         [Eye Contact Cam S3 EP. 6][eyecontact]          | Irene         |  Yes   |   IRENE with Highest Tension Ever   | [YouTube](https://youtu.be/81yhblAGIQw) |
 
 ## **Zimzalabim**
 | Date   |                        Title                         | Members  | Subbed |              Notes              |                                                                                Links                                                                                |
