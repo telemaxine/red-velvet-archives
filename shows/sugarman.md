@@ -7,9 +7,9 @@ ___
 ## Season 1
 | Date   | Episode | Members     | Notes | Links                                                                                                                                                |
 |--------|---------|-------------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 160112 | 13      | IR,SG,WD,YR |       | [KShow123](http://kshow123.net/show/sugar-man/episode-13.html)  [YouTube](https://youtu.be/MJO8ETe2rv8)  [Performance](https://youtu.be/nIXMQ85G_rI) |
+| 160112 | 13      | IR,SG,WD,YR |       | [KShow123](http://kshow123.net/show/sugar-man/episode-13.html) // [YouTube](https://youtu.be/MJO8ETe2rv8) // [Performance](https://youtu.be/nIXMQ85G_rI) |
 
 ## Season 2
 | Date   | Episode | Members | Notes  | Links                                                                                                                                                       |
 |--------|---------|---------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 180128 | 3       | OT5     | MC Joy | [ENG](https://revelupsubs.com/2018/01/28/eng-180128-red-velvet-sugarman-2/)  [MEGA](https://mega.nz/#!l85XAKDL!Knem8wcGz54nYXZ3PCrTURUC5wISk9B0wYfkdMAR5EM) |
+| 180128 | 3       | OT5     | MC Joy | [ENG](https://revelupsubs.com/2018/01/28/eng-180128-red-velvet-sugarman-2/) // [MEGA](https://mega.nz/#!l85XAKDL!Knem8wcGz54nYXZ3PCrTURUC5wISk9B0wYfkdMAR5EM) |

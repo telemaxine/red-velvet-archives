@@ -2,12 +2,12 @@
 
 
 ## Season 1
-| Date   | Title                    | Member | Subbed | Notes             | Links                                                                                                                                                   |
-|--------|--------------------------|--------|--------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 180808 | Eye Contact Cam S1 EP. 1 | OT5    | Yes    |                   | [YouTube](https://youtu.be/Ftbn3TUwjv4)                                                                                                                 |
-| 180812 | Eye Contact Cam S1 EP. 2 | OT5    | Yes    |                   | [YouTube](https://youtu.be/dANzneEhk6k)                                                                                                                 |
-| 180826 | Eye Contact Cam S1 EP. 3 | OT5    | No     | On YT, per member | [Irene][180826_eyecontact-ir], [Seulgi][180826_eyecontact-sg], [Wendy][180826_eyecontact-wd], [Joy][180826_eyecontact-jo], [Yeri][180826_eyecontact-yr] |
-| 180909 | Eye Contact Cam S1 EP. 4 | OT5    | Yes    |                   | [YouTube](https://youtu.be/o8sLRgOzrjo)                                                                                                                 |
+| Date   | Title                    | Member | Subbed | Notes             | Links                                                                                                                                                           |
+|--------|--------------------------|--------|--------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 180808 | Eye Contact Cam S1 EP. 1 | OT5    | Yes    |                   | [YouTube](https://youtu.be/Ftbn3TUwjv4)                                                                                                                         |
+| 180812 | Eye Contact Cam S1 EP. 2 | OT5    | Yes    |                   | [YouTube](https://youtu.be/dANzneEhk6k)                                                                                                                         |
+| 180826 | Eye Contact Cam S1 EP. 3 | OT5    | No     | On YT, per member | [Irene][180826_eyecontact-ir] // [Seulgi][180826_eyecontact-sg] // [Wendy][180826_eyecontact-wd] // [Joy][180826_eyecontact-jo] // [Yeri][180826_eyecontact-yr] |
+| 180909 | Eye Contact Cam S1 EP. 4 | OT5    | Yes    |                   | [YouTube](https://youtu.be/o8sLRgOzrjo)                                                                                                                         |
 
 ## Season 2
 | Date   | Title                    | Member | Subbed | Notes                  | Links                                   |

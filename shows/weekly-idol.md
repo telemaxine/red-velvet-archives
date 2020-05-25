@@ -3,7 +3,7 @@
 | Date   | Episode | Members     | Notes                      | Links                                                                                               |
 |--------|---------|-------------|----------------------------|-----------------------------------------------------------------------------------------------------|
 | 141005 | 168     | IR,JO,SG,WD |                            | [YouTube](https://youtu.be/jbcs8YbcUMo)                                                             |
-| 150923 | 217     | OT5         |                            | [YouTube](https://youtu.be/4dPBlYKDKmo), [Alternate Link \(YouTube\)](https://youtu.be/00ijFRUIJ14) |
+| 150923 | 217     | OT5         |                            | [YouTube](https://youtu.be/4dPBlYKDKmo) // [Alternate Link \(YouTube\)](https://youtu.be/00ijFRUIJ14) |
 | 160316 | 242     | OT5         |                            | [YouTube](https://youtu.be/BQhHewjZ9Tc)                                                             |
 | 160907 | 267     | OT5         |                            | [YouTube](https://youtu.be/gG_JFfHLcPU)                                                             |
 | 171129 | 331     | OT5         |                            | [ENG](https://revelupsubs.com/2017/11/29/eng-171129-red-velvet-weekly-idol/)                        |
