@@ -2,8 +2,6 @@
 
 [Go back to main](./README.md)
 
-&#x200b;
-
 - _**Variety Shows sorted by era**_
   - [**Happiness**](#happiness)
   - [**Be Natural**](#be-natural)
@@ -20,8 +18,6 @@
   - [**Zimzalabim**](#zimzalabim)
   - [**Umpah Umpah**](#umpah-umpah)
   - [**Psycho**](#psycho)
-
-&#x200b;
 
 ## **Happiness**
 
