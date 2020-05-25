@@ -34,7 +34,6 @@ Markdown previewers might not show correctly as some of the files will use reddi
 
 * [Livestreams](./red_velvet_wiki/red_velvet_wiki_livestream.md) ("Complete")
 * [Radio Show \(Era Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_era_sort.md) ("Complete")
-* [Radio Show \(Year Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_year_sort.md) ("Complete")
 
 # **Tools**
 Tools used to document and archive for this list
