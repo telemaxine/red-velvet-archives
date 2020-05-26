@@ -43,6 +43,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 ## Variety Shows
 * [Amazing Saturday](./amazing-saturday.md)
 * [Baek Jongwon's Three Great Emperors](./baek-jongwon-three-great-emperors.md)
+* [Battle Trip](./battle-trip.md)
 * [Handsome Tigers](./handsome-tigers.md)
 * [Hello Counselor](./hello-counselor.md)
 * [IDOL LEAGUE](./idol-league.md)
@@ -53,6 +54,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Knowing Brothers](./knowing-brothers.md)
 * [Laundry Day](./laundry-day.md)
 * [Law of the Jungle](./law-of-the-jungle.md)
+* [Let's Eat Dinner Together](./lets-eat-dinner-together.md)
 * [Raid the Convenience Store](./raid-the-convenience-store.md)
 * [Running Man](./running-man.md)
 * [Secret Unnie](./secret-unnie.md)
