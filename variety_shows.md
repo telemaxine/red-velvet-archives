@@ -41,6 +41,7 @@
 |  141010  |              EXO 90:2014               |      N/A       | Seulgi, Wendy |           | [DM](https://www.dailymotion.com/video/x27oe5f) // [Performance \(YouTube\)](https://youtu.be/SCrjWKutAwc) |
 |  141028  |           After School Club            |      113       | OT5           |           |                                  [YouTube](https://youtu.be/Bh8hDcrGPfY)                                   |
 |  141106  | Arirang Pops In Seoul's New Secret Box |      N/A       | OT5           |           |                                  [YouTube](https://youtu.be/pHZJdU2DzXM)                                   |
+|  141117  |             Backstage Chat             |      N/A       | OT5           |           |                                  [YouTube](https://youtu.be/zUE6tu53V9g)                                   |
 |  141130  |         Let's Go! Dream Team 2         |      N/A       | IR,SG,WD      |           |                                  [YouTube](https://youtu.be/TyPnntJppo0)                                   |
 |  150102  | Hong Kyung Min's Healing Talk Concert  |      N/A       | OT5           |           |                                  [YouTube](https://youtu.be/0_8rJHhAwpA)                                   |
 
