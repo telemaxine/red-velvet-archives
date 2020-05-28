@@ -55,7 +55,7 @@
 | 160927 |    Sunny Afternoon Live     | OT5     |      Yes      | subbed by [RevelUp Subs][rvus] |                                                                       [YouTube](https://youtu.be/WsHd3ON2zeg)                                                                       |
 | 160930 |        V LIVE: LieV         | 1       | Irene, Seulgi |                                |                                                                      [VLive](https://www.vlive.tv/video/14431)                                                                      |
 | 161103 | 'Always in My Heart' V LIVE | 1       |      Joy      |                                |                                                                      [VLive](http://www.vlive.tv/video/16423)                                                                       |
-| 161122 |    SM Super Club League     | Seulgi  |      Yes      | subbed by [RevelUp Subs][rvus] | [w\/ Baekhyun \(YouTube\)][seulgi_161122_seulgi_baekhyun] // [w\/ Heechul \(YouTube\)][161122_seulgi_heechul] // [full baekhyun][161122_baekhyun] // [full heechul][161122_heechul] |
+| 161122 |    SM Super Club League     | Seulgi  |      Yes      | subbed by [RevelUp Subs][rvus] | [w\/ Baekhyun \(YouTube\)][161122_seulgi_baekhyun] // [w\/ Heechul \(YouTube\)][161122_seulgi_heechul] // [full baekhyun][161122_baekhyun] // [full heechul][161122_heechul] |
 
 [161122_baekhyun]:https://youtu.be/BbWH0fmOJBg
 [161122_heechul]:https://youtu.be/DtGqcVLdwDw
