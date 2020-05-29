@@ -70,5 +70,5 @@ Show appearances categorized by show name. Does not include one-off appearances.
 
 ## Vlog
 
-* [Top Star Vlog \(Lee Seungyun's Channel\)](./top-star-vlog.md)
 * [Eye Contact Cam](./eye-contact-cam.md)
+* [Top Star Vlog \(Lee Seungyun's Channel\)](./top-star-vlog.md)
