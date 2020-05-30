@@ -194,7 +194,8 @@
 | 200515 |        [Instagram Live with Yeri][instalive]        | Yeri    |  Yes   | subbed by [Yermbear][yermbear]  |  [YouTube](https://youtu.be/12n-HRwQWy0)   |
 | 200519 |        [Instagram Live with Yeri][instalive]        | Yeri    |   No   |       with RV Dancer May        |  [YouTube](https://youtu.be/ABirkTHjblw)   |
 | 200519 |        SEULGI Selective Converse Korea Live         | Seulgi  |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/e1tahQLIXpE)   |
-| 200527 |        [Instagram Live with Yeri][instalive]        | Yeri    |  Yes   |       with TWICE Nayeon         |  [YouTube](https://youtu.be/_jAvazYNVS4)   |
+| 200520 |          Crush x Joy Mayday Comeback Live           | Joy     |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://t.co/EtOomzsn8N?amp=1)  |
+| 200527 |        [Instagram Live with Yeri][instalive]        | Yeri    |  Yes   |        with TWICE Nayeon        |  [YouTube](https://youtu.be/_jAvazYNVS4)   |
 
 &#x200b;
 
