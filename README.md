@@ -8,6 +8,7 @@
   * [Level Up Project](./shows/level-up-project.md)
 * [Variety Shows](./variety_shows.md)
 * [Show lists](./shows/readme.md)
+* [Miscellaneous links](./misc.md)
 
 ### Social Media
 * [Instagram archives](./instagram_archives/README.md) (Under construction; still "stuck" in 2019...)
