@@ -1,5 +1,8 @@
 # _Law of the Jungle_
 
+_Synopsis: Celebrities are sent to survive in remote locations around the world_
+
+___
 ## Law of the Jungle (Mexico) - Seulgi
 ___
 | Date   | Episodes | Notes | Links      |

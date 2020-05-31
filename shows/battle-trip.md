@@ -1,5 +1,8 @@
 # _Battle Trip_
 
+_Synopsis: The program is a trip competition between two groups of celebrities or several individual celebrities, travelling based on specific topics and showing viewers travel information and amazing tips._
+
+___
 |  Date  |      Show       | Episode(s) | Member(s)     |      Notes      |                  Links                  |
 |:------:|:---------------:|:----------:|:--------------|:---------------:|:---------------------------------------:|
 | 180805 | KBS Battle Trip |    100     | Seulgi, Wendy |    as guests    | [Ep. 100](https://youtu.be/Me0q6IZW-ro) |

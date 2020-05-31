@@ -1,5 +1,7 @@
 # _King of Mased Singer_
 
+_Synopsis: Singers compete one-on-one in three elimination rounds. They are given masks to wear to conceal their identity thus removing factors such as popularity, career and age that could lead to prejudiced voting._
+___
 | Date   | Episode | Members | Notes | Links                                                                                                                                                                                                                                                |
 |--------|---------|---------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 160124 | 43      | Wendy   |       | [Kshow](http://kshow123.net/show/king-of-mask-singer/episode-43.html) // [1st Round Duet](https://youtu.be/cKrs6tyiRr0) // [Solo + Reveal](https://youtu.be/jNRU5NPNAhw)                                                                             |
