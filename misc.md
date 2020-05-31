@@ -1,5 +1,7 @@
 # Miscellaneous
 
+[Go back to main](./README.md)
+
 _These links do not fit any known category. They are put here until they can be categorized_
 
 ___
