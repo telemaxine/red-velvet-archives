@@ -58,6 +58,7 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Let's Eat Dinner Together](./lets-eat-dinner-together.md)
 * [Raid the Convenience Store](./raid-the-convenience-store.md)
 * [Running Man](./running-man.md)
+* [Salty Tour](./salty-tour.md)
 * [Secret Unnie](./secret-unnie.md)
 * [Snowball Project](./snowball-project.md)
 * [Stage K](./stage-k.md)
