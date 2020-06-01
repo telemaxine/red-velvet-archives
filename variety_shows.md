@@ -370,7 +370,7 @@
 | **Date** |          **Show**          | **Episode(s)** | **Member(s)** |    **Notes**    |                                                                                                                                **Links**                                                                                                                                |
 |:--------:|:--------------------------:|:--------------:|:--------------|:---------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  200109  |       Happy Together       |     S04E65     | Joy           |                 |                                                                                                    [ENG](http://kshow123.net/show/happy-together-s4/episode-65.html)                                                                                                    |
-|  200113  |         Salty Tour         |    106-108     | Joy           | Filmed in Spain | [106](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-106.html) // [107](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-107.html) // [108](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-108.html) |
+|  200113  |    [Salty Tour][salty]     |    106-108     | Joy           | Filmed in Spain | [106](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-106.html) // [107](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-107.html) // [108](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-108.html) |
 |  200327  |      Handsome Tigers       |       12       | Joy           |                 |                                                                                                                       [Show list][handsometigers]                                                                                                                       |
 |  200530  | [Amazing Saturday][doremi] |      110       | Irene, Seulgi |                 |                                                                                     [Google Drive \(RAW\)](https://drive.google.com/file/d/186JtOxjXqybMOMs31uYDdJ5BUssujVw_/view)                                                                                      |
 
@@ -395,6 +395,7 @@
 [lotj]:./shows/law-of-the-jungle.md
 [raidconvenience]:./shows/raid-the-convenience-store.md
 [runningman]:./shows/running-man.md
+[salty]:./shows/salty-tour.md
 [secretunnie]:./shows/secret-unnie.md
 [snowball]:./shows/snowball-project.md
 [stagek]:./shows/stage-k.md
