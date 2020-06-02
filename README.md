@@ -24,8 +24,6 @@
 ## **Resources & References**
 * [/r/red_velvet wiki][rvwiki]
 * [Red Velvet resource spreadsheet][res_ss]
-  * [Microsoft Excel copy; use only if Google Docs link is down or removed. \(Updated 04/20/20\)][res_ss_xlsx]
-  * [Open Document format copy; use only if Google Docs link is down or removed. \(Updated 04/20/20\)][res_ss_ods]
 * [Red Velvet Member Gallery][member_gallery]
 * [Red Velvet Merch Guide][merch_guide]
 
