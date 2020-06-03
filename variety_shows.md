@@ -245,7 +245,7 @@
 |  171211  |       School Attack with Red Velvet        |       1        | OT5           |                               |                    [YouTube](https://youtu.be/uQFQiL9GanI)                    |
 |  180128  |           [Sugarman 2][sugarman]           |       3        | OT5           |            MC Joy             |  [ENG](https://revelupsubs.com/2018/01/28/eng-180128-red-velvet-sugarman-2/)  |
 
-&#x200b;1711
+&#x200b;
 
 [171111_rd_masterkey]:https://www.reddit.com/r/red_velvet/comments/7ciy98/171111_master_key_with_wendy/
 
