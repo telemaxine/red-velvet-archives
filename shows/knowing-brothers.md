@@ -6,4 +6,4 @@
 | 160618 | 29      | Irene       | With Kim Jong-hyun (Shinee) | [KissTVShow](https://kisstvshow.to/Show/Knowing-Bros/Episode-29)  |
 | 170715 | 84      | OT5         |                             | [KissTVShow](https://kisstvshow.to/Show/Knowing-Bros/Episode-84)  |
 | 180804 | 139     | OT5         |                             | [KissTVShow](https://kisstvshow.to/Show/Knowing-Bros/Episode-139) |
-| 190907 | 196     | Joy         |                             | [KissTVShow](https://kisstvshow.to/Show/Knowing-Bros/Episode-196) |
+| 190907 | 196     | Joy         | With Get It Beauty cast     | [KissTVShow](https://kisstvshow.to/Show/Knowing-Bros/Episode-196) |
