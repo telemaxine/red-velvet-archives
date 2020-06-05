@@ -4,7 +4,7 @@
 * [Drama](./drama.md)
 * [Livestreams](./livestreams.md)
 * [Radio Shows](./radio_shows.md)
-* Reality Shows
+* [Reality Shows](./shows/readme.md#reality-shows)
   * [Level Up Project](./shows/level-up-project.md)
 * [Variety Shows](./variety_shows.md)
 * [Show lists](./shows/readme.md)
