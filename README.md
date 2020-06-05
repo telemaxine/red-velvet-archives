@@ -21,7 +21,7 @@
 * Tiktok
   * [Joy](https://www.tiktok.com/@__imyour_joy)
 
-## **Resources & References**
+# **Resources & References**
 * [/r/red_velvet wiki][rvwiki]
 * [Red Velvet resource spreadsheet][res_ss]
 * [Red Velvet Member Gallery][member_gallery]
