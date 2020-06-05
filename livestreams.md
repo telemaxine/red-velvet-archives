@@ -136,7 +136,7 @@
 
 | Date   |                          Title                          | Members       | Subbed |                Notes                |                   Links                    |
 |:-------|:-------------------------------------------------------:|:--------------|:------:|:-----------------------------------:|:------------------------------------------:|
-| 181129 |              Red Velvet RBB Comeback Live               | OT5           |  Yes   |                                     | [VLive](https://www.vlive.tv/video/101068) |
+| 181129 |       [Red Velvet RBB Comeback Live][comebacklive]      | OT5           |  Yes   |                                     | [VLive](https://www.vlive.tv/video/101068) |
 | 181202 |         [Instagram Live with Wendy][instalive]          | Wendy         |  Yes   |   subbed by [warm blue][warmblue]   |  [YouTube](https://youtu.be/yqgYi3z_Ilc)   |
 | 181209 |         [Eye Contact Cam S2 EP. 1][eyecontact]          | Wendy         |  Yes   |            Amazing Wendy            |  [YouTube](https://youtu.be/xIQWC-Q5dQI)   |
 | 181210 |          [Instagram Live with Yeri][instalive]          | Yeri          |  Yes   |   subbed by [RevelUp Subs][rvus]    |  [YouTube](https://youtu.be/W46th1zcNVc)   |
