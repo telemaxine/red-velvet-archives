@@ -10,7 +10,7 @@
 * [Show lists](./shows/readme.md)
 * [Miscellaneous links](./misc.md)
 
-### Social Media
+## **Social Media**
 * [Instagram archives](./instagram_archives/README.md) (Under construction; still "stuck" in 2019...)
   * [Irene](https://www.instagram.com/renebaebae/)
   * [Joy](https://www.instagram.com/_imyour_joy/)
@@ -22,15 +22,19 @@
   * [Joy](https://www.tiktok.com/@__imyour_joy)
 
 # **Resources & References**
+Sites I used for reference as well as formatting considerations
+
 * [/r/red_velvet wiki][rvwiki]
 * [Red Velvet resource spreadsheet][res_ss]
 * [Red Velvet Member Gallery][member_gallery]
 * [Red Velvet Merch Guide][merch_guide]
 
-### Files for [/r/red_velvet][rvwiki] wiki
-Formatted specifically for use in Red Velvet subreddit wiki
+## **Files for Red Velvet subreddit wiki**
+Formatted specifically for use in Red Velvet subreddit wiki.
 
-Markdown previewers might not show correctly as some of the files will use reddit exclusive markdown syntax. Use raw files to copy over markdown enabled sites like Reddit. Files should be a drop-in replacement for reddit, **however** always make sure to check the output.
+Markdown previewers might not show correctly as some of the files will use reddit exclusive markdown syntax. 
+Use raw files to copy over markdown enabled sites like Reddit. 
+Files should be a drop-in replacement for reddit type posts, **however** always make sure to check the output as some formatting standards may have changed.
 
 * [Livestreams](./red_velvet_wiki/red_velvet_wiki_livestream.md) ("Complete")
 * [Radio Show \(Era Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_era_sort.md) ("Complete")
