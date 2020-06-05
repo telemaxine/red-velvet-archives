@@ -1,0 +1,36 @@
+# _Tempted (The Great Seducer)_
+
+| Episode | Link                                                                 |
+|---------|----------------------------------------------------------------------|
+| 1       | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-1)  |
+| 2       | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-2)  |
+| 3       | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-3)  |
+| 4       | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-4)  |
+| 5       | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-5)  |
+| 6       | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-6)  |
+| 7       | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-7)  |
+| 8       | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-8)  |
+| 9       | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-9)  |
+| 10      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-10) |
+| 11      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-11) |
+| 12      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-12) |
+| 13      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-13) |
+| 14      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-14) |
+| 15      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-15) |
+| 16      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-16) |
+| 17      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-17) |
+| 18      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-18) |
+| 19      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-19) |
+| 20      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-20) |
+| 21      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-21) |
+| 22      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-22) |
+| 23      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-23) |
+| 24      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-24) |
+| 25      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-25) |
+| 26      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-26) |
+| 27      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-27) |
+| 28      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-28) |
+| 29      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-29) |
+| 30      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-30) |
+| 31      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-31) |
+| 32      | [Kissasian](https://kissasian.sh/Drama/The-Great-Seducer/Episode-32) |

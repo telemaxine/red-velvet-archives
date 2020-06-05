@@ -11,6 +11,8 @@ Show appearances categorized by show name. Does not include one-off appearances.
 * [Game Development Girls](./game-development-girls.md)
 * [Hello! Our Language](./hello-our-language.md)
 * [Let's Only Walk The Flower Road](./lets-only-walk-the-flower-road.md)
+* [Liar and his Lover](./liar-and-his-lover.md)
+* [Tempted \(The Great Seducer\)](./tempted.md)
 
 ## Livestreams
 * [CELUV TV](./celuv-tv.md)
