@@ -15,7 +15,7 @@
   - [RBB](#rbb)
   - [The ReVe Festival Day: 1](#the-reve-festival-day-1)
   - [The ReVe Festival Day: 2](#the-reve-festival-day-2)
-  - [The ReVe Festival Day: Finale](#the-reve-festival-day-finale)
+  - [The ReVe Festival Finale](#the-reve-festival-finale)
 
 ## Happiness
 
@@ -420,12 +420,12 @@
 | 190914 | MBC Music Core               | Umpah Umpah | [Group](https://youtu.be/AM0WvH4ow5M) | [Irene](https://youtu.be/61YTh9Ik_FQ) | [Seulgi](https://youtu.be/Ghp3vvLInAc) | Wendy                                 | Joy                                 | Yeri                                 |
 | 191004 | KBS Music Bank In Gangneung  |             | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 
-## The ReVe Festival Day: Finale
+## The ReVe Festival Finale
 
 [Back to top](#music-shows)
-| Date   | Show               | Notes                                          | Fancam | Fancam | Fancam | Fancam | Fancam | Fancam |
-|--------|--------------------|------------------------------------------------|--------|--------|--------|--------|--------|--------|
-| 191225 | SBS Gayo Daejeon   |                                                | Group  | Irene  | Seulgi | Wendy  | Joy    | Yeri   |
-| 191227 | KBS Gayo Daechukje | Group Stage with: Irene, Chorong, Nayeon, Arin | Group  | Irene  | Seulgi | Wendy  | Joy    | Yeri   |
-| 191227 | KBS Gayo Daechukje | Group Stage with: Joy, Hayoung, Yerin          | Group  | Irene  | Seulgi | Wendy  | Joy    | Yeri   |
-| 191231 | MBC Gayo Daejejeon |                                                | Group  | Irene  | Seulgi | Wendy  | Joy    | Yeri   |
+| Date   | Show               | Notes                                          | Fancam                                 | Fancam | Fancam | Fancam | Fancam | Fancam |
+|--------|--------------------|------------------------------------------------|----------------------------------------|--------|--------|--------|--------|--------|
+| 191225 | SBS Gayo Daejeon   | Psycho                                         | [Group](https://youtu.be/MQvbVfL2oHQ)  | Irene  | Seulgi | Wendy  | Joy    | Yeri   |
+| 191227 | KBS Gayo Daechukje | Group Stage with: Irene, Chorong, Nayeon, Arin | [Collab](https://youtu.be/no_d35FDdi8) | Irene  | Seulgi | Wendy  | Joy    | Yeri   |
+| 191227 | KBS Gayo Daechukje | Group Stage with: Joy, Hayoung, Yerin          | [Collab](https://youtu.be/t3DDW3L4cbA) | Irene  | Seulgi | Wendy  | Joy    | Yeri   |
+| 191231 | MBC Gayo Daejejeon | ft. Sung Si Kyung -  It's You                  | [Group](https://youtu.be/PjkjZPaIkCA)  | Irene  | Seulgi | Wendy  | Joy    | Yeri   |
