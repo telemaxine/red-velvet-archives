@@ -79,10 +79,11 @@
 
 [Back top](#livestreams)
 
-| Date   |             Title              | Members | Subbed |             Notes              |                                                Links                                                |
-|:-------|:------------------------------:|:--------|:------:|:------------------------------:|:---------------------------------------------------------------------------------------------------:|
-| 170709 |        Twitter Live Q&A        | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] |                               [YouTube](https://youtu.be/egC67gnow0o)                               |
-| 170925 | Red Velvet Oksusu Live Mukbang | OT5     |  Yes   |  for ReVelUp Project Season 1  |                               [YouTube](https://youtu.be/GulFRqOoH8c)                               |
+| Date   |             Title              | Members | Subbed |                  Notes                   |                                     Links                                      |
+|:-------|:------------------------------:|:--------|:------:|:----------------------------------------:|:------------------------------------------------------------------------------:|
+| 170709 |        Twitter Live Q&A        | OT5     |  Yes   |      subbed by [RevelUp Subs][rvus]      |                    [YouTube](https://youtu.be/egC67gnow0o)                     |
+| 170803 |     Red Velvet Oksusu Live     | OT5     |  Yes   | subbed by [DreamLuv Subs][dreamluv_subs] | [Pt. 1](https://youtu.be/ofkSoMU4k1U) // [Pt. 2](https://youtu.be/YvfdjUj29nE) |
+| 170925 | Red Velvet Oksusu Live Mukbang | OT5     |  Yes   |       for ReVelUp Project Season 1       |                    [YouTube](https://youtu.be/GulFRqOoH8c)                     |
 
 ## **Peek-A-Boo**
 
@@ -207,3 +208,4 @@
 [warmblue]:https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
 [rvus]:https://revelupsubs.com/
 [yermbear]:https://www.youtube.com/channel/UC2ovJWPCbyGSKzlrQ4uq88w
+[dreamluv_subs]:https://www.youtube.com/channel/UCLGPR1aF5L9zy1JZMBArf7g
