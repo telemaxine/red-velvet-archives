@@ -1,23 +1,23 @@
 # Music Shows
 
 - [Music Shows](#music-shows)
-  - [Happiness](#happiness)
-  - [Be Natural](#be-natural)
-  - [Ice Cream Cake](#ice-cream-cake)
-  - [The Red](#the-red)
-  - [The Velvet](#the-velvet)
-  - [Russian Roulette](#russian-roulette)
-  - [Rookie](#rookie)
-  - [The Red Summer](#the-red-summer)
-  - [Perfect Velvet](#perfect-velvet)
-  - [The Perfect Red Velvet](#the-perfect-red-velvet)
-  - [Summer Magic](#summer-magic)
-  - [RBB](#rbb)
-  - [The ReVe Festival Day: 1](#the-reve-festival-day-1)
-  - [The ReVe Festival Day: 2](#the-reve-festival-day-2)
-  - [The ReVe Festival Finale](#the-reve-festival-finale)
+  - [**Happiness**](#happiness)
+  - [**Be Natural**](#be-natural)
+  - [**Ice Cream Cake**](#ice-cream-cake)
+  - [**Dumb Dumb**](#dumb-dumb)
+  - [**One Of These Nights**](#one-of-these-nights)
+  - [**Russian Roulette**](#russian-roulette)
+  - [**Rookie**](#rookie)
+  - [**Red Flavor**](#red-flavor)
+  - [**Peek-A-Boo**](#peek-a-boo)
+  - [**Bad Boy**](#bad-boy)
+  - [**Power Up**](#power-up)
+  - [**RBB**](#rbb)
+  - [**Zimzalabim**](#zimzalabim)
+  - [**Umpah Umpah**](#umpah-umpah)
+  - [**Psycho**](#psycho)
 
-## Happiness
+## **Happiness**
 
 [Back to top](#music-shows)
 | Date   | Show                      | Notes     | Fancam | Fancam | Fancam | Fancam | Fancam |
@@ -45,7 +45,7 @@
 | 140913 | MBC Music Core            |           | Group  | Irene  | Seulgi | Wendy  | Joy    |
 | 140918 | MBC Incheon K-POP Concert | Not on YT | Group  | Irene  | Seulgi | Wendy  | Joy    |
 
-## Be Natural
+## **Be Natural**
 
 [Back to top](#music-shows)
 | Date   | Show                                          | Notes      | Fancam                                | Fancam | Fancam | Fancam | Fancam |
@@ -74,7 +74,7 @@
 | 141230 | SBS The Show                                  |            | Group                                 | Irene  | Seulgi | Wendy  | Joy    |
 | 141231 | MBC Gayo Daejejeon                            |            | Group                                 | Irene  | Seulgi | Wendy  | Joy    |
 
-## Ice Cream Cake
+## **Ice Cream Cake**
 
 [Back to top](#music-shows)
 | Date   | Show                              | Notes          | Fancam                                | Fancam                                | Fancam                                 | Fancam                                | Fancam                              | Fancam                               |
@@ -112,7 +112,7 @@
 | 150510 | SBS Inkigayo                      |                | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 | 150626 | KBS Music Bank Half Year Special  |                | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 
-## The Red
+## **Dumb Dumb**
 
 [Back to top](#music-shows)
 | Date   | Show                                    | Notes       | Fancam                                | Fancam                                | Fancam                                 | Fancam                                | Fancam                              | Fancam                               |
@@ -150,7 +150,7 @@
 | 160217 | 5th Gaon K-Pop Chart Awards             |             | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 | 160312 | The 22th Acting Prize of Republic Korea |             | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 
-## The Velvet
+## **One Of These Nights**
 
 [Back to top](#music-shows)
 | Date   | Show                         | Notes               | Fancam                                | Fancam                                | Fancam                                 | Fancam                                | Fancam                              | Fancam                               |
@@ -180,7 +180,7 @@
 | 160624 | MBC Thank U Special Concert  | Not on YT           | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 | 160717 | Mnet M! Super Concert        | Not on YT           | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 
-## Russian Roulette
+## **Russian Roulette**
 
 [Back to top](#music-shows)
 | Date   | Show                                           | Notes            | Fancam                                | Fancam                                | Fancam                                 | Fancam                                | Fancam                              | Fancam                               |
@@ -215,7 +215,7 @@
 | 161229 | KBS Song Festival                              |                  | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 | 161231 | MBC Korean Music Festival                      |                  | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 
-## Rookie
+## **Rookie**
 
 [Back to top](#music-shows)
 | Date   | Show              | Notes     | Fancam                                | Fancam | Fancam                                 | Fancam | Fancam | Fancam |
@@ -241,7 +241,7 @@
 | 170226 | SBS Inkigayo      |           | Group                                 | Irene  | Seulgi                                 | Wendy  | Joy    | Yeri   |
 | 170630 | KBS Music Bank    |           | Group                                 | Irene  | Seulgi                                 | Wendy  | Joy    | Yeri   |
 
-## The Red Summer
+## **Red Flavor**
 
 [Back to top](#music-shows)
 | Date   | Show                                                     | Notes      | Fancam                                | Fancam                                | Fancam                                 | Fancam                                | Fancam                              | Fancam                               |
@@ -265,7 +265,7 @@
 | 170826 | a-nation MUSIC ON! TV                                    |            | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 | 171105 | KBS Korea-Vietnam Friendship 25th Anniversary Super Show |            | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 
-## Perfect Velvet
+## **Peek-A-Boo**
 
 [Back to top](#music-shows)
 | Date   | Show                                          | Notes      | Fancam                                | Fancam                                | Fancam                                 | Fancam                                | Fancam                              | Fancam                               |
@@ -292,7 +292,7 @@
 | 171229 | KBS Gayo Daechukje                            |            | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 | 171231 | MBC Gayo Daejejun                             |            | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 
-## The Perfect Red Velvet
+## **Bad Boy**
 
 [Back to top](#music-shows)
 | Date   | Show                                    | Notes     | Fancam                                | Fancam                                | Fancam                                 | Fancam                                | Fancam                              | Fancam                               |
@@ -314,7 +314,7 @@
 | 180705 | Mnet Japan KCON 2018 NY x M!Countdown   |           | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 | 180705 | Mnet Japan KCON 2018 NY x M!Countdown   |           | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 
-## Summer Magic
+## **Power Up**
 
 [Back to top](#music-shows)
 | Date   | Show                                 | Notes     | Fancam                                | Fancam                                | Fancam                                 | Fancam                                | Fancam                              | Fancam                               |
@@ -339,7 +339,7 @@
 | 180914 | MBC 2018 DMC Super Concert           |           | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 | 180914 | MBC 2018 DMC Super Concert           |           | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 
-## RBB
+## **RBB**
 
 [Back to top](#music-shows)
 | Date   | Show                                     | Notes       | Fancam                                | Fancam                                | Fancam                                 | Fancam                                | Fancam                              | Fancam                               |
@@ -381,7 +381,7 @@
 | 190427 | Trans7 Musik Spesial K-Wave              |             | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 | 190518 | 2019 Dream Concert In Seoul              |             | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 
-## The ReVe Festival Day: 1
+## **Zimzalabim**
 
 [Back to top](#music-shows)
 | Date   | Show                                 | Notes         | Fancam                                | Fancam                                | Fancam                                 | Fancam                                | Fancam                              | Fancam                               |
@@ -399,7 +399,7 @@
 | 190727 | MBC Show! Music Core                 |               | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 | 190816 | K-World Festa Opening Ceremony Day 2 |               | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 
-## The ReVe Festival Day: 2
+## **Umpah Umpah**
 
 [Back to top](#music-shows)
 | Date   | Show                         | Notes       | Fancam                                | Fancam                                | Fancam                                 | Fancam                                | Fancam                              | Fancam                               |
@@ -420,7 +420,7 @@
 | 190914 | MBC Music Core               | Umpah Umpah | [Group](https://youtu.be/AM0WvH4ow5M) | [Irene](https://youtu.be/61YTh9Ik_FQ) | [Seulgi](https://youtu.be/Ghp3vvLInAc) | Wendy                                 | Joy                                 | Yeri                                 |
 | 191004 | KBS Music Bank In Gangneung  |             | Group                                 | Irene                                 | Seulgi                                 | Wendy                                 | Joy                                 | Yeri                                 |
 
-## The ReVe Festival Finale
+## **Psycho**
 
 [Back to top](#music-shows)
 | Date   | Show               | Notes                                          | Fancam                                 | Fancam | Fancam | Fancam | Fancam | Fancam |
