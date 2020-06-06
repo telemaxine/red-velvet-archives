@@ -2,7 +2,14 @@
 
 [Go back to main](../README.md)
 
-Show appearances categorized by show name. Does not include one-off appearances.
+- [Show lists](#show-lists)
+  - [CFs and Magazines](#cfs-and-magazines)
+  - [Drama](#drama)
+  - [Livestreams](#livestreams)
+  - [Radio Shows](#radio-shows)
+  - [Reality Shows](#reality-shows)
+  - [Variety Shows](#variety-shows)
+  - [Vlog](#vlog)
 
 ## CFs and Magazines
 * [High Cut](./high-cut-tv.md)
