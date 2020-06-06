@@ -3,6 +3,7 @@
 ## **Masterlists**
 * [Drama](./drama.md)
 * [Livestreams](./livestreams.md)
+* [Music Shows](./music_shows.md) (WIP)
 * [Radio Shows](./radio_shows.md)
 * [Reality Shows](./shows/readme.md#reality-shows)
   * [Level Up Project](./shows/level-up-project.md)
@@ -11,7 +12,7 @@
 * [Miscellaneous links](./misc.md)
 
 ## **Social Media**
-* [Instagram archives](./instagram_archives/README.md) (Under construction; still "stuck" in 2019...)
+* [Instagram archives](./instagram_archives/README.md) (WIP)
   * [Irene](https://www.instagram.com/renebaebae/)
   * [Joy](https://www.instagram.com/_imyour_joy/)
   * [Wendy](https://www.instagram.com/todayis_wendy/)
