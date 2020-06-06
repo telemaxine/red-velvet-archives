@@ -3,7 +3,7 @@
 ## **Masterlists**
 * [Drama](./drama.md)
 * [Livestreams](./livestreams.md)
-* [Music Shows](./music_shows.md) (WIP)
+* [Music Shows](./music_shows.md)
 * [Radio Shows](./radio_shows.md)
 * [Reality Shows](./shows/readme.md#reality-shows)
   * [Level Up Project](./shows/level-up-project.md)
