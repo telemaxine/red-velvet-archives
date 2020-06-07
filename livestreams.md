@@ -53,7 +53,7 @@
 | Date   |            Title            | Members       | Subbed |             Notes              |                                                                                    Links                                                                                     |
 |:-------|:---------------------------:|:--------------|:------:|:------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 160927 |    Sunny Afternoon Live     | OT5           |  Yes   | subbed by [RevelUp Subs][rvus] |                                                                   [YouTube](https://youtu.be/WsHd3ON2zeg)                                                                    |
-| 160930 |        V LIVE: LieV         | Irene, Seulgi |  Yes   |                                |                                                                  [VLive](https://www.vlive.tv/video/14431)                                                                   |
+| 160930 |    [V LIVE: LieV][liev]     | Irene, Seulgi |  Yes   |                                |                                                                  [VLive](https://www.vlive.tv/video/14431)                                                                   |
 | 161103 | 'Always in My Heart' V LIVE | Joy           |  Yes   |                                |                                                                   [VLive](http://www.vlive.tv/video/16423)                                                                   |
 | 161122 |    SM Super Club League     | Seulgi        |  Yes   | subbed by [RevelUp Subs][rvus] | [w\/ Baekhyun \(YouTube\)][161122_seulgi_baekhyun] // [w\/ Heechul \(YouTube\)][161122_seulgi_heechul] // [full baekhyun][161122_baekhyun] // [full heechul][161122_heechul] |
 
@@ -91,6 +91,7 @@
 
 | Date   |                  Title                  | Members | Subbed |             Notes              |                                                                                               Links                                                                                                |
 |:-------|:---------------------------------------:|:--------|:------:|:------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 171116 |        [Red Velvet X LieV][liev]        | OT5     |  Yes   |                                |                                                                             [VLive](https://www.vlive.tv/video/47551)                                                                              |
 | 171127 |       [Instagram Live][instalive]       | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] |                                                                              [YouTube](https://youtu.be/-LlHmPBizd8)                                                                               |
 | 171130 | [Instagram Live with Saeron][instalive] | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [RVUS](https://revelupsubs.com/2017/11/30/eng-171130-yeri-insta-live-w-saeron/) // [MEGA](https://mega.nz/#!dwp1EaRQ!P5QUG1U2gqiU5VVpflUctXZ9tCHNHy_uHajcmgV1i1Y) // [KB][171130_ig_yeri_w_saeron] |
 
@@ -204,6 +205,7 @@
 [eyecontact]:./shows/eye-contact-cam.md
 [instalive]:./shows/instagram-lives.md
 [comebacklive]:./shows/comeback-lives.md
+[liev]:./shows/vlive-liev.md
 
 [warmblue]:https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
 [rvus]:https://revelupsubs.com/
