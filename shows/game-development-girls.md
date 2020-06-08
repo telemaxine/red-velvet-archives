@@ -1,4 +1,4 @@
-# Game Development Girls
+# _Game Development Girls_
 
 _Synopsis: A drama based on a webtoon which depicts and builds a connection through the story of young women who work at a mobile game company._
 

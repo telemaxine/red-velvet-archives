@@ -1,4 +1,4 @@
-# Top Star Vlog
+# _Top Star Vlog_
 
 | Date   | Subbed | Notes | Link                                    |
 |--------|--------|-------|-----------------------------------------|

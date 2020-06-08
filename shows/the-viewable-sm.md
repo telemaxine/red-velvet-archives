@@ -1,4 +1,4 @@
-# The Viewable SM
+# _The Viewable SM_
 
 | Date   | Episode | Notes   | Links                                    |
 |--------|---------|---------|------------------------------------------|
