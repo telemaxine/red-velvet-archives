@@ -52,7 +52,7 @@
 * [Idol Drama Operation Team (IDOT)](./idol-drama-operation-team.md)
 * [Level Up Project](./level-up-project.md)
 * [Pajama Friends](./pajama-friends.md)
-* [Yeri's Room](./yeri's-room.md) (Unaired - Airs on June 8, 2020 10AM KST)
+* [Yeri's Room](./yeri's-room.md)
 
 ## Variety Shows
 * [Amazing Saturday](./amazing-saturday.md)
