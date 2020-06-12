@@ -9,7 +9,8 @@
   * [Level Up Project](./shows/level-up-project.md)
 * [Variety Shows](./variety_shows.md)
 * [Show lists](./shows/readme.md)
-* [Miscellaneous links](./misc.md)
+* [Song Covers](./song-covers.md)
+* [Miscellaneous](./misc.md)
 
 ## **Social Media**
 * [Instagram archives](./instagram_archives/README.md) (WIP)
