@@ -1,5 +1,8 @@
 # _Yeri's Room_
 
+_Synopsis: YERI's very own Youtube reality show! It shows her daily life._
+
+___
 | Date   | Episode |                                       Notes                                        | Link                                                                             |
 |--------|:-------:|:----------------------------------------------------------------------------------:|----------------------------------------------------------------------------------|
 | 200603 |   _0_   | Behind the Scenes for [Yeri's 200515 Instagram live](https://youtu.be/12n-HRwQWy0) | [Teaser - Insta Live Production Presentation\(?\)](https://youtu.be/usjqzAb7ngI) |
