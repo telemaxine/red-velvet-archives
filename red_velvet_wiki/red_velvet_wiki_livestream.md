@@ -64,7 +64,7 @@ ___
 | 171130 | Instagram Live with Saeron                 | YR          | Yes    | subbed by [RevelUp Subs][rvus]  | [RVUS](https://revelupsubs.com/2017/11/30/eng-171130-yeri-insta-live-w-saeron/), [MEGA](https://mega.nz/#!dwp1EaRQ!P5QUG1U2gqiU5VVpflUctXZ9tCHNHy_uHajcmgV1i1Y), [KB][171130_ig_yeri_w_saeron] |
 
 
-[171130_ig_yeri_w_saeron]:https://telemaxus.keybase.pub/rv/livestream/171130%20Yeri%20on%20Saeron's%20Instagram%20Live%20(Copyrighted%20Songs%20Deleted).mp4
+[171130_ig_yeri_w_saeron]:https://telemaxus.keybase.pub/rv/livestream/171130%20Yeri%20Instagram%20Live%20w%20Saeron.mp4
 
 
 ## **Bad Boy**
