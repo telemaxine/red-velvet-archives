@@ -52,6 +52,8 @@
 * [Idol Drama Operation Team (IDOT)](./idol-drama-operation-team.md)
 * [Level Up Project](./level-up-project.md)
 * [Pajama Friends](./pajama-friends.md)
+* [Yeri's Room](./yeri's-room.md)
+* "Irene & Seulgi" Reality Show (Upcoming)
 
 ## Variety Shows
 * [Amazing Saturday](./amazing-saturday.md)
@@ -79,7 +81,6 @@
 * [We Got Married](./wgm.md)
 * [Weekly Idol](./weekly-idol.md)
 * [Yang and Nam Show](./yang-and-nam-show.md)
-* [Yeri's Room](./yeri's-room.md)
 * [Yu Huiyeol's Sketchbook](./yu-huiyeol-sketchbook.md)
 
 ## Vlog
