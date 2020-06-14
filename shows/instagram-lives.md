@@ -36,7 +36,7 @@
 
 &#x200b;
 
-[171130_kb_ig]:https://telemaxus.keybase.pub/rv/livestream/171130%20Yeri%20on%20Saeron's%20Instagram%20Live%20(CopYeriighted%20Songs%20Deleted).mp4
+[171130_kb_ig]:https://telemaxus.keybase.pub/rv/livestream/171130%20Yeri%20on%20Saeron's%20Instagram%20Live%20(Copyrighted%20Songs%20Deleted).mp4
 
 [warmblue]:https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
 [rvus]:https://revelupsubs.com/
