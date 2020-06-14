@@ -32,7 +32,7 @@
 | 200515 | Instagram Live with Yeri                   | Yeri          |  Yes   | subbed by [Yermbear][yermbear]  | [YouTube](https://youtu.be/12n-HRwQWy0)                                                                                                                                                 |
 | 200519 | Instagram Live with Yeri                   | Yeri          |   No   |       with RV Dancer May        | [YouTube](https://youtu.be/ABirkTHjblw)                                                                                                                                                 |
 | 200527 | Instagram Live with Yeri                   | Yeri          |  Yes   |        with TWICE Nayeon        | [YouTube](https://youtu.be/_jAvazYNVS4)                                                                                                                                                 |
-| 200611 | Instagram Live with Yeri                   | Yeri          |  Yes   |                                 | [YouTube](https://youtu.be/tn0AdOYlG20)                                                                                                                                                 |
+| 200611 | Instagram Live with Yeri                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/tn0AdOYlG20)                                                                                                                                                 |
 
 &#x200b;
 
