@@ -95,6 +95,8 @@ ___
 
 ## **Season 2**
 
+[Go back to top](#level-up-project)
+
 | Location | Episodes | Members |
 |----------|----------|---------|
 | Korea    | 60       | OT5     |
@@ -226,6 +228,8 @@ ___
 [LUP2_60_rvus]:https://revelupsubs.com/2018/03/17/eng-180317-red-velvet-level-up-project-s2-ep-60/
 
 ## **Season 3**
+
+[Go back to top](#level-up-project)
 
 | Location | Episodes | Members |
 |----------|----------|---------|
