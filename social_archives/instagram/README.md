@@ -1,6 +1,6 @@
 # Instagram Archives
 
-[Go back](../../social_archives/README.md)
+[Go back](../README.md)
 
 ## Instagram links
 
