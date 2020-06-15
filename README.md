@@ -3,12 +3,12 @@
 ## **Masterlists**
 * [Drama](./drama.md)
 * [Livestreams](./livestreams.md)
-* [Music Shows](./music_shows.md)
+* [Music Shows](./music_shows.md) (WIP)
 * [Radio Shows](./radio_shows.md)
 * [Reality Shows](./reality_shows.md)
 * [Variety Shows](./variety_shows.md)
 * [Show lists](./shows/readme.md)
-* [Song Covers](./song_covers.md)
+* [Song Covers](./song_covers.md) (WIP)
 * [Miscellaneous](./misc.md)
 
 ## **Social Media**
