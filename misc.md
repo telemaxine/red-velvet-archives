@@ -6,6 +6,7 @@ _These links do not fit any known category. They are put here until they can be 
 
 ___
 
-| Date   | Title                       | Members | Subbed | Notes          | Links                                   |
-|--------|-----------------------------|---------|--------|----------------|-----------------------------------------|
-| 190625 | Zimzalabim Mass Performance | OT5     | N/A    |                | [YouTube](https://youtu.be/YQUWQLKPGEE) |
+| Date   | Title                       | Members | Subbed | Notes | Links                                   |
+|--------|-----------------------------|---------|--------|-------|-----------------------------------------|
+| 190512 | Breakout!                   | OT5     |        |       | [YouTube](https://youtu.be/GzNOo1H2y6w) |
+| 190625 | Zimzalabim Mass Performance | OT5     | N/A    |       | [YouTube](https://youtu.be/YQUWQLKPGEE) |
