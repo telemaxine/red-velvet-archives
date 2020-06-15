@@ -13,14 +13,15 @@
 
 ## **Social Media**
 * [Social archives](./social_archives/README.md) (WIP)
-  * [Irene](https://www.instagram.com/renebaebae/)
-  * [Joy](https://www.instagram.com/_imyour_joy/)
-  * [Wendy](https://www.instagram.com/todayis_wendy/)
-  * [Yeri](https://www.instagram.com/yerimiese/)
-    * [Yeri's Room](https://www.instagram.com/yerihan_bang/)
-  * [Seulgi](https://www.instagram.com/hi_sseulgi/)
-* Tiktok
-  * [Joy](https://www.tiktok.com/@__imyour_joy)
+  * [Instagram](./social_archives/instagram/README.md)
+    * [Irene](https://www.instagram.com/renebaebae/)
+    * [Joy](https://www.instagram.com/_imyour_joy/)
+    * [Seulgi](https://www.instagram.com/hi_sseulgi/)
+    * [Wendy](https://www.instagram.com/todayis_wendy/)
+    * [Yeri](https://www.instagram.com/yerimiese/)
+      * [Yeri's Room](https://www.instagram.com/yerihan_bang/)
+  * Tiktok
+    * [Joy](https://www.tiktok.com/@__imyour_joy)
 
 # **Resources & References**
 Sites I used for reference as well as formatting considerations.

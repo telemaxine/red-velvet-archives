@@ -1,8 +1,15 @@
-# Red Velvet Social Archives
+# Instagram Archives
 
-[Go back to main](../README.md)
+[Go back](../../social_archives/README.md)
 
-## [Instagram](./instagram/README.md)
+## Instagram links
+
+* [Irene](https://www.instagram.com/renebaebae/)
+* [Joy](https://www.instagram.com/_imyour_joy/)
+* [Wendy](https://www.instagram.com/todayis_wendy/)
+* [Seulgi](https://www.instagram.com/hi_sseulgi/)
+* [Yeri](https://www.instagram.com/yerimiese/)
+  * [Yeri's Room](https://www.instagram.com/yerihan_bang/)
 
 ### 2019
 
@@ -23,13 +30,3 @@
 * [April 2020](./instagram/2020/04_2020_instagram_posts.md)
 * [May 2020](./instagram/2020/05_2020_instagram_posts.md)
 * [June 2020](./instagram/2020/06_2020_instagram_posts.md)
-
-***
-
-[Template for instagram posts](./instagram/instagram_template.md)
-
-To make lots of files for posts, change to a directory and do...
-
-```
-$ touch {01..12}_<year>_instagram_posts.md
-```
