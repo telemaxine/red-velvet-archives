@@ -71,9 +71,11 @@
 | 170313 | [Instagram Live with Saeron][instalive]  | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/LPsZ4sxvqKo) |
 | 170319 |  [Instagram Live in Mexico][instalive]   | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/5_XsPOwl7rI) |
 | 170420 | [Instagram Live with Saeron][instalive]  | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/ap6bGxy9uTI) |
-| 170428 |  [Instagram Live with Yeri][instalive]   | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/2XT6qCfWCU4) |
+| 170428 |  [Instagram Live with Yeri][instalive]   | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/2XT6qCfWCU4) // [Google Drive][170428_gd_1]|
 | 170521 | [Instagram Live in Indonesia][instalive] | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/iNXasmLt9kA) |
 | 170523 | [Instagram Live in Malaysia][instalive]  | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/R5FYDwWEyoo) |
+
+[170428_gd_1]:https://drive.google.com/file/d/15h5gZ4oocCQd7pm9iQ2QGOHZPhsAAB9A/view
 
 ## **Red Flavor**
 
