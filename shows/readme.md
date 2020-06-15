@@ -7,6 +7,7 @@
   - [Concerts](#concerts)
   - [Drama](#drama)
   - [Livestreams](#livestreams)
+  - [Music Shows (WIP)](#music-shows-wip)
   - [Radio Shows](#radio-shows)
   - [Reality Shows](#reality-shows)
   - [Variety Shows](#variety-shows)
@@ -31,6 +32,18 @@
 * [Instagram Lives](./instagram-lives.md)
 * [The Viewable SM](./the-viewable-sm.md)
 * [VICTORY](./victory.md)
+
+## Music Shows (WIP)
+* [KBS Gayo](./kbs-gayo.md)
+* [KBS Music Bank](./kbs-kbs-music-bank.md)
+* [MBC Gayo](./mbc-gayo.md)
+* [MBC Music Core](./mbc-music-core.md)
+* [MBC Show Champion](./mbc-show-champion.md)
+* [Mnet M! Countdown](./mnet-m-countdown.md)
+* [Mnet M! Super Concert](./mnet-m-super-concert.md)
+* [SBS Gayo](./sbs-gayo.md)
+* [SBS Inkigayo](./sbs-inkigayo.md)
+* [SBS The Show](./sbs-the-show.md)
 
 ## Radio Shows
 * [Blue Night Radio](./blue-night-radio.md)
