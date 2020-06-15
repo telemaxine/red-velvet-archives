@@ -11,4 +11,4 @@ ___
 | 200610 |   1.2   |                                                                                    | [‘※BEWARE YERI'S SMEAR ※ 'Yeri' The Talkative On The Grand Opening](https://youtu.be/nhbOzOzxRWc) |
 | 200611 |  _1.3_  |                             with TWICE NAYEON                                      | [Yeri X Nayeon get's into it](https://youtu.be/fC1WRdaOA_E)                      |
 | 200612 |  _1.4_  |                                                                                    | [Behind the Scenes in Yeri's Room #1](https://youtu.be/LnL_4ShOKoA)              |
-| 2006?? |    ?    |                             with TWICE NAYEON as guest                             | YouTube                                                                          |
+| 200615 |  _2.1_  |                             with TWICE NAYEON as guest                             | [YouTube](https://youtu.be/5-40gjivVxI)                                          |
