@@ -35,7 +35,7 @@
 
 ## Music Shows (WIP)
 * [KBS Gayo](./kbs-gayo.md)
-* [KBS Music Bank](./kbs-kbs-music-bank.md)
+* [KBS Music Bank](./kbs-music-bank.md)
 * [MBC Gayo](./mbc-gayo.md)
 * [MBC Music Core](./mbc-music-core.md)
 * [MBC Show Champion](./mbc-show-champion.md)
