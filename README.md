@@ -12,7 +12,7 @@
 * [Miscellaneous](./misc.md)
 
 ## **Social Media**
-* [Instagram archives](./instagram_archives/README.md) (WIP)
+* [Social archives](./social_archives/README.md) (WIP)
   * [Irene](https://www.instagram.com/renebaebae/)
   * [Joy](https://www.instagram.com/_imyour_joy/)
   * [Wendy](https://www.instagram.com/todayis_wendy/)
