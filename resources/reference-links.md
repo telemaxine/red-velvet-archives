@@ -5,6 +5,7 @@ For use as footer links in markdown documents.
 ## Youtube
 ```
 [dreamluv_subs]:https://www.youtube.com/channel/UCLGPR1aF5L9zy1JZMBArf7g
+[dreamluv_subs-dm]:https://www.dailymotion.com/dreamluv-subs
 [rookie_subs]:https://www.youtube.com/user/rookiessubs/videos
 [warmblue]:https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
 [yermbear]:https://www.youtube.com/channel/UC2ovJWPCbyGSKzlrQ4uq88w

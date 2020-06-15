@@ -106,7 +106,7 @@
 | Date   |                   Title                    | Members | Subbed |                  Notes                   |                                                                                          Links                                                                                           |
 |:-------|:------------------------------------------:|:--------|:------:|:----------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 180205 |       Red Velvet Oksusu Live Mukbang       | OT5     |  Yes   |       for ReVelUp Project Season 2       | [DailyMotion](https://www.dailymotion.com/embed/video/k18miW12PMjlSptdmlu) // [MEGA](https://mega.nz/#!g9IWSQCJ!sQY_kbMiaGkON1gxPtRGlo7UUSFcYwsYjUTnms5pde4) // [KB][180205_oksusu_live] |
-| 180318 | Red Velvet Oksusu Level Up Project Fanmeet | OT5     |  Yes   | subbed by [DreamLuv Subs][dreamluv_subs] |                                                                 [DailyMotion](https://www.dailymotion.com/video/x7t2665)                                                                 |
+| 180318 | Red Velvet Oksusu Level Up Project Fanmeet | OT5     |  Yes   | subbed by [DreamLuv Subs][dreamluv_subs-dm] |                                                                 [DailyMotion](https://www.dailymotion.com/video/x7t2665)                                                                 |
 | 180520 |   [Instagram Live with Yeri][instalive]    | Yeri    |  Yes   |      subbed by [RevelUp Subs][rvus]      |                                                                         [YouTube](https://youtu.be/Y6PQLDraRoA)                                                                          |
 | 180707 |    [Instagram Live with Joy][instalive]    | Joy     |  Yes   |      subbed by [RevelUp Subs][rvus]      |                                                                         [YouTube](https://youtu.be/3eMfxLTMq-k)                                                                          |
 | 180722 |    [Instagram Live in Japan][instalive]    | OT5     |  Yes   |      subbed by [RevelUp Subs][rvus]      |                                                                         [YouTube](https://youtu.be/4Wae2wVYWa8)                                                                          |
@@ -215,3 +215,4 @@
 [rvus]:https://revelupsubs.com/
 [yermbear]:https://www.youtube.com/channel/UC2ovJWPCbyGSKzlrQ4uq88w
 [dreamluv_subs]:https://www.youtube.com/channel/UCLGPR1aF5L9zy1JZMBArf7g
+[dreamluv_subs-dm]:https://www.dailymotion.com/dreamluv-subs
