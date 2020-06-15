@@ -25,10 +25,13 @@
 | 180227 | YinYueTai Interview | IR,JO,SG,WD | subbed by [kseulwan][kseulwan_yt] | [YouTube](https://youtu.be/Pa7K9EOZM68) |
 
 ## Power Up
-| Date   | Title      | Members | Notes | Links                                   |
-|--------|------------|---------|-------|-----------------------------------------|
-| 181110 | Enews Asia | OT5     |       | [YouTube](https://youtu.be/vrAOMf4vxuk) |
-| 181115 | MTV Asia   | OT5     |       | [YouTube](https://youtu.be/yUzM0s15l0A) |
+| Date   | Title           | Members | Notes | Links                                                   |
+|--------|-----------------|---------|-------|---------------------------------------------------------|
+| 180831 | AIDOU           | OT5     |       | [YouTube](https://youtu.be/jl-MuqUkoFk)                 |
+| 180911 | KBS World Radio | OT5     |       | [KPC Lightning Round](https://youtu.be/3mY9Qv0OAJ8)     |
+| 180911 | KBS World Radio | OT5     |       | [Who Inspires Red Velvet](https://youtu.be/MeATEJRciYw) |
+| 181110 | Enews Asia      | OT5     |       | [YouTube](https://youtu.be/vrAOMf4vxuk)                 |
+| 181115 | MTV Asia        | OT5     |       | [YouTube](https://youtu.be/yUzM0s15l0A)                 |
 
 ## RBB
 | Date   | Title                                               | Members | Notes | Links                                                                                    |
