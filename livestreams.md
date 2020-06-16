@@ -21,10 +21,22 @@
 
 [Back top](#livestreams)
 
-| Date   |       Title       | Members | Subbed |    Notes    |                                                                                                                                                         Links                                                                                                                                                          |
-|:-------|:-----------------:|:--------|:------:|:-----------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 150313 |   Ice Cream TV    | OT5     |  Yes   | Preparation |                                                               [YouTube](https://youtu.be/PHh-XLLVyXs) // [Dailymotion](https://www.dailymotion.com/video/x2jmw83) // [YouTube](https://youtu.be/UX7_R25cwQs) // [YouTube](https://youtu.be/8Ui_F77Z1ZI)                                                                |
-| 150318 | Comeback Showcase | OT5     |  Yes   |             | ([1/6](https://www.dailymotion.com/video/x2jwh1n) // [2/6](https://www.dailymotion.com/video/x2jycnl) // [3/6](https://www.dailymotion.com/video/x2k1etq) // [4/6](https://www.dailymotion.com/video/x2k9r7m) // [5/6](https://www.dailymotion.com/video/x2kb7di) // [6/6](https://www.dailymotion.com/video/x2km1ul)) |
+| Date   |        Title        | Members | Subbed |    Notes    |                                                              Links                                                               |
+|:-------|:-------------------:|:--------|:------:|:-----------:|:--------------------------------------------------------------------------------------------------------------------------------:|
+| 150313 |    Ice Cream TV     | OT5     |  Yes   | Preparation |               [YouTube][150313_yt1] // [Dailymotion][150313_dm] // [YouTube][150313_yt2] // [YouTube][150313_yt3]                |
+| 150318 |  Comeback Showcase  | OT5     |  Yes   |             | [1/6][150318_cb_1] // [2/6][150318_cb_2] // [3/6][150318_cb_3] // [4/6][150318_cb_4] // [5/6][150318_cb_5] // [6/6][150318_cb_6] |
+| 150907 | Red Velvet 1st Live | OT5     |  Yes   |             |                                             [VLive](https://www.vlive.tv/video/1717)                                             |
+
+[150313_yt1]:https://youtu.be/PHh-XLLVyXs
+[150313_yt2]:https://youtu.be/UX7_R25cwQs
+[150313_yt3]:https://youtu.be/8Ui_F77Z1ZI
+[150313_dm]:https://www.dailymotion.com/video/x2jmw83
+[150318_cb_1]:https://www.dailymotion.com/video/x2jwh1n
+[150318_cb_2]:https://www.dailymotion.com/video/x2jycnl
+[150318_cb_3]:https://www.dailymotion.com/video/x2k1etq
+[150318_cb_4]:https://www.dailymotion.com/video/x2k9r7m
+[150318_cb_5]:https://www.dailymotion.com/video/x2kb7di
+[150318_cb_6]:https://www.dailymotion.com/video/x2km1ul
 
 ## **Dumb Dumb**
 
