@@ -198,13 +198,14 @@
 |  170508  |      'The Liar and His Lover' Mini Concert       |       1        | Joy           |                                                              |                               [VLive](https://www.vlive.tv/video/29540)                                |
 |  170510  |                MTV Idols of Asia                 |       1        | IR,SG,WD,YR   |                                                              |      [Reddit list](https://www.reddit.com/r/red_velvet/comments/6jjm7l/170510_mtv_idols_of_asia/)      |
 |  170511  |                MTV Idols of Asia                 |       2        | IR,SG,WD,YR   |                                                              | [Reddit list](https://www.reddit.com/r/red_velvet/comments/6mb9ad/170511_mtv_idols_of_asia_episode_2/) |
-|  170512  |         The Dynamic Duo (Cooperation 7)          |       7        | Irene, Wendy  |                                                              |                   [KShow123](http://kshow123.net/show/cooperation-7/episode-7.html)                    |
+|  170512  |         The Dynamic Duo (Cooperation 7)          |       7        | Irene, Wendy  |                                                              |                                            [KB][170512_dd7]                                            |
 |  170625  |        [Idol Drama Operation Team][IDOT]         |       13       | Seulgi        |                                                              |                       [Official YouTube playlist][KBS_IDOT_flowerroad_playlist]                        |
 |  170703  |  [Let's Only Walk The Flower Road][flowerroad]   |       8        | Seulgi        |                                                              |                       [Official YouTube playlist][KBS_IDOT_flowerroad_playlist]                        |
 |  170617  |      Channel A: Let's Eat Out This Saturday      |       4        | Joy           |           subbed by [DreamLuv Subs][dreamluv_subs]           |                                [YouTube](https://youtu.be/2LOADcD1I2k)                                 |
 
 &#x200b;
 
+[170512_dd7]:https://telemaxus.keybase.pub/rv/variety-shows/Dynamic.Duo.E07.mp4
 [KBS_IDOT_flowerroad_playlist]:https://www.youtube.com/playlist?list=PLMf7VY8La5REYrK1BtPdG4LrDuf-Z52nm
 
 ## **Red Flavor**
