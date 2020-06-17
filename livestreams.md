@@ -139,13 +139,14 @@
 
 [Back top](#livestreams)
 
-| Date   |                 Title                  | Members | Subbed |            Notes             |                                                                              Links                                                                              |
-|:-------|:--------------------------------------:|:--------|:------:|:----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 180808 | [Eye Contact Cam S1 EP. 1][eyecontact] | OT5     |  Yes   |                              |                                                             [YouTube](https://youtu.be/Ftbn3TUwjv4)                                                             |
-| 180812 | [Eye Contact Cam S1 EP. 2][eyecontact] | OT5     |  Yes   |                              |                                                             [YouTube](https://youtu.be/dANzneEhk6k)                                                             |
-| 180826 | [Eye Contact Cam S1 EP. 3][eyecontact] | OT5     |   No   |      On YT, per member       | [Irene][180826_eyecontact-ir] // [Seulgi][180826_eyecontact-sg] // [Wendy][180826_eyecontact-wd] // [Joy][180826_eyecontact-jo] // [Yeri][180826_eyecontact-yr] |
-| 180909 | [Eye Contact Cam S1 EP. 4][eyecontact] | OT5     |  Yes   |                              |                                                             [YouTube](https://youtu.be/o8sLRgOzrjo)                                                             |
-| 181008 |     Red Velvet Oksusu Live Mukbang     | OT5     |  Yes   | for ReVelUp Project Season 3 |                           [RVUS][181008_oksusu_rvus] // [DailyMotion][181008_oksusu_dm] // [Google Drive][181008_oksusu_googledrive]                            |
+| Date   |                        Title                        | Members | Subbed |            Notes             |                                                                              Links                                                                              |
+|:-------|:---------------------------------------------------:|:--------|:------:|:----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 180806 | [Red Velvet Comeback Live 'POWER UP'][comebacklive] | OT5     |  Yes   |                              |                                                            [VLive](https://www.vlive.tv/video/82737)                                                            |
+| 180808 |       [Eye Contact Cam S1 EP. 1][eyecontact]        | OT5     |  Yes   |                              |                                                             [YouTube](https://youtu.be/Ftbn3TUwjv4)                                                             |
+| 180812 |       [Eye Contact Cam S1 EP. 2][eyecontact]        | OT5     |  Yes   |                              |                                                             [YouTube](https://youtu.be/dANzneEhk6k)                                                             |
+| 180826 |       [Eye Contact Cam S1 EP. 3][eyecontact]        | OT5     |   No   |      On YT, per member       | [Irene][180826_eyecontact-ir] // [Seulgi][180826_eyecontact-sg] // [Wendy][180826_eyecontact-wd] // [Joy][180826_eyecontact-jo] // [Yeri][180826_eyecontact-yr] |
+| 180909 |       [Eye Contact Cam S1 EP. 4][eyecontact]        | OT5     |  Yes   |                              |                                                             [YouTube](https://youtu.be/o8sLRgOzrjo)                                                             |
+| 181008 |           Red Velvet Oksusu Live Mukbang            | OT5     |  Yes   | for ReVelUp Project Season 3 |                           [RVUS][181008_oksusu_rvus] // [DailyMotion][181008_oksusu_dm] // [Google Drive][181008_oksusu_googledrive]                            |
 
 [180826_eyecontact-ir]:https://youtu.be/nM6otQqddMc
 [180826_eyecontact-sg]:https://youtu.be/uhn1vCPwwAM
