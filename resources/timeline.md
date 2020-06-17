@@ -3,6 +3,7 @@
 Eras used in this document are based off the Red Velvet album releases
 
 **Bolded** - Major Era
+
 _Italicized_ - Minor Era
 
 ## Main Group
