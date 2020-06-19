@@ -1,5 +1,9 @@
-# Song Covers masterlist
+# Song Covers
 
+- [Song Covers](#song-covers)
+  - [Psycho](#psycho)
+
+## Psycho
 | Date   | Title                                      | Notes                                                      | Links                                   |
 |--------|--------------------------------------------|------------------------------------------------------------|-----------------------------------------|
 | 200514 | Yeri - Eight (Orig. IU)                    | from her [200514 livestream](https://youtu.be/AazweNR0W-I) | [Youtube](https://youtu.be/Jq81ZmczlHI) |
