@@ -1,5 +1,12 @@
 # **The Red Velvet Archives**
 
+- [**The Red Velvet Archives**](#the-red-velvet-archives)
+  - [**Masterlists**](#masterlists)
+  - [**Social Media**](#social-media)
+- [**Resources & References**](#resources--references)
+  - [**Files for Red Velvet subreddit wiki**](#files-for-red-velvet-subreddit-wiki)
+- [**Tools**](#tools)
+
 ## **Masterlists**
 
 Work In Progress _(WIP)_ - Denotes a masterlist is in an incomplete state. Major changes to the list might happen at anytime
