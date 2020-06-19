@@ -1,6 +1,9 @@
 # **The Red Velvet Archives**
 
 ## **Masterlists**
+
+Work In Progress _(WIP)_ - Denotes a masterlist is in an incomplete state. Major changes to the list might happen at anytime
+
 * [Drama](./drama.md)
 * [Interviews](./interviews.md) (WIP)
 * [Livestreams](./livestreams.md)
