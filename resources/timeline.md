@@ -2,9 +2,9 @@
 
 Eras used in this document are based off the Red Velvet album releases
 
-**Bolded** - Major Era
+**Bolded** - Major Era: Eras that are used for headers in masterlists
 
-_Italicized_ - Minor Era
+_Italicized_ - Minor Era: Eras for reference only
 
 ## Main Group
 | Era Name                      |     Title Track     |        Date span        |
