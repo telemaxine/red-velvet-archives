@@ -13,3 +13,4 @@ ___
 | 200612 |  _1.4_  |                                                                                    | [Behind the Scenes in Yeri's Room #1](https://youtu.be/LnL_4ShOKoA)              |
 | 200615 |   2.1   |                             with TWICE NAYEON as guest                             | [Our Friendship is So Spicy! It’s The Best!](https://youtu.be/5-40gjivVxI)       |
 | 200617 |   2.2   |                             with TWICE NAYEON as guest                             | [A gourmand next to a gourmand 💜 Yeri X Nayeon Gourmand Chemistry](https://youtu.be/Ia_6YXOV3YU) |
+| 200619 |  _2.3_  |                             with TWICE NAYEON as guest                             | [Behind the Scene of the Yeri's Room #2 : The day I meet Nayeon💜](https://youtu.be/oeXL8gXsPVI) |
