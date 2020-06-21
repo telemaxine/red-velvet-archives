@@ -184,6 +184,7 @@
 | 170822 |                 [Dreamy Radio][dreamy]                  | JO,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |           [YouTube](https://youtu.be/ql2voboyDFo)            |
 | 170823 |              [Hope Song at Noon][hopesong]              | OT5         |  Yes   | subbed by [ReVelUp Subs][rvus] |           [YouTube](https://youtu.be/WV691_qPXdU)            |
 | 170823 |              [Old School Radio][oldschool]              | OT5         |        |                                | [YT \(broken\)](https://www.youtube.com/watch?v=dCyTm2zRd_k) |
+| 170823 |               [Love Game Radio][lovegame]               | OT5         |  Yes   | subbed by [ReVelUp Subs][rvus] |           [YouTube](https://youtu.be/WNZazbiIPNU)            |
 
 &#x200b;
 
