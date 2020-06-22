@@ -14,3 +14,4 @@ ___
 | 200615 |   2.1   |                             with TWICE NAYEON as guest                             | [Our Friendship is So Spicy! It’s The Best!](https://youtu.be/5-40gjivVxI)       |
 | 200617 |   2.2   |                             with TWICE NAYEON as guest                             | [A gourmand next to a gourmand 💜 Yeri X Nayeon Gourmand Chemistry](https://youtu.be/Ia_6YXOV3YU) |
 | 200619 |  _2.3_  |                             with TWICE NAYEON as guest                             | [Behind the Scene of the Yeri's Room #2 : The day I meet Nayeon💜](https://youtu.be/oeXL8gXsPVI) |
+| 200622 |   3.1   |                             with TWICE NAYEON as guest                             | [Kimbap Destroyer Yeri & Back-of-Knife Cutting Master Nayeon! Yeri's Cooking Show Open](https://youtu.be/gvjOaJWIvUo)       |
