@@ -8,7 +8,7 @@ ___
 | 161003 | 79      | Seulgi  |                 | [Kshow](http://kshow123.net/show/king-of-mask-singer/episode-79.html) // [1st Round Duet](https://www.youtube.com/watch?v=TXuXqaANAWY) // [Solo + Reveal](https://www.youtube.com/watch?v=wGNo3UeNI7c)                                               |
 | 170723 | 121-122 | Joy     |                 | [121][170723_121] // [122][170723_122]                                                                                                                                                                                                               |
 | 191020 | 225-226 | Wendy   |                 | [225](http://kshow123.net/show/king-of-mask-singer/episode-225.html) // [225 \(Wendy Cut\)](https://vimeo.com/373700002) // [226](http://kshow123.net/show/king-of-mask-singer/episode-226.html) // [226 \(Wendy Cut\)](https://vimeo.com/373700104) |
-| 200614 | 259-260 | Seulgi  | Seulgi as judge | [259 \(RAW\)](http://kisstvshow.to/Show/King-of-Mask-Singer/Episode-259)                                                                                                                                                                             |
+| 200614 | 259-260 | Seulgi  | Seulgi as judge | [259](http://kisstvshow.to/Show/King-of-Mask-Singer/Episode-259) // [260](http://kisstvshow.to/Show/King-of-Mask-Singer/Episode-260)                                                                                                                 |
 
 &#x200b;
 
