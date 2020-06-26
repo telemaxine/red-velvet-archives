@@ -2,6 +2,8 @@
 
 _Synopsis: YERI's very own Youtube reality show! It shows her daily life._
 
+Episode numbers in _italics_ refers to extra/bonus episodes.
+
 ___
 | Date   | Episode |                                       Notes                                        | Link                                                                             |
 |--------|:-------:|:----------------------------------------------------------------------------------:|----------------------------------------------------------------------------------|
