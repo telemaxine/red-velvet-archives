@@ -15,7 +15,7 @@ ___
 | 200612 |  _1.4_  |                                                                                    | [Behind the Scenes in Yeri's Room #1](https://youtu.be/LnL_4ShOKoA)              |
 | 200615 |   2.1   |                             with TWICE NAYEON as guest                             | [Our Friendship is So Spicy! It’s The Best!](https://youtu.be/5-40gjivVxI)       |
 | 200617 |   2.2   |                             with TWICE NAYEON as guest                             | [A gourmand next to a gourmand 💜 Yeri X Nayeon Gourmand Chemistry](https://youtu.be/Ia_6YXOV3YU) |
-| 200619 |  _2.3_  |                             with TWICE NAYEON as guest                             | [Behind the Scene of the Yeri's Room #2 : The day I meet Nayeon💜](https://youtu.be/oeXL8gXsPVI) |
+| 200619 |  _2.3_  |                             with TWICE NAYEON as guest                             | [Behind the Scene of the Yeri's Room \#2 : The day I meet Nayeon💜](https://youtu.be/oeXL8gXsPVI) |
 | 200622 |   3.1   |                             with TWICE NAYEON as guest                             | [Kimbap Destroyer Yeri & Back-of-Knife Cutting Master Nayeon! Yeri's Cooking Show Open](https://youtu.be/gvjOaJWIvUo) |
 | 200624 |   3.2   |                             with TWICE NAYEON as guest                             | [Episode 3-2: Is This a Cooking Show? Or a Blacksmith Show? Yeri & Nayeon Towering Tasty Handmade Kimbap](https://youtu.be/ya9SrcP1awA) |
-| 200626 |  _3.3_  |                             with TWICE NAYEON as guest                             | [Behind the Scenes \#3](https://youtu.be/Wc3KbHk8e8A) |
+| 200626 |  _3.3_  |                             with TWICE NAYEON as guest                             | [Behind the Scenes of Yeri's Room \#3: DJ TTO TTO Crying On Set After Eating Spicy Food](https://youtu.be/Wc3KbHk8e8A) |
