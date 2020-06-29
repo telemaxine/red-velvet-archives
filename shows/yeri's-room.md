@@ -19,3 +19,4 @@ ___
 | 200622 |   3.1   |                             with TWICE NAYEON as guest                             | [Kimbap Destroyer Yeri & Back-of-Knife Cutting Master Nayeon! Yeri's Cooking Show Open](https://youtu.be/gvjOaJWIvUo) |
 | 200624 |   3.2   |                             with TWICE NAYEON as guest                             | [Episode 3-2: Is This a Cooking Show? Or a Blacksmith Show? Yeri & Nayeon Towering Tasty Handmade Kimbap](https://youtu.be/ya9SrcP1awA) |
 | 200626 |  _3.3_  |                             with TWICE NAYEON as guest                             | [Behind the Scenes of Yeri's Room \#3: DJ TTO TTO Crying On Set After Eating Spicy Food](https://youtu.be/Wc3KbHk8e8A) |
+| 200628 |   4.1   |                             with SNSD Yuri as guest                                | ['Yuri and Yeri! Yuri from Girl's Generation Visited 'Yerihan Bang''](https://youtu.be/KenDWX2dvIM)|
