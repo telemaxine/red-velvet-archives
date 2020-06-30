@@ -180,6 +180,7 @@
 |  Date  |                          Title                          | Members     | Subbed |             Notes              |                             Link                             |
 |:------:|:-------------------------------------------------------:|:------------|:------:|:------------------------------:|:------------------------------------------------------------:|
 | 170710 | [Melon Radio Star DJ “Velvet Red Mine” S2 EP. 2][melon] | OT5         |  Yes   | subbed by [ReVelUp Subs][rvus] |           [YouTube](https://youtu.be/WtxMYfBmoew)            |
+| 170717 |           [Park Sohyun's Love Game][lovegame]           | SG,WD,YR    |  Yes   | subbed by [ReVelUp Subs][rvus] |           [YouTube](https://youtu.be/XIYg_fTakes)            |
 | 170725 |                   [Gayo Plaza][gayo]                    | JO,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |           [YouTube](https://youtu.be/GYBLZ_DS1SU)            |
 | 170822 |                 [Dreamy Radio][dreamy]                  | JO,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |           [YouTube](https://youtu.be/ql2voboyDFo)            |
 | 170823 |              [Hope Song at Noon][hopesong]              | OT5         |  Yes   | subbed by [ReVelUp Subs][rvus] |           [YouTube](https://youtu.be/WV691_qPXdU)            |
