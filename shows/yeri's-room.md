@@ -20,3 +20,4 @@ ___
 | 200624 |   3.2   |                             with TWICE NAYEON as guest                             | [Episode 3-2: Is This a Cooking Show? Or a Blacksmith Show? Yeri & Nayeon Towering Tasty Handmade Kimbap](https://youtu.be/ya9SrcP1awA) |
 | 200626 |  _3.3_  |                             with TWICE NAYEON as guest                             | [Behind the Scenes of Yeri's Room \#3: DJ TTO TTO Crying On Set After Eating Spicy Food](https://youtu.be/Wc3KbHk8e8A) |
 | 200628 |   4.1   |                             with SNSD Yuri as guest                                | ['Yuri and Yeri! Yuri from Girl's Generation Visited 'Yerihan Bang''](https://youtu.be/KenDWX2dvIM)|
+| 200701 |   4.2   |                             with SNSD Yuri as guest                                | [Yuri and Yeri's Encounter is Fate?! SM Family is United With Doggy Charms💜](https://youtu.be/9cZNRgQJ9tY)|
