@@ -21,3 +21,5 @@ ___
 | 200626 |  _3.3_  |                             with TWICE NAYEON as guest                             | [Behind the Scenes of Yeri's Room \#3: DJ TTO TTO Crying On Set After Eating Spicy Food](https://youtu.be/Wc3KbHk8e8A) |
 | 200628 |   4.1   |                             with SNSD Yuri as guest                                | ['Yuri and Yeri! Yuri from Girl's Generation Visited 'Yerihan Bang''](https://youtu.be/KenDWX2dvIM)|
 | 200701 |   4.2   |                             with SNSD Yuri as guest                                | [Yuri and Yeri's Encounter is Fate?! SM Family is United With Doggy Charms💜](https://youtu.be/9cZNRgQJ9tY)|
+| 200702 |         |                             with TWICE NAYEON as guest (VR Edition)                | [Yeri X Nayeon's Signature Cookie VR Cooking Show Ep. 1](https://youtu.be/dSraAHkQPvQ) |
+| 200702 |         |                             with TWICE NAYEON as guest (VR Edition)                | [Yeri X Nayeon's Signature Cookie VR Cooking Show Ep. 2](https://youtu.be/TwrWrBS1R6E) |
