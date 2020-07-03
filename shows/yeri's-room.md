@@ -23,3 +23,4 @@ ___
 | 200701 |   4.2   |                             with SNSD Yuri as guest                                | [Yuri and Yeri's Encounter is Fate?! SM Family is United With Doggy Charms💜](https://youtu.be/9cZNRgQJ9tY)|
 | 200702 |         |                             with TWICE NAYEON as guest (VR Edition)                | [Yeri X Nayeon's Signature Cookie VR Cooking Show Ep. 1](https://youtu.be/dSraAHkQPvQ) |
 | 200702 |         |                             with TWICE NAYEON as guest (VR Edition)                | [Yeri X Nayeon's Signature Cookie VR Cooking Show Ep. 2](https://youtu.be/TwrWrBS1R6E) |
+| 200703 |  _4.3_  |                             with SNSD Yuri as guest                                | [[Behind the Scene of the Yeris Room #4] Yeri&Yuri unexpected couple item](https://youtu.be/PpgyvYl3sIQ) |
