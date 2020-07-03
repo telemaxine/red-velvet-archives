@@ -375,6 +375,7 @@
 |  200327  |        Handsome Tigers        |       12       | Joy           |                 |                                                                                                                       [Show list][handsometigers]                                                                                                                       |
 |  200530  |  [Amazing Saturday][doremi]   |      110       | Irene, Seulgi |                 |                                                                                     [Google Drive \(RAW\)](https://drive.google.com/file/d/186JtOxjXqybMOMs31uYDdJ5BUssujVw_/view)                                                                                      |
 |  200614  | [King Of Masked Singer][koms] |   259 & 260    | Seulgi        | Seulgi as judge |                                                                  [259](http://kisstvshow.to/Show/King-of-Mask-Singer/Episode-259) // [260](http://kisstvshow.to/Show/King-of-Mask-Singer/Episode-260)                                                                   |
+|  200630  |      [Salty Tour][salty]      |    116-        | Joy           | Filmed in Jeju Island | [116](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-116.html) |
 
 &#x200b;
 
