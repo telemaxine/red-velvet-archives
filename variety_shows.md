@@ -373,9 +373,11 @@
 |  200109  |        Happy Together         |    S04 E65     | Joy           |                 |                                                                                                 [KShow123](http://kshow123.net/show/happy-together-s4/episode-65.html)                                                                                                  |
 |  200113  |      [Salty Tour][salty]      |    106-108     | Joy           | Filmed in Spain | [106](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-106.html) // [107](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-107.html) // [108](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-108.html) |
 |  200327  |        Handsome Tigers        |       12       | Joy           |                 |                                                                                                                       [Show list][handsometigers]                                                                                                                       |
-|  200530  |  [Amazing Saturday][doremi]   |      110       | Irene, Seulgi |                 |                                                                                     [Google Drive \(RAW\)](https://drive.google.com/file/d/186JtOxjXqybMOMs31uYDdJ5BUssujVw_/view)                                                                                      |
+|  200530  |  [Amazing Saturday][doremi]   |      110       | Irene, Seulgi |                 |                                                                                     [KB \(RAW\)][200530_amazing_sat]                                                                                      |
 |  200614  | [King Of Masked Singer][koms] |   259 & 260    | Seulgi        | Seulgi as judge |                                                                  [259](http://kisstvshow.to/Show/King-of-Mask-Singer/Episode-259) // [260](http://kisstvshow.to/Show/King-of-Mask-Singer/Episode-260)                                                                   |
 |  200630  |      [Salty Tour][salty]      |    116-        | Joy           | Filmed in Jeju Island | [116](https://kisstvshow.to/Show/Salty-Tour-Season-2/Episode-39) |
+
+[200530_amazing_sat]:https://telemaxus.keybase.pub/rv/variety-shows/200530.Amazing.Saturday.E110.mp4
 
 &#x200b;
 
