@@ -297,7 +297,7 @@
 [cultwo]:./shows/cultwo-radio.md
 [dreamy]:./shows/dreamy-radio.md
 [fmdate]:./shows/fm-date-radio.md
-[gayo]:./shows/gayo-plaza.md
+[gayo]:./shows/gayo-plaza-radio.md
 [hopesong]:./shows/hope-song-at-noon.md
 [ktr]:./shows/kiss-the-radio.md
 [lovegame]:./shows/love-game-radio.md
