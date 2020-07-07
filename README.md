@@ -17,6 +17,8 @@ Work In Progress _(WIP)_ - Denotes a masterlist is in an incomplete state. Major
 * [Music Shows](./music_shows.md) (WIP)
 * [Radio Shows](./radio_shows.md)
 * [Reality Shows](./reality_shows.md)
+  * [Red Velvet Level Up RISKY Project](./shows/level-up-risky-project.md)
+  * [Yeri's Room](./shows/yeri's-room.md)
 * [Song Covers](./song_covers.md) (WIP)
 * [Variety Shows](./variety_shows.md)
 ___
@@ -56,7 +58,7 @@ Files should be a drop-in replacement for reddit type posts, **however** always 
 # **Tools**
 Tools used to document and archive for this list
 
-* [Visual Studio Code](https://code.visualstudio.com/) - for formatting all the markdown files in this project. Useful addons below.
+* [Visual Studio Code](https://code.visualstudio.com/) - for formatting all the markdown files in this project. Useful addons below. You can use any other software you want here as long as it can edit plaintext files.
   * [Markdown All-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
   * [Markdown Shortcuts](https://marketplace.visualstudio.com/items?itemName=mdickin.markdown-shortcuts)
   * [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify)
