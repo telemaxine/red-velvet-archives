@@ -53,11 +53,13 @@
 ## RBB
 [Back top](#interviews)
 
-| Date   | Title                                               | Members | Notes | Links                                                                                    |
-|--------|-----------------------------------------------------|---------|-------|------------------------------------------------------------------------------------------|
-| 190205 | iHeartRadio - Red Velvet Talk "RBB" and More        | OT5     |       | [YouTube](https://youtu.be/86ghnEF1J6I) // [Fan Questions](https://youtu.be/Eh6Ltj08ICs) |
-| 190220 | Young Hollywood Interview                           | OT5     |       | [YouTube](https://youtu.be/QVB18SNZoGs)                                                  |
-| 190307 | ET Canada - Red Velvet Talk 'Peek-A-Boo' in Toronto | OT5     |       | [YouTube](https://youtu.be/6zEkn9hZL7A)                                                  |
-| 190512 | Breakout! - Interview with Boy William              | OT5     |       | [YouTube](https://youtu.be/GzNOo1H2y6w)                                                  |
+| Date   | Title                                                       | Members | Notes | Links                                                                                    |
+|--------|-------------------------------------------------------------|---------|-------|------------------------------------------------------------------------------------------|
+| 190205 | iHeartRadio - Red Velvet Talk "RBB" and More                | OT5     |       | [YouTube](https://youtu.be/86ghnEF1J6I) // [Fan Questions](https://youtu.be/Eh6Ltj08ICs) |
+| 190220 | Young Hollywood Interview                                   | OT5     |       | [YouTube](https://youtu.be/QVB18SNZoGs)                                                  |
+| 190228 | Teen Vouge - Red Velvet Creates the Playlist of their Lives | OT5     |       | [YouTube](https://youtu.be/QVB18SNZoGs)                                                  |
+| 190305 | Glamour Friendship Test                                     | OT5     |       | [YouTube](https://youtu.be/TxlK7bJkmA4)                                                  |
+| 190307 | ET Canada - Red Velvet Talk 'Peek-A-Boo' in Toronto         | OT5     |       | [YouTube](https://youtu.be/6zEkn9hZL7A)                                                  |
+| 190512 | Breakout! - Interview with Boy William                      | OT5     |       | [YouTube](https://youtu.be/GzNOo1H2y6w)                                                  |
 
 [kseulwan_yt]:https://www.youtube.com/channel/UC8wlaclYkaD9fxWD_vrXxvA
