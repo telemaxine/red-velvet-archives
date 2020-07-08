@@ -290,6 +290,7 @@
 | 191223 | [KSY's Hope Song at Noon][hopesong] | Wendy         |  Yes   |                                                  | [YouTube](https://youtu.be/22q0iC0Q_4s) |
 | 191224 |        [Cultwo Show][cultwo]        | Seulgi, Wendy |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/ropXKxE__jM) |
 | 200412 |              MBC Radio              | Wendy         |  Yes   | Wendy reading 'Alice's Adventures in Wonderland' | [YouTube](https://youtu.be/Obk998M6drY) |
+| 200708 |        [Cultwo Show][cultwo]        | Irene, Seulgi |  No    |                                                  | [YouTube](https://youtu.be/ak6VfvELBt0) |
 
 &#x200b;
 

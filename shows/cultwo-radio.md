@@ -12,6 +12,7 @@
 | 180809 | OT5           |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube](https://youtu.be/-6TcHNcLVc8) // [MEGA](https://mega.nz/#!d1BiTI6T!wOwGrXkJomVaNr_yMd9sRvIi10ykz-QyxAiHyivsuaQ) |
 | 190822 | OT5           |  Yes   |                                |                                          [YouTube](https://youtu.be/Au3YGY9lI7U)                                          |
 | 191224 | Seulgi, Wendy |  Yes   |                                |                                          [YouTube](https://youtu.be/ropXKxE__jM)                                          |
+| 200708 | Irene, Seulgi |   No   |                                |                                          [YouTube](https://youtu.be/ak6VfvELBt0)                                          |
 
 [140821_cul2]:http://www.dailymotion.com/video/x2o84ql
 [160908_cultwo_show]:https://telemaxus.keybase.pub/rv/radio-shows/160908%20%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3Red%20Velvet%20%40%20Cultwo%20Show.mkv
