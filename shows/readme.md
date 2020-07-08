@@ -64,7 +64,7 @@
 ## Reality Shows
 * [Idol Drama Operation Team (IDOT)](./idol-drama-operation-team.md)
 * [Level Up Project](./level-up-project.md)
-* [Level Up RISKY \(아슬한\) Project](./level-up-risky-project.md) (Upcoming. Airs July 8)
+* [Level Up RISKY \(아슬한\) Project](./level-up-risky-project.md)
 * [Pajama Friends](./pajama-friends.md)
 * [Yeri's Room](./yeri's-room.md)
 
