@@ -16,7 +16,7 @@
   - [**RBB**](#rbb)
   - [**Zimzalabim**](#zimzalabim)
   - [**Umpah Umpah**](#umpah-umpah)
-  - [**Psycho**](#psycho)
+  - [**Psycho**/*Monster*](#psychomonster)
 
 ## **Happiness**
 
@@ -430,14 +430,15 @@
 ## **Psycho**/*Monster*
 
 [Back to top](#music-shows)
-|  Date  | Show               | Notes                                          |                     Group                     | Irene | Seulgi | Wendy | Joy | Yeri |
-|:------:|--------------------|------------------------------------------------|:---------------------------------------------:|:-----:|:------:|:-----:|:---:|:----:|
-| 191225 | SBS Gayo Daejeon   | Psycho                                         |     [Group](https://youtu.be/MQvbVfL2oHQ)     |       |        |       |     |      |
-| 191227 | KBS Gayo Daechukje | Group Stage with: Irene, Chorong, Nayeon, Arin |    [Collab](https://youtu.be/no_d35FDdi8)     |       |        |       |     |      |
-| 191227 | KBS Gayo Daechukje | Group Stage with: Joy, Hayoung, Yerin          |    [Collab](https://youtu.be/t3DDW3L4cbA)     |       |        |       |     |      |
-| 191231 | MBC Gayo Daejejeon | ft. Sung Si Kyung -  It's You                  |     [Group](https://youtu.be/PjkjZPaIkCA)     |       |        |       |     |      |
-| 200104 | GMarket Smile Club |                                                | [List](./shows/gmarket-smile-club-concert.md) |       |        |       |     |      |
-| 200130 | Seoul Music Awards | The Memories of Red Velvet + Psycho            |     [Group](https://youtu.be/_Ehc2npvpcQ)     |       |        |       |     |      |
+|  Date  | Show                     | Notes                                          |                     Group                     | Irene | Seulgi | Wendy | Joy | Yeri |
+|:------:|--------------------------|------------------------------------------------|:---------------------------------------------:|:-----:|:------:|:-----:|:---:|:----:|
+| 191225 | SBS Gayo Daejeon         | Psycho                                         |     [Group](https://youtu.be/MQvbVfL2oHQ)     |       |        |       |     |      |
+| 191227 | KBS Gayo Daechukje       | Group Stage with: Irene, Chorong, Nayeon, Arin |    [Collab](https://youtu.be/no_d35FDdi8)     |       |        |       |     |      |
+| 191227 | KBS Gayo Daechukje       | Group Stage with: Joy, Hayoung, Yerin          |    [Collab](https://youtu.be/t3DDW3L4cbA)     |       |        |       |     |      |
+| 191231 | MBC Gayo Daejejeon       | ft. Sung Si Kyung -  It's You                  |     [Group](https://youtu.be/PjkjZPaIkCA)     |       |        |       |     |      |
+| 200104 | GMarket Smile Club       |                                                | [List](./shows/gmarket-smile-club-concert.md) |       |        |       |     |      |
+| 200130 | Seoul Music Awards       | The Memories of Red Velvet + Psycho            |     [Group](https://youtu.be/_Ehc2npvpcQ)     |       |        |       |     |      |
+| 200703 | MBC Korea Companion Sale | without Wendy                                  |  [VLive](https://www.vlive.tv/video/200739)   |       |        |       |     |      |
 
 [kbs_gy]:./shows/kbs-gayo.md
 [kbs_mb]:./shows/kbs-music-bank.md

@@ -9,4 +9,3 @@ ___
 | Date   | Title                                                                                               | Members     | Subbed | Notes | Links                                      |
 |--------|-----------------------------------------------------------------------------------------------------|-------------|--------|-------|--------------------------------------------|
 | 190625 | Zimzalabim Mass Performance                                                                         | OT5         | N/A    |       | [YouTube](https://youtu.be/YQUWQLKPGEE)    |
-| 200703 | MBC Korea Companion Sale                                                                            | IR,JO,SG,YR | N/A    |       | [VLive](https://www.vlive.tv/video/200739) |
