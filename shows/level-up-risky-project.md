@@ -11,3 +11,4 @@ ___
 | 200708 |    1    | Currently being subbed | ???                                                                                  |
 | 200708 |    2    | Currently being subbed | ???                                                                                  |
 | 200709 |         | Teaser                 | ['Level Up Thrilling Project' EP.3-4 (Episode Teaser)](https://youtu.be/vlfebeXfrTo) |
+| 200709 |         | Press Conference       | [YouTube \(RaW\)](https://youtu.be/fqFhEZiXHAM)                                      |
