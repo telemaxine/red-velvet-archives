@@ -10,5 +10,3 @@ ___
 |--------|-----------------------------------------------------------------------------------------------------|-------------|--------|-------|--------------------------------------------|
 | 190625 | Zimzalabim Mass Performance                                                                         | OT5         | N/A    |       | [YouTube](https://youtu.be/YQUWQLKPGEE)    |
 | 200703 | MBC Korea Companion Sale                                                                            | IR,JO,SG,YR | N/A    |       | [VLive](https://www.vlive.tv/video/200739) |
-| 200708 | Red Velvet: IRENE & SEULGI - 'I want to know🧐 (Feat. Monster Box😈) \[Get to know Irene & Seulgi\] | Yes         |        |       | [YouTube](https://youtu.be/MB_G-x51vHg)    |
-| 200708 | Red Velvet: IRENE & SEULGI - 'I want to know🧐 (Feat. Monster Box😈) \[Get to know Irene & Seulgi\] #2 | Yes         |        |       | [YouTube](https://youtu.be/EzrJEuOnL-4)    |
