@@ -212,24 +212,25 @@
 
 [Back top](#livestreams)
 
-| Date   |                            Title                            | Members       | Subbed |              Notes              |                   Links                    |
-|:-------|:-----------------------------------------------------------:|:--------------|:------:|:-------------------------------:|:------------------------------------------:|
-| 191222 |           [Instagram Live with Wendy][instalive]            | Wendy         |  Yes   | subbed by [warm blue][warmblue] |  [YouTube](https://youtu.be/YaCZZ2JDBcw)   |
-| 191222 |     [Comeback V-Live PsychoRISTMAS Party][comebacklive]     | OT5           |  Yes   |                                 | [VLive](https://www.vlive.tv/video/166358) |
-| 200112 |            [Instagram Live with Yeri][instalive]            | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/_LFX_LTkKNo)   |
-| 200210 |         [Seulgi Birthday Instagram Live][instalive]         | Seulgi        |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/DOBavWPAoXc)   |
-| 200307 |          [Yeri Birthday Instagram Live][instalive]          | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/ZwA80E07DhE)   |
-| 200329 |         [Irene Birthday Instagram Live][instalive]          | Irene         |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/R5UMhe0N8cE)   |
-| 200514 |            [Instagram Live with Yeri][instalive]            | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/AazweNR0W-I)   |
-| 200515 |            [Instagram Live with Yeri][instalive]            | Yeri          |  Yes   | subbed by [Yermbear][yermbear]  |  [YouTube](https://youtu.be/12n-HRwQWy0)   |
-| 200519 |            [Instagram Live with Yeri][instalive]            | Yeri          |   No   |       with RV Dancer May        |  [YouTube](https://youtu.be/ABirkTHjblw)   |
-| 200519 |            SEULGI Selective Converse Korea Live             | Seulgi        |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/e1tahQLIXpE)   |
-| 200520 |              Crush x Joy Mayday Comeback Live               | Joy           |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/PnbXDlSDcVU)   |
-| 200527 |            [Instagram Live with Yeri][instalive]            | Yeri          |  Yes   |        with TWICE Nayeon        |  [YouTube](https://youtu.be/_jAvazYNVS4)   |
-| 200611 |            [Instagram Live with Yeri][instalive]            | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/tn0AdOYlG20)   |
-| 200625 |            [Instagram Live with Joy][instalive]             | Joy           |   No   |                                 |  [YouTube](https://youtu.be/C5jB8q-1QcM)   |
-| 200705 |            [Instagram Live with Yeri][instalive]            | Yeri          |   No   |                                 |  [YouTube](https://youtu.be/08EHwfewpn4)   |
-| 200706 | [Red Velvet - IRENE & SEULGI's Monster, Inc.][comebacklive] | Irene, Seulgi |  Yes   |                                 | [VLive](https://www.vlive.tv/video/200773) |
+| Date   |                                   Title                                   | Members       | Subbed |              Notes              |                   Links                    |
+|:-------|:-------------------------------------------------------------------------:|:--------------|:------:|:-------------------------------:|:------------------------------------------:|
+| 191222 |                  [Instagram Live with Wendy][instalive]                   | Wendy         |  Yes   | subbed by [warm blue][warmblue] |  [YouTube](https://youtu.be/YaCZZ2JDBcw)   |
+| 191222 |            [Comeback V-Live PsychoRISTMAS Party][comebacklive]            | OT5           |  Yes   |                                 | [VLive](https://www.vlive.tv/video/166358) |
+| 200112 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/_LFX_LTkKNo)   |
+| 200210 |                [Seulgi Birthday Instagram Live][instalive]                | Seulgi        |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/DOBavWPAoXc)   |
+| 200307 |                 [Yeri Birthday Instagram Live][instalive]                 | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/ZwA80E07DhE)   |
+| 200329 |                [Irene Birthday Instagram Live][instalive]                 | Irene         |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/R5UMhe0N8cE)   |
+| 200514 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/AazweNR0W-I)   |
+| 200515 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |  Yes   | subbed by [Yermbear][yermbear]  |  [YouTube](https://youtu.be/12n-HRwQWy0)   |
+| 200519 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |   No   |       with RV Dancer May        |  [YouTube](https://youtu.be/ABirkTHjblw)   |
+| 200519 |                   SEULGI Selective Converse Korea Live                    | Seulgi        |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/e1tahQLIXpE)   |
+| 200520 |                     Crush x Joy Mayday Comeback Live                      | Joy           |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/PnbXDlSDcVU)   |
+| 200527 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |  Yes   |        with TWICE Nayeon        |  [YouTube](https://youtu.be/_jAvazYNVS4)   |
+| 200611 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/tn0AdOYlG20)   |
+| 200625 |                   [Instagram Live with Joy][instalive]                    | Joy           |   No   |                                 |  [YouTube](https://youtu.be/C5jB8q-1QcM)   |
+| 200705 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |   No   |                                 |  [YouTube](https://youtu.be/08EHwfewpn4)   |
+| 200706 |        [Red Velvet - IRENE & SEULGI's Monster, Inc.][comebacklive]        | Irene, Seulgi |  Yes   |                                 | [VLive](https://www.vlive.tv/video/200773) |
+| 200709 | Red Velvet: Irene & Seulgi - 'Level Up! RISKY Project' [Press Conference] | Irene, Seulgi |   No   |                                 |  [YouTube](https://youtu.be/fqFhEZiXHAM)   |
 
 &#x200b;
 
