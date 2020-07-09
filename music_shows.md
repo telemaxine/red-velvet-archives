@@ -430,15 +430,21 @@
 ## **Psycho**/*Monster*
 
 [Back to top](#music-shows)
-|  Date  | Show                     | Notes                                          |                     Group                     | Irene | Seulgi | Wendy | Joy | Yeri |
-|:------:|--------------------------|------------------------------------------------|:---------------------------------------------:|:-----:|:------:|:-----:|:---:|:----:|
-| 191225 | SBS Gayo Daejeon         | Psycho                                         |     [Group](https://youtu.be/MQvbVfL2oHQ)     |       |        |       |     |      |
-| 191227 | KBS Gayo Daechukje       | Group Stage with: Irene, Chorong, Nayeon, Arin |    [Collab](https://youtu.be/no_d35FDdi8)     |       |        |       |     |      |
-| 191227 | KBS Gayo Daechukje       | Group Stage with: Joy, Hayoung, Yerin          |    [Collab](https://youtu.be/t3DDW3L4cbA)     |       |        |       |     |      |
-| 191231 | MBC Gayo Daejejeon       | ft. Sung Si Kyung -  It's You                  |     [Group](https://youtu.be/PjkjZPaIkCA)     |       |        |       |     |      |
-| 200104 | GMarket Smile Club       |                                                | [List](./shows/gmarket-smile-club-concert.md) |       |        |       |     |      |
-| 200130 | Seoul Music Awards       | The Memories of Red Velvet + Psycho            |     [Group](https://youtu.be/_Ehc2npvpcQ)     |       |        |       |     |      |
-| 200703 | MBC Korea Companion Sale | without Wendy                                  |  [VLive](https://www.vlive.tv/video/200739)   |       |        |       |     |      |
+|  Date  | Show                     | Notes                                          |                                               Group                                               | Irene | Seulgi | Wendy | Joy | Yeri |
+|:------:|--------------------------|------------------------------------------------|:-------------------------------------------------------------------------------------------------:|:-----:|:------:|:-----:|:---:|:----:|
+| 191225 | SBS Gayo Daejeon         | Psycho                                         |                               [Group](https://youtu.be/MQvbVfL2oHQ)                               |       |        |       |     |      |
+| 191227 | KBS Gayo Daechukje       | Group Stage with: Irene, Chorong, Nayeon, Arin |                              [Collab](https://youtu.be/no_d35FDdi8)                               |       |        |       |     |      |
+| 191227 | KBS Gayo Daechukje       | Group Stage with: Joy, Hayoung, Yerin          |                              [Collab](https://youtu.be/t3DDW3L4cbA)                               |       |        |       |     |      |
+| 191231 | MBC Gayo Daejejeon       | ft. Sung Si Kyung -  It's You                  |                               [Group](https://youtu.be/PjkjZPaIkCA)                               |       |        |       |     |      |
+| 200104 | GMarket Smile Club       |                                                |                           [List](./shows/gmarket-smile-club-concert.md)                           |       |        |       |     |      |
+| 200130 | Seoul Music Awards       | The Memories of Red Velvet + Psycho            |                               [Group](https://youtu.be/_Ehc2npvpcQ)                               |       |        |       |     |      |
+| 200703 | MBC Korea Companion Sale | without Wendy                                  |                            [VLive](https://www.vlive.tv/video/200739)                             |       |        |       |     |      |
+| 200709 | SM The Stage: Monster    | Red Velvet: Irene & Seulgi unit                | [Top Note][200709_topnote] // [Middle Note][200709_midnote] // [Top & Middle Note][200709_topmid] |       |        |   X   |  X  |  X   |
+
+[200709_topnote]:https://youtu.be/c6a9I5cME7M
+[200709_midnote]:https://youtu.be/uVx4elnmXdo
+[200709_topmid]:https://youtu.be/dVZClz1340M
+
 
 [kbs_gy]:./shows/kbs-gayo.md
 [kbs_mb]:./shows/kbs-music-bank.md
