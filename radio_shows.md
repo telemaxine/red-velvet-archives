@@ -281,7 +281,7 @@
 
 &#x200b;
 
-## **Psycho**
+## **Psycho**/*Monster*
 
 [Back top](#radio-shows-masterlist)
 

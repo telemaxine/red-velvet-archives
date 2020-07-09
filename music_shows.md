@@ -427,7 +427,7 @@
 | 191004 | KBS Music Bank In Gangneung   | Zimzalabim  | [Group](https://youtu.be/0A7Px8yc6KA) |                                       |                                        |                                       |                                     |                                      |
 | 191116 | Changwon K-Pop World Festival | Umpah Umpah | [Group](https://youtu.be/ZEqQTe2wy54) |                                       |                                        |                                       |                                     |                                      |
 
-## **Psycho**
+## **Psycho**/*Monster*
 
 [Back to top](#music-shows)
 |  Date  | Show               | Notes                                          |                     Group                     | Irene | Seulgi | Wendy | Joy | Yeri |

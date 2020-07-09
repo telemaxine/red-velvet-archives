@@ -1,9 +1,9 @@
 # Song Covers
 
 - [Song Covers](#song-covers)
-  - [Psycho](#psycho)
+  - [**Psycho**/*Monster*](#psychomonster)
 
-## Psycho
+## **Psycho**/*Monster*
 | Date   | Title                                        | Notes                                                      | Links                                   |
 |--------|----------------------------------------------|------------------------------------------------------------|-----------------------------------------|
 | 190305 | Yeri - Two Melodies (Orig. Zion.T ft. Crush) |                                                            | [Reddit](https://redd.it/hcnf72)        |

@@ -208,7 +208,7 @@
 | 190821 | [Umpah Umpah Camping Date Comeback Special][comebacklive] | OT5     |  Yes   |                                | [VLive](https://www.vlive.tv/video/145245) |
 | 191130 |           [Instagram Live with Yeri][instalive]           | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] |   [YouTube](https://youtu.be/cfR6fdW0BW8)    |
 
-## **Psycho**
+## **Psycho**/*Monster*
 
 [Back top](#livestreams)
 

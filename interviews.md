@@ -1,28 +1,29 @@
 # Interviews
 
 - [Interviews](#interviews)
-  - [Ice Cream Cake](#ice-cream-cake)
-  - [Dumb Dumb](#dumb-dumb)
-  - [Rookie](#rookie)
-  - [Bad Boy](#bad-boy)
-  - [Power Up](#power-up)
-  - [RBB](#rbb)
+  - [**Ice Cream Cake**](#ice-cream-cake)
+  - [**Dumb Dumb**](#dumb-dumb)
+  - [**Rookie**](#rookie)
+  - [**Bad Boy**](#bad-boy)
+  - [**Power Up**](#power-up)
+  - [**RBB**](#rbb)
+  - [**Psycho**/*Monster*](#psychomonster)
 
-## Ice Cream Cake
+## **Ice Cream Cake**
 [Back top](#interviews)
 
 | Date   | Title               | Members | Notes                             | Links                                   |
 |--------|---------------------|---------|-----------------------------------|-----------------------------------------|
 | 150705 | YinYueTai Interview | OT5     | subbed by [kseulwan][kseulwan_yt] | [YouTube](https://youtu.be/cEjewozRqTY) |
 
-## Dumb Dumb
+## **Dumb Dumb**
 [Back top](#interviews)
 
 | Date   | Title               | Members | Notes                             | Links                                   |
 |--------|---------------------|---------|-----------------------------------|-----------------------------------------|
 | 151022 | Idols of Asia       | OT5     | subbed by [kseulwan][kseulwan_yt] | [YouTube](https://youtu.be/v8HYeDLswMo) |
 
-## Rookie
+## **Rookie**
 [Back top](#interviews)
 
 | Date   | Title                         | Members     | Notes                             | Links                                   |
@@ -31,7 +32,7 @@
 | 170517 | OneTV 10to4KyanHana Interview | IR,SG,WD,YR | subbed by [kseulwan][kseulwan_yt] | [YouTube](https://youtu.be/4BWhHJqRLnQ) |
 | 170611 | Marie Claire Interview        | IR,SG,WD,YR | subbed by [kseulwan][kseulwan_yt] | [YouTube](https://youtu.be/QEbQ0rGGKAo) |
 
-## Bad Boy
+## **Bad Boy**
 [Back top](#interviews)
 
 | Date   | Title               | Members     | Notes                             | Links                                   |
@@ -39,7 +40,7 @@
 | 180227 | Sina Interview      | IR,JO,SG,WD | subbed by [kseulwan][kseulwan_yt] | [YouTube](https://youtu.be/uNr2Qoh6FSg) |
 | 180227 | YinYueTai Interview | IR,JO,SG,WD | subbed by [kseulwan][kseulwan_yt] | [YouTube](https://youtu.be/Pa7K9EOZM68) |
 
-## Power Up
+## **Power Up**
 [Back top](#interviews)
 
 | Date   | Title           | Members | Notes | Links                                                   |
@@ -50,7 +51,7 @@
 | 181110 | Enews Asia      | OT5     |       | [YouTube](https://youtu.be/vrAOMf4vxuk)                 |
 | 181115 | MTV Asia        | OT5     |       | [YouTube](https://youtu.be/yUzM0s15l0A)                 |
 
-## RBB
+## **RBB**
 [Back top](#interviews)
 
 | Date   | Title                                                       | Members | Notes | Links                                                                                    |
@@ -61,5 +62,14 @@
 | 190305 | Glamour Friendship Test                                     | OT5     |       | [YouTube](https://youtu.be/TxlK7bJkmA4)                                                  |
 | 190307 | ET Canada - Red Velvet Talk 'Peek-A-Boo' in Toronto         | OT5     |       | [YouTube](https://youtu.be/6zEkn9hZL7A)                                                  |
 | 190512 | Breakout! - Interview with Boy William                      | OT5     |       | [YouTube](https://youtu.be/GzNOo1H2y6w)                                                  |
+
+## **Psycho**/*Monster*
+
+| Date   | Title                                                                                                  | Members       | Notes | Links                                   |
+|--------|--------------------------------------------------------------------------------------------------------|---------------|-------|-----------------------------------------|
+| 200701 | Irene & Irene interview                                                                                | Irene, Seulgi |       | [YouTube](https://youtu.be/EOTas1VYhYU) |
+| 200701 | Seulgi & Seulgi interview                                                                              | Irene, Seulgi |       | [YouTube](https://youtu.be/bt7ryoMx3-Q) |
+| 200708 | Red Velvet: IRENE & SEULGI - 'I want to know🧐 (Feat. Monster Box😈) \[Get to know Irene & Seulgi\]    | Irene, Seulgi |       | [YouTube](https://youtu.be/MB_G-x51vHg) |
+| 200708 | Red Velvet: IRENE & SEULGI - 'I want to know🧐 (Feat. Monster Box😈) \[Get to know Irene & Seulgi\] #2 | Irene, Seulgi |       | [YouTube](https://youtu.be/EzrJEuOnL-4) |
 
 [kseulwan_yt]:https://www.youtube.com/channel/UC8wlaclYkaD9fxWD_vrXxvA
