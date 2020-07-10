@@ -26,3 +26,4 @@ ___
 | 200703 |  _4.3_  |                             with SNSD Yuri as guest                                | [[Behind the Scene of the Yeris Room #4] Yeri&Yuri unexpected couple item](https://youtu.be/PpgyvYl3sIQ) |
 | 200706 |   5.1   |                             with SNSD Yuri as guest                                | ['Yuri's Set Meal' has come! DJ Yeri gave up her duty](https://youtu.be/n14rKzsv94s) |
 | 200708 |   5.2   |                             with SNSD Yuri as guest                                | ["This is Yeri's table d'hôte and it's super yummy! Dear Yuri, just walk on tasty paths"](https://youtu.be/6uELmd2cIso) |
+| 200710 |  _5.3_  |                             with SNSD Yuri as guest                                | [YERI's Room (Behind the Scenes #5) - 'Yeri's Recipe, Zapaghetti + Super red pepper paste'](https://youtu.be/AoU7z-Cd538) |
