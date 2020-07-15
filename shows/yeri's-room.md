@@ -28,3 +28,4 @@ ___
 | 200708 |   5.2   |                             with SNSD Yuri as guest                                | ["This is Yeri's table d'hôte and it's super yummy! Dear Yuri, just walk on tasty paths"](https://youtu.be/6uELmd2cIso) |
 | 200710 |  _5.3_  |                             with SNSD Yuri as guest                                | [YERI's Room (Behind the Scenes #5) - 'Yeri's Recipe, Zapaghetti + Super red pepper paste'](https://youtu.be/AoU7z-Cd538) |
 | 200713 |   6.1   |                             with Wonder Girls Yubin as guest                       | [Girl Crush Yubin Unnie! Yeri's Fluttering Heart](https://youtu.be/Hekph3txWc4) |
+| 200715 |   6.2   |                             with Wonder Girls Yubin as guest                       | ["Red Velvet X Wonder Girls, A collaboration of the century! Ddu Ddu is a successful Stan!"](https://youtu.be/9nKRQzqONlo) |
