@@ -35,6 +35,7 @@
 | 200611 | Instagram Live with Yeri                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/tn0AdOYlG20)                                                                                                                                                 |
 | 200625 | Instagram Live with Joy                    | Joy           |   No   |                                 | [YouTube](https://youtu.be/C5jB8q-1QcM)                                                                                                                                                 |
 | 200705 | Instagram Live with Yeri                   | Yeri          |   No   |                                 | [YouTube](https://youtu.be/08EHwfewpn4)                                                                                                                                                 |
+| 200717 | Yeri's Room Instagram Live with Yeri       | Yeri          |   No   |                                 | [YouTube](https://youtu.be/WpYetvw5lUw)                                                                                                                                                 |
 
 &#x200b;
 

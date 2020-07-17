@@ -232,6 +232,7 @@
 | 200706 |        [Red Velvet - IRENE & SEULGI's Monster, Inc.][comebacklive]        | Irene, Seulgi |  Yes   |                                 | [VLive](https://www.vlive.tv/video/200773) |
 | 200709 | Red Velvet: Irene & Seulgi - 'Level Up! RISKY Project' [Press Conference] | Irene, Seulgi |   No   |                                 |  [YouTube](https://youtu.be/fqFhEZiXHAM)   |
 | 200710 |                              AhSeul Mukbang                               | Irene, Seulgi |   No   |                                 | [VLive](https://www.vlive.tv/video/202186) |
+| 200717 |             [Yeri's Room Instagram Live with Yeri][instalive]             | Yeri          |   No   |                                 |  [YouTube](https://youtu.be/WpYetvw5lUw)   |
 
 &#x200b;
 
