@@ -30,4 +30,5 @@ ___
 | 200713 |   6.1   |                             with Wonder Girls Yubin as guest                       | [Girl Crush Yubin Unnie! Yeri's Fluttering Heart](https://youtu.be/Hekph3txWc4) |
 | 200715 |   6.2   |                             with Wonder Girls Yubin as guest                       | ["Red Velvet X Wonder Girls, A collaboration of the century! Ddu Ddu is a successful Stan!"](https://youtu.be/9nKRQzqONlo) |
 | 200716 |  _7.0_  |                             with Red Velvet Irene & Seulgi                         | [Yeri’s Room EP. 7-1 Preview: “IRENE & SEULGI in Yeri’s Room!! Yeri’s welcome dance preview”](https://youtu.be/I_BxCH8glkc) |
+| 200720 |   7.1   |                             with Red Velvet Irene & Seulgi                         | [Such a Thrilling Invitation♥ Irene & Seulgi Arrived At Yerihan Bang @ Yeri's Room](https://youtu.be/opXkgKUpFTA) |
 
