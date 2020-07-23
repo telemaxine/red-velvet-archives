@@ -32,4 +32,5 @@ ___
 | 200716 |  _7.0_  |                             with Red Velvet Irene & Seulgi                         | [Yeri’s Room EP. 7-1 Preview: “IRENE & SEULGI in Yeri’s Room!! Yeri’s welcome dance preview”](https://youtu.be/I_BxCH8glkc) |
 | 200720 |   7.1   |                             with Red Velvet Irene & Seulgi                         | [Such a Thrilling Invitation♥ Irene & Seulgi Arrived At Yerihan Bang @ Yeri's Room](https://youtu.be/opXkgKUpFTA) |
 | 200722 |   7.2   |                             with Red Velvet Irene & Seulgi (w/ Joy)                | [Episode 7-2: A 'Monster' Host Yeri 😈 The Youngest On Top offers a Red Flavor Present to Irene X Seulgi ](https://youtu.be/P879uMisykc) |
+| 200723 |         |                             with SNSD Yuri as guest (VR Edition)                   | [VR Episode 4: Mukbang 🍗 Yeri and Yuri's Appetizing Red Flavor](https://youtu.be/wJlbws3dWPU) |
 
