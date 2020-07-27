@@ -1,6 +1,7 @@
 # _Yeri's Room_
 
 _Synopsis: YERI's very own Youtube reality show! It shows her daily life._
+
 ___
 | Date   | Episode |                                       Notes                                        | Link                                                                             |
 |--------|:-------:|:----------------------------------------------------------------------------------:|----------------------------------------------------------------------------------|
@@ -30,4 +31,5 @@ ___
 | 200720 |   7.1   |                             with Red Velvet Irene & Seulgi                         | [Such a Thrilling Invitation♥ Irene & Seulgi Arrived At Yerihan Bang @ Yeri's Room](https://youtu.be/opXkgKUpFTA) |
 | 200722 |   7.2   |                             with Red Velvet Irene & Seulgi (w/ Joy)                | [Episode 7-2: A 'Monster' Host Yeri 😈 The Youngest On Top offers a Red Flavor Present to Irene X Seulgi ](https://youtu.be/P879uMisykc) |
 | 200723 |         |                             with SNSD Yuri as guest (VR Edition)                   | [VR Episode 4: Mukbang 🍗 Yeri and Yuri's Appetizing Red Flavor](https://youtu.be/wJlbws3dWPU) |
+| 200727 |   8.1   |                             with Red Velvet Irene & Seulgi                         | [Episode 8-1: MC Ddu Ddu as a host! Playing Jenga with Irene & Seulgi @ Yeri's Room](https://youtu.be/VvWD3rgKy4U) |
 
