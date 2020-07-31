@@ -33,4 +33,4 @@ ___
 | 200723 |         |                             with SNSD Yuri as guest (VR Edition)                   | [VR Episode 4: Mukbang 🍗 Yeri and Yuri's Appetizing Red Flavor](https://youtu.be/wJlbws3dWPU) |
 | 200727 |   8.1   |                             with Red Velvet Irene & Seulgi                         | [Episode 8-1: MC Ddu Ddu as a host! Playing Jenga with Irene & Seulgi @ Yeri's Room](https://youtu.be/VvWD3rgKy4U) |
 | 200727 |   8.2   |                             with Red Velvet Irene & Seulgi                         | [Episode 8-2: Kim Yerim Got Blushy With All Her Screams😈 Risky Jenga Game 2 @ Yeri's Room](https://youtu.be/OxdhVs1yBsk) |
-
+| 200731 |         |                             with Red Velvet Irene & Seulgi                         | [Yeri's Room Behind The Scenes #8: "YouTube Silver Button Celebration Party with IRENE & SEULGI😍"](https://youtu.be/EFb6kgZctyE) |
