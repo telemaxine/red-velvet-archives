@@ -292,6 +292,7 @@
 | 200412 |              MBC Radio              | Wendy         |  Yes   | Wendy reading 'Alice's Adventures in Wonderland' | [YouTube](https://youtu.be/Obk998M6drY) |
 | 200708 |        [Cultwo Show][cultwo]        | Irene, Seulgi |  Yes   |                                                  | [YouTube](https://youtu.be/ak6VfvELBt0) |
 | 200714 |       Kang Hanna's Volume Up        | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/ur4F2_5A9rg) |
+| 200715 |  [Park Won's Kiss The Radio][ktr]   | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/-nNC_wM8GQk) |
 
 &#x200b;
 
