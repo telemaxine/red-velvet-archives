@@ -6,8 +6,9 @@ _These links do not fit any known category. They are put here until they can be 
 
 ___
 
-| Date   | Title                                  | Members       | Subbed | Notes | Links                                   |
-|--------|----------------------------------------|---------------|--------|-------|-----------------------------------------|
-| 190625 | Zimzalabim Mass Performance            | OT5           | N/A    |       | [YouTube](https://youtu.be/YQUWQLKPGEE) |
-| 200709 | Monster MV Behind The Scenes           | Irene, Seulgi |        |       | [Youtube](https://youtu.be/yOPknmFtE20) |
-| 200709 | Monster MV The Stage Behind the Scenes | Irene, Seulgi |        |       | [Youtube](https://youtu.be/t0ZgeCstEm8) |
+| Date   | Title                                                                | Members       | Subbed | Notes | Links                                   |
+|--------|----------------------------------------------------------------------|---------------|--------|-------|-----------------------------------------|
+| 190625 | Zimzalabim Mass Performance                                          | OT5           | N/A    |       | [YouTube](https://youtu.be/YQUWQLKPGEE) |
+| 200709 | Monster MV Behind The Scenes                                         | Irene, Seulgi |        |       | [Youtube](https://youtu.be/yOPknmFtE20) |
+| 200709 | Monster MV The Stage Behind the Scenes                               | Irene, Seulgi |        |       | [Youtube](https://youtu.be/t0ZgeCstEm8) |
+| 200803 | Yeri & Herin Korea Vlog: COEX Shopping, Dentist & More! @ Bonjavenue | Yeri          | Yes    |       | [YouTube](https://youtu.be/Uauhk43d5rQ) |
