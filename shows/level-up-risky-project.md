@@ -11,9 +11,10 @@ ___
 | 200708 |    1    | [Subbed by Revelup Subs][rvus] | [RVUS](https://www.dailymotion.com/video/x7uz4qm)                                    |
 | 200708 |    2    | [Subbed by Revelup Subs][rvus] | [RVUS](https://www.dailymotion.com/video/x7uz4s3)                                    |
 | 200709 |         | Teaser                         | ['Level Up Thrilling Project' EP.3-4 (Episode Teaser)](https://youtu.be/vlfebeXfrTo) |
-| 200709 |         | Press Conference               | [YouTube](https://youtu.be/qlSnHtfWz70)                                      |
+| 200709 |         | Press Conference               | [YouTube](https://youtu.be/qlSnHtfWz70)                                              |
 | 200715 |    3    | [Subbed by Revelup Subs][rvus] | [RVUS](https://www.dailymotion.com/video/x7v59xs)                                    |
 | 200715 |    4    | [Subbed by Revelup Subs][rvus] | [RVUS](https://www.dailymotion.com/video/x7v5bpp)                                    |
-
+| 200723 |    5    | [Subbed by Revelup Subs][rvus] | [RVUS](https://www.dailymotion.com/video/x7vbl2f)                                    |
+| 200723 |    6    | [Subbed by Revelup Subs][rvus] | [RVUS](https://www.dailymotion.com/video/x7vbsc7)                                    |
 
 [rvus]:https://revelupsubs.com/
