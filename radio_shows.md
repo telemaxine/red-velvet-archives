@@ -285,14 +285,15 @@
 
 [Back top](#radio-shows-masterlist)
 
-|  Date  |                Title                | Members       | Subbed |                      Notes                       |                  Link                   |
-|:------:|:-----------------------------------:|:--------------|:------:|:------------------------------------------------:|:---------------------------------------:|
-| 191223 | [KSY's Hope Song at Noon][hopesong] | Wendy         |  Yes   |                                                  | [YouTube](https://youtu.be/22q0iC0Q_4s) |
-| 191224 |        [Cultwo Show][cultwo]        | Seulgi, Wendy |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/ropXKxE__jM) |
-| 200412 |              MBC Radio              | Wendy         |  Yes   | Wendy reading 'Alice's Adventures in Wonderland' | [YouTube](https://youtu.be/Obk998M6drY) |
-| 200708 |        [Cultwo Show][cultwo]        | Irene, Seulgi |  Yes   |                                                  | [YouTube](https://youtu.be/ak6VfvELBt0) |
-| 200714 |       Kang Hanna's Volume Up        | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/ur4F2_5A9rg) |
-| 200715 |  [Park Won's Kiss The Radio][ktr]   | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/-nNC_wM8GQk) |
+|  Date  |                    Title                    | Members       | Subbed |                      Notes                       |                  Link                   |
+|:------:|:-------------------------------------------:|:--------------|:------:|:------------------------------------------------:|:---------------------------------------:|
+| 191223 |     [KSY's Hope Song at Noon][hopesong]     | Wendy         |  Yes   |                                                  | [YouTube](https://youtu.be/22q0iC0Q_4s) |
+| 191224 |            [Cultwo Show][cultwo]            | Seulgi, Wendy |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/ropXKxE__jM) |
+| 200412 |                  MBC Radio                  | Wendy         |  Yes   | Wendy reading 'Alice's Adventures in Wonderland' | [YouTube](https://youtu.be/Obk998M6drY) |
+| 200708 |            [Cultwo Show][cultwo]            | Irene, Seulgi |  Yes   |                                                  | [YouTube](https://youtu.be/ak6VfvELBt0) |
+| 200714 |           Kang Hanna's Volume Up            | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/ur4F2_5A9rg) |
+| 200715 |      [Park Won's Kiss The Radio][ktr]       | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/-nNC_wM8GQk) |
+| 200720 | [Kim Shinyoung Hope Song at Noon][hopesong] | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/Xd4rhjsHB5k) |
 
 &#x200b;
 
