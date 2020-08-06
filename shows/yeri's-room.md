@@ -36,3 +36,5 @@ ___
 | 200727 |   8.2   |                             with Red Velvet Irene & Seulgi                         | [Episode 8-2: Kim Yerim Got Blushy With All Her Screams😈 Risky Jenga Game 2 @ Yeri's Room](https://youtu.be/OxdhVs1yBsk) |
 | 200731 |         |                             with Red Velvet Irene & Seulgi                         | [Yeri's Room Behind The Scenes #8: "YouTube Silver Button Celebration Party with IRENE & SEULGI😍"](https://youtu.be/EFb6kgZctyE) |
 | 200803 |   9.1   |                             with AKMU Chanhyuk                                     | [Yeri's Room EP. 9-1: "The Very First Male Guest of Yerihan Bang, AKMU Chanhyuk is Here](https://youtu.be/xG5q5slJjmk) |
+| 200805 |   9.2   |                             with AKMU Chanhyuk                                     | [Episode 9-2: Yerihan Hwabang? Yerihan Mobang? Ddu Ddu in love with copying Chanhyuk @ Yeri's Room](https://youtu.be/PC33Z5VtxgM) |
+| 200806 |         |                             with AKMU Chanhyuk                                     | [Red Velvet Yeri (with AKMU Chanhyuk) - Behind the Scenes of Yeri's Room #9](https://youtu.be/rZVjCAxOYbU) |
