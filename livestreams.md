@@ -233,6 +233,7 @@
 | 200709 | Red Velvet: Irene & Seulgi - 'Level Up! RISKY Project' [Press Conference] | Irene, Seulgi |   No   |                                 |  [YouTube](https://youtu.be/fqFhEZiXHAM)   |
 | 200710 |                              AhSeul Mukbang                               | Irene, Seulgi |   No   |                                 | [VLive](https://www.vlive.tv/video/202186) |
 | 200717 |             [Yeri's Room Instagram Live with Yeri][instalive]             | Yeri          |   No   |                                 |  [YouTube](https://youtu.be/WpYetvw5lUw)   |
+| 200720 |             Red Velvet Irene & Seulgi - Twitter Blueroom Live             | Irene, Seulgi |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/BfPGs9ft5Io)   |
 | 200729 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |   No   |                                 |  [YouTube](https://youtu.be/nqltLHF2KRg)   |
 
 &#x200b;
