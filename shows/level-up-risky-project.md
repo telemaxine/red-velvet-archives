@@ -16,5 +16,7 @@ ___
 | 200715 |    4    | [Subbed by Revelup Subs][rvus] | [RVUS](https://www.dailymotion.com/video/x7v5bpp)                                    |
 | 200723 |    5    | [Subbed by Revelup Subs][rvus] | [RVUS](https://www.dailymotion.com/video/x7vbl2f)                                    |
 | 200723 |    6    | [Subbed by Revelup Subs][rvus] | [RVUS](https://www.dailymotion.com/video/x7vbsc7)                                    |
+| 200729 |    7    | [Subbed by Revelup Subs][rvus] | [RVUS](https://www.dailymotion.com/video/x7vgi9c)                                    |
+| 200729 |    8    | [Subbed by Revelup Subs][rvus] | [RVUS](https://www.dailymotion.com/video/x7vgiat)                                    |
 
 [rvus]:https://revelupsubs.com/
