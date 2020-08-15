@@ -38,3 +38,6 @@ ___
 | 200803 |   9.1   |                             with AKMU Chanhyuk                                     | [Yeri's Room EP. 9-1: "The Very First Male Guest of Yerihan Bang, AKMU Chanhyuk is Here](https://youtu.be/xG5q5slJjmk) |
 | 200805 |   9.2   |                             with AKMU Chanhyuk                                     | [Episode 9-2: Yerihan Hwabang? Yerihan Mobang? Ddu Ddu in love with copying Chanhyuk @ Yeri's Room](https://youtu.be/PC33Z5VtxgM) |
 | 200806 |         |                             with AKMU Chanhyuk                                     | [Red Velvet Yeri (with AKMU Chanhyuk) - Behind the Scenes of Yeri's Room #9](https://youtu.be/rZVjCAxOYbU) |
+| 200810 |  10.1   |                             with APRIL Naeun and WEKI MEKI Doyeon                  | ["Just what in the world happened in Year 1999? Super Sociable Friends Yeri X Naeun X Doyeon"](https://youtu.be/GWCcPQElNjc) |
+| 200812 |  10.2   |                             with APRIL Naeun and WEKI MEKI Doyeon                  | ["Yeri's Drawing a Big Picture of Winning The Scene With The 99cone Synergy"](https://youtu.be/c0t483T0uRE) |
+| 200814 |         |                             with APRIL Naeun and WEKI MEKI Doyeon                  | [Behind The Scenes #10: “Yeri, Naeun, Doyeon 😍 What do pretty kids do during their breaks?”](https://youtu.be/-iH6Ml7CQdE) |
