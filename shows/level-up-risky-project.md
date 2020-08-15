@@ -18,5 +18,6 @@ ___
 | 200723 |    6    | [Subbed by Revelup Subs][rvus] | [Dailymotion](https://www.dailymotion.com/video/x7vbsc7)                                    |
 | 200729 |    7    | [Subbed by Revelup Subs][rvus] | [Dailymotion](https://www.dailymotion.com/video/x7vgi9c)                                    |
 | 200729 |    8    | [Subbed by Revelup Subs][rvus] | [Dailymotion](https://www.dailymotion.com/video/x7vgiat)                                    |
+| 200729 |    9    | [Subbed by Revelup Subs][rvus] | [Dailymotion](https://www.dailymotion.com/video/x7vlkwb)                                    |
 
 [rvus]:https://revelupsubs.com/
