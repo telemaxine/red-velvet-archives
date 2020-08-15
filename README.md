@@ -52,8 +52,8 @@ Markdown previewers might not show correctly as some of the files will use reddi
 Use raw files to copy over markdown enabled sites like Reddit.
 Files should be a drop-in replacement for reddit type posts, **however** always make sure to check the output as some formatting standards may have changed.
 
-* [Livestreams](./red_velvet_wiki/red_velvet_wiki_livestream.md) ("Complete")
-* [Radio Show \(Era Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_era_sort.md) ("Complete")
+* [Livestreams](./red_velvet_wiki/red_velvet_wiki_livestream.md) (Not maintained)
+* [Radio Show \(Era Sorted\)](./red_velvet_wiki/red_velvet_wiki_radio_era_sort.md) (Not maintained)
 
 # **Tools**
 Tools used to document and archive for this list
