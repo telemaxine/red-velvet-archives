@@ -386,7 +386,7 @@
 |  200801  |                              Hangout with Yoo                              |       53       | Irene, Seulgi |                       |                                                                                                                 [YouTube](https://youtu.be/vgj26wYU4Bg)                                                                                                                 |
 |  200801  |         IRENE & SEULGI Knowing Bros: After-School Activities EP. 4         |       4        | Irene, Seulgi |                       |                                                                                                                 [YouTube](https://youtu.be/bP3eBYa1r_M)                                                                                                                 |
 |  200801  |      IRENE & SEULGI - MBC 'How Do You Play?' EP. 54 with SSAK3 & Somi      |       54       | Irene, Seulgi |                       |                                                                                                                 [YouTube](https://youtu.be/aR_amTJrFeY)                                                                                                                 |
-
+|  200804  |                            [Salty Tour][salty]                             |      121       | Joy           |                       |                                                                                                     [121](http://kisstvshow.to/Show/Salty-Tour-Season-2/Episode-44)                                                                                                     |
 
 [200530_amazing_sat]:https://revelupsubs.com/2020/05/30/eng-200530-irene-seulgi-amazing-saturday/
 
