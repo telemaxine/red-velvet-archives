@@ -60,7 +60,7 @@
 
 |  Date  |                     Title                      | Members | Subbed |                    Notes                    |                                                       Link                                                        |
 |:------:|:----------------------------------------------:|:--------|:------:|:-------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-| 150324 |             [Kiss the Radio][ktr]              | OT5     |  Yes   |                                             |                                  [Pt. 1][150324_ktr01] // [Pt. 2][150324_ktr02]                                   |
+| 150324 |             [Kiss the Radio][ktr]              | OT5     |  Yes   |       subbed by [ReVelUp Subs][rvus]        |                                      [YouTube](https://youtu.be/MkwBK08EayE)                                      |
 | 150327 |                   2 O'clock                    | OT5     |   No   |                                             |                         [YouTube \(broken\)](https://www.youtube.com/watch?v=fGQPROYgaRE)                         |
 | 150330 |         [Old School Radio][oldschool]          | OT5     |  Yes   |                 no part 2?                  |                  [reddit post][150330_reddit_oldschool] // [Pt. 1](https://youtu.be/rJsJxFR7hko)                  |
 | 150331 |         [Power Time Radio][powertime]          | OT5     |   No   |            no full eng sub found            | [ICC cut][150331_powertime_icc_cut] // [Irene cut][150331_powertime_ir_cut] // [CHN Sub][150331_powertime_cn_sub] |
