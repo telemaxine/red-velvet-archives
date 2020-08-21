@@ -23,13 +23,13 @@
 
 [Back top](#radio-shows-masterlist)
 
-|  Date  |              Title               | Members     | Subbed |             Notes              |                      Link                      |
-|:------:|:--------------------------------:|:------------|:------:|:------------------------------:|:----------------------------------------------:|
-| 140806 |  [Old School Radio][oldschool]   | IR,JO,SG,WD |  Yes   | subbed by [ReVelUp subs][rvus] |    [YouTube](https://youtu.be/PjBCg5d_tf0)     |
-| 140821 |      [Cultwo Show][cultwo]       | OT5         |  Yes   |                                |             [YouTube][140821_cul2]             |
-| 140821 |      [Kiss the Radio][ktr]       | OT5         |  Yes   |                                | [Pt. 1][140821_ktr01] // [Pt. 2][140821_ktr02] |
-| 140822 |      Lee Sora’s Music Plaza      | OT5         |   No   |                                |           [YouTube][140822_lee_sora]           |
-| 140831 | [Youngstreet Radio][youngstreet] | OT5         |   No   |                                |         [YouTube][140831_youngstreet]          |
+|  Date  |              Title               | Members     | Subbed |             Notes              |                  Link                   |
+|:------:|:--------------------------------:|:------------|:------:|:------------------------------:|:---------------------------------------:|
+| 140806 |  [Old School Radio][oldschool]   | IR,JO,SG,WD |  Yes   | subbed by [ReVelUp subs][rvus] | [YouTube](https://youtu.be/PjBCg5d_tf0) |
+| 140821 |      [Cultwo Show][cultwo]       | OT5         |  Yes   |                                |         [YouTube][140821_cul2]          |
+| 140821 |      [Kiss the Radio][ktr]       | OT5         |  Yes   | subbed by [ReVelUp subs][rvus] | [YouTube](https://youtu.be/tyNq_6RrO1k) |
+| 140822 |      Lee Sora’s Music Plaza      | OT5         |   No   |                                |       [YouTube][140822_lee_sora]        |
+| 140831 | [Youngstreet Radio][youngstreet] | OT5         |   No   |                                |      [YouTube][140831_youngstreet]      |
 
 &#x200b;
 
