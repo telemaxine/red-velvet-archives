@@ -28,7 +28,7 @@
 | 140806 |  [Old School Radio][oldschool]   | IR,JO,SG,WD |  Yes   | subbed by [ReVelUp subs][rvus] | [YouTube](https://youtu.be/PjBCg5d_tf0) |
 | 140821 |      [Cultwo Show][cultwo]       | OT5         |  Yes   |                                |         [YouTube][140821_cul2]          |
 | 140821 |      [Kiss the Radio][ktr]       | OT5         |  Yes   | subbed by [ReVelUp subs][rvus] | [YouTube](https://youtu.be/tyNq_6RrO1k) |
-| 140822 |      Lee Sora’s Music Plaza      | OT5         |   No   |                                |       [YouTube][140822_lee_sora]        |
+| 140822 |      Lee Sora’s Music Plaza      | OT5         |  Yes   | subbed by [ReVelUp subs][rvus] |       [YouTube][140822_lee_sora]        |
 | 140831 | [Youngstreet Radio][youngstreet] | OT5         |   No   |                                |      [YouTube][140831_youngstreet]      |
 
 &#x200b;
@@ -36,7 +36,7 @@
 [140821_cul2]:http://www.dailymotion.com/video/x2o84ql
 [140821_ktr01]:https://www.youtube.com/watch?v=lEB9REwxmEU
 [140821_ktr02]:https://www.youtube.com/watch?v=GWu4dhHLezE
-[140822_lee_sora]:https://www.youtube.com/watch?v=_40zFGwK_Ms
+[140822_lee_sora]:https://youtu.be/3TJuTDnjvwE
 [140831_youngstreet]:https://www.youtube.com/watch?v=grpxHuSRLmw
 
 ## **Be Natural**
