@@ -44,6 +44,7 @@ ___
 | 200816 |  11.1   |                             with APRIL Naeun and WEKI MEKI Doyeon                  | [Yeri X Naeun X Doyeon aka 99 Cones' Friendship Bracelets Yerihan Art Room](https://youtu.be/ErQ0DWTGLH0?list=PLfkJisPrtVpv-5CeQSbQKc9T_UB3JXuUY) |
 | 200818 |  11.2   |                             with APRIL Naeun and WEKI MEKI Doyeon                  | ["The Wealthy 99cone, Kim Yerim Debuted as a Stylist For Naeun's Comeback Stage"](https://youtu.be/v-Sj1UXo3Xw) |
 | 200820 |         |                             with Red Velvet Irene & Seulgi                         | [😈 Red Velvet Seulgi Gets Penalty! & Game room that's not done yet😵](https://youtu.be/Okaq3j8uLEQ) |
+| 200821 |         |                             with APRIL Naeun and WEKI MEKI Doyeon                  | [Behind the Scenes of Yeri's Room #11: Bracelet Making Behind](https://youtu.be/CaFuCPM-kl0) |
 | 200824 |  12.1   |                             with actor Lee Hakjoo                                  | ["Movie Star 'Lee Hakjoo' Aka 'That bad guy' from 'The World of the Married' came over!"](https://youtu.be/sWMt1z-6SD4) |
 | 200826 |  12.2   |                             with actor Lee Hakjoo                                  | ["Yeri Claims MBTI Is SCIENCE INFP Fam Yeri X Hak-joo Crazy Chemistry" ](https://youtu.be/t4xpG9uIzHM) |
 | 200828 |         |                             with actor Lee Hakjoo                                  | ["Actor Lee Hak-joo (characteristic: handsome) undisclosed prior interview"](https://youtu.be/Z5CP7QYto3M) |
