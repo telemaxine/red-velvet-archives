@@ -46,3 +46,4 @@ ___
 | 200820 |         |                             with Red Velvet Irene & Seulgi                         | [😈 Red Velvet Seulgi Gets Penalty! & Game room that's not done yet😵](https://youtu.be/Okaq3j8uLEQ) |
 | 200824 |  12.1   |                             with actor Lee Hakjoo                                  | ["Movie Star 'Lee Hakjoo' Aka 'That bad guy' from 'The World of the Married' came over!"](https://youtu.be/sWMt1z-6SD4) |
 | 200826 |  12.2   |                             with actor Lee Hakjoo                                  | ["Yeri Claims MBTI Is SCIENCE INFP Fam Yeri X Hak-joo Crazy Chemistry" ](https://youtu.be/t4xpG9uIzHM) |
+| 200828 |         |                             with actor Lee Hakjoo                                  | ["Actor Lee Hak-joo (characteristic: handsome) undisclosed prior interview"](https://youtu.be/Z5CP7QYto3M) |
