@@ -8,4 +8,4 @@
 |     180813     |    [Level Up Project S3](./shows/level-up-project.md#season-3)    |   3    |      40       | OT5           |                 |
 |     180915     |            [Pajama Friends](./shows/pajama-friends.md)            |   1    |      13       | Joy           |                 |
 |     200608     |               [Yeri's Room](./shows/yeri's-room.md)               |   1    |               | Yeri          |                 |
-|     200708     |    [Level Up RISKY Project](./shows/level-up-risky-project.md)    |   1    |       ?       | Irene, Selugi |                 |
+|     200708     |    [Level Up RISKY Project](./shows/level-up-risky-project.md)    |   1    |    12 + 5     | Irene, Selugi |                 |
