@@ -23,4 +23,14 @@ ___
 | 200812 |   11    | [Subbed by Revelup Subs][rvus] | [Dailymotion](https://www.dailymotion.com/video/x7vqrmp)                             |
 | 200812 |   12    | [Subbed by Revelup Subs][rvus] | [Dailymotion](https://www.dailymotion.com/video/x7vqsei)                             |
 
+## Side Story
+
+|  Date  | Episode | Notes | Link                                                   |
+|:------:|:-------:|:------|:-------------------------------------------------------|
+| 200902 |    1    |       | [YouTube](https://www.youtube.com/watch?v=p_zh1J_kduU) |
+| 200902 |    2    |       | [YouTube](https://www.youtube.com/watch?v=G7nrZF6hiDY) |
+| 200902 |    3    |       | [YouTube](https://www.youtube.com/watch?v=mCQ9zgpR2Gk) |
+| 200902 |    4    |       | [YouTube](https://www.youtube.com/watch?v=eV56yDGqypU) |
+| 200902 |    5    |       | [YouTube](https://www.youtube.com/watch?v=Q0kGEu8ub9g) |
+
 [rvus]:https://revelupsubs.com/
