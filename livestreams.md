@@ -236,7 +236,7 @@
 | 200720 |             Red Velvet Irene & Seulgi - Twitter Blueroom Live             | Irene, Seulgi |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/BfPGs9ft5Io)   |
 | 200729 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/xv41UJHOwfc)   |
 | 200811 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |   No   |                                 |  [YouTube](https://youtu.be/nZNXRP9vXdU)   |
-| 200903 |                   [Instagram Live with Joy][instalive]                    | Joy           |   No   |                                 |  [YouTube](https://youtu.be/3ZKnx92Y_RI)   |
+| 200903 |                   [Instagram Live with Joy][instalive]                    | Joy           |  Yes   |                                 |  [YouTube](https://youtu.be/k4Gcvkdt9ho)   |
 
 &#x200b;
 
