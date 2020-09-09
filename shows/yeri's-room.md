@@ -48,3 +48,7 @@ ___
 | 200824 |  12.1   |                             with actor Lee Hakjoo                                  | ["Movie Star 'Lee Hakjoo' Aka 'That bad guy' from 'The World of the Married' came over!"](https://youtu.be/sWMt1z-6SD4) |
 | 200826 |  12.2   |                             with actor Lee Hakjoo                                  | ["Yeri Claims MBTI Is SCIENCE INFP Fam Yeri X Hak-joo Crazy Chemistry" ](https://youtu.be/t4xpG9uIzHM) |
 | 200828 |         |                             with actor Lee Hakjoo                                  | ["Actor Lee Hak-joo (characteristic: handsome) undisclosed prior interview"](https://youtu.be/Z5CP7QYto3M) |
+| 200831 |  13.1   |                             with actor Lee Yeol-eum                                | ["Goodbye to Summer! Dduhi to Yul Em"](https://youtu.be/yyb5tBBwShI) |
+| 200902 |  13.2   |                             with actor Lee Yeol-eum                                | ["Match Made in Heaven by Science! Perfect Match Yeri & Yul-Eum"](https://youtu.be/wqB2cYy_z6E) |
+| 200907 |  14.1   |                                                                                    | ["Ddu Ddu Honk Honk! A special edition on Ddu Ddu's 'preparation' for her driver's license 🚘"](https://youtu.be/HVF9TJWW9fQ) |
+| 200909 |  14.2   |                             with actor Lee Yeol-eum                                | [“Is This The First Time?! Yerihan Meal STAR-DDU with Yeoleum (Weekly Yerim feat. Taeyeon)”](https://youtu.be/z85kq0oM308) |
