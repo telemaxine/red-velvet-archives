@@ -25,12 +25,17 @@ ___
 
 ## Side Story
 
-|  Date  | Episode | Notes | Link                                                   |
-|:------:|:-------:|:------|:-------------------------------------------------------|
-| 200902 |    1    |       | [YouTube](https://www.youtube.com/watch?v=p_zh1J_kduU) |
-| 200902 |    2    |       | [YouTube](https://www.youtube.com/watch?v=G7nrZF6hiDY) |
-| 200902 |    3    |       | [YouTube](https://www.youtube.com/watch?v=mCQ9zgpR2Gk) |
-| 200902 |    4    |       | [YouTube](https://www.youtube.com/watch?v=eV56yDGqypU) |
-| 200902 |    5    |       | [YouTube](https://www.youtube.com/watch?v=Q0kGEu8ub9g) |
+|  Date  | Episode | Notes | Link                                    |
+|:------:|:-------:|:------|:----------------------------------------|
+| 200902 |   1.1   |       | [YouTube](https://youtu.be/p_zh1J_kduU) |
+| 200902 |   1.2   |       | [YouTube](https://youtu.be/G7nrZF6hiDY) |
+| 200902 |   1.3   |       | [YouTube](https://youtu.be/mCQ9zgpR2Gk) |
+| 200902 |   1.4   |       | [YouTube](https://youtu.be/eV56yDGqypU) |
+| 200902 |   1.5   |       | [YouTube](https://youtu.be/Q0kGEu8ub9g) |
+| 200909 |   2.1   |       | [YouTube](https://youtu.be/tFRD8745Nl8) |
+| 200909 |   2.2   |       | [YouTube](https://youtu.be/lWJiD3lytpU) |
+| 200909 |   2.3   |       | [YouTube](https://youtu.be/S-5gp5fEEo0) |
+| 200909 |   2.4   |       | [YouTube](https://youtu.be/VZoTbjxYrg0) |
+| 200909 |   2.5   |       | [YouTube](https://youtu.be/eUbpR3zPIvw) |
 
 [rvus]:https://revelupsubs.com/
