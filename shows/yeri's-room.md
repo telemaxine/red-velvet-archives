@@ -57,3 +57,5 @@ ___
 | 200921 |  16.1   |                                                                                    | [BBIBBI (IU) + How can I love the heartbreak, you're the one I love (AKMU) + Hidden Path (가리워진 길) (Yoo Jaeha)](https://youtu.be/22BuK3PLCIE) |
 | 200923 |  16.2   |                                                                                    | ["Yeri's NEW Original Song Arrived 💌 Released First on 'Yerihan Music Show'"](https://youtu.be/ISeWVdvL1Qc) |
 | 200925 |         |                                                                                    | [Yeri X Rie Yeri's room photo shoot](https://youtu.be/vyc8rUcGZtw) |
+| 200928 |  17.1   |                                                                                    | [Chica Chica Ddu Ddu Choco cho 🍫 DIY Hand Sanitizer with 'Yerihan Prevention'](https://youtu.be/0eqG4HnL8dQ) |
+| 200930 |  17.2   |                                                                                    | [Photography Master On Board! Yeri's Face is Perfectly Beautiful...💜 'Yerihan Photo Shoot'](https://youtu.be/ktPqbsHcAyI) |
