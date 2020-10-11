@@ -40,7 +40,7 @@
 | 200811 | Instagram Live with Yeri                   | Yeri          |   No   |                                 | [YouTube](https://youtu.be/nZNXRP9vXdU) |
 | 200903 | Instagram Live with Joy                    | Joy           |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/9IP-S8cPdFU) |
 | 200929 | Instagram Live with Seulgi                 | Seulgi        |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/z6bB1OgUO6I) |
-| 201005 | Instagram Live with Yeri                   | Yeri          |   No   |                                 | [YouTube](https://youtu.be/rjxQx87xRKk) |
+| 201005 | Instagram Live with Yeri                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/4nfi8OERL6w) |
 
 
 
