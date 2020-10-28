@@ -62,3 +62,5 @@ ___
 | 201005 |  18.1   |                             with Lee Seung Yoon                                    | [“A legendary wild man has appeared! Mr. Lee Seungyoon, let's cook that Neungi Chicken Soup”](https://youtu.be/5uSq0oFuWzM) |
 | 201007 |  18.2   |                             with Lee Seung Yoon                                    | [“Do you even lift 600kg? Lee Seung Yoon wants Yeri to know how difficult it is 🏋🏻”](https://youtu.be/wmoEG1VY9KQ) |
 | 201012 |         |                                                                                    | [Weekly Yeri’s Room Collection Vol. 1: “If you get together 😆 Red Velvet Practice Room Real Cam (feat. Irene, Seulgi, Joy)”](https://youtu.be/xk2_UFIwI-8) |
+| 201026 |  19.1   |                             with CHANGMO                                           | [REVELUV CHANGMO DREAM COME TRUE @ Yeri's Room](https://youtu.be/euT02ZiZzfM) |
+| 201028 |  19.2   |                             with CHANGMO                                           | [“Yeri X Changmo Planning a Collab?! Love Call YES 'Yerihan HIP Bang'”](https://youtu.be/g5tlvkFrB4o) |
