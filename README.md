@@ -64,7 +64,7 @@ Tools used to document and archive for this list
   * [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify)
   * [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 * [ripme](https://github.com/RipMeApp/ripme)
-* [Youtube-dl](https://github.com/ytdl-org/youtube-dl)
+* [Youtube-dl](https://gitlab.com/dstftw/youtube-dl)
 * A [Table formatter](https://tableconvert.com/)
 * A [URL extractor](https://www.browserling.com/tools/extract-urls).
 
