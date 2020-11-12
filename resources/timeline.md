@@ -32,4 +32,4 @@ _Italicized_ - Minor Era: Eras for reference only
 
 | Era Name    | Title Track |      Date span       |
 |:------------|------------:|:--------------------:|
-| **Monster** |           ? | 2020-07-?? - current |
+| **Monster** | Monster     | 2020-07-06 - current |
