@@ -66,5 +66,5 @@ ___
 | 201028 |  19.2   |                             with CHANGMO                                           | [“Yeri X Changmo Planning a Collab?! Love Call YES 'Yerihan HIP Bang'”](https://youtu.be/g5tlvkFrB4o) |
 | 201102 |  20.1   |                             with Nuksal                                            | ["'Yerihan Hip Hop School' with sister Nuk"](https://youtu.be/ZBhJxKFxqME) |
 | 201104 |  20.2   |                             with Nuksal                                            | [Ddu Ddu With Many Close Sisters X Nuckal's Great Chemistry \| Yerihan Hip-hop School](https://youtu.be/_ErGrh-sdXU) |
-| 201104 |  21.1   |                             with AKMU Lee Suhyun & Chanhyuk                        | [Suhyun is Back with 'ALIEN' 👽 (ft. Lee Chanhyuk) @ Yeri's Room](https://youtu.be/AbPoTD8Hlhs) |
-| 201104 |  21.2   |                             with AKMU Lee Suhyun                                   | ["Suhyun's LIVE without any preparation! It's no joke! ❗Caution: Ddu Ddu's real impression❗"](https://youtu.be/g3fv08ZOj2E) |
+| 201109 |  21.1   |                             with AKMU Lee Suhyun & Chanhyuk                        | [Suhyun is Back with 'ALIEN' 👽 (ft. Lee Chanhyuk) @ Yeri's Room](https://youtu.be/AbPoTD8Hlhs) |
+| 201111 |  21.2   |                             with AKMU Lee Suhyun                                   | ["Suhyun's LIVE without any preparation! It's no joke! ❗Caution: Ddu Ddu's real impression❗"](https://youtu.be/g3fv08ZOj2E) |
