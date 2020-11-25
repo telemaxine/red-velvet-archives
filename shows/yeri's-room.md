@@ -68,3 +68,5 @@ ___
 | 201104 |  20.2   |                             with Nuksal                                            | [Ddu Ddu With Many Close Sisters X Nuckal's Great Chemistry \| Yerihan Hip-hop School](https://youtu.be/_ErGrh-sdXU) |
 | 201109 |  21.1   |                             with AKMU Lee Suhyun & Chanhyuk                        | [Suhyun is Back with 'ALIEN' 👽 (ft. Lee Chanhyuk) @ Yeri's Room](https://youtu.be/AbPoTD8Hlhs) |
 | 201111 |  21.2   |                             with AKMU Lee Suhyun                                   | ["Suhyun's LIVE without any preparation! It's no joke! ❗Caution: Ddu Ddu's real impression❗"](https://youtu.be/g3fv08ZOj2E) |
+| 201123 |  22.1   |                             with Super Junior Siwon                                | [If You Want some Nice Reactions, Raise Your Head & Face SIWON](https://youtu.be/uCK5rAUVXME) |
+| 201125 |  22.2   |                             with Super Junior Siwon                                | ['Yerihan Bang' with Sooman's favorite Siwon Choi and his undeniable veteran charm and wit ](https://youtu.be/s9-IGqEjCqw) |
