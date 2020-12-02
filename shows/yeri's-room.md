@@ -70,3 +70,5 @@ ___
 | 201111 |  21.2   |                             with AKMU Lee Suhyun                                   | ["Suhyun's LIVE without any preparation! It's no joke! ❗Caution: Ddu Ddu's real impression❗"](https://youtu.be/g3fv08ZOj2E) |
 | 201123 |  22.1   |                             with Super Junior Siwon                                | [If You Want some Nice Reactions, Raise Your Head & Face SIWON](https://youtu.be/uCK5rAUVXME) |
 | 201125 |  22.2   |                             with Super Junior Siwon                                | ['Yerihan Bang' with Sooman's favorite Siwon Choi and his undeniable veteran charm and wit ](https://youtu.be/s9-IGqEjCqw) |
+| 201130 |  23.1   |                             with Shinee Key                                        | ["SM's Master "Key" who opens the door to entertainment has entered"](https://youtu.be/ucTGbb34gC8) |
+| 201202 |  23.2   |                             with Shinee Key                                        | [“Give Up Coffee, But Not VEGGIES?! Yerihan Dilemma and the Key Point”](https://youtu.be/RzQ-3WUQvLA) |
