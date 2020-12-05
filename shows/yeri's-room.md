@@ -72,3 +72,4 @@ ___
 | 201125 |  22.2   |                             with Super Junior Siwon                                | ['Yerihan Bang' with Sooman's favorite Siwon Choi and his undeniable veteran charm and wit ](https://youtu.be/s9-IGqEjCqw) |
 | 201130 |  23.1   |                             with Shinee Key                                        | ["SM's Master "Key" who opens the door to entertainment has entered"](https://youtu.be/ucTGbb34gC8) |
 | 201202 |  23.2   |                             with Shinee Key                                        | [“Give Up Coffee, But Not VEGGIES?! Yerihan Dilemma and the Key Point”](https://youtu.be/RzQ-3WUQvLA) |
+| 201204 |         |                             with Shinee Key                                        | [SM all-around KEY on the way to work💜](https://youtu.be/dRF76vEBEQY) |
