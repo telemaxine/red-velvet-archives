@@ -73,3 +73,5 @@ ___
 | 201130 |  23.1   |                             with Shinee Key                                        | ["SM's Master "Key" who opens the door to entertainment has entered"](https://youtu.be/ucTGbb34gC8) |
 | 201202 |  23.2   |                             with Shinee Key                                        | [“Give Up Coffee, But Not VEGGIES?! Yerihan Dilemma and the Key Point”](https://youtu.be/RzQ-3WUQvLA) |
 | 201204 |         |                             with Shinee Key                                        | [SM all-around KEY on the way to work💜](https://youtu.be/dRF76vEBEQY) |
+| 201207 |  24.1   |                             with 2NE1 Sandara Park                                 | [Episode 24-1: A YG Artist is Here to Tour SM Entertainment](https://youtu.be/PvEHb5Jbabw) |
+| 201209 |  24.2   |                             with 2NE1 Sandara Park                                 | [High Quality "Yerihan Tour" Red Velvet's Pick! SM's Great Dish Mukbang](https://youtu.be/TTyEvPkd5Ic) |
