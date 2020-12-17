@@ -17,7 +17,7 @@ Work In Progress _(WIP)_ - Denotes a masterlist is in an incomplete state. Major
 * [Music Shows](./music_shows.md) (WIP)
 * [Radio Shows](./radio_shows.md)
 * [Reality Shows](./reality_shows.md)
-  * [Red Velvet Level Up RISKY Project](./shows/level-up-risky-project.md)
+  * [Red Velvet Level Up RISKY Project (a.k.a THRILLING Project)](./shows/level-up-risky-project.md)
   * [Yeri's Room](./shows/yeri's-room.md)
 * [Song Covers](./song_covers.md) (WIP)
 * [Variety Shows](./variety_shows.md)
