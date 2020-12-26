@@ -239,6 +239,7 @@
 | 200903 |                   [Instagram Live with Joy][instalive]                    | Joy           |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/9IP-S8cPdFU)   |
 | 200929 |                   [Instagram Live with Seulgi][instalive]                 | Seulgi        |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/z6bB1OgUO6I)   |
 | 201005 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/4nfi8OERL6w)   |
+| 201226 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |   No   |                                 |  [YouTube](https://youtu.be/uNSyG5SSG_w)   |
 
 
 &#x200b;
