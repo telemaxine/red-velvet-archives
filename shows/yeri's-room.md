@@ -2,6 +2,7 @@
 
 _Synopsis: YERI's very own Youtube reality show! It shows her daily life._
 
+## Season 1
 ___
 | Date   | Episode |                                       Notes                                        | Link                                                                             |
 |--------|:-------:|:----------------------------------------------------------------------------------:|----------------------------------------------------------------------------------|
@@ -75,3 +76,6 @@ ___
 | 201204 |         |                             with Shinee Key                                        | [SM all-around KEY on the way to work💜](https://youtu.be/dRF76vEBEQY) |
 | 201207 |  24.1   |                             with 2NE1 Sandara Park                                 | [Episode 24-1: A YG Artist is Here to Tour SM Entertainment](https://youtu.be/PvEHb5Jbabw) |
 | 201209 |  24.2   |                             with 2NE1 Sandara Park                                 | [High Quality "Yerihan Tour" Red Velvet's Pick! SM's Great Dish Mukbang](https://youtu.be/TTyEvPkd5Ic) |
+
+## Season 2
+___
