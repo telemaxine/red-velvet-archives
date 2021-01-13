@@ -42,6 +42,7 @@
 | 200929 | Instagram Live with Seulgi                 | Seulgi        |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/z6bB1OgUO6I) |
 | 201005 | Instagram Live with Yeri                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/4nfi8OERL6w) |
 | 201226 | Instagram Live with Yeri                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/bdqe4tLb-l4) |
+| 210108 | Instagram Live with Yeri                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/Wq1aPlgM-P4) |
 
 
 
