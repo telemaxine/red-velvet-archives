@@ -9,3 +9,4 @@
 | 210106 |    5    |       |  yes   | [Youtube](https://youtu.be/5MS3iaNmKQE) |
 | 210110 |    6    |       |  yes   | [Youtube](https://youtu.be/p-zwjUhGbPk) |
 | 210113 |    7    |       |  yes   | [Youtube](https://youtu.be/lhUV8DbTwF8) |
+| 210117 |    8    |       |  yes   | [Youtube](https://youtu.be/nTwSeAn7d8k) |
