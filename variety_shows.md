@@ -17,7 +17,7 @@
   - [**RBB**](#rbb)
   - [**Zimzalabim**](#zimzalabim)
   - [**Umpah Umpah**](#umpah-umpah)
-  - [**Psycho**](#psycho)
+  - [**Psycho**](#psychomonster)
 
 ## **Happiness**
 
@@ -387,6 +387,7 @@
 |  200801  |         IRENE & SEULGI Knowing Bros: After-School Activities EP. 4         |       4        | Irene, Seulgi |                       |                                                                                                                 [YouTube](https://youtu.be/bP3eBYa1r_M)                                                                                                                 |
 |  200801  |      IRENE & SEULGI - MBC 'How Do You Play?' EP. 54 with SSAK3 & Somi      |       54       | Irene, Seulgi |                       |                                                                                                                 [YouTube](https://youtu.be/aR_amTJrFeY)                                                                                                                 |
 |  200804  |                            [Salty Tour][salty]                             |      121       | Joy           |                       |                                                                                                     [121](http://kisstvshow.to/Show/Salty-Tour-Season-2/Episode-44)                                                                                                     |
+|  210122  |                 [JTBC Mysterious Record Shop][mysterious]                  |       1        | Wendy         |      Wendy as MC      |                                                                                                                                                                                                                                                                         |
 
 [200530_amazing_sat]:https://revelupsubs.com/2020/05/30/eng-200530-irene-seulgi-amazing-saturday/
 
@@ -409,6 +410,7 @@
 [laundryday]:./shows/laundry-day.md
 [letseatdinner]:./shows/lets-eat-dinner-together.md
 [lotj]:./shows/law-of-the-jungle.md
+[mysterious]:./shows/jtbc-mysterious-record-shop.md
 [raidconvenience]:./shows/raid-the-convenience-store.md
 [runningman]:./shows/running-man.md
 [salty]:./shows/salty-tour.md
