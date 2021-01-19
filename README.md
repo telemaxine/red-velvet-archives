@@ -70,7 +70,7 @@ Tools used to document and archive for this list
 
 [member_gallery]:https://docs.google.com/spreadsheets/d/1ZJw_TcUnMVDfcYo6SRssM-zCmFUiUAM2XfCLl6oj5rc/edit#gid=1410958904
 [merch_guide]:https://docs.google.com/spreadsheets/d/13JS1OgXd03om2OfZ6XOzRl_kNyXQHKXgIojVxGer_1I/edit#gid=412688846
+[res_ss]:https://docs.google.com/spreadsheets/d/1FKsk1QwLYHNqeW9l0Y9jFCacWe6KkPj9QMgcKt4ZaTQ/edit#gid=0
 [res_ss_ods]:./resources/Red_Velvet_Resources_0420.ods
 [res_ss_xlsx]:./resources/Red_Velvet_Resources_0420.xlsx
-[res_ss]:https://docs.google.com/spreadsheets/d/1FKsk1QwLYHNqeW9l0Y9jFCacWe6KkPj9QMgcKt4ZaTQ/edit#gid=0
 [rvwiki]: https://www.reddit.com/r/red_velvet/wiki/index
