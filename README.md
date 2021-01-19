@@ -17,10 +17,11 @@ Work In Progress _(WIP)_ - Denotes a masterlist is in an incomplete state. Major
 * [Music Shows](./music_shows.md) (WIP)
 * [Radio Shows](./radio_shows.md)
 * [Reality Shows](./reality_shows.md)
-  * [Bu:QUEST](./shows/bu-quest.md)
   * [Yeri's Room](./shows/yeri's-room.md)
 * [Song Covers](./song_covers.md) (WIP)
 * [Variety Shows](./variety_shows.md)
+  * [Bu:QUEST](./shows/bu-quest.md)
+
 ___
 * [Show lists](./shows/readme.md)
 * [Miscellaneous](./misc.md)

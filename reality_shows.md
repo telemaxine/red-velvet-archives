@@ -9,4 +9,3 @@
 |     180915     |            [Pajama Friends](./shows/pajama-friends.md)            |   1    |      13       | Joy            |                 |
 |     200608     |               [Yeri's Room](./shows/yeri's-room.md)               |   1    |               | Yeri           |                 |
 |     200708     |    [Level Up RISKY Project](./shows/level-up-risky-project.md)    |   1    |    12 + 5     | Irene, Selugi  |                 |
-|     201223     |                  [Bu:Quest](./shows/bu-quest.md)                  |   1    |       8       | IR, SG, JO, YR |                 |

@@ -62,7 +62,6 @@
 * [Youngstreet Radio](./youngstreet-radio.md)
 
 ## Reality Shows
-* [Bu:QUEST](./bu-quest.md)
 * [Idol Drama Operation Team (IDOT)](./idol-drama-operation-team.md)
 * [Level Up Project](./level-up-project.md)
 * [Level Up RISKY \(아슬한\) Project](./level-up-risky-project.md)
@@ -73,6 +72,7 @@
 * [Amazing Saturday](./amazing-saturday.md)
 * [Baek Jongwon's Three Great Emperors](./baek-jongwon-three-great-emperors.md)
 * [Battle Trip](./battle-trip.md)
+* [Bu:QUEST](./bu-quest.md)
 * [Handsome Tigers](./handsome-tigers.md)
 * [Hello Counselor](./hello-counselor.md)
 * [IDOL LEAGUE](./idol-league.md)
