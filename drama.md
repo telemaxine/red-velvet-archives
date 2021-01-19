@@ -3,15 +3,17 @@
 [Go back to main](./README.md)
 
 ##  **Red Velvet**
-|  Year   |         Title          | No. Of Episodes | Subbed | Notes |                 Link(s)                 |
-|:-------:|:----------------------:|:---------------:|:------:|:-----:|:---------------------------------------:|
-| 04/2016 | Descendants of the Sun |       19        |  YES   | Cameo | [YouTube](https://youtu.be/JBFggd0V85I) |
+|  Year   |         Title          | No. Of Episodes | Subbed |                              Notes                              |                 Link(s)                 |
+|:-------:|:----------------------:|:---------------:|:------:|:---------------------------------------------------------------:|:---------------------------------------:|
+| 04/2016 | Descendants of the Sun |       19        |  YES   |                              Cameo                              | [YouTube](https://youtu.be/JBFggd0V85I) |
+| 04/2020 |   Trolls: World Tour   |        1        |        | Cameo in English Release / Wendy as main lead in Korean Release |                   --                    |
 
 ##  **Irene**
-|  Year   |                            Title                            | No. Of Episodes | Subbed |   Notes    |                                                   Link(s)                                                    |
-|:-------:|:-----------------------------------------------------------:|:---------------:|:------:|:----------:|:------------------------------------------------------------------------------------------------------------:|
-| 06/2016 |    [Hello! Our Language](./shows/hello-our-language.md)     |        3        |  YES   | Short Skit |                       [ReVelUp Subs](https://revelupsubs.com/?s=hello%21+our+language)                       |
-| 07/2016 | [Game Development Girls](./shows/game-development-girls.md) |       11        |  YES   |    Lead    | [YouTube](https://youtu.be/vG1Jrwi_yKI) // [ReVelUp Subs](https://revelupsubs.com/?s=game+development+girls) |
+|  Year   |                            Title                            | No. Of Episodes | Subbed |       Notes        |                                                   Link(s)                                                    |
+|:-------:|:-----------------------------------------------------------:|:---------------:|:------:|:------------------:|:------------------------------------------------------------------------------------------------------------:|
+| 06/2016 |    [Hello! Our Language](./shows/hello-our-language.md)     |        3        |  YES   |     Short Skit     |                       [ReVelUp Subs](https://revelupsubs.com/?s=hello%21+our+language)                       |
+| 07/2016 | [Game Development Girls](./shows/game-development-girls.md) |       11        |  YES   |    Lead Actress    | [YouTube](https://youtu.be/vG1Jrwi_yKI) // [ReVelUp Subs](https://revelupsubs.com/?s=game+development+girls) |
+| 02/2021 |                        Double Patty                         |        1        |        | Movie Lead Actress |                                                      --                                                      |
 
 ##  **Seulgi**
 |  Year   |                                    Title                                     | No. Of Episodes | Subbed |     Notes      |                 Link(s)                 |
