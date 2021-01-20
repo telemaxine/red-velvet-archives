@@ -7,6 +7,7 @@
   - [**Bad Boy**](#bad-boy)
   - [**Power Up**](#power-up)
   - [**RBB**](#rbb)
+  - [**Umpah Umpah**](#umpah-umpah)
   - [**Psycho**/*Monster*](#psychomonster)
 
 ## **Ice Cream Cake**
@@ -62,6 +63,12 @@
 | 190305 | Glamour Friendship Test                                     | OT5     |       | [YouTube](https://youtu.be/TxlK7bJkmA4)                                                  |
 | 190307 | ET Canada - Red Velvet Talk 'Peek-A-Boo' in Toronto         | OT5     |       | [YouTube](https://youtu.be/6zEkn9hZL7A)                                                  |
 | 190512 | Breakout! - Interview with Boy William                      | OT5     |       | [YouTube](https://youtu.be/GzNOo1H2y6w)                                                  |
+
+## **Umpah Umpah**
+
+| Date   | Title    | Members | Notes | Links                                   |
+|--------|----------|---------|-------|-----------------------------------------|
+| 190927 | NewsenTV | OT5     |       | [YouTube](https://youtu.be/Cp-DYE_fFUY) |
 
 ## **Psycho**/*Monster*
 
