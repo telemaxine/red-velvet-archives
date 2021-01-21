@@ -362,6 +362,10 @@
 |  190911  |      [Weekly Idol][weeklyidol]       |      424       | OT5           | Chuseok Special Highlights |                                                                                  [KShow123](http://kshow123.net/show/weekly-idol/episode-424.html)                                                                                   |
 |  190912  |              2019 ISAC               |       6        | Seulgi, Wendy |                            |                                                              [KShow123](http://kshow123.net/show/2019-idol-star-athletics-championships-chuseok-special/episode-6.html)                                                              |
 |  191020  |    [King Of Masked Singer][koms]     |   225 & 226    | Wendy         |                            | [225](http://kshow123.net/show/king-of-mask-singer/episode-225.html) // [Wendy Cut](https://vimeo.com/373700002) // [226](http://kshow123.net/show/king-of-mask-singer/episode-226.html) // [Wendy Cut](https://vimeo.com/373700104) |
+|  191203  |      [Star Garden][stargarden]       |       1        | Wendy, Joy    |                            |                                                                                              [VLive](https://www.vlive.tv/video/163683)                                                                                              |
+|  191210  |      [Star Garden][stargarden]       |       2        | Wendy, Joy    |                            |                                                                                              [VLive](https://www.vlive.tv/video/164677)                                                                                              |
+|  191217  |      [Star Garden][stargarden]       |       3        | Wendy, Joy    |                            |                                                                                              [VLive](https://www.vlive.tv/video/165942)                                                                                              |
+|  191224  |      [Star Garden][stargarden]       |       4        | Wendy, Joy    |                            |                                                                                              [VLive](https://www.vlive.tv/video/167177)                                                                                              |
 
 &#x200b;
 
@@ -427,6 +431,7 @@
 [snl]:./shows/saturday-night-live.md
 [snowball]:./shows/snowball-project.md
 [stagek]:./shows/stage-k.md
+[stargarden](./shows/star-garden.md)
 [sugarman]:./shows/sugarman.md
 [threeemperors]:./shows/baek-jongwon-three-great-emperors.md
 [victory]:./shows/victory.md
