@@ -4,6 +4,7 @@
   - [**Masterlists**](#masterlists)
   - [**Social Media**](#social-media)
 - [**Resources & References**](#resources--references)
+  - [**Red Velvet Discord channels**](#red-velvet-discord-channels)
   - [**Files for Red Velvet subreddit wiki**](#files-for-red-velvet-subreddit-wiki)
 - [**Tools**](#tools)
 
@@ -46,6 +47,15 @@ Sites I used for reference as well as formatting considerations.
 * [Red Velvet Merch Guide][merch_guide]
 * [Red Velvet Resource Spreadsheet][res_ss]
 
+## **Red Velvet Discord channels**
+
+[Red Velvet][rvcord]
+  * [Irene discord](https://discord.gg/9dggJ2s)
+  * [Seulgi discord](https://discord.gg/Ddf7t6w)
+  * [Wendy discord](https://discord.gg/vzWxsXg)
+  * [JOYcord](https://discord.gg/n4WZed9)
+  * [Yeri discord](https://discord.gg/PN874zz)
+
 ## **Files for Red Velvet subreddit wiki**
 Formatted specifically for use in Red Velvet subreddit wiki.
 
@@ -75,3 +85,4 @@ Tools used to document and archive for this list
 [res_ss_ods]:./resources/Red_Velvet_Resources_0420.ods
 [res_ss_xlsx]:./resources/Red_Velvet_Resources_0420.xlsx
 [rvwiki]: https://www.reddit.com/r/red_velvet/wiki/index
+[rvcord]:https://discord.gg/K6DVMMg
