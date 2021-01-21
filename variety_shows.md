@@ -431,7 +431,7 @@
 [snl]:./shows/saturday-night-live.md
 [snowball]:./shows/snowball-project.md
 [stagek]:./shows/stage-k.md
-[stargarden](./shows/star-garden.md)
+[stargarden]:./shows/star-garden.md
 [sugarman]:./shows/sugarman.md
 [threeemperors]:./shows/baek-jongwon-three-great-emperors.md
 [victory]:./shows/victory.md
