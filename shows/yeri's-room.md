@@ -81,3 +81,7 @@ ___
 
 ## Season 2
 ___
+
+| Date | Episode | Notes | Link    |
+|------|:-------:|:-----:|---------|
+| TBA  |    1    |       | Youtube |
