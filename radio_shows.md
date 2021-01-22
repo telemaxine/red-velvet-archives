@@ -294,7 +294,7 @@
 | 200714 |           Kang Hanna's Volume Up            | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/ur4F2_5A9rg) |
 | 200715 |      [Park Won's Kiss The Radio][ktr]       | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/-nNC_wM8GQk) |
 | 200720 | [Kim Shinyoung Hope Song at Noon][hopesong] | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/Xd4rhjsHB5k) |
-| 200728 |         AvenGirls with DJ Moonbyul          | Seulgi        |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/wt_aeUJQDA0) |
+| 200728 |         AvenGirls with DJ Moonbyul          | Seulgi        |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [MEGA](https://mega.nz/file/p9wmiKqa#1mzHNzL1TxfBks_JP5dqZs2ag43mpBBW4UTTQkZFP-4) |
 
 &#x200b;
 
