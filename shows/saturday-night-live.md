@@ -12,10 +12,10 @@ _Synopsis: A series of short stories that the members did for SNL Korea_
 
 Note: Dates refer to the corresponding Vlive post dates
 ___
-| **Date** | **Title** | **Member** | **Notes** |                 **Link**                  |
-|:--------:|:---------:|:----------:|:---------:|:-----------------------------------------:|
-|  160913  |           |    Joy     |           | [VLive](https://www.vlive.tv/video/13869) |
-|  160914  |           |   Seulgi   |           | [VLive](https://www.vlive.tv/video/13927) |
-|  160915  |           |   Wendy    |           | [VLive](https://www.vlive.tv/video/13956) |
-|  160916  |           |   Irene    |           | [VLive](https://www.vlive.tv/video/13995) |
-|  160917  |           |    Yeri    |           | [VLive](https://www.vlive.tv/video/14051) |
+| **Date** | **Show** | **Member(s)** | **Notes** |                 **Links**                 |
+|:--------:|:--------:|:-------------:|:---------:|:-----------------------------------------:|
+|  160913  |          |      Joy      |           | [VLive](https://www.vlive.tv/video/13869) |
+|  160914  |          |    Seulgi     |           | [VLive](https://www.vlive.tv/video/13927) |
+|  160915  |          |     Wendy     |           | [VLive](https://www.vlive.tv/video/13956) |
+|  160916  |          |     Irene     |           | [VLive](https://www.vlive.tv/video/13995) |
+|  160917  |          |     Yeri      |           | [VLive](https://www.vlive.tv/video/14051) |
