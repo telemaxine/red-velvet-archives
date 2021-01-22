@@ -12,6 +12,12 @@ For use as footer links in markdown documents.
 [yourone_unnie]:https://www.youtube.com/channel/UCF4K2A2ogB4Q-PbcZD2OHng
 ```
 
+## Vimeo
+
+```
+[warmblue_vm]:https://vimeo.com/warmblueforwendy
+```
+
 ## Translators/Translator sites
 ```
 [rvus]:https://revelupsubs.com/
