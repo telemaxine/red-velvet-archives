@@ -85,6 +85,7 @@
 * [Laundry Day](./laundry-day.md)
 * [Law of the Jungle](./law-of-the-jungle.md)
 * [Let's Eat Dinner Together](./lets-eat-dinner-together.md)
+* [Mysterious Record Shop](./jtbc-mysterious-record-shop.md)
 * [Raid the Convenience Store](./raid-the-convenience-store.md)
 * [Running Man](./running-man.md)
 * [Salty Tour](./salty-tour.md)
