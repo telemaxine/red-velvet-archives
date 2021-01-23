@@ -242,7 +242,7 @@
 | 201005 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/4nfi8OERL6w)   |
 | 201226 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/bdqe4tLb-l4)   |
 | 210108 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  |  [YouTube](https://youtu.be/Wq1aPlgM-P4)   |
-
+| 210122 |                      Today is... Wendy's Radio Time                       | Wendy         |  Yes   | subbed by [RevelUp Subs][rvus]  |  [Youtube](https://youtu.be/e57Zr29Jk1Q)   |
 
 &#x200b;
 
