@@ -72,11 +72,12 @@
 
 ## **Psycho**/*Monster*
 
-| Date   | Title                                                                                                  | Members       | Notes | Links                                   |
-|--------|--------------------------------------------------------------------------------------------------------|---------------|-------|-----------------------------------------|
-| 200701 | Irene & Irene interview                                                                                | Irene, Seulgi |       | [YouTube](https://youtu.be/EOTas1VYhYU) |
-| 200701 | Seulgi & Seulgi interview                                                                              | Irene, Seulgi |       | [YouTube](https://youtu.be/bt7ryoMx3-Q) |
-| 200708 | Red Velvet: IRENE & SEULGI - 'I want to know🧐 (Feat. Monster Box😈) \[Get to know Irene & Seulgi\]    | Irene, Seulgi |       | [YouTube](https://youtu.be/MB_G-x51vHg) |
-| 200708 | Red Velvet: IRENE & SEULGI - 'I want to know🧐 (Feat. Monster Box😈) \[Get to know Irene & Seulgi\] #2 | Irene, Seulgi |       | [YouTube](https://youtu.be/EzrJEuOnL-4) |
+| Date   | Title                                                                                                  | Members       | Notes    | Links                                   |
+|--------|--------------------------------------------------------------------------------------------------------|---------------|----------|-----------------------------------------|
+| 200701 | Irene & Irene interview                                                                                | Irene, Seulgi |          | [YouTube](https://youtu.be/EOTas1VYhYU) |
+| 200701 | Seulgi & Seulgi interview                                                                              | Irene, Seulgi |          | [YouTube](https://youtu.be/bt7ryoMx3-Q) |
+| 200708 | Red Velvet: IRENE & SEULGI - 'I want to know🧐 (Feat. Monster Box😈) \[Get to know Irene & Seulgi\]    | Irene, Seulgi |          | [YouTube](https://youtu.be/MB_G-x51vHg) |
+| 200708 | Red Velvet: IRENE & SEULGI - 'I want to know🧐 (Feat. Monster Box😈) \[Get to know Irene & Seulgi\] #2 | Irene, Seulgi |          | [YouTube](https://youtu.be/EzrJEuOnL-4) |
+| 200824 | [STATION/Our Beloved BoA \#4] Red Velvet 레드벨벳 Interview \#비하인더스테이션                            | OT5           | unsubbed | [Youtube](https://youtu.be/SL_QEya3W4E) |
 
 [kseulwan_yt]:https://www.youtube.com/channel/UC8wlaclYkaD9fxWD_vrXxvA
