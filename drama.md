@@ -28,3 +28,8 @@
 | 03/2017 | [The Liar And His Lover](./shows/liar-and-his-lover.md) |       10        |  YES   |                         Lead                          |             [Netflix](https://www.netflix.com/title/81167083)             |
 | 04/2017 |              The Boy Next Door (Some Guy)               |       15        |  YES   | Cameo at [38:30](https://youtu.be/KMF7kqfirQE?t=2310) |                  [YouTube](https://youtu.be/KMF7kqfirQE)                  |
 | 03/2018 |    [Tempted (The Great Seducer)](./shows/tempted.md)    |       32        |  YES   |                         Lead                          | [NewAsianTV](https://vww.newasiantv.tv/drama/the-great-seducer.4108.html) |
+
+## **Yeri**
+|  Year   |                   Title                    | No. Of Episodes | Subbed | Notes | Link(s) |
+|:-------:|:------------------------------------------:|:---------------:|:------:|:-----:|:-------:|
+| 03/2021 | Drama Stage 2021 Episode 7: Mint Condition |        1        |        |       |         |
