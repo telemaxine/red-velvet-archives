@@ -14,4 +14,4 @@ ___
 | 210129 |       2       | subbed by [warmblue][warmblue_tw] |                                              | [GDrive](https://drive.google.com/file/d/1NL3YM2K1ba_LakpXr_ERaGVYt6tHs1ns/) |
 | 210205 |       3       |                                   |                                              |                                                                              |
 
-[warmblue_tw](https://www.twitter.com/warmblue0221/)
+[warmblue_tw]:https://www.twitter.com/warmblue0221/

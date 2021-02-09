@@ -20,7 +20,7 @@ For use as footer links in markdown documents.
 
 ## Social
 ```
-[warmblue_tw](https://www.twitter.com/warmblue0221/)
+[warmblue_tw]:https://www.twitter.com/warmblue0221/
 ```
 
 ## Translators/Translator sites
