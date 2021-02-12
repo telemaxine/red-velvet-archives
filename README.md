@@ -22,6 +22,7 @@ Work In Progress _(WIP)_ - Denotes a masterlist is in an incomplete state. Major
 * [Song Covers](./song_covers.md) (WIP)
 * [Variety Shows](./variety_shows.md)
   * [Bu:QUEST](./shows/bu-quest.md)
+  * [Mysterious Record Shop](./shows/jtbc-mysterious-record-shop.md)
 
 ___
 * [Show lists](./shows/readme.md)
