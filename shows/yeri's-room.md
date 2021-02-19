@@ -82,6 +82,7 @@ ___
 ## Season 2
 ___
 
-| Date | Episode | Notes | Link    |
-|------|:-------:|:-----:|---------|
-| TBA  |    1    |       | Youtube |
+| Date   | Episode |  Notes  | Link                                                                                                      |
+|--------|:-------:|:-------:|-----------------------------------------------------------------------------------------------------------|
+| 210219 |         | Preview | [Long time no see💜Yeri telling you the schedule of 'Yeris Room' season 2⏰](https://youtu.be/AxSD56rUTyk) |
+| TBA    |    1    |         | Youtube                                                                                                   |
