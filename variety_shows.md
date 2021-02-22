@@ -133,7 +133,8 @@
 |  160716  |                    My Little Television                     |       61       | Joy           |                                  |                                                    [MEGA](https://mega.nz/file/5gRwTSyT#l1vSuf121HH7IL0BJ7hWQuH2fzyjpblAH2ZtIhTNHq4)                                                     |
 |  160811  |                       Ranting Monkey                        |       6        | Seulgi        |              Cameo               |                                                                      [YouTube](https://youtu.be/PwamtyW1EOw?t=180)                                                                       |
 |  160901  | [Game Development Girls](./shows/game-development-girls.md) |      1-11      | Irene         |              Drama               |                                                                      [Show list](./shows/game-development-girls.md)                                                                      |
-|  160904  |                       Problematic Men                       |       77       | Wendy         |                                  |                              [RVUS](https://revelupsubs.com/2016/09/04/eng-160904-wendy-problematic-man/) // [Openload \(broken\)](https://openload.co/f/4mDmG6gEdzg)                               |
+|  160904  |                       Problematic Men                       |       77       | Wendy         |                                  |                         [RVUS](https://revelupsubs.com/2016/09/04/eng-160904-wendy-problematic-man/) // [Openload \(broken\)](https://openload.co/f/4mDmG6gEdzg)                         |
+|  160919  |          Irene & Wendy MY SMT w/ Leetuk & Doyoung           |                | Irene, Wendy  |      subbed by [RVUS][rvus]      |                                                                         [Youtube](https://youtu.be/TpEtrXjlUNY)                                                                          |
 
 &#x200b;
 
@@ -443,4 +444,6 @@
 [yerihan]:./shows/yeri's-room.md
 [yuhuiyeol]:./shows/yu-huiyeol-sketchbook.md
 
-[dreamluv_subs]:https://www.youtube.com/channel/UCLGPR1aF5L9zy1JZMBArf7g
+[dreamluv_subs]:https://www.youtube.com/channel/
+[rvus]:https://revelupsubs.com/
+
