@@ -15,3 +15,4 @@ ___
 | 200803 | 아이린&슬기 Vlog: Monster Ver.                                        | Irene, Seulgi | No     |                                                                                    | [YouTube](https://youtu.be/bM8RGirSfdE) |
 | 200804 | Joy Singles Korea                                                    | Joy           | No     | [Translation thread](https://twitter.com/ilyerene/status/1290595638036422657?s=21) | [YouTube](https://youtu.be/BJhh_IpAsBo) |
 | 210210 | Cheongdam SEULGI Noodle House                                        | Seulgi        | Yes    | For Selugi's birthday                                                              | [Youtube](https://youtu.be/6nSv5HU-kPA) |
+| 210221 | Today is...WENDY’s Birthday!🥳💙 \| 오늘은 웬디...                   | Wendy         | No     | For Wendy's birthday                                                               | [Youtube](https://youtu.be/CCJR5yEOuek) |
