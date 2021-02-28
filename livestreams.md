@@ -90,6 +90,7 @@
 
 | Date   |                  Title                   | Members     | Subbed |             Notes              |                                 Links                                  |
 |:-------|:----------------------------------------:|:------------|:------:|:------------------------------:|:----------------------------------------------------------------------:|
+| 170131 |     Red Velvet's "Rookie" Countdown      | OT5         |  Yes   |       54:20 for hilarity       |               [VLive](https://www.vlive.tv/video/21691)                |
 | 170227 |       Irene & Yeri Surprise VLive        | Irene, Yeri |  Yes   |                                |               [VLive](https://www.vlive.tv/video/23910)                |
 | 170228 |            Wendy & Yeri VLive            | Wendy, Yeri |  Yes   | SNSD Taeyeon Guest appearance  |               [VLive](https://www.vlive.tv/video/24007)                |
 | 170313 | [Instagram Live with Saeron][instalive]  | Yeri        |  Yes   | subbed by [RevelUp Subs][rvus] |                [YouTube](https://youtu.be/LPsZ4sxvqKo)                 |
@@ -116,11 +117,12 @@
 
 [Back top](#livestreams)
 
-| Date   |                  Title                  | Members | Subbed |             Notes              |                                                                                               Links                                                                                                |
-|:-------|:---------------------------------------:|:--------|:------:|:------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 171116 |        [Red Velvet X LieV][liev]        | OT5     |  Yes   |                                |                                                                             [VLive](https://www.vlive.tv/video/47551)                                                                              |
-| 171127 |       [Instagram Live][instalive]       | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] |                                                                              [YouTube](https://youtu.be/-LlHmPBizd8)                                                                               |
-| 171130 | [Instagram Live with Saeron][instalive] | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [RVUS](https://revelupsubs.com/2017/11/30/eng-171130-yeri-insta-live-w-saeron/) // [MEGA](https://mega.nz/#!dwp1EaRQ!P5QUG1U2gqiU5VVpflUctXZ9tCHNHy_uHajcmgV1i1Y) // [KB][171130_ig_yeri_w_saeron] |
+| Date   |                  Title                  | Members                 | Subbed |             Notes              |                                                                                               Links                                                                                                |
+|:-------|:---------------------------------------:|:------------------------|:------:|:------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 171116 |        [Red Velvet X LieV][liev]        | OT5                     |  Yes   |                                |                                                                             [VLive](https://www.vlive.tv/video/47551)                                                                              |
+| 171127 |       [Instagram Live][instalive]       | OT5                     |  Yes   | subbed by [RevelUp Subs][rvus] |                                                                              [YouTube](https://youtu.be/-LlHmPBizd8)                                                                               |
+| 171121 |            Ice Cream Mukbang            | Irene, Wendy, Joy, Yeri |  Yes   |                                |                                                                             [VLive](https://www.vlive.tv/video/49929)                                                                              |
+| 171130 | [Instagram Live with Saeron][instalive] | Yeri                    |  Yes   | subbed by [RevelUp Subs][rvus] | [RVUS](https://revelupsubs.com/2017/11/30/eng-171130-yeri-insta-live-w-saeron/) // [MEGA](https://mega.nz/#!dwp1EaRQ!P5QUG1U2gqiU5VVpflUctXZ9tCHNHy_uHajcmgV1i1Y) // [KB][171130_ig_yeri_w_saeron] |
 
 [171130_ig_yeri_w_saeron]:https://telemaxus.keybase.pub/rv/livestream/171130%20Yeri%20Instagram%20Live%20w%20Saeron.mp4
 
@@ -133,7 +135,7 @@
 | 180205 |       Red Velvet Oksusu Live Mukbang       | OT5      |  Yes   |        for ReVelUp Project Season 2         | [DailyMotion](https://www.dailymotion.com/embed/video/k18miW12PMjlSptdmlu) // [MEGA](https://mega.nz/#!g9IWSQCJ!sQY_kbMiaGkON1gxPtRGlo7UUSFcYwsYjUTnms5pde4) // [KB][180205_oksusu_live] |
 | 180318 | Red Velvet Oksusu Level Up Project Fanmeet | OT5      |  Yes   | subbed by [DreamLuv Subs][dreamluv_subs-dm] |                                                                 [DailyMotion](https://www.dailymotion.com/video/x7t2665)                                                                 |
 | 180520 |   [Instagram Live with Yeri][instalive]    | Yeri     |  Yes   |       subbed by [RevelUp Subs][rvus]        |                                                                         [YouTube](https://youtu.be/Y6PQLDraRoA)                                                                          |
-| 180606 |                러비들 야식먹자❤️😍         | SG,WD,YR |  Yes   |                                             |                                                               [VLive](https://www.vlive.tv/video/74548?channelCode=DCF447)                                                               |
+| 180606 |                러비들 야식먹자❤️😍         | SG,WD,YR |  Yes   |                                             |                                                                        [VLive](https://www.vlive.tv/video/74548)                                                                         |
 | 180707 |    [Instagram Live with Joy][instalive]    | Joy      |  Yes   |       subbed by [RevelUp Subs][rvus]        |                                                                         [YouTube](https://youtu.be/3eMfxLTMq-k)                                                                          |
 | 180722 |    [Instagram Live in Japan][instalive]    | OT5      |  Yes   |       subbed by [RevelUp Subs][rvus]        |                                                                         [YouTube](https://youtu.be/4Wae2wVYWa8)                                                                          |
 
@@ -247,6 +249,8 @@
 | 210108 |                   [Instagram Live with Yeri][instalive]                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus] and [warm blue][warmblue] |      [warmblue ver.](https://youtu.be/zUBN0vm8dLU) // [RVUS ver.](https://youtu.be/Wq1aPlgM-P4)      |
 | 210122 |                      Today is... Wendy's Radio Time                       | Wendy         |  Yes   |              subbed by [RevelUp Subs][rvus]              |                               [Youtube](https://youtu.be/e57Zr29Jk1Q)                                |
 | 210129 |                               Seulgi VLive                                | Seulgi        |   No   |                                                          | [1st Part](https://www.vlive.tv/post/1-21079894) // [2nd Part](https://www.vlive.tv/post/0-21073061) |
+| 210206 |                            YERI's don't worRI                             | Yeri          |  Yes   |                                                          |                            [VLive](https://www.vlive.tv/post/1-21179700)                             |
+| 210210 |                         My birthday with Reveluv                          | Seulgi, Yeri  |  Yes   |                                                          |                              [VLive](https://www.vlive.tv/video/236560)                              |
 
 &#x200b;
 
