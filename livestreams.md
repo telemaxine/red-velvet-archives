@@ -88,14 +88,16 @@
 
 [Back top](#livestreams)
 
-| Date   |                  Title                   | Members | Subbed |             Notes              |                                 Links                                  |
-|:-------|:----------------------------------------:|:--------|:------:|:------------------------------:|:----------------------------------------------------------------------:|
-| 170313 | [Instagram Live with Saeron][instalive]  | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] |                [YouTube](https://youtu.be/LPsZ4sxvqKo)                 |
-| 170319 |  [Instagram Live in Mexico][instalive]   | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] |                [YouTube](https://youtu.be/5_XsPOwl7rI)                 |
-| 170420 | [Instagram Live with Saeron][instalive]  | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] |                [YouTube](https://youtu.be/ap6bGxy9uTI)                 |
-| 170428 |  [Instagram Live with Yeri][instalive]   | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/2XT6qCfWCU4) // [Google Drive][170428_gd_1] |
-| 170521 | [Instagram Live in Indonesia][instalive] | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] |                [YouTube](https://youtu.be/iNXasmLt9kA)                 |
-| 170523 | [Instagram Live in Malaysia][instalive]  | OT5     |  Yes   | subbed by [RevelUp Subs][rvus] |                [YouTube](https://youtu.be/R5FYDwWEyoo)                 |
+| Date   |                  Title                   | Members     | Subbed |             Notes              |                                 Links                                  |
+|:-------|:----------------------------------------:|:------------|:------:|:------------------------------:|:----------------------------------------------------------------------:|
+| 170227 |       Irene & Yeri Surprise VLive        | Irene, Yeri |  Yes   |                                |               [VLive](https://www.vlive.tv/video/23910)                |
+| 170228 |            Wendy & Yeri VLive            | Wendy, Yeri |  Yes   | SNSD Taeyeon Guest appearance  |               [VLive](https://www.vlive.tv/video/24007)                |
+| 170313 | [Instagram Live with Saeron][instalive]  | Yeri        |  Yes   | subbed by [RevelUp Subs][rvus] |                [YouTube](https://youtu.be/LPsZ4sxvqKo)                 |
+| 170319 |  [Instagram Live in Mexico][instalive]   | OT5         |  Yes   | subbed by [RevelUp Subs][rvus] |                [YouTube](https://youtu.be/5_XsPOwl7rI)                 |
+| 170420 | [Instagram Live with Saeron][instalive]  | Yeri        |  Yes   | subbed by [RevelUp Subs][rvus] |                [YouTube](https://youtu.be/ap6bGxy9uTI)                 |
+| 170428 |  [Instagram Live with Yeri][instalive]   | Yeri        |  Yes   | subbed by [RevelUp Subs][rvus] | [YouTube](https://youtu.be/2XT6qCfWCU4) // [Google Drive][170428_gd_1] |
+| 170521 | [Instagram Live in Indonesia][instalive] | OT5         |  Yes   | subbed by [RevelUp Subs][rvus] |                [YouTube](https://youtu.be/iNXasmLt9kA)                 |
+| 170523 | [Instagram Live in Malaysia][instalive]  | OT5         |  Yes   | subbed by [RevelUp Subs][rvus] |                [YouTube](https://youtu.be/R5FYDwWEyoo)                 |
 
 [170428_gd_1]:https://drive.google.com/file/d/15h5gZ4oocCQd7pm9iQ2QGOHZPhsAAB9A/view
 
@@ -103,11 +105,12 @@
 
 [Back top](#livestreams)
 
-| Date   |             Title              | Members | Subbed |                  Notes                   |                                     Links                                      |
-|:-------|:------------------------------:|:--------|:------:|:----------------------------------------:|:------------------------------------------------------------------------------:|
-| 170709 |        Twitter Live Q&A        | OT5     |  Yes   |      subbed by [RevelUp Subs][rvus]      |                    [YouTube](https://youtu.be/egC67gnow0o)                     |
-| 170803 |     Red Velvet Oksusu Live     | OT5     |  Yes   | subbed by [DreamLuv Subs][dreamluv_subs] | [Pt. 1](https://youtu.be/ofkSoMU4k1U) // [Pt. 2](https://youtu.be/YvfdjUj29nE) |
-| 170925 | Red Velvet Oksusu Live Mukbang | OT5     |  Yes   |       for ReVelUp Project Season 1       |                    [YouTube](https://youtu.be/GulFRqOoH8c)                     |
+| Date   |             Title              | Members     | Subbed |                  Notes                   |                                     Links                                      |
+|:-------|:------------------------------:|:------------|:------:|:----------------------------------------:|:------------------------------------------------------------------------------:|
+| 170709 |        Twitter Live Q&A        | OT5         |  Yes   |      subbed by [RevelUp Subs][rvus]      |                    [YouTube](https://youtu.be/egC67gnow0o)                     |
+| 170721 |      Irene & Yeri Appears      | Irene, Yeri |  Yes   |                                          |                   [VLive](https://www.vlive.tv/video/36482)                    |
+| 170803 |     Red Velvet Oksusu Live     | OT5         |  Yes   | subbed by [DreamLuv Subs][dreamluv_subs] | [Pt. 1](https://youtu.be/ofkSoMU4k1U) // [Pt. 2](https://youtu.be/YvfdjUj29nE) |
+| 170925 | Red Velvet Oksusu Live Mukbang | OT5         |  Yes   |       for ReVelUp Project Season 1       |                    [YouTube](https://youtu.be/GulFRqOoH8c)                     |
 
 ## **Peek-A-Boo**
 
