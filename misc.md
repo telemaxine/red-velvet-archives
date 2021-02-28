@@ -16,3 +16,4 @@ ___
 | 200804 | Joy Singles Korea                                                    | Joy           | No     | [Translation thread](https://twitter.com/ilyerene/status/1290595638036422657?s=21) | [YouTube](https://youtu.be/BJhh_IpAsBo) |
 | 210210 | Cheongdam SEULGI Noodle House                                        | Seulgi        | Yes    | For Selugi's birthday                                                              | [Youtube](https://youtu.be/6nSv5HU-kPA) |
 | 210221 | Today is...WENDY’s Birthday!🥳💙 \| 오늘은 웬디...                   | Wendy         | No     | For Wendy's birthday                                                               | [Youtube](https://youtu.be/CCJR5yEOuek) |
+| 210227 | A White Night OST                                                    | Irene         | N/A    | MV for Irene's drama OST                                                           | [YouTube](https://youtu.be/vnBkl2n2bgw) |
