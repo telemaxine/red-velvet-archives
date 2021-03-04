@@ -30,6 +30,6 @@
 | 03/2018 |    [Tempted (The Great Seducer)](./shows/tempted.md)    |       32        |  YES   |                         Lead                          | [NewAsianTV](https://vww.newasiantv.tv/drama/the-great-seducer.4108.html) |
 
 ## **Yeri**
-|  Year   |                   Title                    | No. Of Episodes | Subbed | Notes | Link(s) |
-|:-------:|:------------------------------------------:|:---------------:|:------:|:-----:|:-------:|
-| 03/2021 | Drama Stage 2021 Episode 7: Mint Condition |        1        |        |       |         |
+|  Year   |                   Title                    | No. Of Episodes | Subbed | Notes |                                      Link(s)                                      |
+|:-------:|:------------------------------------------:|:---------------:|:------:|:-----:|:---------------------------------------------------------------------------------:|
+| 03/2021 | Drama Stage 2021 Episode 7: Mint Condition |        1        |   No   |       | [MEGA](https://mega.nz/file/OjZSnR7Z#eZ46xy00NFyeJcizaFCb4cXQaq2X1QV2X_gW1UGTw1k) |
