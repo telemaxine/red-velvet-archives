@@ -36,10 +36,11 @@
 ## **Bad Boy**
 [Back top](#interviews)
 
-| Date   | Title               | Members     | Notes                             | Links                                   |
-|--------|---------------------|-------------|-----------------------------------|-----------------------------------------|
-| 180227 | Sina Interview      | IR,JO,SG,WD | subbed by [kseulwan][kseulwan_yt] | [YouTube](https://youtu.be/uNr2Qoh6FSg) |
-| 180227 | YinYueTai Interview | IR,JO,SG,WD | subbed by [kseulwan][kseulwan_yt] | [YouTube](https://youtu.be/Pa7K9EOZM68) |
+| Date   | Title                       | Members     | Notes                             | Links                                                                                    |
+|--------|-----------------------------|-------------|-----------------------------------|------------------------------------------------------------------------------------------|
+| 180212 | Red Velvet Micing Interview | OT5         | subbed                            | [YouTube](https://youtu.be/DwMAB_SI2Wk) // [YouTube (sub)](https://youtu.be/eetIoz5aiHg) |
+| 180227 | Sina Interview              | IR,JO,SG,WD | subbed by [kseulwan][kseulwan_yt] | [YouTube](https://youtu.be/uNr2Qoh6FSg)                                                  |
+| 180227 | YinYueTai Interview         | IR,JO,SG,WD | subbed by [kseulwan][kseulwan_yt] | [YouTube](https://youtu.be/Pa7K9EOZM68)                                                  |
 
 ## **Power Up**
 [Back top](#interviews)
