@@ -7,6 +7,7 @@
   - [**Red Velvet Discord channels**](#red-velvet-discord-channels)
   - [**Files for Red Velvet subreddit wiki**](#files-for-red-velvet-subreddit-wiki)
 - [**Tools**](#tools)
+- [**Contributing**](#contributing)
 
 ## **Masterlists**
 
@@ -79,6 +80,14 @@ Tools used to document and archive for this list
 * [Youtube-dl](https://github.com/ytdl-org/youtube-dl/)
 * A [Table formatter](https://tableconvert.com/)
 * A [URL extractor](https://www.browserling.com/tools/extract-urls).
+
+# **Contributing**
+
+Want to add or update stuff?
+
+Option A: If you're comfortable with git and github submit a pull request with your changes and I'll review it for merging.
+
+Option B: If you're not comfortable with Option A, place an issue and I'll try to fix is as soon as possible.
 
 [member_gallery]:https://docs.google.com/spreadsheets/d/1ZJw_TcUnMVDfcYo6SRssM-zCmFUiUAM2XfCLl6oj5rc/edit#gid=1410958904
 [merch_guide]:https://docs.google.com/spreadsheets/d/13JS1OgXd03om2OfZ6XOzRl_kNyXQHKXgIojVxGer_1I/edit#gid=412688846
