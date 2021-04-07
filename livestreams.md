@@ -15,7 +15,7 @@
   - [**RBB**](#rbb)
   - [**Zimzalabim**](#zimzalabim)
   - [**Umpah Umpah**](#umpah-umpah)
-  - [**Psycho**/*Monster*](#psychomonster)
+  - [**Psycho**/*Monster*/*Like Water*](#psychomonsterlike-water)
 
 ## **Ice Cream Cake**
 [Back top](#livestreams)
@@ -214,7 +214,7 @@
 | 190821 | [Umpah Umpah Camping Date Comeback Special][comebacklive] | OT5     |  Yes   |                                | [VLive](https://www.vlive.tv/video/145245) |
 | 191130 |           [Instagram Live with Yeri][instalive]           | Yeri    |  Yes   | subbed by [RevelUp Subs][rvus] |   [YouTube](https://youtu.be/cfR6fdW0BW8)    |
 
-## **Psycho**/*Monster*
+## **Psycho**/*Monster*/*Like Water*
 
 [Back top](#livestreams)
 
@@ -251,6 +251,7 @@
 | 210129 |                               Seulgi VLive                                | Seulgi        |   No   |                                                          | [1st Part](https://www.vlive.tv/post/1-21079894) // [2nd Part](https://www.vlive.tv/post/0-21073061) |
 | 210206 |                            YERI's don't worRI                             | Yeri          |  Yes   |                                                          |                            [VLive](https://www.vlive.tv/post/1-21179700)                             |
 | 210210 |                         My birthday with Reveluv                          | Seulgi, Yeri  |  Yes   |                                                          |                              [VLive](https://www.vlive.tv/video/236560)                              |
+| 210405 |                          Wendy 'Like Water' live                          | Wendy         |        |                                                          |                                                                                                      |
 
 &#x200b;
 
