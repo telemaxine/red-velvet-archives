@@ -18,3 +18,6 @@ ___
 | 210210 | Cheongdam SEULGI Noodle House                                        | Seulgi        | Yes    | For Selugi's birthday                                                              | [Youtube](https://youtu.be/6nSv5HU-kPA)                                          |
 | 210221 | Today is...WENDY’s Birthday!🥳💙 \| 오늘은 웬디...                        | Wendy         | No     | For Wendy's birthday                                                               | [Youtube](https://youtu.be/CCJR5yEOuek)                                          |
 | 210227 | A White Night OST                                                    | Irene         | N/A    | MV for Irene's drama OST                                                           | [YouTube](https://youtu.be/vnBkl2n2bgw)                                          |
+| 210405 | Wendy Melon Station SMing | Wendy | Yes | subbed by [warmblue] | [YouTube](https://youtu.be/4tUa9BBP0rQ) |
+
+[warmblue]:https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
