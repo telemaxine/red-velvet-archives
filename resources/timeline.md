@@ -33,3 +33,9 @@ _Italicized_ - Minor Era: Eras for reference only
 | Era Name    | Title Track |      Date span       |
 |:------------|------------:|:--------------------:|
 | **Monster** | Monster     | 2020-07-06 - current |
+
+## Solo
+
+| Album Name |                        Title Track | Date span            |
+|:-----------|-----------------------------------:|----------------------|
+| Like Water | When This Rain Stops // Like Water | 2021-04-05 - current |

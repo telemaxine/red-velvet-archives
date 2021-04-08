@@ -95,6 +95,7 @@
 * [Stage K](./stage-k.md)
 * [Star Garden](./star-garden.md)
 * [Sugarman](./sugarman.md)
+* [The Wise Music Encyclopedia](./the-wise-music-encyclopedia.md)
 * [Trick and True](./trick-and-true.md)
 * [We Got Married](./wgm.md)
 * [Weekly Idol](./weekly-idol.md)
