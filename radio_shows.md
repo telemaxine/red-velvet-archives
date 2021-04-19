@@ -17,7 +17,7 @@
   - [**RBB**](#rbb)
   - [**Zimzalabim**](#zimzalabim)
   - [**Umpah Umpah**](#umpah-umpah)
-  - [**Psycho**/*Monster*](#psychomonster)
+  - [**Psycho**/*Monster*/*Like Water*](#psychomonsterlike-water)
 
 ## **Happiness**
 
@@ -281,7 +281,7 @@
 
 &#x200b;
 
-## **Psycho**/*Monster*
+## **Psycho**/*Monster*/*Like Water*
 
 [Back top](#radio-shows-masterlist)
 
@@ -295,6 +295,7 @@
 | 200715 |      [Park Won's Kiss The Radio][ktr]       | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/-nNC_wM8GQk) |
 | 200720 | [Kim Shinyoung Hope Song at Noon][hopesong] | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/Xd4rhjsHB5k) |
 | 200728 |         AvenGirls with DJ Moonbyul          | Seulgi        |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [MEGA](https://mega.nz/file/p9wmiKqa#1mzHNzL1TxfBks_JP5dqZs2ag43mpBBW4UTTQkZFP-4) |
+| 210408 |            [Cultwo Show][cultwo]            | Wendy         |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/-duE6gO0Ggs) |
 
 &#x200b;
 
