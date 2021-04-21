@@ -17,14 +17,14 @@
   - [**RBB**](#rbb)
   - [**Zimzalabim**](#zimzalabim)
   - [**Umpah Umpah**](#umpah-umpah)
-  - [**Psycho**](#psychomonster)
+  - [**Psycho**](#psychomonsterlike-water)
 
 ## **Happiness**
 
 [Back top](#variety-shows-masterlist)
 
 | **Date** |             **Show**              | **Episode(s)** | **Member(s)** | **Notes** |                **Links**                |
-|:--------:|:---------------------------------:|:--------------:|:--------------|:---------:|:---------------------------------------:|
+| :------: | :-------------------------------: | :------------: | :------------ | :-------: | :-------------------------------------: |
 |  140825  |        Escape Crisis No. 1        |      N/A       | OT5           |           | [YouTube](https://youtu.be/qlvYSirhe3w) |
 |  140901  | [Hello Counselor][hellocounselor] |      N/A       | OT5           |           | [YouTube](https://youtu.be/h2QDHQDDXjs) |
 |  140920  |          Hidden Singer 3          |      N/A       | OT5           |           | [YouTube](https://youtu.be/nqFrZEX4tYQ) |
@@ -36,7 +36,7 @@
 [Back top](#variety-shows-masterlist)
 
 | **Date** |                **Show**                | **Episode(s)** | **Member(s)** |    **Notes**     |                                                      **Links**                                                      |
-|:--------:|:--------------------------------------:|:--------------:|:--------------|:----------------:|:-------------------------------------------------------------------------------------------------------------------:|
+| :------: | :------------------------------------: | :------------: | :------------ | :--------------: | :-----------------------------------------------------------------------------------------------------------------: |
 |  141005  |       [Weekly Idol][weeklyidol]        |      168       | OT5           |                  |                                       [YouTube](https://youtu.be/jbcs8YbcUMo)                                       |
 |  141010  |              EXO 90:2014               |      N/A       | Seulgi, Wendy |                  | [DailyMotion](https://www.dailymotion.com/video/x27oe5f) // [Performance \(YouTube\)](https://youtu.be/SCrjWKutAwc) |
 |  141028  |           After School Club            |      113       | OT5           |                  |                                       [YouTube](https://youtu.be/Bh8hDcrGPfY)                                       |
@@ -53,7 +53,7 @@
 [Back top](#variety-shows-masterlist)
 
 | **Date** |             **Show**              | **Episode(s)** | **Member(s)** |    **Notes**     |                                                                                                           **Links**                                                                                                           |
-|:--------:|:---------------------------------:|:--------------:|:--------------|:----------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :------: | :-------------------------------: | :------------: | :------------ | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  150328  |             Star King             |                |               |                  |                                                                                                                                                                                                                               |
 |  150330  |      Let's Dance: Red Velvet      |      N/A       | OT5           |                  |                                                                                            [YouTube](https://youtu.be/umQIO9YrYp8)                                                                                            |
 |  150407  |         After School Club         |      154       | OT5           |                  |                                                                                            [YouTube](https://youtu.be/Zy6t9FJ_9AE)                                                                                            |
@@ -73,7 +73,7 @@
 [Back top](#variety-shows-masterlist)
 
 | **Date** |                     **Show**                     | **Episode(s)** | **Member(s)** |                  **Notes**                  |                                                                                                           **Links**                                                                                                            |
-|:--------:|:------------------------------------------------:|:--------------:|:--------------|:-------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :------: | :----------------------------------------------: | :------------: | :------------ | :-----------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  150922  |                MV Bank Startdust                 |      N/A       | OT5           |                                             |                                                                       [Google Drive](https://drive.google.com/file/d/0B24TvBaMApUwSnVmN2VTUDNtc28/view)                                                                        |
 |  150923  |            [Weekly Idol][weeklyidol]             |      217       | OT5           |                                             |                                                             [YouTube](https://youtu.be/4dPBlYKDKmo) // [Alternate Link \(YouTube\)](https://youtu.be/00ijFRUIJ14)                                                              |
 |  150923  |                   Today's Room                   |       8        | OT5           |                                             |                                                             [Pt. 1 \(YouTube\)](https://youtu.be/_iMHNIfhmr0) // [Pt. 2 \(YouTube\)](https://youtu.be/ZvDGug3QbwI)                                                             |
@@ -103,7 +103,7 @@
 [Back top](#variety-shows-masterlist)
 
 | **Date** |                          **Show**                           | **Episode(s)** | **Member(s)** |            **Notes**             |                                                                                        **Links**                                                                                         |
-|:--------:|:-----------------------------------------------------------:|:--------------:|:--------------|:--------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :------: | :---------------------------------------------------------: | :------------: | :------------ | :------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  160316  |                  [Weekly Idol][weeklyidol]                  |      242       | OT5           |                                  |                                                                         [YouTube](https://youtu.be/BQhHewjZ9Tc)                                                                          |
 |  160330  |                     Mnet MV Commentary                      |      N/A       | OT5           | One of These Nights MV Reaction  |                                                    [MEGA](https://mega.nz/file/MkozASaI#n2_-5wRn1Ye2owbdmG834WUu1AKMlRD-f9cA2uWIYS4)                                                     |
 |  160330  |                    KBS MV Bank Stardust                     |      N/A       | OT5           |                                  |                                                    [MEGA](https://mega.nz/file/Z0xm3Y6b#epHlvTFuuu0z1un4T1BnPtSVL2EAyDJDNTHlLFG5EA4)                                                     |
@@ -137,14 +137,14 @@
 
 &#x200b;
 
-[160401_yuhuiyeol_cuts]:https://www.reddit.com/r/red_velvet/comments/4cwuzf/160401_sketchbook/
+[160401_yuhuiyeol_cuts]: https://www.reddit.com/r/red_velvet/comments/4cwuzf/160401_sketchbook/
 
 ## **Russian Roulette**
 
 [Back top](#variety-shows-masterlist)
 
 | **Date** |                   **Show**                    | **Episode(s)** | **Member(s)** |             **Notes**             |                                                                                       **Links**                                                                                       |
-|:--------:|:---------------------------------------------:|:--------------:|:--------------|:---------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :------: | :-------------------------------------------: | :------------: | :------------ | :-------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  160919  |   Irene & Wendy MY SMT w/ Leetuk & Doyoung    |                | Irene, Wendy  |      subbed by [RVUS][rvus]       |                                                                        [Youtube](https://youtu.be/TpEtrXjlUNY)                                                                        |
 |  160929  |              MCD Dance Together               |       1        | OT5           |                                   |                                                 [RVUS](https://revelupsubs.com/2016/09/29/eng-160929-red-velvet-mcd-dance-together/)                                                  |
 |  160929  | Mnet MV Commentary: Russian Roulette Reaction |       1        | OT5           |                                   |         [RVUS](https://revelupsubs.com/2016/09/29/eng-160929-red-velvet-mv-commentary/) // [Google Drive](https://drive.google.com/file/d/0B6TyopVVrSm_RVRzWTg1NkNZVlk/view)          |
@@ -166,14 +166,14 @@
 
 &#x200b;
 
-[161003_kshow123]:http://kshow123.net/show/king-of-mask-singer/episode-79.html
+[161003_kshow123]: http://kshow123.net/show/king-of-mask-singer/episode-79.html
 
 ## **Rookie**
 
 [Back top](#variety-shows-masterlist)
 
 | **Date** |                     **Show**                     | **Episode(s)** | **Member(s)** |                          **Notes**                           |                                                                                                      **Links**                                                                                                       |
-|:--------:|:------------------------------------------------:|:--------------:|:--------------|:------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :------: | :----------------------------------------------: | :------------: | :------------ | :----------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  170127  |      Girl Group Battle: The Family's Honor       |       1        | JO,SG,WD      |                                                              |                                                         [1/2](https://www.dailymotion.com/video/x5lcjyx) // [2/2](https://www.dailymotion.com/video/x5lcjyy)                                                         |
 |  170131  |                [VICTORY][victory]                |       6        | OT5           |               Red Velvet's "Rookie" Countdown                |                                                                                                 [Show list][victory]                                                                                                 |
 |  170130  |               Oppa Thinking V LIVE               |       1        | Joy           |                            MC Joy                            |                                                                                      [VLive](https://www.vlive.tv/video/21441)                                                                                       |
@@ -202,21 +202,21 @@
 |  170510  |                MTV Idols of Asia                 |       1        | IR,SG,WD,YR   |                                                              |                                                             [Reddit list](https://www.reddit.com/r/red_velvet/comments/6jjm7l/170510_mtv_idols_of_asia/)                                                             |
 |  170511  |                MTV Idols of Asia                 |       2        | IR,SG,WD,YR   |                                                              |                                                        [Reddit list](https://www.reddit.com/r/red_velvet/comments/6mb9ad/170511_mtv_idols_of_asia_episode_2/)                                                        |
 |  170512  |         The Dynamic Duo (Cooperation 7)          |       7        | Irene, Wendy  |                           unsubbed                           |                                                                                                   [KB][170512_dd7]                                                                                                   |
-|  170625  |        [Idol Drama Operation Team][IDOT]         |       13       | Seulgi        |                                                              |                                                                              [Official YouTube playlist][KBS_IDOT_flowerroad_playlist]                                                                               |
-|  170703  |  [Let's Only Walk The Flower Road][flowerroad]   |       8        | Seulgi        |                                                              |                                                                              [Official YouTube playlist][KBS_IDOT_flowerroad_playlist]                                                                               |
+|  170625  |        [Idol Drama Operation Team][idot]         |       13       | Seulgi        |                                                              |                                                                              [Official YouTube playlist][kbs_idot_flowerroad_playlist]                                                                               |
+|  170703  |  [Let's Only Walk The Flower Road][flowerroad]   |       8        | Seulgi        |                                                              |                                                                              [Official YouTube playlist][kbs_idot_flowerroad_playlist]                                                                               |
 |  170617  |      Channel A: Let's Eat Out This Saturday      |       4        | Joy           |           subbed by [DreamLuv Subs][dreamluv_subs]           |                                                                                       [YouTube](https://youtu.be/2LOADcD1I2k)                                                                                        |
 
 &#x200b;
 
-[170512_dd7]:https://telemaxus.keybase.pub/rv/variety-shows/Dynamic.Duo.E07.mp4
-[KBS_IDOT_flowerroad_playlist]:https://www.youtube.com/playlist?list=PLMf7VY8La5REYrK1BtPdG4LrDuf-Z52nm
+[170512_dd7]: https://telemaxus.keybase.pub/rv/variety-shows/Dynamic.Duo.E07.mp4
+[kbs_idot_flowerroad_playlist]: https://www.youtube.com/playlist?list=PLMf7VY8La5REYrK1BtPdG4LrDuf-Z52nm
 
 ## **Red Flavor**
 
 [Back top](#variety-shows-masterlist)
 
 | **Date** |                   **Show**                    | **Episode(s)** | **Member(s)** |                **Notes**                 |                                                               **Links**                                                                |
-|:--------:|:---------------------------------------------:|:--------------:|:--------------|:----------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
+| :------: | :-------------------------------------------: | :------------: | :------------ | :--------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
 |  170709  |   Periscope - Red Velvet's Twitter Live Q&A   |       1        | IR,SG,YR      | subbed by [DreamLuv Subs][dreamluv_subs] |                 [Pt. 1 \(YouTube\)](https://youtu.be/eiV4Icz6Ixk) // [Pt. 2 \(YouTube\)](https://youtu.be/V42Kr79_uxs)                 |
 |  170713  | Red Velvet x Eating Show: Let's Eat Together! |       1        | OT5           |                                          |                                               [VLive](https://www.vlive.tv/video/35205)                                                |
 |  170715  |           [Knowing Bros.][knowbros]           |       84       | OT5           |                                          |                                [KissTVShow](https://kisstvshow.to/Show/Knowing-Bros/Episode-84?id=2088)                                |
@@ -227,20 +227,20 @@
 |  170802  |         [SNOWBALL Project][snowball]          |     31-48      | OT5           |                                          |                                    [Reddit list](https://www.reddit.com/r/red_velvet/wiki/snowball)                                    |
 |  170806  |                   Idol Men                    |       1        | OT5           |                                          |                                            [YouTube \(RAW\)](https://youtu.be/gRNCXMf1A5c)                                             |
 |  170908  |            [I'm CELUV Live][celuv]            |       1        | OT5           |                                          |                            [RVUS](https://revelupsubs.com/2017/09/08/eng-170908-red-velvet-im-celuv-live/)                             |
-|  170914  |                Happy Together                 |      S03       | Joy, Yeri     |                                          |               [Youtube 3-1](https://youtu.be/8fd_KUTxX3I?t=4396)  // [YouTube 3-2](https://youtu.be/lphlAxj4RaA?t=3550)                |
+|  170914  |                Happy Together                 |      S03       | Joy, Yeri     |                                          |                [Youtube 3-1](https://youtu.be/8fd_KUTxX3I?t=4396) // [YouTube 3-2](https://youtu.be/lphlAxj4RaA?t=3550)                |
 |  170924  |                Fantastic Duo 2                |       26       | Seulgi, Wendy |   Wenseul performs 'Doll' with Kangta    |                                        [Performance \(YouTube\)](https://youtu.be/ZI6aPWEgezY)                                         |
 |  171025  |               MTV Idols of Asia               |       1        | OT5           |                                          | [Pt. 1 \(DailyMotion\)](http://www.dailymotion.com/video/x67d5z9) // [Pt. 2 \(DailyMotion\)](http://www.dailymotion.com/video/x68gav3) |
 
-[170723_121]:https://telemaxus.keybase.pub/rv/variety-shows/King%20of%20Masked%20Singer/King.of.Mask.Singer.E121.mp4
-[170723_122]:https://telemaxus.keybase.pub/rv/variety-shows/King%20of%20Masked%20Singer/King.of.Mask.Singer.E122.mp4
-[170731_oppathinking]:https://telemaxus.keybase.pub/rv/variety-shows/Oppa.Thinking.E11.mp4
+[170723_121]: https://telemaxus.keybase.pub/rv/variety-shows/King%20of%20Masked%20Singer/King.of.Mask.Singer.E121.mp4
+[170723_122]: https://telemaxus.keybase.pub/rv/variety-shows/King%20of%20Masked%20Singer/King.of.Mask.Singer.E122.mp4
+[170731_oppathinking]: https://telemaxus.keybase.pub/rv/variety-shows/Oppa.Thinking.E11.mp4
 
 ## **Peek-A-Boo**
 
 [Back top](#variety-shows-masterlist)
 
 | **Date** |                  **Show**                  | **Episode(s)** | **Member(s)** |           **Notes**           |                                   **Links**                                   |
-|:--------:|:------------------------------------------:|:--------------:|:--------------|:-----------------------------:|:-----------------------------------------------------------------------------:|
+| :------: | :----------------------------------------: | :------------: | :------------ | :---------------------------: | :---------------------------------------------------------------------------: |
 |  171111  |                 Master Key                 |       5        | Wendy         | [reddit][171111_rd_masterkey] |         [KissTVShow](https://kisstvshow.to/Show/Master-Key/Episode-5)         |
 |  171112  |         [Running Man][runningman]          |      376       | Irene, Joy    |                               |              [MyRunningMan](https://www.myrunningman.com/ep/376)              |
 |  171122  | [Let's Eat Dinner Together][letseatdinner] |       57       | Irene, Joy    |                               | [KissTVShow](https://kisstvshow.to/Show/Let-s-Eat-Dinner-Together/Episode-57) |
@@ -251,14 +251,14 @@
 
 &#x200b;
 
-[171111_rd_masterkey]:https://www.reddit.com/r/red_velvet/comments/7ciy98/171111_master_key_with_wendy/
+[171111_rd_masterkey]: https://www.reddit.com/r/red_velvet/comments/7ciy98/171111_master_key_with_wendy/
 
 ## **Bad Boy**
 
 [Back top](#variety-shows-masterlist)
 
 | **Date** |                  **Show**                   | **Episode(s)** | **Member(s)**        |                                                             **Notes**                                                              |                                                          **Links**                                                           |
-|:--------:|:-------------------------------------------:|:--------------:|:---------------------|:----------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
+| :------: | :-----------------------------------------: | :------------: | :------------------- | :--------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 |  180206  |     Hidden Track No. V 'Check-in Live'      |       1        | Wendy                |                                                              MC Wendy                                                              |                                      [VLive \(RAW\)](https://www.vlive.tv/video/57755)                                       |
 |  180209  |              MTV Idols of Asia              |       1        | OT5                  |                            [Translations](https://twitter.com/kseulwan/status/962120768183128064?s=20)                             |                                       [YouTube \(RAW\)](https://youtu.be/EbJy0SyvgKU)                                        |
 |  180209  |                SOHU TV China                |       1        | IR,JO,SG,WD          |                            [Translations](https://twitter.com/kseulwan/status/961805884945920002?s=20)                             |                                       [YouTube \(RAW\)](https://youtu.be/ns49R_cTj5U)                                        |
@@ -290,7 +290,7 @@
 [Back top](#variety-shows-masterlist)
 
 | **Date** |             **Show**              | **Episode(s)** | **Member(s)** |                                          **Notes**                                           |                                     **Links**                                      |
-|:--------:|:---------------------------------:|:--------------:|:--------------|:--------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
+| :------: | :-------------------------------: | :------------: | :------------ | :------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 |  180804  |     [Knowing Bros.][knowbros]     |      139       | OT5           |                                                                                              |         [KissTVShow](https://kisstvshow.to/Show/Knowing-Bros/Episode-139)          |
 |  180809  |    Super Junior's Super TV S2     |       10       | OT5           |        [More Links](https://twitter.com/Supertvsubs/status/1029097918387634176?s=20)         |   [MEGA](https://mega.nz/#!XvwSlC7C!VNSfCEPq6VipJc-pMQqcg9gGQrW_FcQBxFFf4blquvE)   |
 |  180812  |   [KBS Battle Trip][battletrip]   |   101 & 103    | Seulgi, Wendy |                                       Trip to Austria                                        | [Ep. 101](https://youtu.be/rBJmgui4AcE) // [Ep. 103](https://youtu.be/mIcgq0zoOOk) |
@@ -309,10 +309,10 @@
 [Back top](#variety-shows-masterlist)
 
 | **Date** |                     **Show**                      | **Episode(s)** | **Member(s)**              |                                **Notes**                                 |                                                              **Links**                                                              |
-|:--------:|:-------------------------------------------------:|:--------------:|:---------------------------|:------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| :------: | :-----------------------------------------------: | :------------: | :------------------------- | :----------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
 |  181130  | ONE TV ASIA: Red Velvet plays 'Would You Rather?' |       1        | OT5                        | [Twitter](https://twitter.com/ONETVASIA/status/1068440218234060800?s=20) |                       [Google Drive](https://drive.google.com/file/d/1N8CPss23dmFUe-LAJkQu6dQxnShHLZjP/view)                        |
 |  181202  |            [Kids These Days][kidsdays]            |      1-6       | Seulgi                     |           MC Seulgi but had to step down for the REDMARE Tour            |                                               [Show list](./shows/kids-these-days.md)                                               |
-|  181203  |                   Guerilla Date                   |       1        | OT5                        |          [Point & Talk Interview](https://youtu.be/Hpa3XWzQvh4)          |                         [YouTube](https://youtu.be/ZQwmo1tWs_I) // [Extra Clip](https://youtu.be/Hpa3XWzQvh4)                       |
+|  181203  |                   Guerilla Date                   |       1        | OT5                        |          [Point & Talk Interview](https://youtu.be/Hpa3XWzQvh4)          |                        [YouTube](https://youtu.be/ZQwmo1tWs_I) // [Extra Clip](https://youtu.be/Hpa3XWzQvh4)                        |
 |  181203  |     MBC Section TV: Red Velvet's Healing Camp     |       1        | OT5                        |              [Unaired Clip](https://tv.naver.com/v/4724002)              |                 [YouTube \(RAW\)](https://youtu.be/VUB-gdDHILA) // [Youtube \(RAW\)](https://youtu.be/x7jK0sCcIis)                  |
 |  181208  |            [Amazing Saturday][doremi]             |       36       | Wendy, Joy                 |                                                                          |                          [RVUS](https://revelupsubs.com/2018/12/08/eng-181208-wendy-joy-amazing-saturday/)                          |
 |  181208  |         Dispatch x VLIVE: Moving HD Photo         |       1        | OT5                        |                                                                          |                                             [VLive](https://www.vlive.tv/video/101870)                                              |
@@ -335,7 +335,7 @@
 [Back top](#variety-shows-masterlist)
 
 | **Date** |          **Show**          | **Episode(s)** | **Member(s)** |                                   **Notes**                                   |                                                                                **Links**                                                                                 |
-|:--------:|:--------------------------:|:--------------:|:--------------|:-----------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :------: | :------------------------: | :------------: | :------------ | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  190407  |     [Stage K][stagek]      |       1        | OT5           |                                                                               |                                                      [DailyMotion](https://www.dailymotion.com/embed/video/x75f1ut)                                                      |
 |  190407  |     Everyone's Kitchen     |       8        | Wendy         |                                                                               |                                              [RVUS](https://revelupsubs.com/2019/04/07/eng-190407-wendy-everyones-kitchen/)                                              |
 |  190615  | [Law Of The Jungle][lotj]  |   368 - 372    | Yeri          |                                                                               |                                                 [Reddit List](https://www.reddit.com/r/red_velvet/wiki/jungle#wiki_yeri)                                                 |
@@ -357,7 +357,7 @@
 [Back top](#variety-shows-masterlist)
 
 | **Date** |               **Show**               | **Episode(s)** | **Member(s)** |         **Notes**          |                                                                                                              **Links**                                                                                                               |
-|:--------:|:------------------------------------:|:--------------:|:--------------|:--------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :------: | :----------------------------------: | :------------: | :------------ | :------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  190823  | [Yu Huiyeol's Sketchbook][yuhuiyeol] |      456       | OT5           |                            |                                                                            [KShow123](http://kshow123.net/show/sketchbook-of-youheeyeul/episode-456.html)                                                                            |
 |  190828  |      [Weekly Idol][weeklyidol]       |      422       | OT5           |                            |                                                                                               [YouTube](https://youtu.be/u58fcyHXRFs)                                                                                                |
 |  190907  |      [Knowing Bros.][knowbros]       |      196       | Joy           |                            |                                                                                [KShow123](http://kshow123.net/show/knowing-brother/episode-196.html)                                                                                 |
@@ -371,12 +371,12 @@
 
 &#x200b;
 
-## **Psycho**/*Monster*/*Like Water*
+## **Psycho**/_Monster_/_Like Water_
 
 [Back top](#variety-shows-masterlist)
 
 | **Date** |                                  **Show**                                  | **Episode(s)** | **Member(s)**  |          **Notes**          |                                                                                                                                **Links**                                                                                                                                |
-|:--------:|:--------------------------------------------------------------------------:|:--------------:|:---------------|:---------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :------: | :------------------------------------------------------------------------: | :------------: | :------------- | :-------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |  200109  |                               Happy Together                               |    S04 E65     | Joy            |                             |                                                                                                 [KShow123](http://kshow123.net/show/happy-together-s4/episode-65.html)                                                                                                  |
 |  200113  |                            [Salty Tour][salty]                             |    106-108     | Joy            |       Filmed in Spain       | [106](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-106.html) // [107](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-107.html) // [108](http://kshow123.net/show/thrifters-guide-to-luxurious-travels/episode-108.html) |
 |  200327  |                              Handsome Tigers                               |       12       | Joy            |           series            |                                                                                                                       [Show list][handsometigers]                                                                                                                       |
@@ -402,49 +402,48 @@
 |  210122  |                 [JTBC Mysterious Record Shop][mysterious]                  |       1        | Wendy          |     Wendy as MC, series     |                                                                                                                [Mysterious Record Shop page][mysterious]                                                                                                                |
 |   TBA    |                           [Yeri's Room][yerihan]                           |    Season 2    | Yeri           | Yeri's youtube show, series |                                                                                                                                                                                                                                                                         |
 |  210406  |          K-pop Singer Tries To Understand Teenager (Feat. WENDY)           |                | Wendy          |                             |                                                                                                                 [YouTube](https://youtu.be/YaHUHvWlFVs)                                                                                                                 |
+|  210416  |                  [The Wise Music Encyclopedia][wisemusic]                  |       1        | Seulgi         |      Seulgi as main MC      |                                                                                              [Seulgi and Kim Zakka met for the first time?](https://youtu.be/PnSUAu4NTPQ)                                                                                               |
 
-[200530_amazing_sat]:https://revelupsubs.com/2020/05/30/eng-200530-irene-seulgi-amazing-saturday/
+[200530_amazing_sat]: https://revelupsubs.com/2020/05/30/eng-200530-irene-seulgi-amazing-saturday/
 
 &#x200b;
 
-[wiki_wgm]:https://www.reddit.com/r/red_velvet/wiki/wegotmarried
-
-[battletrip]:./shows/battle-trip.md
-[buquest]:./shows/bu-quest.md
-[celuv]:./shows/celuv-tv.md
-[doremi]:./shows/amazing-saturday.md
-[flowerroad]:./shows/lets-only-walk-the-flower-road.md
-[dogs]:./shows/dogs-are-incredible.md
-[handsometigers]:./shows/handsome-tigers.md
-[hellocounselor]:./shows/hello-counselor.md
-[idolleague]:./shows/idol-league.md
-[idolroom]:./shows/idol-room.md
-[IDOT]:./shows/idol-drama-operation-team.md
-[kidsdays]:./shows/kids-these-days.md
-[knowbros]:./shows/knowing-brothers.md
-[koms]:./shows/king-of-masked-singer.md
-[laundryday]:./shows/laundry-day.md
-[letseatdinner]:./shows/lets-eat-dinner-together.md
-[lotj]:./shows/law-of-the-jungle.md
-[mysterious]:./shows/jtbc-mysterious-record-shop.md
-[raidconvenience]:./shows/raid-the-convenience-store.md
-[runningman]:./shows/running-man.md
-[salty]:./shows/salty-tour.md
-[secretunnie]:./shows/secret-unnie.md
-[snl]:./shows/saturday-night-live.md
-[snowball]:./shows/snowball-project.md
-[stagek]:./shows/stage-k.md
-[stargarden]:./shows/star-garden.md
-[sugarman]:./shows/sugarman.md
-[threeemperors]:./shows/baek-jongwon-three-great-emperors.md
-[victory]:./shows/victory.md
-[viewablesm]:./shows/the-viewable-sm.md
-[weeklyidol]:./shows/weekly-idol.md
-[wgm]:./shows/wgm.md
-[yangnam]:./shows/yang-and-nam-show.md
-[yerihan]:./shows/yeri's-room.md
-[yuhuiyeol]:./shows/yu-huiyeol-sketchbook.md
-
-[dreamluv_subs]:https://www.youtube.com/channel/
-[rvus]:https://revelupsubs.com/
-
+[wiki_wgm]: https://www.reddit.com/r/red_velvet/wiki/wegotmarried
+[battletrip]: ./shows/battle-trip.md
+[buquest]: ./shows/bu-quest.md
+[celuv]: ./shows/celuv-tv.md
+[doremi]: ./shows/amazing-saturday.md
+[flowerroad]: ./shows/lets-only-walk-the-flower-road.md
+[dogs]: ./shows/dogs-are-incredible.md
+[handsometigers]: ./shows/handsome-tigers.md
+[hellocounselor]: ./shows/hello-counselor.md
+[idolleague]: ./shows/idol-league.md
+[idolroom]: ./shows/idol-room.md
+[idot]: ./shows/idol-drama-operation-team.md
+[kidsdays]: ./shows/kids-these-days.md
+[knowbros]: ./shows/knowing-brothers.md
+[koms]: ./shows/king-of-masked-singer.md
+[laundryday]: ./shows/laundry-day.md
+[letseatdinner]: ./shows/lets-eat-dinner-together.md
+[lotj]: ./shows/law-of-the-jungle.md
+[mysterious]: ./shows/jtbc-mysterious-record-shop.md
+[raidconvenience]: ./shows/raid-the-convenience-store.md
+[runningman]: ./shows/running-man.md
+[salty]: ./shows/salty-tour.md
+[secretunnie]: ./shows/secret-unnie.md
+[snl]: ./shows/saturday-night-live.md
+[snowball]: ./shows/snowball-project.md
+[stagek]: ./shows/stage-k.md
+[stargarden]: ./shows/star-garden.md
+[sugarman]: ./shows/sugarman.md
+[threeemperors]: ./shows/baek-jongwon-three-great-emperors.md
+[victory]: ./shows/victory.md
+[viewablesm]: ./shows/the-viewable-sm.md
+[wisemusic]: ./shows/the-wise-music-encyclopedia.md
+[weeklyidol]: ./shows/weekly-idol.md
+[wgm]: ./shows/wgm.md
+[yangnam]: ./shows/yang-and-nam-show.md
+[yerihan]: ./shows/yeri's-room.md
+[yuhuiyeol]: ./shows/yu-huiyeol-sketchbook.md
+[dreamluv_subs]: https://www.youtube.com/channel/
+[rvus]: https://revelupsubs.com/
