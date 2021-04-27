@@ -254,6 +254,7 @@
 | 210129 |                               Seulgi VLive                                | Seulgi        |   No   |                                                          | [1st Part](https://www.vlive.tv/post/1-21079894) // [2nd Part](https://www.vlive.tv/post/0-21073061) |
 | 210206 |                            YERI's don't worRI                             | Yeri          |  Yes   |                                                          |                            [VLive](https://www.vlive.tv/post/1-21179700)                             |
 | 210210 |                         My birthday with Reveluv                          | Seulgi, Yeri  |  Yes   |                                                          |                              [VLive](https://www.vlive.tv/video/236560)                              |
+| 210421 |                 Instagram Live with Wendy, Yeri & Seulgi                  | SG, WD, YR    |  Yes   |              subbed by [RevelUp Subs][rvus]              |     [YouTube](https://youtu.be/8nc_Tvjm_y4) // [Warmblue Version](https://youtu.be/qjOzyhjgi1w)      |
 
 &#x200b;
 

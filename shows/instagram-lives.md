@@ -43,6 +43,7 @@
 | 201005 | Instagram Live with Yeri                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/4nfi8OERL6w)                                                                                                                                                 |
 | 201226 | Instagram Live with Yeri                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/bdqe4tLb-l4)                                                                                                                                                 |
 | 210108 | Instagram Live with Yeri                   | Yeri          |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/Wq1aPlgM-P4)                                                                                                                                                 |
+| 210421 | Instagram Live with Wendy, Yeri & Seulgi   | SG, WD, YR    |  Yes   | subbed by [RevelUp Subs][rvus]  | [YouTube](https://youtu.be/8nc_Tvjm_y4) // [Warmblue Version](https://youtu.be/qjOzyhjgi1w)                                                                                             |
 
 &#x200b;
 
