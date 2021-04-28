@@ -1,12 +1,12 @@
 # Song Covers
 
 - [Song Covers](#song-covers)
-  - [**Psycho**/*Monster*](#psychomonster)
+  - [**Psycho**/_Monster_](#psychomonster)
 
-## **Psycho**/*Monster*
+## **Psycho**/_Monster_
 
 | Date   | Title                                        | Notes                                                      | Links                                   |
-|--------|----------------------------------------------|------------------------------------------------------------|-----------------------------------------|
+| ------ | -------------------------------------------- | ---------------------------------------------------------- | --------------------------------------- |
 | 190305 | Yeri - Two Melodies (Orig. Zion.T ft. Crush) |                                                            | [Reddit](https://redd.it/hcnf72)        |
 | 190305 | Yeri - Hidden Road (Orig. Yoo Jaeha)         |                                                            | [Reddit](https://redd.it/hcniez)        |
 | 190305 | Yeri - Say You Love Me (Orig. Patti Austin)  |                                                            | [Reddit](https://redd.it/hcnoc4)        |
