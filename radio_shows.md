@@ -299,7 +299,7 @@
 | 210408 |            [Cultwo Show][cultwo]            | Wendy         |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/-duE6gO0Ggs)                      |
 | 210409 |             Melon Station SMing             | Wendy         |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/qNXZq1-S4Mc)                      |
 | 210409 |           Kang Hanna's Volume Up            | Wendy         |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/TEsH4UpkMLQ)                      |
-| 210413 | [Kim Shinyoung Hope Song at Noon][hopesong] | Wendy         |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                                      YouTube                                      |
+| 210413 | [Kim Shinyoung Hope Song at Noon][hopesong] | Wendy         |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/Xr9PtfZo8Tg)                      |
 
 &#x200b;
 
