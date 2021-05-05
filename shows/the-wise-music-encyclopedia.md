@@ -4,4 +4,5 @@
 
 |  Date  | Episode |  Notes   | Links                                   |
 | :----: | :-----: | :------: | :-------------------------------------- |
-| 210416 |    1    | Prologue | [YouTube](https://youtu.be/PnSUAu4NTPQ) |
+| 210416 |    0    | Prologue | [YouTube](https://youtu.be/PnSUAu4NTPQ) |
+| 210430 |    1    |          | [YouTube](https://youtu.be/jhQMmPRH7zE) |
