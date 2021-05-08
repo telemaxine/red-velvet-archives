@@ -17,14 +17,14 @@
   - [**RBB**](#rbb)
   - [**Zimzalabim**](#zimzalabim)
   - [**Umpah Umpah**](#umpah-umpah)
-  - [**Psycho**/*Monster*](#psychomonster)
+  - [**Psycho**/_Monster_/_Like Water_](#psychomonsterlike-water)
 
 ## **Happiness**
 
 [Back top](#radio-shows-masterlist)
 
 |  Date  |              Title               | Members     | Subbed |             Notes              |                  Link                   |
-|:------:|:--------------------------------:|:------------|:------:|:------------------------------:|:---------------------------------------:|
+| :----: | :------------------------------: | :---------- | :----: | :----------------------------: | :-------------------------------------: |
 | 140806 |  [Old School Radio][oldschool]   | IR,JO,SG,WD |  Yes   | subbed by [ReVelUp subs][rvus] | [YouTube](https://youtu.be/PjBCg5d_tf0) |
 | 140821 |      [Cultwo Show][cultwo]       | OT5         |  Yes   |                                |         [YouTube][140821_cul2]          |
 | 140821 |      [Kiss the Radio][ktr]       | OT5         |  Yes   | subbed by [ReVelUp subs][rvus] | [YouTube](https://youtu.be/tyNq_6RrO1k) |
@@ -33,35 +33,35 @@
 
 &#x200b;
 
-[140821_cul2]:http://www.dailymotion.com/video/x2o84ql
-[140821_ktr01]:https://www.youtube.com/watch?v=lEB9REwxmEU
-[140821_ktr02]:https://www.youtube.com/watch?v=GWu4dhHLezE
-[140822_lee_sora]:https://youtu.be/3TJuTDnjvwE
-[140831_youngstreet]:https://www.youtube.com/watch?v=grpxHuSRLmw
+[140821_cul2]: http://www.dailymotion.com/video/x2o84ql
+[140821_ktr01]: https://www.youtube.com/watch?v=lEB9REwxmEU
+[140821_ktr02]: https://www.youtube.com/watch?v=GWu4dhHLezE
+[140822_lee_sora]: https://youtu.be/3TJuTDnjvwE
+[140831_youngstreet]: https://www.youtube.com/watch?v=grpxHuSRLmw
 
 ## **Be Natural**
 
 [Back top](#radio-shows-masterlist)
 
 |  Date  |               Title                | Members | Subbed |                  Notes                  |                    Link                    |
-|:------:|:----------------------------------:|:--------|:------:|:---------------------------------------:|:------------------------------------------:|
+| :----: | :--------------------------------: | :------ | :----: | :-------------------------------------: | :----------------------------------------: |
 | 141024 | [Jonghyun's Blue Night][bluenight] | OT5     |  Yes   |     subbed by [ReVelUp Subs][rvus]      |  [YouTube](https://youtu.be/1HOJf2lcWCA)   |
 | 141101 |          Idol True Colors          | OT5     |        | link to reddit post. videos are broken. | [Link \(broken\)][141101_idol_true_colors] |
 | 141114 |       [Kiss the Radio][ktr]        | Seulgi  |   No   |               audio only                |      [YouTube \(broken\)][141114_ktr]      |
 
 &#x200b;
 
-[141101_idol_true_colors]:https://www.reddit.com/r/red_velvet/comments/2udl8f/141101_red_velvet_on_mbc_cradio_idol_true_colors/
-[141114_ktr]:https://www.youtube.com/watch?v=t1pl2qUXg7w
+[141101_idol_true_colors]: https://www.reddit.com/r/red_velvet/comments/2udl8f/141101_red_velvet_on_mbc_cradio_idol_true_colors/
+[141114_ktr]: https://www.youtube.com/watch?v=t1pl2qUXg7w
 
 ## **Ice Cream Cake**
 
 [Back top](#radio-shows-masterlist)
 
 |  Date  |                     Title                      | Members | Subbed |                    Notes                    |                                                       Link                                                        |
-|:------:|:----------------------------------------------:|:--------|:------:|:-------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
+| :----: | :--------------------------------------------: | :------ | :----: | :-----------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
 | 150324 |             [Kiss the Radio][ktr]              | OT5     |  Yes   |       subbed by [ReVelUp Subs][rvus]        |                                      [YouTube](https://youtu.be/MkwBK08EayE)                                      |
-| 150327 |                   2 O'clock                    | OT5     |   No   |                                             |                         [YouTube \(broken\)](https://www.youtube.com/watch?v=fGQPROYgaRE)                         |
+| 150327 |                   2PM Radio                    | OT5     |  Yes   |       subbed by [ReVelUp Subs][rvus]        |                                      [YouTube](https://youtu.be/MHoZ43PWjPs)                                      |
 | 150330 |         [Old School Radio][oldschool]          | OT5     |  Yes   |                 no part 2?                  |                  [reddit post][150330_reddit_oldschool] // [Pt. 1](https://youtu.be/rJsJxFR7hko)                  |
 | 150331 |         [Power Time Radio][powertime]          | OT5     |   No   |            no full eng sub found            | [ICC cut][150331_powertime_icc_cut] // [Irene cut][150331_powertime_ir_cut] // [CHN Sub][150331_powertime_cn_sub] |
 | 150401 |        [Youngstreet Radio][youngstreet]        | OT5     |  Yes   |                                             |                             [Pt. 1][150401_youngstr01] // [Pt. 2][150401_youngstr02]                              |
@@ -75,28 +75,28 @@
 
 &#x200b;
 
-[150324_ktr01]:https://www.youtube.com/watch?v=cM2VmhUCzN8
-[150324_ktr02]:https://www.youtube.com/watch?v=OzCJ630cmFY
-[150330_reddit_oldschool]:https://www.reddit.com/r/red_velvet/comments/372u2r/150330_red_velvet_on_kim_changryuls_old_school/
-[150331_powertime_cn_sub]:https://www.youtube.com/watch?v=2CdRooPAJ_M
-[150331_powertime_icc_cut]:https://youtu.be/TabsLZHSC8g
-[150331_powertime_ir_cut]:https://youtu.be/yEMU_s4dcSg
-[150401_youngstr01]:https://www.youtube.com/watch?v=yeHAB3G7VNs&feature=youtu.be
-[150401_youngstr02]:https://www.youtube.com/watch?v=UYkEmQbQdto
-[150403_ksy_hopesong01]:https://youtu.be/SyE1HpQkBpQ
-[150403_ksy_hopesong02]:https://youtu.be/TsQQhl78N2M
-[150403_ksy_hopesong03]:https://youtu.be/-JZt9cCMQkE
+[150324_ktr01]: https://www.youtube.com/watch?v=cM2VmhUCzN8
+[150324_ktr02]: https://www.youtube.com/watch?v=OzCJ630cmFY
+[150330_reddit_oldschool]: https://www.reddit.com/r/red_velvet/comments/372u2r/150330_red_velvet_on_kim_changryuls_old_school/
+[150331_powertime_cn_sub]: https://www.youtube.com/watch?v=2CdRooPAJ_M
+[150331_powertime_icc_cut]: https://youtu.be/TabsLZHSC8g
+[150331_powertime_ir_cut]: https://youtu.be/yEMU_s4dcSg
+[150401_youngstr01]: https://www.youtube.com/watch?v=yeHAB3G7VNs&feature=youtu.be
+[150401_youngstr02]: https://www.youtube.com/watch?v=UYkEmQbQdto
+[150403_ksy_hopesong01]: https://youtu.be/SyE1HpQkBpQ
+[150403_ksy_hopesong02]: https://youtu.be/TsQQhl78N2M
+[150403_ksy_hopesong03]: https://youtu.be/-JZt9cCMQkE
 
 ## **Dumb Dumb**
 
 [Back top](#radio-shows-masterlist)
 
 |  Date  |                  Title                   | Members       | Subbed |             Notes              |                                               Link                                                |
-|:------:|:----------------------------------------:|:--------------|:------:|:------------------------------:|:-------------------------------------------------------------------------------------------------:|
+| :----: | :--------------------------------------: | :------------ | :----: | :----------------------------: | :-----------------------------------------------------------------------------------------------: |
 | 150909 |          [Cultwo Show][cultwo]           | OT5           |        |                                |       [YouTube \(broken\)](https://www.youtube.com/watch?v=zVA8LAunWsY&feature=youtu.be&a)        |
 | 150915 |         Park Kyunglim's 2PM Date         | OT5           |  Yes   |                                |                              [YouTube](https://youtu.be/20DCYjV91FY)                              |
 | 150917 |          [Kiss the Radio][ktr]           | OT5           |  Yes   |                                |                              [YouTube](https://youtu.be/zu4cRHCrizo)                              |
-| 150924 |      [Hope Song at Noon][hopesong]       | OT5           |  Yes   | subbed by [ReVelUp Subs][rvus] |  [DM](https://www.dailymotion.com/embed/video/k5xgSora34vVC4t7ic6) //  [KB][150924_kb_hopesong]   |
+| 150924 |      [Hope Song at Noon][hopesong]       | OT5           |  Yes   | subbed by [ReVelUp Subs][rvus] |   [DM](https://www.dailymotion.com/embed/video/k5xgSora34vVC4t7ic6) // [KB][150924_kb_hopesong]   |
 | 150924 | [Kim Chang Ryul's Old School][oldschool] | OT5           |  Yes   |                                |                              [YouTube](https://youtu.be/t87xt_S5HCs)                              |
 | 151001 |        [Sunny's FM Date][fmdate]         | OT5           |  Yes   | subbed by [ReVelUp Subs][rvus] |                              [YouTube](https://youtu.be/MMDrIq0AQgA)                              |
 | 151001 |               VIXX N K-pop               | OT5           |  Yes   |           audio only           |                              [YouTube](https://youtu.be/xRUFJNq6eos)                              |
@@ -108,16 +108,16 @@
 
 &#x200b;
 
-[150924_kb_hopesong]:https://telemaxus.keybase.pub/rv/radio-shows/150924%20Red%20Velvet%20Hope%20Song%20at%20Noon.mp4
-[160316_goodmorning01]:https://www.youtube.com/watch?v=l-hNz8_wdFA
-[160316_goodmorning02]:https://www.youtube.com/watch?v=1gULSeDNW2c
+[150924_kb_hopesong]: https://telemaxus.keybase.pub/rv/radio-shows/150924%20Red%20Velvet%20Hope%20Song%20at%20Noon.mp4
+[160316_goodmorning01]: https://www.youtube.com/watch?v=l-hNz8_wdFA
+[160316_goodmorning02]: https://www.youtube.com/watch?v=1gULSeDNW2c
 
 ## **One Of These Nights**
 
 [Back top](#radio-shows-masterlist)
 
 |  Date  |              Title              | Members    | Subbed |             Notes              |                                                                     Link                                                                     |
-|:------:|:-------------------------------:|:-----------|:------:|:------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+| :----: | :-----------------------------: | :--------- | :----: | :----------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
 | 160317 |     [FM Date Radio][fmdate]     | OT5        |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                   [YouTube](https://youtu.be/9ZTZFWi5HRc)                                                    |
 | 160317 | [Cultwo Show][cultwo] (Gift 1C) | OT5        |        | subbed by [ReVelUp Subs][rvus] |                                           [DailyMotion](https://www.dailymotion.com/video/x6ry8u3)                                           |
 | 160320 |        Kpop Planet Radio        | JO,WD,YR   |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube][160320_kpop_planet] // [Wendy Cam][160320_kpop_planet_wd] // [Joy Cam][160320_kpop_planet_jo] // [Yeri Cam][160320_kpop_planet_yr] |
@@ -133,18 +133,18 @@
 
 &#x200b;
 
-[160320_kpop_planet]:https://youtu.be/cV0W500fyfc
-[160320_kpop_planet_wd]:https://youtu.be/gkvTdZ-7vJY
-[160320_kpop_planet_jo]:https://youtu.be/gUcrdfPiVBo
-[160320_kpop_planet_yr]:https://youtu.be/2qMgiWZEPOU
-[160320_kpop_planet_cams]:https://www.reddit.com/r/red_velvet/comments/4dk67u/160320_kpop_planet_radio_individual_cams/
+[160320_kpop_planet]: https://youtu.be/cV0W500fyfc
+[160320_kpop_planet_wd]: https://youtu.be/gkvTdZ-7vJY
+[160320_kpop_planet_jo]: https://youtu.be/gUcrdfPiVBo
+[160320_kpop_planet_yr]: https://youtu.be/2qMgiWZEPOU
+[160320_kpop_planet_cams]: https://www.reddit.com/r/red_velvet/comments/4dk67u/160320_kpop_planet_radio_individual_cams/
 
 ## **Russian Roulette**
 
 [Back top](#radio-shows-masterlist)
 
 |  Date  |                        Title                         | Members | Subbed |             Notes              |                                Link                                 |
-|:------:|:----------------------------------------------------:|:--------|:------:|:------------------------------:|:-------------------------------------------------------------------:|
+| :----: | :--------------------------------------------------: | :------ | :----: | :----------------------------: | :-----------------------------------------------------------------: |
 | 160908 |                [Cultwo Show][cultwo]                 | OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube](https://youtu.be/yYWdQyDpzAA) // [KB][160908_cultwo_show] |
 | 160909 |                  [SuJu’s KTR][ktr]                   | OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] |               [YouTube](https://youtu.be/7XFrHF1ZPxU)               |
 | 160911 |                   Self Reflection                    | OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] |               [YouTube](https://youtu.be/XCmM2OYkF3s)               |
@@ -154,14 +154,14 @@
 
 &#x200b;
 
-[160908_cultwo_show]:https://telemaxus.keybase.pub/rv/radio-shows/160908%20%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3Red%20Velvet%20%40%20Cultwo%20Show.mkv
+[160908_cultwo_show]: https://telemaxus.keybase.pub/rv/radio-shows/160908%20%EB%A0%88%EB%93%9C%EB%B2%A8%EB%B2%B3Red%20Velvet%20%40%20Cultwo%20Show.mkv
 
 ## **Rookie**
 
 [Back top](#radio-shows-masterlist)
 
 |  Date  |                          Title                          | Members     | Subbed |             Notes              |                                           Link                                           |
-|:------:|:-------------------------------------------------------:|:------------|:------:|:------------------------------:|:----------------------------------------------------------------------------------------:|
+| :----: | :-----------------------------------------------------: | :---------- | :----: | :----------------------------: | :--------------------------------------------------------------------------------------: |
 | 170202 |                  [Cultwo Show][cultwo]                  | OT5         |  Yes   | subbed by [ReVelUp Subs][rvus] | [RVUS \(broken\)](https://revelupsubs.com/2017/02/02/eng-170202-red-velvet-cultwo-show/) |
 | 170206 |                   [Gayo Plaza][gayo]                    | IR,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |                         [YouTube](https://youtu.be/VBJy9pBAGIE)                          |
 | 170207 |                      Unnie’s Radio                      | IR,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |                         [YouTube](https://youtu.be/N-p04DFy9TQ)                          |
@@ -178,7 +178,7 @@
 [Back top](#radio-shows-masterlist)
 
 |  Date  |                          Title                          | Members     | Subbed |             Notes              |                             Link                             |
-|:------:|:-------------------------------------------------------:|:------------|:------:|:------------------------------:|:------------------------------------------------------------:|
+| :----: | :-----------------------------------------------------: | :---------- | :----: | :----------------------------: | :----------------------------------------------------------: |
 | 170710 | [Melon Radio Star DJ “Velvet Red Mine” S2 EP. 2][melon] | OT5         |  Yes   | subbed by [ReVelUp Subs][rvus] |           [YouTube](https://youtu.be/WtxMYfBmoew)            |
 | 170717 |           [Park Sohyun's Love Game][lovegame]           | SG,WD,YR    |  Yes   | subbed by [ReVelUp Subs][rvus] |           [YouTube](https://youtu.be/XIYg_fTakes)            |
 | 170725 |                   [Gayo Plaza][gayo]                    | JO,SG,WD,YR |  Yes   | subbed by [ReVelUp Subs][rvus] |           [YouTube](https://youtu.be/GYBLZ_DS1SU)            |
@@ -194,7 +194,7 @@
 [Back top](#radio-shows-masterlist)
 
 |  Date  |                            Title                            | Members       | Subbed |             Notes              |                                                                         Link                                                                          |
-|:------:|:-----------------------------------------------------------:|:--------------|:------:|:------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
+| :----: | :---------------------------------------------------------: | :------------ | :----: | :----------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 171120 |              [Young Street Radio][youngstreet]              | OT5           |  Yes   | subbed by [ReVelUp Subs][rvus] |                       [Pt. 1](https://www.dailymotion.com/video/x6ryit1) // [Pt. 2](https://www.dailymotion.com/video/x6rycrr)                        |
 | 171121 |                 [Love Game Radio][lovegame]                 | OT5           |  Yes   | subbed by [ReVelUp Subs][rvus] |                                               [DailyMotion](https://www.dailymotion.com/video/x6rybw9)                                                |
 | 171121 |                      Bae Sungjae’s Ten                      | Seulgi, Wendy |  Yes   | subbed by [ReVelUp Subs][rvus] |                                                        [YouTube](https://youtu.be/sJo3E1GzHE0)                                                        |
@@ -207,15 +207,15 @@
 
 &#x200b;
 
-[171122_rvus_night_night]:https://revelupsubs.com/2017/11/22/eng-171122-red-velvet-ncts-night-night/
-[171122_mega_night_night]:https://mega.nz/#!txwT0SyQ!uHCnBgSAJSXl9-bmI9oomenh-r6QI0aSrImcDKzvxmQ
+[171122_rvus_night_night]: https://revelupsubs.com/2017/11/22/eng-171122-red-velvet-ncts-night-night/
+[171122_mega_night_night]: https://mega.nz/#!txwT0SyQ!uHCnBgSAJSXl9-bmI9oomenh-r6QI0aSrImcDKzvxmQ
 
 ## **Bad Boy**
 
 [Back top](#radio-shows-masterlist)
 
 |  Date  |                     Title                      | Members     | Subbed |             Notes              |                                                             Link                                                              |
-|:------:|:----------------------------------------------:|:------------|:------:|:------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:|
+| :----: | :--------------------------------------------: | :---------- | :----: | :----------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 | 180205 |         [Power Time Radio][powertime]          | IR,SG,WD    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                            [YouTube](https://youtu.be/4lWOb9cYy6M)                                            |
 | 180205 |          [Starry Night][starrynight]           | IR,SG,WD    |  Yes   | subbed by [ReVelUp Subs][rvus] |                                            [YouTube](https://youtu.be/x5no-mMsdgI)                                            |
 | 180206 |        [NCT’s Night Night][nightnight]         | Irene, Yeri |   No   |                                |                                            [YouTube](https://youtu.be/H4RfdAbCNpE)                                            |
@@ -231,7 +231,7 @@
 [Back top](#radio-shows-masterlist)
 
 |  Date  |               Title               | Members | Subbed |              Notes              |                                                                  Link                                                                  |
-|:------:|:---------------------------------:|:--------|:------:|:-------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
+| :----: | :-------------------------------: | :------ | :----: | :-----------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 180808 |            Music Show             | OT5     |  Yes   | subbed by [ReVelUp Subs][rvus]  |                                                [YouTube](https://youtu.be/l7L1vNvBeFg)                                                 |
 | 180809 |       [Cultwo Show][cultwo]       | OT5     |  Yes   | subbed by [ReVelUp Subs][rvus]  |       [YouTube](https://youtu.be/-6TcHNcLVc8) // [MEGA](https://mega.nz/#!d1BiTI6T!wOwGrXkJomVaNr_yMd9sRvIi10ykz-QyxAiHyivsuaQ)        |
 | 180816 |   [Power Time Radio][powertime]   | OT5     |  Yes   | subbed by [ReVelUp Subs][rvus]  | [YouTube](https://youtu.be/5URWUG9J7-w) // [Uncut \(MEGA\)](https://mega.nz/file/B04VyKYL#wERsj7yazpqgRMndTh1tYihwcD5h3uEzbtr5w3xllw0) |
@@ -250,7 +250,7 @@
 [Back top](#radio-shows-masterlist)
 
 |  Date  |             Title             | Members | Subbed |             Notes              |                  Link                   |
-|:------:|:-----------------------------:|:--------|:------:|:------------------------------:|:---------------------------------------:|
+| :----: | :---------------------------: | :------ | :----: | :----------------------------: | :-------------------------------------: |
 | 181204 |        Boom Boom Power        | OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube](https://youtu.be/urnR5fXOE_8) |
 | 181206 | [Hope Song at Noon][hopesong] | OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube](https://youtu.be/82DpcgdEpLE) |
 | 181213 | [Old School Radio][oldschool] | OT5     |  Yes   | subbed by [ReVelUp Subs][rvus] | [YouTube](https://youtu.be/xIZb0umLgpM) |
@@ -263,7 +263,7 @@
 [Back top](#radio-shows-masterlist)
 
 |  Date  |            Title            | Members | Subbed | Notes |                    Link                    |
-|:------:|:---------------------------:|:--------|:------:|:-----:|:------------------------------------------:|
+| :----: | :-------------------------: | :------ | :----: | :---: | :----------------------------------------: |
 | 190625 | [Love Game Radio][lovegame] | OT5     |  Yes   |       |  [YouTube](https://youtu.be/lY-SlfyTMXE)   |
 | 190627 |         Idol Radio          | OT5     |  Yes   |       | [VLive](https://www.vlive.tv/video/135762) |
 
@@ -274,46 +274,50 @@
 [Back top](#radio-shows-masterlist)
 
 |  Date  |                 Title                 | Members     | Subbed | Notes |                  Link                   |
-|:------:|:-------------------------------------:|:------------|:------:|:-----:|:---------------------------------------:|
+| :----: | :-----------------------------------: | :---------- | :----: | :---: | :-------------------------------------: |
 | 190822 |         [Cultwo Show][cultwo]         | OT5         |  Yes   |       | [YouTube](https://youtu.be/Au3YGY9lI7U) |
 | 190827 | [Sandeul's Starry Night][starrynight] | OT5         |   No   |       | [YouTube](https://youtu.be/vkvPV8BxxL0) |
 | 190829 |  [KSY's Hope Song at Noon][hopesong]  | IR,SG,WD,YR |   No   |       | [YouTube](https://youtu.be/N89l9ulT054) |
 
 &#x200b;
 
-## **Psycho**/*Monster*
+## **Psycho**/_Monster_/_Like Water_
 
 [Back top](#radio-shows-masterlist)
 
-|  Date  |                    Title                    | Members       | Subbed |                      Notes                       |                  Link                   |
-|:------:|:-------------------------------------------:|:--------------|:------:|:------------------------------------------------:|:---------------------------------------:|
-| 191223 |     [KSY's Hope Song at Noon][hopesong]     | Wendy         |  Yes   |                                                  | [YouTube](https://youtu.be/22q0iC0Q_4s) |
-| 191224 |            [Cultwo Show][cultwo]            | Seulgi, Wendy |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/ropXKxE__jM) |
-| 200412 |                  MBC Radio                  | Wendy         |  Yes   | Wendy reading 'Alice's Adventures in Wonderland' | [YouTube](https://youtu.be/Obk998M6drY) |
-| 200708 |            [Cultwo Show][cultwo]            | Irene, Seulgi |  Yes   |                                                  | [YouTube](https://youtu.be/ak6VfvELBt0) |
-| 200714 |           Kang Hanna's Volume Up            | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/ur4F2_5A9rg) |
-| 200715 |      [Park Won's Kiss The Radio][ktr]       | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/-nNC_wM8GQk) |
-| 200720 | [Kim Shinyoung Hope Song at Noon][hopesong] | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [YouTube](https://youtu.be/Xd4rhjsHB5k) |
+|  Date  |                    Title                    | Members       | Subbed |                      Notes                       |                                       Link                                        |
+| :----: | :-----------------------------------------: | :------------ | :----: | :----------------------------------------------: | :-------------------------------------------------------------------------------: |
+| 191223 |     [KSY's Hope Song at Noon][hopesong]     | Wendy         |  Yes   |                                                  |                      [YouTube](https://youtu.be/22q0iC0Q_4s)                      |
+| 191224 |            [Cultwo Show][cultwo]            | Seulgi, Wendy |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/ropXKxE__jM)                      |
+| 200412 |                  MBC Radio                  | Wendy         |  Yes   | Wendy reading 'Alice's Adventures in Wonderland' |                      [YouTube](https://youtu.be/Obk998M6drY)                      |
+| 200708 |            [Cultwo Show][cultwo]            | Irene, Seulgi |  Yes   |                                                  |                      [YouTube](https://youtu.be/ak6VfvELBt0)                      |
+| 200714 |           Kang Hanna's Volume Up            | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/ur4F2_5A9rg)                      |
+| 200715 |      [Park Won's Kiss The Radio][ktr]       | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/-nNC_wM8GQk)                      |
+| 200720 | [Kim Shinyoung Hope Song at Noon][hopesong] | Irene, Seulgi |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/Xd4rhjsHB5k)                      |
 | 200728 |         AvenGirls with DJ Moonbyul          | Seulgi        |  Yes   |          subbed by [ReVelUp Subs][rvus]          | [MEGA](https://mega.nz/file/p9wmiKqa#1mzHNzL1TxfBks_JP5dqZs2ag43mpBBW4UTTQkZFP-4) |
+| 210405 |             Melon Station SMing             | Wendy         |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/kR3VcZ6pMMs)                      |
+| 210408 |            [Cultwo Show][cultwo]            | Wendy         |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/-duE6gO0Ggs)                      |
+| 210409 |             Melon Station SMing             | Wendy         |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/qNXZq1-S4Mc)                      |
+| 210409 |           Kang Hanna's Volume Up            | Wendy         |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/TEsH4UpkMLQ)                      |
+| 210413 | [Kim Shinyoung Hope Song at Noon][hopesong] | Wendy         |  Yes   |          subbed by [ReVelUp Subs][rvus]          |                      [YouTube](https://youtu.be/Xr9PtfZo8Tg)                      |
 
 &#x200b;
 
-[bluenight]:./shows/blue-night-radio.md
-[cultwo]:./shows/cultwo-radio.md
-[dreamy]:./shows/dreamy-radio.md
-[fmdate]:./shows/fm-date-radio.md
-[gayo]:./shows/gayo-plaza-radio.md
-[hopesong]:./shows/hope-song-at-noon.md
-[ktr]:./shows/kiss-the-radio.md
-[lovegame]:./shows/love-game-radio.md
-[melon]:./shows/melon-radio.md
-[nightnight]:/shows/nct-night-night-radio.md
-[oldschool]:./shows/old-school-radio.md
-[powertime]:./shows/powertime-radio.md
-[starrynight]:./shows/starry-night-radio.md
-[youngstreet]:./shows/youngstreet-radio.md
-
-[rookie_subs]:https://www.youtube.com/user/rookiessubs/videos
-[rvus]:https://revelupsubs.com/
-[warm_blue]:https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
-[yourone_unnie]:https://www.youtube.com/channel/UCF4K2A2ogB4Q-PbcZD2OHng
+[bluenight]: ./shows/blue-night-radio.md
+[cultwo]: ./shows/cultwo-radio.md
+[dreamy]: ./shows/dreamy-radio.md
+[fmdate]: ./shows/fm-date-radio.md
+[gayo]: ./shows/gayo-plaza-radio.md
+[hopesong]: ./shows/hope-song-at-noon.md
+[ktr]: ./shows/kiss-the-radio.md
+[lovegame]: ./shows/love-game-radio.md
+[melon]: ./shows/melon-radio.md
+[nightnight]: /shows/nct-night-night-radio.md
+[oldschool]: ./shows/old-school-radio.md
+[powertime]: ./shows/powertime-radio.md
+[starrynight]: ./shows/starry-night-radio.md
+[youngstreet]: ./shows/youngstreet-radio.md
+[rookie_subs]: https://www.youtube.com/user/rookiessubs/videos
+[rvus]: https://revelupsubs.com/
+[warm_blue]: https://www.youtube.com/channel/UC74OVvBafaQKD2RBOvhK_XQ
+[yourone_unnie]: https://www.youtube.com/channel/UCF4K2A2ogB4Q-PbcZD2OHng
