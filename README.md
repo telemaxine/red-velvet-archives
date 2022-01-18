@@ -27,16 +27,15 @@ ___
 * [Miscellaneous](./misc.md)
 
 ## **Social Media**
-* [Social archives](./social_archives/README.md) (WIP)
-  * [Instagram](./social_archives/instagram/README.md)
-    * [Irene](https://www.instagram.com/renebaebae/)
-    * [Joy](https://www.instagram.com/_imyour_joy/)
-    * [Seulgi](https://www.instagram.com/hi_sseulgi/)
-    * [Wendy](https://www.instagram.com/todayis_wendy/)
-    * [Yeri](https://www.instagram.com/yerimiese/)
-      * [Yeri's Room](https://www.instagram.com/yerihan_bang/)
-  * Tiktok
-    * [Joy](https://www.tiktok.com/@__imyour_joy)
+* [Instagram](./social_archives/instagram/README.md)
+  * [Irene](https://www.instagram.com/renebaebae/)
+  * [Joy](https://www.instagram.com/_imyour_joy/)
+  * [Seulgi](https://www.instagram.com/hi_sseulgi/)
+  * [Wendy](https://www.instagram.com/todayis_wendy/)
+  * [Yeri](https://www.instagram.com/yerimiese/)
+    * [Yeri's Room](https://www.instagram.com/yerihan_bang/)
+* Tiktok
+  * [Joy](https://www.tiktok.com/@__imyour_joy)
 
 # **Resources & References**
 Sites I used for reference as well as formatting considerations.
@@ -74,7 +73,7 @@ Tools used to document and archive for this list
   * [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify)
   * [Sort lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 * [ripme](https://github.com/RipMeApp/ripme)
-* [Youtube-dl](https://github.com/ytdl-org/youtube-dl/)
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * A [Table formatter](https://tableconvert.com/)
 * A [URL extractor](https://www.browserling.com/tools/extract-urls).
 
